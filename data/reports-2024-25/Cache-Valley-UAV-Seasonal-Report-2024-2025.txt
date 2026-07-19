@@ -1,0 +1,977 @@
+Rainmaker Technology Corporation
+
+
+      Annual Cloud Seeding Report
+
+       Cache Valley UAV Program
+
+           2024-2025 Season
+
+
+
+
+              June 2025
+
+
+
+
+                                    1
+Table of Contents
+
+1.     Executive Summary ....................................................................................................................................... 3
+2.     Project Design ............................................................................................................................................... 4
+3.     Operations .................................................................................................................................................. 15
+4.     Rainmaker Research and Development ....................................................................................................... 22
+5.     Conclusions ................................................................................................................................................. 27
+Glossary............................................................................................................................................................... 28
+
+
+
+
+                                                                                                                                                                        2
+1.       Executive Summary
+Season one of the Cache Valley UAV cloud seeding program ran from January 27, 2025 through April 30,
+2025, marking the inaugural deployment of Rainmaker’s first ever drone based cloud seeding platform in
+the State of Utah. The program was a joint operation effort between Utah State University, recently acquired
+North American Weather Consultants, and Rainmaker.
+Rainmaker successfully delivered and certified ten “Elijah” UAVs for cloud seeding operations in Cache
+Valley. Four Forward-Deployed Engineers (FDEs) were based in Salt Lake City and deployed to one of two
+predetermined locations within Utah State University’s Certificate of Authorization (COA) area when the
+project meteorologist deemed conditions favorable for seeding. The COA, located in Northern Utah’s Cache
+Valley region, imposed strict operational guidelines. UAV operations required the presence of a Utah State
+University-designated Pilot in Command (PIC). Additionally, UAVs were permitted to ascend to within 500
+feet of the cloud base, provided cloud bases were between 1,500 and 3,000 feet above ground level. If cloud
+bases were below 1,500 feet and visibility exceeded 3 miles, UAVs could be flown up to—but not into—the
+cloud base.
+During the 2024–2025 operational period, fourteen cloud seeding flight missions were conducted at varying
+altitudes, totaling over 80 hours of flight time and resulting in the dispersion of 8,637 grams of silver iodide
+(AgI).
+Concurrently, Rainmaker has significantly advanced the development of its UAVs, meteorological
+instrumentation, and forecasting and validation software. These advances will bear fruit in Utah, namely by
+significantly improving and upgrading outdated validation techniques and by enabling Rainmaker to expand
+UAV seeding opportunities temporally and geographically across the state.
+Following a successful inaugural season, Rainmaker’s FDEs will return to Utah in November to initiate
+Season Two with the following objectives completed:
+     1. Acquire appropriate Federal Aviation Administration (FAA) waivers to be able to fly in-cloud at
+        altitudes greater than 3000 feet above ground level
+     2. Upgrade meteorological instrumentation infrastructure to increase forecasting accuracy and
+        update validation techniques
+     3. Expand UAV cloud seeding operations to other regions of the State
+
+
+
+
+                                                                                                              3
+2.      Project Design
+2.1.    Background
+Rainmaker in collaboration with Utah State University and recently acquired North American Weather
+Consultants (NAWC) conducted its first ever drone based cloud seeding platform in the State of Utah from
+January 27, 2025 through April 30, 2025. Waivers with the FAA to fly in Utah State University’s COA were
+finalized on January 27, 2025 and the projects first seeding mission was flown on February 1, 2025.
+
+
+2.2.    Operational Description
+It is necessary that the silver iodide crystals become active upwind of the crest of a mountain barrier (i.e.,
+the crest within the target area or defining its downwind boundary) so that the available supercooled
+liquid water (SLW) in the precipitation formation zone can be effectively converted to ice crystals, with
+enough time for the crystals to grow to snowflake size and precipitate within the intended target area. If
+the AgI crystals take too long to become active, or if the temperature upwind of the crest is too warm,
+the silver iodide crystals will pass from the generator through the precipitation formation zone and over
+the mountain crest without freezing additional water cloud droplets. Thus, an important task for the
+project meteorologists is to identify the seedable portions of the cloud systems which traverse the project
+area.
+Rainmaker operated the UAV cloud seeding program in Cache Valley using selective seeding methodology,
+similarly to how NAWC has been operating ground-based cloud seeding programs in Utah for over forty
+years. Selective seeding means that seeding is conducted only during specific time periods and in specific
+locations where it is likely to be most effective. This decision is based on several criteria which determine
+the seedability of the storm. These criteria deal with characteristics of the atmosphere including
+temperature, stability, and wind flow, both in and below the clouds. The moisture content of the
+atmosphere, including cloud types and occurrence of supercooled liquid water (SLW) are important
+factors during seeding operations. Some heavier storm periods may not be seeded due to factors which
+make the storm naturally efficient at producing precipitation and bring low visibility. Other storm periods
+can be deemed unfavorable due to several factors including temperature, stability or wind direction.
+Additionally, Rainmaker adhered to the strict operational guidelines imposed by Utah State University’s
+COA waiver. The general criteria of selective seeding and the COA wavier are provided below.
+
+
+            •   Supercooled clouds are present, and relative humidity is greater than 70%
+            •   Low level wind speed and direction favor the transport of silver iodide seeding material,
+                from its release location into the target area.
+
+
+
+
+                                                                                                            4
+           •   Fly above any low-level inversions or stable layers so that vertical and horizontal
+               transport of silver iodide can reach into the cloud deck.
+           •   Temperatures at the 700-mb level (~10,000 ft) are colder than -5°C.
+           •   Can only fly within Utah State University’s COA area
+           •   UAV must stay within visual line of sight and visibility must be greater than 3SM.
+           •   UAVs were permitted to ascend to within 500 feet of the cloud base, provided cloud
+               bases were between 1,500 and 3,000 feet above ground level.
+           •   If cloud bases were below 1,500 feet, UAVs could be flown up to—but not into—the cloud
+               base.
+
+2.3.   Suspension Criteria
+As required in the cloud seeding permit granted by the Utah Department of Water Resources, seeding
+operations shall not be undertaken, or shall be suspended, if:
+   •   There is an emergency that affects public welfare in the region.
+   •   The National Weather Service (NWS) forecasts a storm to produce unusually heavy precipitation
+       that could contribute to avalanches or unusually severe weather conditions in the project area.
+   •   The Utah Avalanche Center issues an Extreme avalanche forecast warning for avalanche areas
+       located in the target area (note, see modifications to this suspension criterion below).
+   •   The National Weather Service forecasts a warm winter storm (freezing level above 8000 feet) with
+       the possibility of considerable rain at the higher elevations that might lead to local flooding.
+           •   When potential flood conditions exist in or around any of the project areas the Permit
+               Holder shall consult with the NWS Flood Forecast services. Seeding would be suspended
+               if the NWS determines any of the following warnings or forecasts are in effect:
+           •   Flash flood warnings by the NWS
+           •   Forecasts of excessive runoff issued by a river basin forecast center.
+           •   Quantitative precipitation forecasts issued by the NWS, which would produce excessive
+               runoff.
+In addition, seeding is to be suspended at any time the snowpack water equivalents at selected target
+SNOTEL sites exceed: 175% of average on Jan. 1st, 165% of average on Feb. 1st, 155% of average on Mar.
+1st and 145% of average on Apr. 1st when two or more SNOTEL sites located in the target area exceed
+these amounts. A provision is made where seeding can continue in a portion of the target area that is
+below the suspension criteria, using generators not expected to impact the SNOTEL sites that exceed the
+suspension criteria. There are also avalanche suspension criteria developed based on discussions with
+the Utah Department of Water Resources which focus on avalanche conditions for highways and
+populated areas.
+
+
+
+                                                                                                     5
+No seeding suspension occurred during January 27 – April 30 2025.
+
+
+2.4.    Equipment and Project Set-up
+In December 2024 Rainmaker successfully delivered and certified ten “Elijah” UAVs for the cloud seeding
+program in Cache Valley. Four Rainmaker Forward-Deployed Engineers (FDEs) were trained and stationed
+in Salt Lake City and would deployed to one of two predetermined flying locations within Utah State
+University’s Certificate of Authorization (COA) area when the project meteorologist deemed conditions
+favorable for seeding. Most winter storms that affect the northern Utah mountains are associated with
+synoptic weather systems which move into Utah from the southwest, west, or northwest. They often
+consist of a frontal system and/or an upper trough, with south or southwesterly winds ahead of these
+features. In meteorology, wind directions are reported as the direction the wind is blowing from, in
+advance of the system. As the front and/or trough moves through the area, the wind flow typically
+becomes more northwesterly as time passes. Clouds and precipitation may precede, as well as follow,
+the front/trough passage, and thus the flying locations were carefully selected to enable seeding
+operations in southwesterly, westerly, or northwesterly flow situations. The COA area along with the two
+predetermined flying locations are shown in Figure 2.1. Pertinent flying location information is listed in
+Table 2-1.
+
+
+
+
+                                                                                                        6
+Figure 2.1        Utah State University COA area with yellow pins representing flying locations. The purple pin
+                  represents the location of a Radiometrics radiometer and purple pins
+
+
+                                                 Table 2-1
+                                     UAV Cloud Seeding Flying Loctions
+             Site Name                 Elev (Ft)                Lat (N)                      Long (W)
+              Netwon                       4804                    41.87285                 -111.96998
+               Avon                        5017                    41.52702                 -111.80290
+
+
+Figure 2.2 shows one of the Rainmaker “Elijah” unmanned aerial vehicles (UAVs) utilized in the Cache
+Valley UAV seeding program. Each UAV is equipped with a suite of meteorological and operational
+sensors, including temperature, pressure, and relative humidity sensors, along with an aerosol dispersion
+system (ADS) and anti-collision lighting. The active seeding agent—pure silver iodide (AgI) crystals—is
+loaded within the ADS and released once the UAV reaches the target altitude. These silver iodide particles
+function as ice-nucleating agents, with peak effectiveness observed in cloud temperatures between -5 °C
+
+
+
+
+                                                                                                             7
+and -10 °C. Each UAV is capable of carrying and dispersing up to 50 grams of silver iodide per flight, with
+typical mission durations ranging from approximately 25 to 30 minutes.
+
+
+
+
+Figure 2.2      Rainmaker Elijah UAV
+
+
+
+2.5.    Operations Center and Personnel
+Rainmaker maintains fully equipped operations centers at its headquarters in El Segundo, California and
+at its newly acquired subsidiary North American Weather Consultants office based in North Salt Lake City,
+Utah. Real-time weather information is acquired online, supporting decisions regarding where and when
+to seed. Information used to determine seeding potential includes hourly weather reports, rawinsonde
+observations, surface and upper-air charts, weather cameras, weather radar, satellite images and
+computer model forecasts. The project meteorologist in charge of the operations utilizes this information
+to make informed cloud seeding decisions, as well as for documenting weather information and seeding
+activities for future reference.
+
+Figures 2.3-2.6 show examples of some of the available weather information that was used in this
+decision-making process during the operational period that ran from January 27 – April 30, 2025. These
+include global and regional forecast model data, weather radar images, satellite images, and surface wind
+and temperature maps.
+Figure 2.7 illustrates the predictions of seeding plume dispersion using the HYSPLIT (Hybrid Single-Particle
+Lagrangian Integrated Trajectory) model that was developed in-house by Rainmaker. This model provides
+forecasts of the horizontal and vertical spread of a seeding plume in real-time, based on wind fields
+contained in the weather forecast models.
+
+
+
+
+                                                                                                          8
+Figure 2.8 shows an example of a cross-section plot during a seeded event from this past winter season
+using the National Oceanic and Atmospheric Administrations 3-km HRRR (High Resolution and Rapid
+Refresh Model). The user can specify a cross section over any location in the continental U.S. or Canada.
+This model data was used during cloud seeding operations as a guidance. In these cross sections, liquid
+water is plotted as a function of distance and height, with temperatures (red dashed lines), wind directions
+and speed (wind barbs) and potential temperatures (solid black lines) also being displayed.
+During the summer of 2024, Utah’s Division of Water Resources purchased a Radiometer from
+Radiometrics. A radiometer is a passive instrument that continuously provides air temperature, humidity
+and liquid profile products from the surface to 10km above the ground. Figure 2.9 shows a picture of the
+Radiometer that was deployed in Logan in the fall of 2024 and Figure 2.10 shows an example of the
+products output by the radiometer during a storm event. The radiometer will continue to be utilized in
+future winter seasons and possibly lead to further verification techniques.
+
+
+
+
+Figure 2.3      Captured KMTX radar imagery of northern Utah on March 15, 2025 at 1225 MDT. Red x denotes
+                flying location
+
+
+
+
+                                                                                                          9
+Figure 2.4   Satellite imagery of northern Utah on March 15, 2025 at 1200 MDT
+
+
+
+
+Figure 2.5   Mesowest surface data map on March 15, 2025. Surface observations are important for
+             diagnosing low-level wind patterns and mixing.
+
+
+
+
+                                                                                             10
+Figure 2.6   GFS (Global Forecast Systems) forecast data plot for a storm event on March 15, 2025
+
+
+
+
+Figure 2.7   Example of the Rainmaker HYSPLIT tool showing horizontal and vertical plume dispersion of
+             seeding material. Taken during a seeded event on February 14, 2025 at 2000 MST
+
+
+
+
+                                                                                                    11
+Figure 2.8   HRRR modeled Cross Section of Liquid Water in Cache Valley on February 7, 2024 – Valid at 1100
+             MST
+
+
+
+
+                                                                                                        12
+Figure 2.9   Picture of the Radiometer that was deployed in Logan in the Fall of 2024
+
+
+
+
+                                                                                        13
+Figure 2.10   Example of Radiometer data output from January 17, 2025 showing temperature, RH, Liquid
+              Water and Water Vapor
+
+
+
+
+                                                                                                  14
+3.       Operations
+Season one of the Cache Valley UAV cloud seeding program ran from January 27, 2025 through April 30,
+2025, marking the inaugural deployment of Rainmaker’s first ever drone based cloud seeding platform in
+the State of Utah. During the 2024–2025 operational period, fourteen cloud seeding flight missions were
+conducted at varying altitudes, totaling over 80 hours of flight time and resulting in the dispersion of 8,637
+grams of silver iodide (AgI). Table 3-1 shows the dates, flight elevations, total flight times, and total amount
+of Agl that was dispersed during each storm event.
+
+
+                                               Table 3-1
+                             Cache Valley UAV Seeding Operations Summary
+     Storm Number             Date             Flight Elevations (ft)      Total Flight Hrs     Total Agl (g)
+
+           1               February 1                1998 agl                     3.5                350
+
+           2               February 5             1900-2900 agl                   2.5                250
+
+           3               February 7             2296-2460 agl                   3.5                400
+
+           4              February 11                 984 agl                      4                 400
+
+           5             February 13-15            656-2980 agl                   20                1960
+
+           6             February 16-17              1968 agl                    7.75                900
+
+           7              February 20                 656 agl                     .75                150
+
+           8                March 3              820 – 2620 AGL                    4                 550
+
+           9                March 6               410 – 656 AGL                    4                 200
+
+          10                March 15             328 – 1640 AGL                   10                1275
+
+          11                March 18              656 – 984 AGL                  6.75                782
+
+          12                March 22             656 – 1640 AGL                   5.5                602
+
+          13                March 29             1312 – 1968 AGL                  2.5                258
+
+          14           March 31 – April 1            1640 AGL                    5.25                560
+
+     Season to Date            ---                       —                        80                8637
+
+
+
+
+                                                                                                             15
+3.1.    Operational Procedures
+During the operational period, the project meteorologist monitored each approaching storm with the aid of
+continually updated online weather information. If the storm parameters met the seedability criteria
+presented in Section 2 and if no seeding curtailments or suspensions were in effect, the Forward Deployed
+Engineers would deploy to one of the seeding locations and begin seeding using the UAVs. Seeding
+continued as long as conditions were favorable and supercooled clouds remained over the region.
+3.2.    Operational Summary
+A synopsis of the atmospheric conditions during operational seeding periods is provided below. All times
+reported are local, either in MST or MDT. This synopsis describes seeded storm periods, as well as some
+significant storm periods that were not seeded.
+
+February 2025
+The program officially became active on January 27, 2025 but the first seedable storm did not impact
+northern Utah until February 1, 2025. February was a fairly wet month across northern Utah, with a couple
+major storm periods (February 13-15 and February 16-17) bringing substantial snowfall to the area
+watersheds. In total, there were seven seeded storm periods during the month, all of which are
+summarized below.
+February 1, 2025
+Westerly flow extended from northern California through the Great Basin and across the central Rockies
+during the early morning hours, as a landing falling atmospheric river penetrated inland beyond the Sierra
+Crest and into northern Utah. Ample moisture led to the development of heavy orographic precipitation,
+which persisted throughout the morning, the afternoon and into the evening hours as well. 700mb level
+temperatures were around -8 degrees C in the morning, but as the mild subtropical airmass associated
+with the atmospheric river spread across the state throughout the day, 700mb temperatures warmed to
+near -5 degrees C by 1800 MST and eventually up to near -3 degrees C late in the evening. Eight flight
+operations were recorded from approximately 0945 MST through about 1530 MST at an elevation of
+about 1998 feet agl. Seeding operations ended by 1600 MST after it was determined temperatures were
+becoming too warm for the altitude at which the drone could fly at.
+February 5, 2025
+A mild airmass within an enhanced southerly flow aloft set up across northern Utah on the morning of
+February 5, which was ahead of an approaching cold front. A narrow zone of warm advection ahead of
+the front allowed a burst of convective showers to develop along the terrain east of I-15. As the front
+grazed northern Utah later in the afternoon, cold advection developed and lowered 700mb temperatures
+from near –2 degrees C to near –9 degrees C. Convergence along the boundary brought another burst of
+heavy valley rain/snow and mountain snow to the terrain east of I-15. Showers continued across the
+region until about 1800 MST after which lift and moisture behind the departing front quickly dissipated
+
+
+
+
+                                                                                                       16
+and showers dried out. Five flight operations were recorded from approximately 1200 MST through 1347
+MST. Recorded flights varied in elevation between about 1900-2900 feet agl.
+February 7, 2025
+A somewhat compact trough embedded within the longwave pattern over the Pacific Northwest grazed
+by northern Utah during the afternoon and evening hours. A quick moving cold front accompanying this
+trough pushed through north/central Utah between about 1100-1400 MST. The frontal boundary
+produced a band of heavy precipitation along its leading edge with a brief period of gusty northwesterly
+winds. Temperatures dropped rapidly behind the front, falling from near –2 degrees C at 700mb to near
+–14 degrees C. Winds gradually calmed through the late afternoon but deep instability in the post frontal
+airmass continued to generate additional showers over the terrain until conditions finally dried out after
+2100 MST. Ten flight operations were recorded from approximately 1409 MST through 1653 MST.
+Recorded flights varied in elevation between about 2296-2460 feet agl.
+February 11, 2025
+The axis of an upper-level trough pivoted overhead northern Utah late in the morning and into the
+afternoon with a cold frontal boundary following closely behind it. Light snow developed across the
+terrain of northern Utah after about 1000 MST and continued through the early evening hours before
+ending by 1800 MST. Moisture was very limited with this cold system given the airmass originated over
+western Canada. 700mb temperatures hovered around –14/-15 degrees C through the morning but fell
+to near –20/-21 degrees C later in evening. Even though it was a marginal system for seeding, nine flight
+operations took place from approximately 0934MST through 1406MST. Flight altitude was recorded at
+984 feet agl.
+February 13-15, 2025
+A major atmospheric river system made landfall across the western US and brought well above normal
+moisture to the state of Utah February 13-15. Heavy precipitation broke out across the state on the
+morning of the 13th and continued through afternoon and evening. Warm southerly flow aloft allowed
+700mb temperatures to climb up to around -5 Degrees C through the day. Precipitation gradually
+decreased on the morning of February 14th but did not come to a complete end as deep moisture
+remained and several weak waves rippled across the state. A cold front then crossed Utah from north to
+south on the evening of February 14th, bringing another increase in precipitation along with much cooler
+temperatures. 700mb temperatures fell to near -11C on the evening of the 14th with snow showers
+persisting across the terrain of northern Utah. Showers finally came to an end on the morning of February
+15th as drier air worked its way in from the northwest and high pressure built across Utah. Approximately
+51 flight operations were recorded with the first taking place around 1853 on the 13th and the last around
+0545 MST on the 15th. Flight elevations varied widely throughout the event, being as low as 656 feet agl
+and as high as 2560 feet agl.
+February 16-17, 2025
+
+
+
+
+                                                                                                       17
+A shortwave trough ejected eastward into northern Utah through the morning hours, along with some
+moisture in a warm advection southwesterly flow pattern. Clouds filled in across Northern Utah and a
+swath of precipitation spread over the Wasatch Front late in the morning through the afternoon. Warm
+advection allowed this first system quickly exited the region late in the evening and a brief relative lull in
+showers developed overnight into the morning of February 17. A secondary system or piece of energy
+then made its way across northern Utah through the early morning hours of the 17th. This second system
+brought a push of colder temperatures aloft along with increased instability and steepening lapse rates.
+700mb temperatures lowered to near -9 degrees C and widespread convective showers developed across
+the region which continued through about midday before ending. Twelve flight operations occurred on
+February 16th from approximately 1758 MST through 2330 MST. Flight elevations on the 16th were around
+1968 feet agl. Ten additional flights occurred on the 17th, from 1515 MST through 2030 MST. Elevations
+were generally around 1968 feet agl.
+February 20, 2025
+An upper-level trough located over western Utah on the morning of February 20th was quickly making its
+way across the state. Within this trough, a closed upper-level circulation developed over northern Utah
+and was producing a band of heavy precipitation across the Wasatch Front. This area of heavy
+precipitation continued through the morning hours before tapering off after about 1500 MST. Three flight
+operations were attempted in the morning between about 0730-0816 MST but poor visibility from
+ongoing heavy precipitation grounded operations. Flight operations were later cancelled for the
+remainder of the storm as visibility was forecast to remain poor throughout the afternoon. Flight
+elevations were around 656 feet agl.
+
+
+March 2025
+March was an active weather month with seven seeded storm periods, summarized below. Although
+some of these events were very minor and/or brief in duration, there were also a few larger seeded events
+and other precipitation periods not favorable to seeding due to various meteorological parameters.
+March 3, 2025
+Upper air and satellite analysis on the afternoon of March 3rd revealed a large upper-level low shifting
+eastward across the central Rockies with lee cyclogenesis developing across eastern Colorado. Further
+upstream, the back edge of the aforementioned trough was crossing through Utah. Strong cold advection
+on the back side of this system combined with deep layer moisture and steepening lapse rates to fuel the
+development of convective orographic snow showers. 700mb temperatures were around –9 to –10 degrees
+Celsius and the winds were westerly to northwesterly in direction gusting 10-20 kts. Seeding operations
+commenced around 1700 MST and continued until showers started tapering off around 0000 MST on March
+4. Twelve flight operations were recorded with flight elevations ranging between about 820-2620 feet AGL.
+March 6, 2025
+
+
+
+                                                                                                           18
+An active pattern continued throughout the day and into the night as a complex upper-level trough crossed
+the Great Basin region. Early morning upper-air and satellite analysis indicated a strong upper-level low
+centered near the San Francisco Bay area. An associated jet max was rounding the base of the trough,
+spreading broad upper-level diffluence across portions of the Desert Southwest. An embedded shortwave
+ejected ahead of the parent low, combined with deep moisture, leading to widespread and heavy
+precipitation across Utah. This first shortwave ejected northward later in the morning and afternoon, with
+moderate to heavy precipitation gradually turning more showery by late afternoon. Through the morning
+hours, the flow remained southerly and 700mb temperatures held around –3 to -5°C. As the main trough
+dug southward into southern California and Arizona later that evening into the early morning hours of March
+7th, cold advection increased and drove 700mb temperatures down to near –11°C. The cooling aloft
+increased instability by steepening lapse rates, which produced some weak CAPE. This brought the
+potential for a few weak thunderstorms that afternoon and evening, before precipitation tapered further and
+became more orographic lift-dominant overnight into the early morning hours of March 7th. Seeding
+operations began around 1700 MST but drones were later ground for the night after 2300 MST due to
+visibility dropping below a mile. A total of ten flights were recorded with flight elevations ranging between
+about 410-656 feet AGL.
+March 15, 2025
+A diffuse upper-level diffluent flow pattern was in place across the Intermountain West region early on the
+morning of March 15, with Utah generally being under a cold but moisture-rich northwesterly mid-level flow
+pattern. Light snow had developed across northern Utah around 0200/0300 MDT as a weak shortwave
+trough embedded in the flow traversed the northern half of the state. Snow showers continued through
+much of the day as the cold and moist northwesterly flow pattern persisted. Instability increased
+significantly later in the morning into the early afternoon hours as the strong mid-March sun heated the
+surface. CAPE values increased to near 200–400 J/kg, with lapse rates steepening to near 9.5°C/km.
+Scattered snow squalls popped up with stronger cells generating graupel and a couple rumbles of thunder.
+Cloud bases were generally around 1200–1900 feet AGL through the early morning hours but rose to near
+2500–3000 feet AGL. Showers quickly diminished with the loss of daytime heating after about 1800–1900
+MDT, and a building ridge upstream induced subsidence across Utah. Flying operations started around 0300
+MDT and concluded around 1500 MDT. A total of 30 flights were recorded with flight elevations ranging
+between about 328 – 1640 feet AGL.
+March 18, 2025
+An upper-level trough with its axis located over southeast Idaho through southern Nevada crossed Utah
+through the day. The associated cold front had already made its way through all but far southeast Utah as
+of 0600 MDT, with moderate to heavy snow ongoing early that morning. Snow showers decreased in
+intensity through the morning hours and became more confined to the terrain as a cold and moist
+northwesterly flow pattern provided favorable ingredients for orographic lift. As the cold core of the trough
+moved over Utah that afternoon, it combined with daytime heating instability and brought more widespread
+
+
+
+
+                                                                                                          19
+convective showers. Mesoscale analysis in the afternoon showed CAPE values reaching upwards of 200–
+300 J/kg with 700mb temperatures hovering around –11/–12°C. Showers quickly tapered off after about
+2100 MDT that evening as daytime heating was lost and a ridge building in upstream induced subsidence
+across the region. Seeding operations began around 0800 MDT and lasted until the flight crew ran out of
+silver iodide after 1600 MDT. A total of 17 flights were recorded with flight elevations ranging between about
+656 – 984 feet AGL.
+March 22, 2025
+Quasi-zonal flow extended from the eastern Pacific inland across northern Utah early on the morning of
+March 22. An embedded shortwave trough was noted rotating through the northern Great Basin along the
+nose of a 110 knot jet streak. Broken bands of precipitation had continued overnight into early that morning
+within this region of forcing and persisted through at least mid-morning, becoming increasingly
+orographically forced with time as the upper flow veered and the primary forcing moved away from the area.
+700mb temperatures lowered to near –8°C that morning and afternoon as slightly cooler temperatures
+worked in behind the shortwave trough. Cooling temperatures aloft and increased solar heating in the
+afternoon produced a few weak convective snow squalls. As the trough began to move east later that
+afternoon, drier air began to spread into northern Utah, with most orographically forced showers quickly
+tapering off and ending by 1700 MDT. The large-scale pattern then amplified that evening as a broad upper-
+level ridge built across the Great Basin. Seeding operations were conducted from 0500 MDT until 1230
+MDT. Operations ended around midday due to wind gusts exceeding 30 mph at the drone launch site. A total
+for 14 flights were recorded with flight elevations ranging between 656 – 1640 feet AGL.
+March 29, 2025
+Early morning upper air and satellite analysis on March 29th indicated general troughing across the Western
+US, with several shortwave troughs rotating around a large upper-level low in the Gulf of Alaska. One of
+these shortwaves pushed into the western Great Basin early in the morning and later crossed through Utah
+in the early afternoon. The splitting trough sent a disorganized and weakening cold front across the state,
+with scattered convective showers developing during the afternoon hours as a result of increased instability
+from the front and daytime heating. 700mb temperatures lowered to near –6/-7°C late in the afternoon
+behind the front, with winds generally being 5-15 kts and northwesterly in direction. Shower activity quickly
+tapered off after sunset, and conditions fully dried out after 23/0000 MDT as a shortwave ridge built in
+overnight into the following morning. A total of 6 flights were recorded from approximately 1200 MDT until
+1600 MDT with flight elevations being around 1312 - 1968 feet AGL.
+March 31 – April 1, 2025
+A large and cold upper-level low was spinning off the coast of the Pacific Northwest early on the morning of
+March 31. Downstream, broad diffluent flow was noted, with a strong 106-knot polar jet streak producing
+scattered showers across northern Utah. As the upper low shifted onshore along the Pacific Northwest
+Coast, southwest flow increased across Utah. By the afternoon of the 31st, southwest wind gusts of 40-50
+kts were possible, with strong diabatic heating leading to the development of widespread showers and
+
+
+
+                                                                                                           20
+thunderstorms. An associated cold front then swung through northern Utah on the evening of 31 st, reaching
+the Cache Valley region around 17/1800 MDT. The front was undergoing frontogenesis as it crossed the
+region and was accompanied by a band of heavy rain changing to snow. Temperatures quickly dropped
+behind the front, with 700mb temperatures lowering from near –3/-4°C to near –8/-9°C. Gusty southwest
+winds shifted northwesterly and calmed through the night. Precipitation changed to all snow behind the
+front, with widespread snow showers lingering in the post-frontal airmass overnight. Scattered snow
+showers lingered across northern Utah through the morning and afternoon hours of April 1 st as a cold,
+unstable and moist northwesterly flow pattern provided favorable ingredients for orographic lift. Showers
+then finally tapered off and ended early in the evening of April 1 st. A total for 14 flights were recorded from
+approximately 2100 MDT on March 31st until 0400 MDT on April 1 with flight elevations being around 1640
+feet AGL. Operations ended on April 1st at 0400 MDT due to Utah State not having any additional Pilots In
+Command (PIC’s) available for operations beyond that time.
+
+April 2025
+Most of April was dominated by dry weather and above normal temperatures with upper-level ridging
+situated across the Great Basin region. There were several stormy periods that developed at the beginning
+of the month, around mid-month and again during the last week of the month. However, none of these
+storm events provided favorable parameters for seeding with the drone. Temperatures were either too
+mild, moisture was insufficient, or winds were above the UAV’s threshold or blowing from an unfavorable
+direction.
+
+
+
+
+                                                                                                             21
+4.      Rainmaker Research and Development
+Rainmaker’s concurrent research and development (R&D) efforts since signing the Cache Valley UAV
+contract have produced a fully integrated technology platform for cloud seeding, centered on three core
+products— Elijah V2.0, Eden, and Prophet—that together enable precise prediction, targeting, and
+validation of precipitation enhancement.
+4.1.    Elijah V 2.0 – Autonomous Cloud Seeding UAV
+Rainmaker’s Elijah V 2.0 is the world’s first purpose-built UAV for in-cloud sensing, targeting, and seeding
+all on one platform.
+
+
+
+
+Figure 4.1      Rainmaker Elijah V2.0 UAV
+
+
+
+
+                                                                                                         22
+                                                Table 5-1
+                                Rainmaker Elijah V 2.0 Flight Specifications
+              Specification                           Imperial                         Metric
+
+          Max Wind Resistance                         50 knots                       92.6 km/h
+
+            Max Altitude AGL                         16,500 ft                         5000 m
+
+       Max Flight Time at 10,000 ft                 45 minutes                       45 minutes
+
+         Max Flight Time in Icing                   45 minutes                       45 minutes
+
+               Climb Rate                              49 ft/s                         15 m/s
+
+            Max Radio Range                          12.5 miles                         20 km
+
+                 Weight                               20.3 lbs                         9.2 kgs
+
+              Max Payload                              6.6lbs                           3 kgs
+
+
+4.2.     Elijah V 2.0 Instrumentation
+    •    Dispersion rate of 3.5 g/min dispersion (210g/hour)
+    •    Dispersion type: Modularity enables solid aerosols, liquid atomization, and flares
+    •    Sensors: Pressure, temperature, relative humidity
+    •    Detection: Wind magnitude, wind vector, and supercooled liquid water detected using
+         algorithms
+
+4.3.     UAV Weatherization
+Rainmaker’s anti-icing system, combined with onboard thermal resistors, allows the Elijah V2.0 UAV to
+remain operational in icing conditions for up to 45 minutes. This capability enables extended in-cloud
+flight for targeting, dispersion, idling, and atmospheric sensing. With improved performance at higher
+altitudes, Elijah V2.0 increases the frequency and expands the temporal and geographical windows for
+cloud seeding operations. Figure 4.2 presents historical radiosonde data from Salt Lake City, showing the
+percentage of seedable days by month, the average height of the freezing level, and the average wind
+speed at that level. The data was filtered to reflect conditions favorable for seeding—specifically, where
+relative humidity exceeded 90%, temperatures ranged from -20°C to 0°C, and cloud depth was less than
+2000 meters. The analysis highlights how Elijah V2.0 can extend UAV seeding operations into the warmer
+spring and fall months, when opportunities have traditionally been more limited.
+
+
+
+
+                                                                                                       23
+Figure 4.2      Salt Lake City Historical Radiosonde data (1990-2024)
+
+
+
+4.4.    Eden - Remote Ground-Truth Sensing
+Eden, shown in Figure 4.3, is a remote sensing platform that delivers hyperlocal cloud and environmental
+intelligence by combining high-resolution microphysics profiling with ground-based monitoring. A K-band
+cloud radar continuously captures in-cloud particle size distributions and seeding potential, while a co-
+located LiDAR ceilometer tracks cloud-base height in real time. Complementing these measurements, an
+array of surface sensors records temperature, wind speed and direction, barometric pressure, humidity,
+and PM₂.₅ concentrations—data that feed directly into Peregrine’s dynamic mission- calibration
+algorithms.
+
+
+
+
+                                                                                                      24
+Figure 4.3      Eden Ground-Truth Sensing
+
+
+
+4.5.    Prophet - Command, Control, and Intelligence
+Forecasting
+Prophets forecasting engine fuses Elijah’s in-cloud measurements, Eden’s ground-truth data, satellite
+imagery, and regional C-band radar into a unified numerical weather-prediction framework. By ingesting
+real-time microphysical profiles and surface observations, it produces hyperlocal, minute- by-minute
+maps of supercooled liquid-water content, cloud-top heights, and seeding potential— enabling mission
+planners to identify optimal launch windows and target areas with unprecedented precision.
+Nowcasting & Remote Control
+Building on its forecasts, Prophet delivers continuous nowcasts via live telemetry from Elijah UAVs and
+Eden ground stations. Automated dispatch algorithms adjust flight paths on the fly in response to changes
+in wind shear, cloud-base elevation, and liquid-water availability. Operators can issue real- time
+commands or rely on pre-authorized decision rules to reroute missions dynamically—maximizing seeding
+efficiency while ensuring safety and compliance with local aviation constraints.
+Validation & Attribution
+After each operation, Prophet’s validation suite applies high-frequency radar-return analysis and
+comparative quantitative precipitation estimation (QPE) over seeded versus control domains.
+Sophisticated signal-processing algorithms isolate the anthropogenic precipitation signature, quantify
+
+
+
+
+                                                                                                      25
+enhancement metrics, and feed into automated dashboards that generate clear time-series graphs and
+statistical summaries of net water gain. This end-to-end attribution pipeline delivers rigorous proof-of-
+concept and underpins Rainmaker’s performance guarantees. An example of prophets validation suite is
+shown in Figure 4.4.
+
+
+
+
+Figure 4.4     Prophet SLW detection (Top); Prophet seeding plume visualization (bottom)
+
+
+
+
+                                                                                                      26
+5.      Conclusions
+5.1.    Season One lessons learned
+Foundation-Setting
+Over the course of Season One, Rainmaker completed the critical groundwork for scalable UAV cloud
+seeding operations in the state of Utah. All human infrastructures, from logistics coordination teams and
+local aviation liaisons to maintenance crews—has been recruited and trained under Rainmaker oversight.
+At the same time, every technical component, including UAVs, weather stations, and the flight dashboard,
+has been calibrated, stress-tested in situ and now just awaits installation. Standardized processes for
+mission planning, regulatory compliance, safety checks, and data management are now in place, meaning
+that once meteorological conditions achieve operational thresholds, seeding missions can commence
+with minimal lead time. This solid foundation not only accelerates response cadence in Season Two but
+also de-risks each deployment by embedding lessons learned into repeatable procedures.
+5.2.    Season Two Objectives
+Expand UAV Seeding Programs Across Utah
+During Season One, operations were limited by restrictions within Utah State University’s Certificate of
+Authorization (COA) waiver. UAVs were prohibited from flying in cloud, restricted to visual line of sight
+operations, and could only be launched under the supervision of a Utah State University Pilot in
+Command. To overcome these limitations for Season Two, Rainmaker is actively pursuing its own FAA
+approval for expanded operational waivers for the Logan area and also across the state of Utah. These
+include authorization to fly beyond visual line of sight and operate at altitudes up to 15,000 feet above
+ground level.
+Quantitative Precipitation Estimates
+Building on improved seeding coverage and radar instrumentation, Season Two aims to quantify the total
+volume of artificially induced rainfall precisely. Our target is to verify at least 2 million cubic meters of net
+precipitation enhancement over the campaign. To achieve this, Prophet’s QPE algorithms will fuse data
+from the MRR-Pro radars, regional C-band networks, and in-situ rain gauges—calibrating volumetric
+estimates against baseline control areas. Rigorous cross-validation with Eden’s ground sensors and post-
+storm hydrological audits will ensure that all measurements meet independent verification standards.
+This quantitative milestone will not only demonstrate Rainmaker’s effectiveness at scale but also underpin
+performance-based contracting for future seasons.
+
+
+
+
+                                                                                                              27
+Glossary
+Advection: Movement of an air mass. Cold advection describes a colder air mass moving into the area,
+and warm advection is used to describe an incoming warmer air mass. Dry and moist advection can be
+used similarly.
+
+Air Mass: A term used to describe a region of the atmosphere with certain defining characteristics. For
+example, a cold or warm air mass, or a wet or dry air mass. It is a fairly subjective term but is usually used
+in reference to large (synoptic scale) regions of the atmosphere, both near the surface and/or at mid and
+upper levels of the atmosphere.
+
+
+Cold-core low: A typical mid-latitude type of low-pressure system, where the core of the system is colder
+than its surroundings. This type of system is also defined by the cyclonic circulation being strongest in the
+upper levels of the atmosphere. The opposite is a warm-core low, which typically occurs in the tropics.
+
+
+Cold Pool: An air mass that is cold relative to its surroundings, and may be confined to a particular basin
+
+
+Condensation: Phase change of water vapor into liquid form. This can occur on the surface of objects
+(such as dew on the grass) or in mid-air (leading to the formation of clouds). Clouds are technically
+composed of water in liquid form, not water vapor.
+
+
+Confluent: Wind vectors coming closer together in a two-dimensional frame of reference (opposite of
+diffluent). The term convergence is also used similarly.
+
+
+Convective (or convection): Pertains to the development of precipitation areas due to the rising of
+warmer, moist air through the surrounding air mass. The warmth and moisture contained in a given air
+mass makes it lighter than colder, dryer air. Convection often leads to small-scale, locally heavy showers
+or thundershowers. The opposite precipitation type is known as stratiform precipitation.
+
+
+Convergence: Refers to the converging of wind vectors at a given level of the atmosphere. Low-level
+convergence (along with upper-level divergence), for instance, is associated with lifting of the air mass
+which usually leads to development of clouds and precipitation. Low-level divergence (and upper-level
+convergence) is associated with atmospheric subsidence, which leads to drying and warming.
+
+
+Deposition: A phase change where water vapor turns directly to solid form (ice). The opposite process is
+called sublimation.
+
+
+
+                                                                                                           28
+Dew point: The temperature at which condensation occurs (or would occur) with a given amount of
+moisture in the air.
+
+
+Diffluent: Wind vectors spreading further apart in a two-dimensional frame of reference; opposite of
+confluent
+
+
+Entrain: Usually used in reference to the process of a given air mass being ingested into a storm system
+
+
+Evaporation: Phase change of liquid water into water vapor. Water vapor is usually invisible to the eye.
+
+
+El Nino: A reference to a particular phase of oceanic and atmospheric temperature and circulation
+patterns in the tropical Pacific, where the prevailing easterly trade winds weaken or dissipate. Often has
+an effect on mid-latitude patterns as well, such as increased precipitation in southern portions of the U.S.
+and decreased precipitation further north. The opposite phase is called La Nina.
+
+
+Front (or frontal zone): Reference to a temperature boundary with either incoming colder air (cold front)
+or incoming warmer air (warm front); can sometimes be a reference to a stationary temperature
+boundary line (stationary front) or a more complex type known as an occluded front (where the
+temperature change across a boundary can vary in type at different elevations).
+
+
+Glaciogenic: Ice-forming (aiding the process of nucleation); usually used in reference to cloud seeding
+nuclei
+
+
+GMT (or UTC, or Z) time: Greenwich Mean Time, universal time zone corresponding to the time at
+Greenwich, England. Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7
+hours.
+
+
+Graupel: A precipitation type that can be described as “soft hail”, that develops due to riming (nucleation
+around a central core). It is composed of opaque (white) ice, not clear hard ice such as that contained in
+hailstones. It usually indicated the presence of convective clouds and can be associated with electrical
+charge separation and occasionally lightning activity.
+
+
+
+
+                                                                                                         29
+High Pressure (or Ridge): Region of the atmosphere usually accompanied by dry and stable
+weather. Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic
+(clockwise) circulation pattern.
+
+
+Inversion: Refers to a layer of the atmosphere in which the temperature increase with elevation
+
+
+Jet Stream or Upper-Level Jet (sometimes referred to more generally as the storm track): A region of
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track
+in the mid-latitudes. This is the area that also typically corresponds to the greatest amount of mid-latitude
+synoptic-scale storm development.
+
+
+La Nina: The opposite phase of that known as El Nino in the tropical Pacific. During La Nina the easterly
+tropical trade winds strengthen and can lead in turn to a strong mid-latitude storm track, which often
+brings wetter weather to northern portions of the U.S.
+
+
+Longwave (or longwave pattern): The longer wavelengths, typically on the order of 1,000 – 2,000+ miles
+of the typical ridge/trough pattern around the northern (or southern) Hemisphere, typically most
+pronounced in the mid-latitudes.
+
+
+Low-Level Jet: A zone of maximum wind speed in the lower atmosphere. Can be caused by geographical
+features or various weather patterns, and can influence storm behavior and dispersion of cloud seeding
+materials
+
+
+Low-pressure (or trough):           Region of the atmosphere usually associated with stormy
+weather. Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic
+(counter-clockwise) circulation pattern in the Northern Hemisphere.
+
+
+Mesoscale: Sub - synoptic scale, about 100 miles or less; this is the size scale of more localized weather
+features (such as thunderstorms or mountain-induced weather processes).
+
+
+Microphysics: Used in reference to composition and particle types in a cloud
+
+
+MSL (Mean Sea Level): Elevation height reference in comparison to sea level
+
+
+
+
+                                                                                                          30
+Negative (ly) tilted trough: A low-pressure trough where a portion is undercut, such that a frontal zone
+can be in a northwest to southeast orientation.
+
+
+Nucleation: The process of supercooled water droplets in a cloud turning to ice. This is the process that
+is aided by cloud seeding. For purposes of cloud seeding, there are three possible types of cloud
+composition: Liquid (temperature above the freezing point), supercooled (below freezing but still in liquid
+form), and ice crystals.
+
+
+Nuclei: Small particles that aid water droplet or ice particle formation in a cloud
+
+
+Orographic: Terrain-induced weather processes, such as cloud or precipitation development on the
+upwind side of a mountain range. Orographic lift refers to the lifting of an air mass as it encounters a
+mountain range.
+
+
+Pressure Heights:
+(700 millibars, or mb): Corresponds to approximately 10,000 feet above sea level (MSL); 850 mb
+corresponds to about 5,000 feet MSL; and 500 mb corresponds to about 18,000 feet MSL. These are
+standard height levels that are occasionally referenced, with the 700-mb level most important regarding
+cloud-seeding potential in most of the western U.S.
+
+
+Positive (ly) tilted trough: A normal U-shaped trough configuration, where an incoming cold front would
+generally be in a northeast– southwest orientation.
+
+
+Reflectivity: The density of returned signal from a radar beam, which is typically bounced back due to
+interaction with precipitation particles (either frozen or liquid) in the atmosphere. The reflectivity
+depends on the size, number, and type of particles that the radar beam encounters
+
+
+Ridge (or High-Pressure System): Region of the atmosphere usually accompanied by dry and stable
+weather. Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic
+(clockwise) circulation pattern.
+
+
+Ridge axis: The longitude band corresponding to the high point of a ridge
+
+
+Rime (or rime ice): Ice buildup on an object (often on an existing precipitation particle) due to the freezing
+of supercooled water droplets.
+
+
+
+
+                                                                                                           31
+Shortwave (or shortwave pattern): Smaller-scale wave features of the weather pattern typically seen at
+mid-latitudes, usually on the order of a few to several hundred miles; these often correspond to individual
+frontal systems
+
+
+Silver iodide: A compound commonly used in cloud seeding because of the similarity of its molecular
+structure to that of an ice crystal. This structure helps in the process of nucleation, where supercooled
+cloud water changes to ice crystal form.
+
+
+Storm Track (sometimes reference as the Jet Stream): A zone of maximum storm propagation and
+development, usually concentrated in the mid-latitudes.
+
+
+Stratiform: Usually used in reference to precipitation, this implies a large area of precipitation that has a
+fairly uniform intensity except where influenced by terrain, etc. It is the result of larger-scale (synoptic
+scale) weather processes, as opposed to convective processes.
+
+
+Sublimation: The phase change in which water in solid form (ice) turns directly into water vapor. The
+opposite process is deposition.
+
+
+Subsidence: The process of a given air mass moving downward in elevation, such as often occurs on the
+downwind side of a mountain range
+
+
+Supercooled: Liquid water (such as tiny cloud droplets) occurring at temperatures below the freezing
+point (32 F or 0 C).
+
+
+Synoptic Scale: A scale of hundreds to perhaps 1,000+ miles, the size scale at which high and low-pressure
+systems develop
+
+
+Trough (or low-pressure system): Region of the atmosphere usually associated with stormy
+weather. Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic
+(counter-clockwise) circulation pattern in the Northern Hemisphere.
+
+
+Trough axis: The longitude band corresponding to the low point of a trough
+
+
+Upper-Level Jet or Jet Stream (sometimes referred to more generally as the storm track): A region of
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track
+
+
+
+                                                                                                          32
+in the mid-latitudes. This is the area that also typically corresponds to the greatest amount of mid-latitude
+synoptic-scale storm development.
+
+
+UTC (or GMT, or Z) time: Greenwich Mean Time, universal time zone corresponding to the time at
+Greenwich, England. Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7
+hours.
+
+
+Vector: Term used to represent wind velocity (speed + direction) at a given point
+
+
+Velocity: Describes speed of an object, often used in the description of wind intensities
+
+
+Vertical Wind Profiler: Ground-based system that measures wind velocity at various levels above the site
+
+
+
+
+                                                                                                          33
+

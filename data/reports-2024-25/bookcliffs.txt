@@ -1,0 +1,1098 @@
+  Annual Cloud Seeding Report
+Book Cliffs/Tavaputs Cloud Seeding
+             Program
+     2024-2025 Winter Season
+
+              Prepared For:
+ State of Utah, Division of Water Resources
+
+
+              Prepared By:
+              Todd Flanagan
+
+
+
+
+ North American Weather Consultants, Inc.
+      8180 S. Highland Dr., Suite B-2
+            Sandy, Utah 84093
+
+
+
+
+                 June 2025
+                                                           Table of Contents
+
+The Science Behind Cloud Seeding ................................................................................................................ i
+CLIMATE TRENDS .......................................................................................................................................... ii
+EXECUTIVE SUMMARY ................................................................................................................................. iv
+1.0         INTRODUCTION................................................................................................................................ 1
+               1.1       Seasonal Precipitation....................................................................................................... 1
+               1.2       Climate Overview.............................................................................................................. 2
+               1.3       Increase Projections.......................................................................................................... 5
+               1.4       Project Design ................................................................................................................... 5
+2.0         WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS..................................................... 7
+3.0         OPERATIONS DURING THE 2024-25 SEASON................................................................................. 14
+               3.1       Storm Summary .............................................................................................................. 17
+4.0         TARGET/CONTROL EVALUATIONS ................................................................................................. 27
+5.0         CONCLUSIONS AND RECOMMENDATIONS.................................................................................... 30
+Appendix A SUSPENSION CRITERIA.......................................................................................................... 31
+Appendix B GLOSSARY OF RELEVANT METEOROLOGICAL TERMS........................................................... 36
+                                   WEATHER MODIFICATION
+                               The Science Behind Cloud Seeding
+The Science
+The cloud-seeding process aids precipitation formation by
+enhancing ice crystal production in clouds. When the ice
+crystals grow sufficiently, they become snowflakes and fall to
+the ground.
+Silver iodide has been selected for its environmental safety and
+superior efficiency in producing ice in clouds. Silver iodide adds
+microscopic particles with a structural similarity to natural ice
+crystals. Ground-based and aircraft-borne technologies can be
+used to add the particles to the clouds.
+
+Safety
+Research has clearly documented that cloud seeding with
+silver-iodide aerosols shows no environmentally harmful effect.
+Iodine is a component of many necessary amino acids. Silver is
+both quite inert and naturally occurring, the amounts released
+are far less than background silver already present in unseeded
+areas.
+
+Effectiveness
+Numerous studies performed by universities, professional
+research organizations, private utility companies and weather
+modification providers have conclusively demonstrated the
+ability for Silver Iodide to augment precipitation under the
+proper atmospheric conditions.
+
+
+
+
+                                                       i
+CLIMATE TRENDS
+Every ten years, the National Oceanic and Atmospheric Association (NOAA) releases a summary of various
+U.S. weather conditions for the past three decades to determines average values for a variety of
+conditions, including, temperature and precipitation. This is known as the U.S Climate normal, with a 30-
+year average, representing the “new normal” for our climate. These 30-year normal values can help to
+determine a departure from historic norms and identify current weather trends.
+
+The current 30-year average ranges from 1990 – 2020. Images in Figures 1 and 2 show how each 30-year
+average for the past 120 years compares to the composite 20th century average for temperature and
+precipitation. For the western U.S., the 1990-2020 average show much warmer than average
+temperatures, in comparison to the 100-year 20th century average. When comparing precipitation for the
+past 30 years to both the previous 30-year average and the 1901-2000 average, the American Southwest
+(including portions of Utah, Arizona, California and Nevada) has seen as much as a 10% decrease in
+average annual precipitation.
+
+
+
+
+Figure 1.       U.S. Annual Temperature compared to 20th-Century Average
+
+
+
+
+                                                   ii
+Figure 2.   U.S. Annual Precipitation compared to 20th-Century Average
+
+
+
+
+                                                iii
+EXECUTIVE SUMMARY
+The fifth season (fourth full season) of the Book Cliffs/Tavaputs Cloud Seeding Program began on
+November 1, 2024, and continued through April 30, 2025. The program’s focus is on precipitation
+enhancement efforts to increase snowpack and runoff in the Tavaputs Range/Book Cliffs region of eastern
+Utah, generally above 6000-7000 feet. Five manually operated CNGs were used for seeding operations,
+similar to previous seasons. In the summer of 2023, the Legislature of Utah granted the Utah Division of
+Water Resources (UDWR) a substantial increase in funding for cloud seeding projects across the state of
+Utah. A large portion of this new funding was used for the fabrication, deployment, maintenance and use
+of remotely operated and high-output cloud seeding generators across the state of Utah. One of these
+new remotely operated generators was strategically placed at Emma Park Road, northeast of Helper so
+that it could aid in seeding alongside the existing manually operated generators in certain storm periods.
+Unfortunately, the remote generator had numerous issues that prevented it from being operated during
+the 2024-25 season.
+
+The 2024-25 season was fairly active for Utah as a whole, with over 30 storm periods occurring across the
+state. Seeding operations for the Book Cliffs program took place during a third of these events, with wind
+flow and stability issues the primary factors limiting seedability for the target area. A total of ten seeded
+storm events occurred over a combined period of 16 days. A total of 310.25 hours of seeding time from
+all CNG units was recorded, amounting to 2482 g of silver iodide (AgI) used for seeding for the season.
+
+With the conclusion of the season, a brief discussion of statistical analysis via target/control analysis is
+presented; however, with the low number of seeded seasons thus far, statistical analysis cannot produce
+conclusive results.
+
+
+
+
+                                                     iv
+1.0     INTRODUCTION
+North American Weather Consultants (NAWC) has been involved in cloud seeding operations since the
+1950s, beginning in California and in more recent decades, various other states and countries. Due to
+high natural precipitation variability and the increased demand for water, cloud seeding has been
+conducted over large areas of Utah for over 40 years. Cloud seeding in Utah is regulated and cost shared
+by the Utah Department of Natural Resources through the Division of Water Resources.
+
+Most cloud seeding programs in Utah are conducted for relatively high-yield areas of the Wasatch Range
+and Plateau, areas from the northern to southern borders of the state, as well as the Uinta Range in
+northeastern Utah. These programs are normally conducted from November to April in order to target
+winter storms.
+
+In 2020, NAWC was contacted by Daniel Campbell from the Range Valley Ranch requesting information
+regarding the potential for cloud seeding operations over the Tavaputs Plateau with the intent of
+increasing snowfall. Upon further discussion, it was determined that there were multiple entities with a
+vested interest in augmenting the precipitation that occurs in portions of the Rocky Mountains around
+the Tavaputs Plateau. In order to determine the feasibility of a program in this area of Utah, NAWC
+performed preliminary research to estimate the potential increase in precipitation and runoff in the area.
+
+Given the remote nature of this portion of the Rocky Mountains, snow gauges and stream flow gauges
+are limited, as are historic records. Fortunately, NAWC’s experience in other portions of the state,
+particularly those portions of the state with similar geographical and climatological patterns, assisted in
+the analysis of potential seeding effects for the program.
+
+
+
+1.1     Seasonal Precipitation
+To determine the potential efficacy of a program and the value of such a program, NAWC first evaluates
+historical precipitation data for the intended target area. Two measures are of particular importance when
+determining the value of a cloud seeding program. The first is the total precipitation that occurs during
+portions of the calendar year when storms are typically seeable. This is typically measured in inches of
+total precipitation. The second, which is only applicable to higher elevation cloud seeding programs, is a
+measure of the amount of water stored in snowpack throughout the cold season. This is measured in
+terms of snow water equivalent (SWE) and represents the depth of water in inches that would result if
+the current snowpack were melted. Both of these measurements are representative of the amounts of
+liquid water, the first being a representation of the total amount of water that has fallen in the form of
+rain or snow, the second representing the amount of water stored in the existing snowpack.
+
+To determine the values for these key metrics, NAWC utilizes data from Snow Telemetry (SNOTEL) sites,
+administered by the United States Department of Agriculture (USDA). Higher areas of the Tavaputs
+Plateau (east of Price) have two available SNOTEL sites: the Timberline site at 8,736 feet elevation
+(established during the 2007-08 season) and Corral site at 8,207 feet (established during the 2013-14
+season). These two sites, as well as another site near the western edge of the target area (Indian Canyon)
+
+                                                    1
+at the summit along Highway 191, are designated in Figure 1.1 as blue circles. The Indian Canyon site is
+over 9,000 feet in elevation and does have a long-term record, although is less representative of the core
+area of this seeding program.
+
+Although having too short of a period of record to establish a reliable long-term normal value, the
+available record suggests that SWE values peak in March with median values of 9.3 inches of liquid water
+equivalence at Timberline and 8.7 inches at Corral. Typical total precipitation observed during the cold
+season (roughly November – April) is generally near 15 inches in these areas, with dry years receiving as
+little as half this amount of precipitation and the wettest years receiving nearly double this amount.
+
+Annual precipitation in this area, in contrast to some other ranges in Utah, exhibits an overall maximum
+from late July to early/mid-October, associated with a seasonal monsoonal pattern. The driest months
+tend to be during late fall to early winter (November/December), with the November - April season
+representing roughly half (or slightly less) of the annual total precipitation of 20-25 inches on average.
+
+
+
+1.2     Climate Overview
+Climate analysis for the Book Cliffs / western Tavaputs Plateau area was conducted by NAWC based on
+two SNOTEL sites (Timberline and Corral) located near the center of the target area. The analyses showed
+that the winter climate is somewhat drier in this area than that of most areas with winter seeding
+programs. These sites receive roughly 8-10 inches of precipitation / snow water content during the
+November – April period on average, although there is a high year to year variability. In some wet years,
+these sites can receive as much as 15-20 inches during the winter season period, and in dry years can
+receive less than 6 inches. A large portion of precipitation that falls in these areas occurs during the
+summer monsoon period from roughly late July to early October. This warm season precipitation is not
+considered seedable from ground-based sites due to temperature parameters, as well as its minor
+contribution to runoff and water storage. Seeding during the winter season can add additional moisture
+to the snowpack which contributes substantially to runoff and water storage. One key attribute of the
+eastern Utah basins and mountains is that the highest producing winter season precipitation periods are
+associated with south to southwesterly winds, with westerly to northerly wind patterns generally
+associated with drier conditions. These and other attributes have impacted the program design that was
+recommended and implemented for the Book Cliffs program. Figure 1.2 shows the average annual
+precipitation across the state of Utah.
+
+
+
+
+                                                    2
+Figure 1.1.   Location of SNOTEL sites in the Book Cliffs area.
+
+
+
+
+                                                     3
+Figure 1.2.     Mean annual precipitation for the state of Utah based on 30-year period from 1991-2020.
+
+
+There are three potential concerns as far as targeting this area with cloud seeding operations. The first,
+is that winter storms (or portions of storm) that come from the south do tend to be somewhat warmer
+than precipitation periods with northwesterly winds. Cloud seeding agents are generally most active at
+temperatures between approximately -5° and -15°C. Due to the warmer nature of these southerly storms,
+the -5°C level inside the cloud deck may be found at elevations higher than the mountain barrier. This is
+often the case with NAWC’s California programs, and it does not always negate cloud seeding efforts but
+can render a program less effective. The second concern is that low-level thermodynamic stability
+(inversion) can affect the dispersion of seeding material from ground-based sites. Though the prevalence
+of stability is not as notorious in this region as it is in the Uinta Basin, this is something operational
+meteorologists will be aware of in regard to program design and seeding increase projections. The third
+
+
+                                                     4
+concern, and one that occurred several times during this season, involved the rain/snow shadowing
+occurring with storms containing at least moderate winds and moisture arriving from the west or
+northwest; although other parts of Utah may have received snow/liquid equivalent moisture from a given
+storm, downsloping northwest flow brought much drier air into the Castle Country/Emery County area
+with little to no precipitation.
+
+
+
+1.3     Increase Projections
+Based on all of the considerations, it was estimated that this area could be reasonably targeted by an
+array of four or more ground-based sites, ideally located above the valley floor (above the 6,000-foot
+elevation level) to maximize material dispersion.
+
+Long term historic records and extensive mathematical modeling using these records have produced
+seasonal seeding increase estimates of 3 to 15% in precipitation for well executed weather modification
+programs, in the Utah and Colorado Rockies. The program most topographically and climatologically
+similar to this proposed program is the weather modification program comprising the eastern two thirds
+of the Uinta Mountain Range. Data for the Uintas program suggests an increase in seasonal precipitation
+that is on the lower end of the overall range shown above, or roughly 3-5% resulting from cloud seeding
+endeavors. We therefore predict an estimated seasonal increase of a similar 3-5% for the November –
+April period for the Book Cliffs program given its climatological and topographical similarities. This would
+equate to roughly 0.3 to 0.5 inches of additional precipitation (liquid water equivalent) or roughly 3-5
+inches of additional seasonal snowfall. Based on the size of the target area (outlined in Figure 1.3), NAWC
+expects that this increase would amount to between 10,000 and 20,000 acre-feet (AF) of additional
+snowmelt runoff, depending on the nature of seasonal weather patterns. In drier climates where ground
+water absorption rates are high, the increases in stream flow can substantially exceed the seasonal
+precipitation increase on a percentage basis. This is the result of runoff being more efficient when
+precipitation is higher, as well as a reduction in the percentage of ground water absorption when snow
+melt rates are higher.
+
+
+
+1.4     Program Design
+In order to maximize the program coverage and contribution to spring runoff, operational seeding sites
+were distributed from the Price area, southeast to Green River, with the primary target area being those
+areas of the Tavaputs Range that exceed 6,000 to 7,000 ft in elevation. Desirable generator locations as
+well as NAWC’s proposed target area are represented in Figure 1.3. Note that the site at Emma Park Rd.
+is a remotely operated CNG site (non-operable in 2024-25).
+
+
+
+
+                                                     5
+Figure 1.3.     Book Cliffs seeding sites and target area for 2024-25.
+
+
+Estimates of potential cloud seeding benefits in the Book Cliffs area were based on those made for seeding
+in the Uinta Range, given the general proximity and similarities of climate and barrier orientation. While
+many winter programs in Utah are estimated to produce increases of 5-10% or locally more to the winter
+snowpack, estimates for the Uinta Range are lower, on the order of 3-5% and these estimates were used
+as the basis for the Book Cliffs program. A 4% increase, applied to total winter season precipitation in the
+Book Cliffs, results in an estimate of roughly a 0.4 inch potential increase for seeding in the Book Cliffs.
+
+This report summarizes operations conducted for the Book Cliffs program during the 2024-25 season, as
+well as a brief discussion of target/control precipitation and snowpack analysis, which could become
+useful for the estimation of seeding benefits if the program were to continue.
+
+
+
+
+                                                       6
+2.0    WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS
+Meteorological information is acquired online from a wide variety of sources, including some subscriber
+services. This information includes weather forecast model data, surface observations, rawinsonde
+(weather balloon) upper-air observations, satellite images, radar information and weather cameras.
+NAWC’s meteorologists have access to all meteorological products from their homes, allowing continued
+monitoring and conduct of seeding operations outside of regular business hours. This wide variety of
+available products and information helps NAWC meteorologists to determine when conditions are
+appropriate for cloud seeding.
+
+Figures 2.1 – 2.6 show examples of some of the available weather information that was used in this
+decision-making process during the 2024-25 winter season. These include weather radar images, satellite
+images, upper air wind and temperature maps, rawinsonde/weather balloon soundings, surface
+observations and hazards such as lightning. Global and regional forecast models are a cornerstone of
+modern weather forecasting, and an important tool for operational meteorologists. These models
+forecast a variety of parameters at different levels of the atmosphere, including winds, temperatures,
+moisture, and surface parameters such as accumulated precipitation. An example of a display is shown
+from the Global Forecast System (GFS) model (Figure 2.5). Other models used on a daily basis during the
+program include but are not limited to the European Center for Medium-Range Weather Forecast
+(ECMWF) model, High-Resolution Rapid Refresh (HRRR) model, and North American Model (NAM).
+
+
+
+
+                                                  7
+Figure 2.1.   Radar image from 0130 MST on February 14, 2025. The location of the Book Cliffs program is in
+              between radar sites, so coverage is less than ideal.
+
+
+
+
+                                                   8
+Figure 2.2.   Infrared spectrum satellite image from 0121 MST on February 14, 2025.
+
+
+
+
+                                                   9
+Figure 2.3.   700 mb (approximately 10,000 feet MSL) map valid for 0500 MST (1200 UTC) on February 14,
+              2025. Among the more notable map features, black contours indicate heights (in decameters) of
+              700 mb pressure level, red numbers are temperature (°C), green numbers are dewpoints (°C),
+              blue lines with barbs/flags represent wind speed and direction, and green contours delineate
+              where dewpoints are greater than or equal to -4°C.
+
+
+
+
+                                                  10
+Figure 2.4.   Weather balloon/rawinsonde sounding from Salt Lake City, UT, valid at 12Z/0500 MST on
+              February 14, 2025, showing temperature (red line), dewpoint (green line) and wind
+              speed/direction (right side barbs) from the surface to 100 mb (approximately 52,000 feet MSL).
+
+
+
+
+                                                   11
+Figure 2.5.   MesoWest surface data map from 0100 MST on February 14, 2025. Surface observations are
+              important for diagnosing low level wind patterns, mixing and stability.
+
+
+
+
+                                                 12
+Figure 2.6.   GFS (Global Forecast Systems) model 3-hour forecast (4-panel plot) during a storm event on
+              February 14-15, 2025.
+
+
+
+
+                                                   13
+3.0      OPERATIONS DURING THE 2024-25 SEASON
+The 2024-25 season was below normal for the Book Cliffs in terms of storm activity and snowpack. Snow
+water equivalent (SWE) values peaked just after mid-March in higher portions of the Book Cliffs seeding
+target area, where two SNOTEL sites are located. SWE values of 4.6 inches at Corral and 6.8 inches at
+Timberline were observed on March 23, which is below average for the existing periods of record at these
+sites. In general, the snowpack here appeared to peak at 53-73 % of the median value this season. Figure
+3.1 shows the percent of median values of April 1 snow water equivalent (SWE) for the state of Utah on
+April 1, 2025.
+
+
+
+
+Figure 3.1.    Snow water content in Utah on April 1, 2025 (percent of median)
+
+
+
+
+                                                   14
+Figure 3.2 is a graph of snow water equivalent (SWE) and Figure 3.3 is cumulative water year precipitation,
+both for the Timberline site from October 2024 through May 2025. Figures 3.4 and 3.5 are similar plots
+for the nearby Corral site. Both SWE and precipitation were near to above normal early in the season,
+with below normal values from early to mid-December through the remainder of the season. As seen in
+these graphs, snowpack began to quickly melt at these sites in late March. Water year precipitation as of
+May 1, 2025 ranged from 10-11 inches at these sites, or about 69-71% of the mean for that date.
+
+
+
+
+Figure 3.2.     Snow Water Equivalent (SWE) graph for Timberline site, October 2024-May 2025.
+
+
+
+
+Figure 3.3.     Cumulative Precipitation graph for Timberline site, October 2024-May 2025.
+
+
+
+
+                                                    15
+Figure 3.4.    Snow Water Equivalent (SWE) graph for Corral site, October 2024-May 2025.
+
+
+
+
+Figure 3.5.    Cumulative Precipitation graph for Corral site, October 2024-May 2025.
+
+
+A total of ten seeded storm events occurred for the Book Cliffs program during the 2024-25 season.
+Seeding activity during each of these events is summarized in Tables 3-1a,b. A total of 310.25 generator
+hours were utilized during the season.
+
+
+
+
+                                                   16
+                                            Table 3-1a
+            Summary of seeding operations during the season through December 26, 2024.
+
+                     Storm #             1                2                 3               4                5
+                                       Nov 2-3          Nov 16           Nov 25-27       Dec 24-25         Dec 26
+              Emma Park
+              Remote
+              BC-1 Price BC             16.25                              24.00           11.25
+
+              BC-2 Price                19.75                                              12.75            2.50
+              BC-3
+                                        16.25                                              12.25
+              Wellington East
+              BC-4 East
+                                        19.75            4.50              34.00           12.25
+              Carbon
+              BC-5 Green
+              River
+              Storm Total               72.00            4.50              58.00           48.50            2.50
+
+
+
+                                            Table 3-1b
+              Summary of seeding operations December 27, 2024 through end of season.
+
+            Storm #              6               7                   8               9               10
+                               Dec 27        Feb 13-14           Mar 3             Mar 6        Mar 13-14           Totals
+        Emma Park
+        Remote
+        BC-1 Price BC           6.00            15.75            5.25                                               78.50
+
+        BC-2 Price              6.25            14.50                              10.25                            66.00
+        BC-3
+                                                15.75            5.00                                               49.25
+        Wellington East
+        BC-4 East
+                                7.25            13.00                              10.00           15.75           116.50
+        Carbon
+        BC-5 Green
+        River
+        Storm Total            19.50            59.00            10.25             20.25           15.75           310.25
+
+
+
+3.1     Storm Summary
+The first seeded event of the season took place on November 2-3. A trough of low pressure was pushing
+into the Great Basin with embedded shortwave disturbances within it. A leading shortwave ejected out
+across Utah during the day on November 2 accompanied by mid and high level moisture, but a dry sub-
+cloud layer resulted in most precipitation evaporating before reaching the ground; additionally, mid-level
+
+
+                                                                17
+temperatures were still above freezing which negated the possibility of seeding operations. During the
+overnight period, a wave of mainly light rain and snow pushed across the area, and sites were turned on
+just ahead of the arrival of the precipitation. Winds were relatively light so targeting, although attainable,
+was a bit difficult. The precipitation largely ended during the late morning hours on November 3, but early
+in the afternoon some additional snow showers formed in the eastern part of the target area and
+continued through mid-afternoon. Two sites were shut off during the noon hour, with the remaining two
+running through mid-afternoon when precipitation finally ended. SWE increases of 0.1-0.25 inches were
+recorded.
+
+On November 16, a trough of low pressure over Utah had brought precipitation to northern and western
+Utah over the previous 18-24 hours, with activity tapering off during the morning. Around midday,
+satellite imagery and webcams showed show showers developing across the target area with light
+accumulations. While winds at site locations around Price were somewhat erratic, the East Carbon site
+was experiencing southwesterly winds, providing good targeting of the seeding plume and as such, the
+site was activated for the afternoon while snow showers continued over the higher terrain, tapering off
+by 1700 MST at which time seeding ceased. SWE increases of 0.1-0.2 inches were noted.
+
+On November 25, a weakening atmospheric river (AR) was pushing into Utah on the south side of a trough
+of low pressure over the Pacific Northwest and northern California. Precipitation began west of the area
+during the late afternoon and evening hours, with initial precipitation in the Book Cliffs during the early
+overnight period. One site was activated ahead of the arrival of the precipitation, with a second site turned
+on during the early morning of November 26. Precipitation continued within the moderate to strong
+westerly flow aloft during the day and evening, nearly unabated, with 700 mb temperatures around -5°C.
+Low level winds in the Book Cliffs CNG network area were on the light side but were properly targeting
+the higher terrain. Precipitation continued through the evening of November 26, but by midnight it had
+ended at Price, and a couple hours later over the eastern target area. Sites were shut off in the morning
+of November 27, having run for 24-34 hours. SWE increases of 0.50-1.60” were recorded in the target
+area.
+
+On December 24, a trough moved eastward from California into the Great Basin during the late afternoon
+hours. Mid and high level moisture spread across the state, but initially dry sub-cloud layer evaporation
+was preventing most precipitation from reaching the ground, and low level inversions were in place which
+would have prevented proper targeting from occurring. Around 2100 MST, a deeper slug of moisture
+arrived into Castle Country and the Book Cliffs with four of five manual CNGs activated as snow started
+up and continued through the night into the morning hours of December 25, when the trough axis was
+aligned north to south across central Utah. Precipitation ended across the Book Cliffs area during the
+morning, and sites were turned off. SWE increases of 0.05-0.60” were recorded.
+
+On December 26, a shortwave trough and accompanying cold front moved across northern and central
+Utah during the afternoon and evening hours, with precipitation developing ahead of the cold front. Mid-
+level temperatures were ideal, around -6 to -7°C, although winds were rather light. One site was activated
+during the relatively brief event, running for about 2.5 hours as precipitation moved across the Book Cliffs
+target area, ending by late evening. SWE totals of 0.05-0.10” were recorded during the event.
+
+
+                                                     18
+On December 27, west to northwest flow aloft with speeds of 40-55 kt were measured on the morning
+soundings and observed by radar, with 700 mb temperatures -5 to -8°C. Low levels were initially dry and
+neutrally stable. A shortwave located over northern Nevada was moving east-southeast and would cross
+northern and central Utah during the afternoon and early evening. Precipitation arrived from the west-
+northwest just before noon and continued through the afternoon as the shortwave moved across the area
+with moderate to strong winds aloft continuing. A period of heavy precipitation towards the latter part of
+the afternoon was observed in the area, with snow tapering off quickly after 1800 MST. SWE totals of 0.1-
+0.4” were recorded in the target area.
+
+On February 13, an atmospheric river being directed by a large upper low over northern California moved
+into southwestern Utah accompanied by increasing southwesterly flow at mid-levels to 40-60 kt by
+afternoon. Mid-level temperatures initially around -13°C rose with the arrival of the subtropical moisture
+to -5°C by late afternoon. Precipitation arrived in the Book Cliffs area around midday, but initially winds
+were light and variable. As the moisture profile improved towards the latter part of the afternoon/early
+evening hours and winds became slightly more favorable, sites were turned on. Precipitation continued
+through the overnight hours, tapering off to snow showers early on the morning of February 14 and then
+ending by mid-morning, at which time sites were shut off. SWE totals of 0.2-0.5” were recorded at the
+SNOTEL sites.
+
+On March 3, a broad mid-level low moved across central and southeastern Utah. 700 mb temperatures of
+-4 to -7°C were in place, and moisture profiles were marginally ideal for precipitation across the area.
+Precipitation arrived from the south and southwest into the target area on the east side of the low late in
+the morning. Given the marginality of the moisture and the somewhat less favorable wind flow in the CNG
+network area, only a couple sites were activated while precipitation moved across the area. Towards the
+latter part of the afternoon, precipitation began to taper off as the low began to push south and southeast
+of the area; also, winds were becoming less favorable for targeting. For these reasons, sites were shut off.
+SWE totals of around 0.2” were recorded at target area SNOTEL sites during the event.
+
+On March 6, a trough of low pressure was centered over California and Nevada with diffluent
+southwesterly flow aloft over Utah. Mid-level temperatures over eastern Utah were warm, -1 to -2°C at
+700 mb but were expected to cool as the trough approached. Moisture was evident across much of the
+state during the morning hours; however it was patchy across eastern Utah. Precipitation began before
+noon across the area and a couple sites were activated -- not all sites as conditions were not ideal to
+warrant all running given the relatively warm start to the storm. Rain and higher elevation snow continued
+through the afternoon, with some heavier convective elements appearing on radar over the eastern target
+area late afternoon/early evening. As the trough axis began to cross the area during the evening hours,
+winds began to veer around to the northwest with precipitation ending across the Book Cliffs and sites
+de-activated. SWE totals of 1.0-1.5” were recorded in the target area.
+
+On March 13, a trough of low pressure accompanied by abundant moisture flowing into its base/southeast
+flank were pushing into the Great Basin. Temperatures aloft were warm, with morning soundings showing
+-2 to -3°C across northern and eastern Utah. Temperatures actually warmed a couple degrees during the
+day ahead of the trough’s arrival, with light precipitation beginning around midday and continuing
+through the afternoon, increasing a bit in intensity with time. Winds across much of Castle Country where
+
+                                                    19
+the generators were located were not ideal, however the site closest to the target area, East Carbon was
+seeing south and southwesterly winds, albeit on the light side, and it was activated during the latter part
+of the afternoon. Light to moderate precipitation continued through the evening hours ahead of a cold
+front, which crossed the area during the late evening. Mid level temperatures fell to around -8°C behind
+the front with snow continuing overnight, ending early in the morning of March 14 as winds became
+northwesterly areawide. SWE totals of 1.2-1.5” were recorded at SNOTEL sites in the target area for this
+event. This turned out to be the final seeded storm of the season, as further storms impacting the state
+brought little precipitation to the Book Cliffs region, with more drier, downsloping winds occurring during
+storm events.
+
+Monthly precipitation across Utah during the seeding season is shown in Figures 3.6-3.11.
+
+
+
+
+                                                    20
+Figure 3.6.   November 2024 precipitation, percent of normal.
+
+
+
+
+                                                 21
+Figure 3.7.   December 2024 precipitation, percent of normal.
+
+
+
+
+                                                  22
+Figure 3.8.   January 2025 precipitation, percent of normal.
+
+
+
+
+                                                   23
+Figure 3.9.   February 2025 precipitation, percent of normal.
+
+
+
+
+                                                   24
+Figure 3.10.   March 2025 precipitation, percent of normal.
+
+
+
+
+                                                   25
+Figure 3.11.   April 2025 precipitation, percent of normal.
+
+
+
+
+                                                     26
+4.0     TARGET/CONTROL EVALUATIONS
+NAWC normally attempts target/control evaluations of its operational cloud seeding programs, utilizing
+SNOTEL data in and surrounding seeding target areas. This type of evaluation establishes an equation
+between one or more control sites versus target sites for a historical base period, which is a period of
+record before the start of a seeding program. This equation is then utilized to produce predicted natural
+values, in the absence of seeding, which can then be compared to observed values from the seeded
+periods. SNOTEL sites measure both accumulation water year precipitation from October 1 of each
+season, and snow water equivalent (SWE) values which normally peaks around March to early April in this
+area.
+
+In a target/control evaluation, the control sites are those which would not be affected by seeding
+operations, at least not from those of the program being evaluated. Some of these sites may be affected
+by seeding from other programs in the state, in which case careful consideration must be given as to
+whether those effects would be consistent over time and allow a site to be used as a control. The target
+sites are those within the seeding target area, which may include one or more sites that are expected to
+be affected by seeding operations.
+
+For the Book Cliffs target area, three potential target SNOTEL sites were considered (see Figure 1.1 in
+Section 1.0). Corral, at 8,207 feet elevation, has data only since water year 2014. The nearby Timberline
+site, at 8,736 feet, has data beginning in the 2008 water year. These two sites are near the geographic
+center of the seeding program target area. Another site, Indian Canyon, is located at the summit along
+Highway 191, near the Emma Park Road seeding site. This site is at 9,171 feet elevation and is one of the
+earliest SNOTEL sites with data beginning in the 1979 water year. However, it is located essentially along
+the edge of where seeding effects may occur with this program, and so it is not very suitable for either a
+target or a control site, as it may sometimes (but only occasionally) be affected by seeding.
+
+For the Timberline (target) site, best-correlated control sites were selected that should result in
+reasonable target/control evaluations using a base (pre-seeding) period that includes water years 2008-
+2020, a total of 13 seasons. By far the best correlated control site appears to be Mosby Mountain, at
+9,553 feet, on the southern flank of the Uinta Range. Although this site is within a seeding program, it has
+been included in this program consistently during this entire period and continues to be, such that it may
+still be a suitable control site given the long-term nature of the seeding program there. Another well
+correlated site is East Willow Creek, located further east on the Tavaputs Plateau. This site is at 8,302
+feet, roughly 10 miles east of the Green River, and has data beginning in the 1987 water year. It would
+likely be largely unaffected by the Book Cliffs seeding program. A third site that was included is Camp
+Jackson, at 8,858 feet in the Abajo Range of southeastern Utah with data beginning in the 1986 water
+year. Figure 4.1 shows the target and control sites selected for this analysis.
+
+
+
+
+                                                    27
+Figure 4.1.     SNOTEL map of central/eastern Utah with the Book Cliffs evaluation target sites (red) and
+                control sites (green).
+
+
+For these data sets, both linear and multiple linear equations were developed. The linear regression
+compares two variables, in this case an average of the data from three control sites to the target site. The
+multiple linear regression uses a separate coefficient for each control site, allowing a more complex
+
+                                                     28
+equation to be developed. For precipitation, the associated R values were high, 0.86 for the linear and
+0.95 for the multiple linear. For snow (using SWE), April 1 data is typically used, but some years have a
+large amount of snow melt prior to this that can essentially invalidate the April 1 SWE for the purposes of
+this type of evaluation. For this reason, both April 1 and March 1 snowpack were examined. Using the
+same selection of target and control sites, correlations were good for both with R values of 0.92 and 0.98
+(linear/multiple linear) for April 1 SWE and 0.95/0.97 respectively for (linear/multiple linear) evaluations
+of March 1 SWE.
+
+These sets of equations were then applied to the 2024-25 seeded season, the fourth full season of seeding.
+For this type of analysis, single-season results do not have much mathematical significance, with the
+evaluation method becoming more meaningful for long standing programs (ideally, 10-20 years or more).
+Combined season results of this type typically show seeding program increases in the 5-10% range (based
+on seasonal precipitation or SWE) for most seeded mountain ranges in Utah. For the Book Cliffs program,
+the initial estimates made by NAWC were lower (3-5%) which is more similar to estimates for seeding in
+the Uinta Range north of the target area. Application of the equations for the Book Cliffs program showed
+mixed results for the 2024-25 single season, suggesting, as expected, that there are not enough seeded
+data available at this point to produce any conclusive results for the Book Cliffs program; additionally, the
+2023-24 season was much shorter than other seasons with seeding not beginning until January 2024, and
+because of the late start there was a limited amount of seeding; for this reason, the 2023-24 season will
+not be included in analysis. At the very least, five full seeding seasons would ideally be needed before any
+initial statistics regarding the efficacy of the Book Cliffs program will be published in the yearly report.
+
+
+
+
+                                                     29
+5.0     CONCLUSIONS AND RECOMMENDATIONS
+A total of ten storm events were seeded in the Book Cliffs during the 2024-25 season, the fourth full
+season for the seeding program in this area. There was a total of 310.25 seeding generator hours utilized.
+Precipitation was below average this season, with a couple of good seeding opportunities during the
+winter.
+
+Given that the program has been active for five seasons (four full and one half), and with a limited number
+of available seeding site locations, there is still not enough data available at this point to provide any
+realistic estimates of the seeding effects achieved. The target/control evaluations unfortunately require
+a number of seeded seasons in order to make an estimate that has a reasonable confidence level.
+
+Drought periods usually offer less opportunities for seeding, and continuing seeding during wetter season
+can contribute substantially to surface and ground water resources and storage. The November – April
+period is considered to be the seasonal window for potential operations, although some portions of this
+period (particularly March – April) are likely to provide the best seeding opportunities for this area in a
+typical season.
+
+Seeding sites should be located in areas which are ideal for targeting, based on prevailing wind patterns,
+and ideally should be above the valley floor to avoid shallow surface-based temperature inversions. It is
+also important to have site operators who are usually available, in order to effectively utilize the
+equipment. Land use issues and lack of residents in some areas of Utah can make this a challenge.
+Maintaining an adequate network of sites and operators should be a priority if the program were to
+continue. Remote sites higher up directly in the target area might allow for more instances of seedability
+as they may not be subject to the downsloping/drying effects of stronger west/northwest flow into Castle
+Country, where the current CNG network exists.
+
+
+
+
+                                                    30
+    APPENDIX A
+
+
+
+SUSPENSION CRITERIA
+
+
+
+
+        31
+Certain situations require temporary or longer-term suspension of cloud seeding activities, with reference
+to well-considered criteria for consideration of possible suspensions, to minimize either an actual or
+apparent contribution of seeding to a potentially hazardous situation. The ability to forecast (anticipate)
+and judiciously avoid hazardous conditions is very important in limiting any potential liability associated
+with weather modification and to maintain a positive public image.
+
+       There are three primary hazardous situations around which suspension criteria have been
+developed. These are:
+
+        •   Excess snowpack accumulation
+        •   Rain-induced winter flooding
+        •   Severe weather
+
+Excess Snowpack Accumulation
+Snowpack begins to accumulate in the mountainous areas of Utah in November and continues through
+April. The heaviest average accumulations normally occur from January through March. Excessive
+snowpack water content becomes a potential hazard during the resultant snowmelt. The Natural
+Resources Conservation Service (NRCS) maintains a network of high elevation snowpack measurement
+sites in the State of Utah, known as the SNOTEL network. SNOTEL automated observations are now
+readily available, updated as often as hourly. The following set of criteria, based upon observations from
+these SNOTEL site observations, has been developed as a guide for potential suspension of operations.
+
+
+
+
+                                                    32
+33
+Snowpack-related suspension considerations will be assessed on a geographical division or sub-division
+basis. The NRCS has divided the State of Utah into 13 such divisions as follows: Bear River, Weber-Ogden
+Rivers, Provo River-Utah Lake-Jordan River, Tooele Valley-Vernon Creek, Green River, Duchesne River,
+Price-San Rafael, Dirty Devil, Southeastern Utah, Sevier River, Beaver River, Escalante River, and Virgin
+River. Since SNOTEL observations are available on a daily basis, suspensions (and cancellation of
+suspensions) can be made on a daily basis using linear interpolation of the first of month criteria. There
+are a number of SNOTEL stations in the various basins of central and southern Utah on which these criteria
+are based. These include Castle Valley, Harris Flat, and Farnsworth Lake in the Sevier Basin; Midway
+Valley, Kolob, Harris Flat, Webster Flat, and Long Flat in southwestern Utah; and Rocky Basin Settlement
+and Mining Fork in eastern Tooele County.
+
+Streamflow forecasts, reservoir storage levels, soil moisture content and amounts of precipitation in prior
+seasons are other factors which need to be considered when the potential for suspending seeding
+operations due to excess snowpack water content exists.
+
+Rain-induced Winter Floods
+The potential for wintertime flooding from rainfall on low elevation snowpack is fairly high in some
+(especially the more southern) target areas during the late winter/early spring period. Every precaution
+must be taken to insure accurate forecasting and timely suspension of operations during these potential
+flood-producing situations. The objective of suspension under these conditions is to eliminate both the
+real and/or perceived impact of weather modification when any increase in precipitation has the potential
+of creating a flood hazard.
+
+Severe Weather
+During periods of hazardous weather associated with both winter orographic and convective precipitation
+systems it is sometimes necessary or advisable for the National Weather Service (NWS) to issue special
+weather bulletins advising the public of the weather phenomena and the attendant hazards. Each
+phenomenon is described in terms of criteria used by the NWS in issuing special weather bulletins. Those
+which may be relevant in the conduct of winter cloud seeding programs include the following:
+
+        ▪       Winter Storm Warning - This is issued by the NWS when it expects heavy snow warning
+                criteria to be met, along with strong winds/wind chill or freezing precipitation.
+        ▪       Flash Flood Warning - This is issued by the NWS when flash flooding is imminent or in
+                progress. In the Intermountain West, these warnings are generally issued relative to,
+                but are not limited to, fall or spring convective systems.
+        ▪       Severe Thunderstorm Warning – This is issued by the NWS when thunderstorms
+                producing winds of 58 mph or higher and/or 1” or larger hail.
+
+Seeding operations may be suspended whenever the NWS issues a weather warning for or adjacent to
+any target area. Since the objective of the cloud seeding program is to increase winter snowfall in the
+
+                                                        34
+mountainous areas of the state, operations will typically not be suspended when Winter Storm Warnings
+are issued, unless there are special considerations (e.g., a heavy storm that impacts Christmas Eve travel).
+
+Flash Flood and Severe Thunderstorm Warnings are usually issued when intense convective activity
+causing heavy rainfall/strong winds/hail is expected or is occurring. Although the probability of this
+situation occurring during our core operational seeding periods is low, the potential does exist, especially
+over southern sections of the state during late March and April. The type of storm that may cause
+problems is one that has the potential of producing 1-2 inches (or greater) of rainfall in approximately a
+24-hour period, combined with high freezing levels (e.g., > 8,000 feet MSL). Seeding operations will be
+suspended for the duration of the warning period in the affected areas.
+
+NAWC’s project meteorologists have the authority to temporarily suspend localized seeding operations
+due to development of hazardous severe weather conditions even if the NWS has not issued a warning.
+This would be a rare event, but it is important for the operator to have this latitude.
+
+
+
+
+                                                        35
+           APPENDIX B
+
+
+GLOSSARY OF METEOROLOGICAL TERMS
+
+
+
+
+                 36
+Advection: Movement of an air mass. Cold advection describes a colder air mass moving into the area,
+and warm advection is used to describe an incoming warmer air mass. Dry and moist advection can be
+used similarly.
+
+Air Mass/airmass: A term used to describe a region of the atmosphere with certain defining
+characteristics. For example, a cold or warm air mass, or a wet or dry air mass. It is a fairly subjective
+term but is usually used in reference to large (synoptic scale) regions of the atmosphere, both near the
+surface and/or at mid and upper levels of the atmosphere.
+
+Atmospheric River/AR: A long, narrow and transient corridor of strong horizontal water vapor transport
+that is typically associated with a low-level jet stream ahead of the cold front of a low pressure system.
+The water vapor in ARs is supplied by tropical and subtropical moisture sources and frequently produces
+heavy precipitation where they are forced upward, e.g., by mountains or dynamic lifting.
+
+Balloon Sounding: see Sounding.
+
+Cell: in radar usage, a local maximum in radar reflectivity that undergoes a life cycle of growth and decay,
+having both an updraft and a downdraft region.
+
+Cold-core low: A typical mid-latitude type of low pressure system, where the core of the system is colder
+than its surroundings. This type of system is also defined by the cyclonic circulation being strongest in the
+upper levels of the atmosphere. The opposite is a warm-core low, which typically occurs in the tropics.
+
+Cold Pool: An air mass that is cold relative to its surroundings and may be confined to a particular basin.
+
+Condensation: Phase change of water vapor into liquid form. This can occur on the surface of objects
+(such as dew on the grass) or in mid-air (leading to the formation of clouds). Clouds are technically
+composed of water in liquid form, not water vapor.
+
+Confluent: Wind vectors coming closer together in a two-dimensional frame of reference (opposite of
+diffluent). The term convergence is also used similarly.
+
+Convective (or convection): Pertains to the development of precipitation areas due to the rising of
+warmer, moist air through the surrounding air mass. The warmth and moisture contained in a given air
+mass makes it lighter than colder, dryer air. Convection often leads to small-scale, locally heavy showers
+or thundershowers. The opposite precipitation type is known as stratiform precipitation.
+
+Convergence: Refers to the converging of wind vectors at a given level of the atmosphere. Low-level
+convergence (along with upper-level divergence), for instance, is associated with lifting of the air mass
+which usually leads to development of clouds and precipitation. Low-level divergence (and upper-level
+convergence) is associated with atmospheric subsidence, which leads to drying and warming.
+
+Cyclonic Flow: Counter-clockwise motion, primarily around low pressure (cyclone).
+
+
+
+                                                         37
+Deposition: A phase change where water vapor turns directly to solid form (ice). The opposite process is
+called sublimation.
+
+Dew point: The temperature at which condensation occurs (or would occur) with a given amount of
+moisture in the air.
+
+Diffluent: Wind vectors spreading further apart in a two-dimensional frame of reference; opposite of
+confluent.
+
+Disturbance: see Low pressure, shortwave.
+
+Dry slot: A zone of dry (and usually cloud-free) air that wraps into the southern and eastern parts of a low
+pressure system; easily viewed on satellite imagery.
+
+Entrain: Usually used in reference to the process of a given air mass being ingested into a storm system.
+
+Evaporation: Phase change of liquid water into water vapor. Water vapor is usually invisible to the eye.
+
+El Niño: A reference to a particular phase of oceanic and atmospheric temperature and circulation
+patterns in the tropical Pacific, where the prevailing easterly trade winds weaken or dissipate. Often
+influences mid-latitude patterns as well, such as increased precipitation in southern portions of the U.S.
+and decreased precipitation further north. The opposite phase is called La Nina.
+
+Front (or frontal zone): Reference to a temperature boundary with either incoming colder air (cold front)
+or incoming warmer air (warm front); can sometimes be a reference to a stationary temperature
+boundary line (stationary front) or a more complex type known as an occluded front (where the
+temperature change across a boundary can vary in type at different elevations).
+
+Frontal band: A band of clouds/precipitation along a cold or warm front.
+
+Glaciogenic: Ice-forming (aiding the process of nucleation); usually used in reference to cloud seeding
+nuclei.
+
+GMT (or UTC, or Z) time: Greenwich Mean Time, universal time zone corresponding to the time at
+Greenwich, England. Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7
+hours.
+
+Graupel: A precipitation type that can be described as “soft hail”, that develops due to riming (nucleation
+around a central core). It is composed of opaque (white) ice, not clear hard ice such as that contained in
+hailstones. It usually indicates the presence of convective clouds and can be associated with electrical
+charge separation and occasionally lightning activity.
+
+High Pressure (or Ridge): Region of the atmosphere usually accompanied by dry and stable weather.
+Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic (clockwise)
+circulation pattern.
+
+                                                        38
+Infrared (satellite): imagery sensed in the 3-13 μm wavelength region of the electromagnetic spectrum,
+usually referring to the thermal infrared region.
+
+Inside Slider: A trough or area of low pressure that moves south-southeast along or parallel to the Sierra
+Nevada mountains before swinging east into the Great Basin or Desert Southwest. These systems typically
+do not have much moisture with them but can have cold to very cold air accompanying them. The track
+of these systems typically brings Santa Ana winds as they increase the northeast-southwest pressure
+gradient.
+
+Inversion: Refers to a layer of the atmosphere in which the temperature increases with elevation, usually
+associated with stability.
+
+Jet Stream or Upper-Level Jet (sometimes referred to more generally as the storm track): A region of
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track
+in the mid-latitudes. This is the area that also typically corresponds to the greatest amount of mid-latitude
+synoptic-scale storm development.
+
+La Niña: The opposite phase of that known as El Nino in the tropical Pacific. During La Nina the easterly
+tropical trade winds strengthen and can lead in turn to a strong mid-latitude storm track, which often
+brings wetter weather to northern portions of the U.S.
+
+Longwave (or longwave pattern): The longer wavelengths, typically on the order of 1,000 – 2,000+ miles
+of the typical ridge/trough pattern around the northern (or southern) Hemisphere, typically most
+pronounced in the mid-latitudes.
+
+Low-Level Jet: A zone of maximum wind speed in the lower atmosphere. Can be caused by geographical
+features or various weather patterns and can influence storm behavior and dispersion of cloud seeding
+materials.
+
+Low pressure (or low or trough): Region of the atmosphere usually associated with stormy weather.
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic
+(counterclockwise) circulation pattern in the Northern Hemisphere.
+
+Mesoscale: Sub-synoptic scale, about 100 miles or less; this is the size scale of more localized weather
+features (such as thunderstorms or mountain-induced weather processes).
+
+Microphysics: Used in reference to composition and particle types in a cloud.
+
+Mid-level: the layer of the atmosphere from 10,000-20,000 feet.
+
+Millibar (mb): a unit of pressure equal to 100 newtons per square meter (N/m2).
+
+MSL (Mean Sea Level): Elevation height reference in comparison to sea level.
+
+
+                                                         39
+Negative (ly) tilted trough: A low-pressure trough where a portion is undercut, such that a frontal zone
+can be in a northwest to southeast orientation.
+
+Nucleation: The process of supercooled water droplets in a cloud turning to ice. This is the process that is
+aided by cloud seeding. For purposes of cloud seeding, there are three possible types of cloud
+composition: Liquid (temperature above the freezing point), supercooled (below freezing but still in liquid
+form), and ice crystals.
+
+Nuclei: Small particles that aid water droplet or ice particle formation in a cloud.
+Orographic: Terrain-induced weather processes, such as cloud or precipitation development on the
+upwind side of a mountain range. Orographic lift refers to the lifting of an air mass as it encounters a
+mountain range.
+
+Precipitable Water, or PWAT: The total atmospheric water vapor contained in a vertical column of unit
+cross-sectional area extending between the surface and top of the atmosphere, expressed in terms of the
+depth to which that water substance would be if completely condensed and collected in a vessel of the
+same unit cross-section.
+
+Pressure Heights (e.g., 700 millibars, or mb): Corresponds to approximately 10,000 feet above sea level
+(MSL); 850 mb corresponds to about 5,000 feet MSL; and 500 mb corresponds to about 18,000 feet MSL.
+These are standard height levels that are occasionally referenced, with the 700 mb level most important
+regarding cloud-seeding potential in most of the western U.S.
+
+Positive (ly) tilted trough: A normal U-shaped trough configuration, where an incoming cold front would
+generally be in a northeast– southwest orientation.
+
+Reflectivity: The density of returned signal from a radar beam, which is typically bounced back due to
+interaction with precipitation particles (either frozen or liquid) in the atmosphere. The reflectivity depends
+on the size, number, and type of particles that the radar beam encounters.
+
+Ridge (or High Pressure System): Region of the atmosphere usually accompanied by dry and stable
+weather. Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic
+(clockwise) circulation pattern.
+
+Ridge axis: The longitude band corresponding to the high point of a ridge.
+
+Rime (or rime ice): Ice buildup on an object (often on an existing precipitation particle) due to the freezing
+of supercooled water droplets.
+
+Shortwave (or shortwave disturbance): Smaller-scale wave features of the weather pattern typically seen
+at mid-latitudes, usually on the order of a few to several hundred miles; these often correspond to
+individual frontal systems.
+
+
+
+
+                                                         40
+Silver iodide: A compound commonly used in cloud seeding because of the similarity of its molecular
+structure to that of an ice crystal. This structure helps in the process of nucleation, where supercooled
+cloud water changes to ice crystal form.
+
+Sounding: A measurement of the vertical distribution of physical properties of the atmospheric column
+such as temperature, dewpoint, pressure, wind speed and direction. Soundings are typically conducted
+by releasing a balloon filled with hydrogen or helium with instrumentation attached that measures
+different properties as the balloon rises from the surface until it pops at very high altitudes (80-100 kft).
+
+Stable layer: A layer of given thickness in the atmosphere where temperatures are constant with height
+or rise with height; this results in little to no vertical movement of the air and little to no
+turbulence/mixing.
+
+Storm Track (sometimes referenced as the Jet Stream): A zone of maximum storm propagation and
+development, usually concentrated in the mid-latitudes.
+
+Stratiform: Usually used in reference to precipitation, this implies a large area of precipitation that has a
+fairly uniform intensity except where influenced by terrain, etc. It is the result of larger-scale (synoptic
+scale) weather processes, as opposed to convective processes.
+
+Sublimation: The phase change in which water in solid form (ice) turns directly into water vapor. The
+opposite process is deposition.
+
+Subsidence: The process of a given air mass moving downward in elevation, such as often occurs on the
+downwind side of a mountain range.
+
+Subtropical/subtropics: Referring to the region of the Earth bordering on the tropics, from the Tropic of
+Cancer/Capricorn (23.5°N/S) to about 35°N/S. Subtropical moisture would refer to moisture whose
+source region is the subtropics. Subtropical Jet Stream would refer to a jet stream within the subtropics.
+
+Supercooled: Liquid water (such as tiny cloud droplets) occurring at temperatures below the freezing
+point (32°F or 0°C).
+
+Synoptic Scale: A scale of hundreds to perhaps 1,000+ miles, the size scale at which high and low pressure
+systems develop.
+
+Trough (or low pressure system): Region of the atmosphere usually associated with stormy weather.
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic
+(counterclockwise) circulation pattern in the Northern Hemisphere.
+
+Trough axis: The longitude band corresponding to the low point of a trough.
+
+Unstable air mass: an air mass wherein a perturbation (wave) increases in magnitude over time. A parcel
+of air displaced upward in an unstable airmass will continue to rise until it reaches equilibrium. Regions
+
+
+                                                         41
+where, if moisture is sufficient, convection can develop if a mechanism (e.g., heating, frontal boundary) is
+present to initiate lift.
+
+Upper level: The region of the atmosphere above 20 kft and below the tropopause (approx. 60-80 kft).
+
+Upper-Level Jet or Jet Stream (sometimes referred to more generally as the storm track): A region of
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track
+in the mid-latitudes. This is the area that also typically corresponds to the greatest amount of mid-latitude
+synoptic-scale storm development.
+
+Upper level low/trough/disturbance: an area of low pressure located at higher altitudes, e.g., at 700 mb
+/ 10,000 feet MSL or 500 mb / 18,000 feet MSL.
+
+UTC (or GMT, or Z) time: Greenwich Mean Time, universal time zone corresponding to the time at
+Greenwich, England. Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7
+hours.
+
+Vector: Term used to represent wind velocity (speed + direction) at a given point.
+
+Velocity: Describes speed of an object, often used in the description of wind intensities.
+
+Vertical Wind Profiler: Ground-based system that measures wind velocity at various levels above the
+radar site.
+
+Wave clouds: Clouds that form on the rising branches of mountain waves created within a stable airmass
+in strong flow downwind of mountains. On satellite imagery, they appear as spaced bands of clouds
+parallel to and downwind of the mountain barrier.
+
+
+
+
+                                                         42
+

@@ -1,0 +1,182 @@
+program,site_id,name,lat,lon,elev_ft
+central_southern_tooele,TO-1R,Skull Valley North,40.68517,-112.66833,4289
+central_southern_tooele,TO-2R,Skull Valley North/Central,40.53667,-112.74567,4390
+central_southern_tooele,TO-3R,Skull Valley Central #,40.58333,-112.68333,4300
+central_southern_tooele,TO-4,Skull Valley South #,40.39783,-112.71533,4890
+central_southern_tooele,TO-5,Terra,40.31867,-112.62667,5166
+central_southern_tooele,TO-6,Rush Valley,40.325,-112.47917,5342
+central_southern_tooele,TO-8,Settlement Canyon,40.519,-112.30267,5140
+central_southern_tooele,TO-9,Pine Canyon,40.5515,-112.2525,5095
+central_southern_tooele,TO-10R,Erda,40.625,-112.28283,4415
+central_southern_tooele,TO-11,Lakepoint,40.68083,-112.26417,4250
+central_southern_tooele,CU-1R,Elberta,39.952,-111.962,4732
+central_southern_tooele,CU-2,Mona,39.8155,-111.86017,4943
+central_southern_tooele,CU-3R,Nephi West,39.713,-111.85933,5042
+central_southern_tooele,CU-4,Fountain Green,39.62817,-111.648,5985
+central_southern_tooele,CU-5,Levan,39.55283,-111.86767,5286
+central_southern_tooele,CU-6R,Leamington,39.53317,-112.282,4721
+central_southern_tooele,CU-7R,Oak City,39.37933,-112.3405,5059
+central_southern_tooele,CU-9R,McCornick,39.1325,-112.3335,4848
+central_southern_tooele,CU-10R,Holden,39.09867,-112.27483,5077
+central_southern_tooele,CU-11R,Fillmore,39.01183,-112.37167,4879
+central_southern_tooele,CU-12R,Kanosh,38.79517,-112.43667,5048
+central_southern_tooele,CU-13R,Cove Fort,38.60583,-112.59067,5942
+central_southern_tooele,CU-14,Birdseye,39.92833,-111.568,5600
+central_southern_tooele,CU-15,Hideaway Valley,39.772,-111.465,6300
+central_southern_tooele,CU-16,Milburn,39.748,-111.416,6787
+central_southern_tooele,CU-17,Fairview,39.66017,-111.43117,6125
+central_southern_tooele,CU-18,Fairview South,39.60733,-111.44517,5855
+central_southern_tooele,CU-19,Mt. Pleasant,39.541,-111.4505,5981
+central_southern_tooele,CU-20,Ephraim,39.3455,-111.5825,5626
+central_southern_tooele,CU-21,Manti,39.268,-111.6585,5505
+central_southern_tooele,CU-22R,Centerfield,39.12667,-111.82383,5100
+central_southern_tooele,CU-23R,Mayfield,39.11617,-111.70867,5550
+central_southern_tooele,CU-24,Salina,38.95367,-111.8535,5190
+central_southern_tooele,CU-25,Aurora,38.9305,-111.92633,5176
+central_southern_tooele,CU-26,Sigurd,38.842,-111.965,5220
+central_southern_tooele,CU-27,*,38.766,-112.078,5296
+central_southern_tooele,CU-28,Annabella,38.70283,-112.06283,5316
+central_southern_tooele,CU-29,Kesko Ranch,39.39833,-111.5795,5505
+central_southern_tooele,SU-1R,Newcastle,37.67683,-113.56217,5242
+central_southern_tooele,SU-2R,Enterprise,37.575,-113.73317,5345
+central_southern_tooele,SU-4,Veyo,37.33617,-113.69033,4487
+central_southern_tooele,SU-5R,Gunlock,37.286,-113.76467,3638
+central_southern_tooele,SU-7,Parowan,37.848,-112.826,5980
+central_southern_tooele,SU-9R,Enoch,37.774,-113.02583,5566
+central_southern_tooele,SU-11,Brian Head Summit,37.694,-112.846,9591
+central_southern_tooele,SU-12,Brian Head Store,37.693,-112.85,9700
+central_southern_tooele,SU-14,New Harmony,37.48417,-113.31417,5355
+central_southern_tooele,SU-20,Circleville,38.17117,-112.26717,6082
+central_southern_tooele,SU-21R,Spry,37.87383,-112.43733,6564
+central_southern_tooele,SU-22R,Panguitch,37.8185,-112.43783,6650
+central_southern_tooele,SU-23,Panguitch Lake,37.7065,-112.64117,8255
+central_southern_tooele,SU-24,Alton,37.44383,-112.52033,7300
+central_southern_tooele,SU-25,Duck Creek,37.525,-112.66333,8451
+central_southern_tooele,SU-27,Springdale,37.19417,-112.99717,3987
+central_southern_tooele,SU-28R,Rockville,37.16167,-113.03917,3737
+central_southern_tooele,SU-29R,Koosharem,38.5145,-111.8855,6973
+central_southern_tooele,SU-30R,Greenwich,38.43333,-111.92567,6882
+central_southern_tooele,SU-32R,Angle,38.2485,-111.96083,6415
+central_southern_tooele,SU-33,Antimony,38.08817,-111.95417,6661
+central_southern_tooele,SU-34R,Henrieville,37.562,-112.994,6000
+central_southern_tooele,,Bryce Canyon,37.7,-112.43833,7600
+central_southern_tooele,,Dairy Fork,39.942,-111.359,6350
+central_southern_tooele,,Devil’s Gate,40.346,-112.586,6250
+central_southern_tooele,,Eagle Mtn North,40.25283,-111.97817,5150
+central_southern_tooele,,Eagle Mtn South,40.20667,-111.97933,5160
+central_southern_tooele,,Jacob City East,40.593,-112.263,9450
+central_southern_tooele,,Jacob City West,40.42,-112.322,5830
+central_southern_tooele,,Pony Express East,40.126,-112.527,5670
+central_southern_tooele,,Pony Express West,40.147,-112.605,5540
+central_southern_tooele,,Sand Ledges,38.73567,-111.88067,7369
+central_southern_tooele,,Yuba,39.391,-111.83567,7840
+central_southern_tooele,,Zion East,37.238,-112.7455,5700
+central_southern_tooele,,Zion West,37.30667,-113.21033,5780
+western_uintas,WU-2,Croyden,41.06867,-111.51383,5371
+western_uintas,WU-3,Coalville,40.9325,-111.34533,5587
+western_uintas,WU-4,Pineview,40.93983,-111.16967,6407
+western_uintas,WU-5,Peoa,40.72917,-111.3435,6148
+western_uintas,WU-6,Oakley,40.71783,-111.3,6472
+western_uintas,WU-7,Kamas West,40.636,-111.32217,6872
+western_uintas,WU-8,Kamas,40.6405,-111.2795,6489
+western_uintas,WU-9,Woodland,40.5815,-111.23017,6706
+western_uintas,WU-10,Woodland East,40.55583,-111.11333,7305
+western_uintas,WU-11,Midway,40.50983,-111.47733,5570
+western_uintas,WU-12,Heber City,40.4955,-111.37533,5810
+high_uintas,HU2,Wallsburg,40.34917,-111.38333,6175
+high_uintas,HU3,Evanston,41.21167,-111.01883,7000
+high_uintas,HU4,Bear River East,40.94233,-110.83617,8223
+high_uintas,HU5,Hanna,40.46,-110.826,7019
+high_uintas,HU6,Tabiona,40.41067,-110.76717,6781
+high_uintas,HU7,,40.55033,-110.69633,7988
+high_uintas,HU8,Robbins Ranch,40.51967,-110.594,7404
+high_uintas,HU10,Black’s Fork,41.18983,-110.49783,7509
+high_uintas,HU11,Robertson,41.1995,-110.45517,7322
+high_uintas,HU12,Talmage,40.35883,-110.45467,6945
+high_uintas,HU13,,40.54167,-110.33833,7660
+high_uintas,HU14,Bluebell,40.4475,-110.062,5840
+high_uintas,HU16,Neola,40.458,-110.04883,6330
+high_uintas,HU17,Birch Creek,40.97733,-109.99133,7634
+high_uintas,HU18,Gilmore Ranch,41.0985,-110.79933,7550
+high_uintas,HU19,Manila,40.98183,-109.73933,6500
+high_uintas,HU20,Manila East,40.97617,-109.68967,6230
+high_uintas,HU22,Jensen,40.39867,-109.35817,4896
+high_uintas,Remote,Kamas WMA,40.6315,-111.239,7018
+high_uintas,Remote,Defa Ranch,40.538,-110.875,7420
+high_uintas,Remote,Tabiona South,40.40017,-110.816,8190
+high_uintas,Remote,Deer Creek WMA,40.44633,-111.415,6664
+high_uintas,Remote,,40.323,-111.65467,5515
+high_uintas,Remote,Dairy Fork WMA,39.94333,-111.35983,6242
+high_uintas,Remote,Lake Mtn Ashely,40.554,-109.802,7125
+high_uintas,Remote,Vernal North,40.586,-109.58,6840
+northern_utah,BE-1,Trout Creek,41.95,-114.06667,5070
+northern_utah,BE-2,Oakley,42.234,-113.8925,4570
+northern_utah,BE-3,Grouse Greek,41.709,-113.88233,5334
+northern_utah,BE-4,Grouse Creek N,41.75133,-113.85117,5484
+northern_utah,BE-5,Lynn,41.86667,-113.73333,5930
+northern_utah,BE-7,Yost,41.95667,-113.55017,5986
+northern_utah,BE-8,Rosette,41.8215,-113.45817,5640
+northern_utah,BE-9,Standrod,41.9935,-113.40567,5811
+northern_utah,Remote,Grouse Creek North,41.98217,-113.86417,7002
+northern_utah,Remote,Raft River East,41.847,-113.33167,6029
+northern_utah,Remote,Raft River West,41.81433,-113.59133,5941
+northern_utah,CV-1,Malad South,42.03333,-112.2,4450
+northern_utah,CV-2,Portage,41.9785,-112.24467,4500
+northern_utah,CV-3,Plymouth,41.8575,-112.16817,4417
+northern_utah,CV-5,Remote,41.863,-111.96867,4662
+northern_utah,CV-6,Remote,41.99417,-111.8135,4577
+northern_utah,CV-7,Remote,41.916,-111.814,4600
+northern_utah,CV-11,Remote,41.67817,-112.17917,4295
+northern_utah,CV-12,Remote,41.62483,-112.166,4265
+northern_utah,CV-13,Remote,41.4535,-112.0445,4404
+northern_utah,CV-14,Brigham City,41.49233,-111.99617,4690
+northern_utah,CV-15,Mantua,41.51483,-111.939,5200
+northern_utah,CV-16,Remote,41.59533,-111.93,4884
+northern_utah,CV-17,Remote,41.62633,-111.832,4816
+northern_utah,CV-18,Remote,41.56983,-111.84367,4875
+northern_utah,CV-19,Remote,41.52417,-111.82317,5059
+northern_utah,CV-20,Remote,41.50783,-111.81167,5079
+northern_utah,CV-21,Liberty,41.32183,-111.86167,5107
+northern_utah,CV-22,Huntsville,41.25617,-111.72017,5066
+northern_utah,CV-23,Red Rock Ranch,41.29767,-111.6195,5473
+northern_utah,Remote,Richmond WMA,41.93217,-111.77667,5274
+northern_utah,Remote,Hardware WMA,41.6015,-111.567,5565
+northern_utah,Remote,Schultz GSL,41.51167,-112.5235,5920
+northern_utah,Remote,Ant Flat Road,41.47817,-111.65417,7370
+northern_utah,Remote,Huntsville East,41.227,-111.61233,8179
+northern_utah,Remote,Temple Peak,41.828,-111.53433,9010
+northern_utah,Remote,Bear Lake West,41.89683,-111.47783,7990
+northern_utah,Remote,Bear Lake East,41.92183,-111.19367,6539
+northern_utah,Remote,Willard Canyon,41.41067,-112.02533,4586
+northern_utah,Remote,Willard,41.372,-112.01933,4622
+northern_utah,Remote,Willard,41.35883,-112.0215,4616
+six_creeks,,,40.744,-111.818,4835
+six_creeks,,,40.749,-111.723,5380
+six_creeks,,,40.675,-111.801,4950
+six_creeks,,,40.677,-111.776,5620
+six_creeks,,,40.619,-111.782,4993
+six_creeks,,,40.576,-111.798,5170
+six_creeks,,,40.589,-111.799,5000
+east_shore,Remote,North Ogden #,41.326,-111.948,5078
+east_shore,Remote,North Ogden #,41.3066,-111.931,4862
+east_shore,Remote,North Ogden #,41.2887,-111.942,4732
+east_shore,Remote,Ogden Canyon,41.2555,-111.937,4734
+east_shore,Remote,Pineview House,41.2576,-111.838,4956
+east_shore,Remote,Weber South Fork Dam,41.2591,-111.7,5095
+east_shore,Remote,Weber Causey Dam,41.2972,-111.5887,5542
+east_shore,Remote,Weber State,41.1953,-111.9382,4744
+east_shore,Remote,Weber WSWTP,41.1755,-111.9444,4842
+east_shore,Remote,Weber Uintah Bench,41.1654,-111.9236,5121
+east_shore,Remote,Weber #,41.1346,-111.83,4958
+east_shore,Remote,Weber #,41.0745,-111.9081,4874
+east_shore,Remote,Weber Stoddard Dam,41.0702,-111.73,4982
+east_shore,Remote,Weber #,40.9999,-111.8869,4657
+east_shore,Remote,Weber #,40.8866,-111.8442,5175
+cache_valley_uav,,Netwon,41.87285,-111.96998,4804
+cache_valley_uav,,Avon,41.52702,-111.8029,5017
+book_cliffs,Remote,Emma Park Rd (non-op 2024-25) [town-approx],39.775,-110.581,
+book_cliffs,BC-1,Price BC [town-approx],39.599,-110.81,
+book_cliffs,BC-2,Price [town-approx],39.606,-110.796,
+book_cliffs,BC-3,Wellington East [town-approx],39.526,-110.69,
+book_cliffs,BC-4,East Carbon [town-approx],39.548,-110.415,
+book_cliffs,BC-5,Green River [town-approx],38.996,-110.16,

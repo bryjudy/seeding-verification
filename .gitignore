@@ -1,0 +1,5 @@
+data/.local_snotel/
+data/.wind_cache.json
+paper/*.aux
+paper/*.log
+__pycache__/

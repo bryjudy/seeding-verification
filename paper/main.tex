@@ -1,0 +1,383 @@
+\documentclass[9pt,twocolumn,twoside]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext,newtxmath}
+\usepackage{helvet}
+\usepackage[margin=1.9cm,top=2.2cm,bottom=2.4cm]{geometry}
+\usepackage{titlesec}
+\usepackage{booktabs}
+\usepackage{fancyhdr}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage[colorlinks=true,allcolors=blue]{hyperref}
+\usepackage{microtype}
+
+\setlength{\columnsep}{0.8cm}
+
+% --- OUP-style section headings: bold sans, unnumbered -----------------
+\titleformat{\section}{\normalfont\sffamily\bfseries\large}{}{0pt}{}
+\titlespacing{\section}{0pt}{1.1em}{0.4em}
+\titleformat{\subsection}{\normalfont\sffamily\bfseries\normalsize}{}{0pt}{}
+\titlespacing{\subsection}{0pt}{0.9em}{0.3em}
+\setcounter{secnumdepth}{0}
+
+% --- captions: "Table 1." bold, above tables ---------------------------
+\captionsetup[table]{labelfont=bf,labelsep=period,justification=raggedright,
+  singlelinecheck=false,position=above,font=small,skip=4pt}
+
+% --- headers/footers ----------------------------------------------------
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\thepage\quad\itshape B.\,Judy}
+\fancyhead[RO]{\small\itshape Storm-Level Verification of Operational Cloud Seeding\quad\thepage}
+\fancyfoot[C]{}
+\renewcommand{\headrulewidth}{0pt}
+
+\fancypagestyle{firstpage}{%
+  \fancyhf{}
+  \fancyhead[L]{\footnotesize , 2026, 1--4\\doi:\\Advance Access Publication Date: 20 July 2026\\}
+  \fancyfoot[L]{\footnotesize \copyright\ Bryce Judy 2026. Data from public U.S.\ federal and Utah state sources. For permissions, please e-mail: bryce.judy@tarifflo.com}
+  \fancyfoot[R]{\footnotesize\thepage}
+  \renewcommand{\headrulewidth}{0.8pt}
+  \renewcommand{\footrulewidth}{0.4pt}
+}
+
+\newcommand{\keywords}[1]{\vspace{0.5em}\noindent\textsf{\textbf{Key words:}} #1}
+
+% numeric citations, hand-numbered to match the reference list
+\newcommand{\citeparen}[1]{[\csname refnum#1\endcsname]}
+\expandafter\def\csname refnumfrench2018\endcsname{1}
+\expandafter\def\csname refnumfriedrich2020\endcsname{2}
+\expandafter\def\csname refnumgriffith2009\endcsname{3}
+\expandafter\def\csname refnumdwr\endcsname{4}
+\expandafter\def\csname refnumhrrr\endcsname{5}
+\expandafter\def\csname refnumawdb\endcsname{6}
+\expandafter\def\csname refnumborusyak2024\endcsname{7}
+
+\begin{document}
+
+\twocolumn[{%
+\thispagestyle{firstpage}
+\vspace*{0.8cm}
+{\noindent\sffamily\bfseries\LARGE Storm-Level Independent Verification of\\[2pt] Operational Cloud Seeding: Evidence from\\[2pt] Utah's 2024--25 Winter Season\par}
+\vspace{0.9em}
+{\noindent\sffamily\bfseries\large Bryce Judy\textsuperscript{1,$*$}\par}
+\vspace{0.6em}
+{\noindent\footnotesize $^{*}$Corresponding author. \href{mailto:bryce.judy@tarifflo.com}{bryce.judy@tarifflo.com}\par}
+\vspace{1.2em}
+{\noindent\sffamily\bfseries\large Abstract\par}
+\vspace{0.35em}
+{\noindent\small
+Operational winter cloud seeding programs claim precipitation increases of
+3--15\%, but the evaluations supporting these claims are produced by program
+operators using target/control methods that cannot separate seeding effects
+from \emph{operator storm selection}: storms are seeded precisely when
+atmospheric conditions favor the target areas. This study performs, to the
+author's knowledge, the first independent storm-level evaluation of an
+operational program built entirely from public data. We assemble a
+machine-readable record of Utah's 2024--25 operations---181 generator sites,
+203 seeded storm periods totaling 17{,}143 generator-hours across seven
+programs---together with per-storm 700\,hPa winds from the HRRR archive and
+daily precipitation from 546 SNOTEL stations in seven states. Three research
+designs of increasing selection-robustness are applied. A naive seeded-versus-unseeded
+storm comparison yields an implausible $+335\%$ for the largest program,
+quantifying the selection artifact. Same-sector near-miss controls reduce the
+pooled estimate to $+24\%$ [$+4$, $+50$]. The most robust design---a
+wind-rotation test in which plume exposure is recomputed from each storm's own
+wind field per generator---yields $+1.5\%$ [$-9.6$, $+13.1$] per seeded storm
+with a clean placebo on unseeded storms. One season therefore cannot
+distinguish the claimed 3--15\% effect from zero, while per-storm effects
+larger than $\sim$15--20\% are excluded. The design's power scales directly
+with additional seasons of operations records. All data and code are released.
+\par}
+\vspace{0.6em}
+{\noindent\small\keywords{Weather Modification, Cloud Seeding, Causal Inference, SNOTEL, HRRR, Program Evaluation}\par}
+\vspace{1.6em}
+}]
+
+\section{Introduction}
+
+Winter orographic cloud seeding disperses silver iodide (AgI) into
+supercooled liquid water within storms passing over mountain barriers,
+nucleating ice crystals that fall as additional snow. The physical mechanism
+is established: the SNOWIE field campaign traced seeding material through
+individual storms with airborne radar and observed unambiguous seeding
+signatures \citeparen{french2018}, and subsequent analysis quantified the
+snowfall attributable to individual seeding events \citeparen{friedrich2020}.
+What remains contested is the \emph{operational} question: how much water do
+routine, ground-based seeding programs actually add, season over season?
+
+The stakes of that question are growing. Utah operates the largest
+remotely-controlled seeding generator network in the United States,
+expanded in 2023 with \$12M in one-time funding and a \$5M annual budget
+following record-low levels in the Great Salt Lake \citeparen{dwr}. The
+State's published evaluations report target-area increases of 5--20\% and an
+estimated 249{,}600 acre-feet of average annual augmented runoff at
+approximately \$1 per acre-foot \citeparen{griffith2009}. Colorado River
+basin states co-fund seeding in Utah under multi-state agreements, meaning
+these estimates influence interstate water accounting.
+
+These evaluations, however, share two structural weaknesses. First, they are
+produced by the contractor operating the programs. Second, and more
+fundamentally, they rest on historical target/control regressions whose
+treatment variable is not exogenous: \emph{operators seed exactly those
+storms whose wind direction, moisture, and temperature favor the target
+areas} \citeparen{griffith2009}. Suspension rules compound the problem ---
+Utah's criteria suspend seeding when snowpack exceeds 150--200\% of average
+\citeparen{griffith2009}, making treatment anti-correlated with natural
+snowfall at seasonal scale and positively selected at storm scale. Any
+comparison of seeded versus unseeded periods, at any aggregation, inherits
+this selection unless the design explicitly breaks it.
+
+This paper contributes three things. (1)~A machine-readable reconstruction
+of one full season of Utah seeding operations from public documents:
+generator coordinates, per-storm seeding dates and generator-hours for all
+seven ground-based programs. (2)~A sequence of three storm-level research
+designs applied to the same season of SNOTEL precipitation data, constructed
+so that each successive design removes a channel of selection bias; the
+progression of estimates ($+335\% \rightarrow +24\% \rightarrow +1.5\%$)
+directly measures how much of a naive ``seeding effect'' is selection
+artifact. (3)~A wind-rotation identification strategy, which to the author's
+knowledge has not previously been applied to an operational program: because
+AgI plumes travel downwind, a station's exposure changes storm-by-storm with
+the storm's own wind direction, and a real seeding effect must rotate with
+it --- something neither operator storm selection nor static orography can
+mimic.
+
+\section{Data}
+
+All inputs are public; acquisition and processing code is released with the
+paper.
+
+\subsection{Seeding operations records}
+The Utah Division of Water Resources publishes annual reports for each
+seeding program, prepared by the operator (North American Weather
+Consultants) \citeparen{dwr}. From the eight 2024--25 reports we extract:
+(i)~generator site tables --- 181 sites with coordinates across the
+Central/Southern Utah + Tooele, Western Uintas, High Uintas, Northern Utah,
+East Shore, Six Creeks, and Cache Valley programs (Book Cliffs sites are
+published as town names only and are geocoded approximately); and
+(ii)~storm-operations tables --- 203 program-storm periods with dates, sites
+used, and generator-hours, totaling 17{,}143 hours across seven ground-based
+programs. Program treatment histories (adoption years, the 1983--87
+statewide suspension) are taken from the operator's 30-season retrospective
+\citeparen{griffith2009}.
+
+\subsection{Storm winds}
+For every storm period and detected precipitation event we compute the mean
+700\,hPa wind at each program's generator network from the NOAA
+High-Resolution Rapid Refresh (HRRR) analysis archive on AWS Open Data
+\citeparen{hrrr}, sampling 6-hourly analyses and extracting only the two
+relevant GRIB2 messages per file via byte-range requests. Storm-mean winds
+are vector-averaged. Consistent with program design assumptions, 95\% of
+seeded storms have 700\,hPa flow from the WSW--NW quadrant (median
+264$^\circ$).
+
+\subsection{Snowpack and precipitation observations}
+Daily accumulated-precipitation (PREC) series for all 546 SNOTEL stations in
+Utah, Colorado, Nevada, Wyoming, Idaho, Arizona, and New Mexico are drawn
+from the USDA NRCS Air-Water Database \citeparen{awdb}. Daily increments are
+computed by first-differencing, with negative and physically implausible
+($>$8\,in/day) increments removed. A 45-year station-winter panel
+(1981--2026; 18{,}067 station-winters) is used for the seasonal-scale
+benchmark design.
+
+\section{Methods}
+
+\subsection{Design 0: seasonal panel benchmark}
+As a baseline we estimate a staggered-adoption imputation estimator
+\citeparen{borusyak2024} on log November--March precipitation over 45
+winters: station and winter fixed effects are fit on untreated observations
+(out-of-state controls, excluding ranges with their own seeding programs,
+plus pre-adoption years of Utah cohorts), and treatment effects are read off
+as anomalies of treated station-winters. Suspension years are excluded from
+fitting because they are endogenously wet.
+
+\subsection{Design 1: seeded vs.\ unseeded storms, far controls}
+Storm events are detected as contiguous days of regional precipitation.
+For each program, each event is labeled seeded/unseeded from the operations
+record; the outcome is the log ratio of mean storm-total precipitation at
+plume-exposed stations ($\leq$40\,km downwind of a generator) to that at far
+control stations ($>$90\,km from all generators). The effect is the
+difference in mean log ratio between seeded and unseeded storms. This is
+essentially the operational-evaluation logic transposed to storm scale, and
+it is deliberately included as a measurement of selection bias.
+
+\subsection{Design 2: near-miss controls}
+Identical, except controls are ``near-miss'' stations 55--130\,km from the
+program's generators \emph{in the same downwind sector}: they experience the
+same storm types that trigger seeding decisions but lie beyond AgI transport
+range. Storm-type selection therefore cancels to first order in the
+seeded-minus-unseeded contrast. Inference is by bootstrap over storm events.
+Two falsification tests are run: a placebo in which all seeded windows are
+shifted by $+10$ days, and a dose-response test correlating per-storm
+generator-hours with the per-storm effect.
+
+\subsection{Design 3: wind-rotation (per-generator plume geometry)}
+The most selection-robust design exploits within-station, across-storm
+variation in exposure. For each station within 70\,km of a program's
+generators and each detected event $e$, the station is \emph{in-plume} if any
+generator lies 5--45\,km upwind such that the bearing from generator to
+station is within $\pm 40^\circ$ of event $e$'s downwind direction (from the
+HRRR storm-mean wind). We estimate
+\[
+\log y_{se} = \alpha_s + \gamma_e + \delta\,\mathrm{score}_{se} +
+\beta_1 P_{se} S_e + \beta_0 P_{se}(1-S_e) + \varepsilon_{se},
+\]
+where $\alpha_s, \gamma_e$ are station and program-event fixed effects,
+$\mathrm{score}_{se} = \max_g \cos(\Delta\theta_{sg,e})\,e^{-d_{sg}/40}$ is a
+smooth wind-alignment control absorbing orographic anisotropy that rotates
+with the wind, $P_{se}$ is the in-plume indicator, and $S_e$ indicates seeded
+events. $\beta_1$ is the seeding effect; $\beta_0$ is a built-in placebo that
+must be zero, since no AgI is released in unseeded events. Fixed effects are
+removed by iterated two-way demeaning; confidence intervals are by bootstrap
+over events. Selection cannot generate $\beta_1 > 0 = \beta_0$: operators
+choose \emph{when} to seed, but they cannot rotate a precipitation
+enhancement around their generators in step with each storm's wind.
+
+\section{Results and Analysis}
+
+\subsection{Seasonal benchmark: the claimed effect is below the noise floor}
+The 45-year panel estimator yields an overall treatment effect of $-1.4\%$
+(95\% CI $[-6.0, +3.6]$) on winter precipitation across all Utah adoption
+cohorts, with a pre-adoption placebo of $+5.6\%$. Seasonal target/control
+analysis of station data therefore has a noise floor of roughly $\pm 6\%$
+--- wider than the lower half of the claimed 3--15\% range. Published
+seasonal evaluations reporting significant 5--20\% increases from comparable
+data should be interpreted with this in mind.
+
+\subsection{Selection bias is enormous at storm scale}
+Design 1 produces a pooled ``effect'' of $+69\%$, and $+335\%$ for the
+Central/Southern program (Table~\ref{tab:designs}) --- an order of magnitude
+beyond physical plausibility \citeparen{friedrich2020} and a direct
+quantification of operator storm selection: seeded storms are storms chosen
+for favoring the targets.
+
+\begin{table}[t]
+\caption{Pooled storm-level estimates across designs, winter 2024--25.
+Effects are percentage changes in storm-total precipitation at exposed
+stations; 95\% CIs by bootstrap over storm events.}
+\label{tab:designs}
+\small
+\begin{tabular}{@{}lrr@{}}
+\toprule
+Design & Effect & 95\% CI \\
+\midrule
+1. Far controls (naive) & $+69.0\%$ & $[-9.9, +220.8]$ \\
+2. Near-miss controls & $+24.2\%$ & $[+3.7, +49.7]$ \\
+\quad placebo: windows $+10$ days & $+0.2\%$ & $[-16.7, +20.7]$ \\
+3. Wind-rotation, per-generator & $+1.5\%$ & $[-9.6, +13.1]$ \\
+\quad placebo: unseeded events & $-8.4\%$ & $[-26.8, +10.3]$ \\
+\bottomrule
+\end{tabular}
+
+\medskip
+\footnotesize Source: author's calculations from DWR operations reports,
+HRRR, and SNOTEL data; full per-program results in the released repository.
+\end{table}
+
+\subsection{Near-miss controls: directionally positive, still inflated}
+Design 2 collapses the pooled estimate to $+24.2\%$ [$+3.7$, $+49.7$] over
+121 program-storm observations. The $+10$-day placebo returns $+0.2\%$
+[$-16.7$, $+20.7$], confirming the pipeline produces no mechanical effect;
+per-storm generator-hours correlate positively but insignificantly with the
+per-storm effect (Spearman $\rho = 0.13$, $p = 0.26$, $n=75$). The estimate
+nevertheless remains above the physically plausible range, consistent with
+residual selection: orographic enhancement on strong-flow seedable storms is
+naturally larger at the barrier than 55--130\,km downwind, and near-miss
+controls only partially absorb this.
+
+\subsection{Wind-rotation: no resolvable effect at one season}
+Design 3 yields $\beta_1 = +1.5\%$ [$-9.6$, $+13.1$] for in-plume exposure
+during seeded events, with the unseeded-event placebo at $\beta_0 = -8.4\%$
+[$-26.8$, $+10.3$] --- statistically zero, as required. (An intermediate
+specification using program-centroid rather than per-generator geometry
+produced an unseeded-event artifact of $+12\%$, illustrating that plume
+geometry matters: several Utah generator networks form north--south lines
+exceeding 100\,km, which a centroid represents poorly.)
+
+The point estimate sits exactly where the physical literature suggests a
+true operational effect should --- small and positive --- but one season of
+data cannot distinguish it from zero. Conversely, per-storm effects larger
+than approximately 15--20\% are excluded at conventional confidence levels.
+
+\subsection{Power and the path to resolution}
+The binding constraint is seasons, not stations. Winter 2024--25 supplies 26
+usable events and 121 program-event observations, giving Design 3 a CI
+half-width of $\sim$11 percentage points. Under simple $1/\sqrt{n}$ scaling,
+four to nine additional seasons of operations records --- which the Division
+of Water Resources maintains and provides on request --- would narrow the CI
+to $\pm 4$--$5\%$, sufficient to confirm or refute the 3--15\% operational
+claims. The marginal cost of extending the analysis is transcription of the
+operators' storm tables; all other inputs (HRRR, SNOTEL) extend
+automatically.
+
+\section{Discussion}
+
+Three conclusions follow. First, the headline numbers used to justify
+operational seeding budgets are produced by methods whose selection bias, at
+storm scale, we measure at more than an order of magnitude larger than any
+plausible true effect; seasonal versions of those methods have noise floors
+wider than the effects claimed. Second, the most selection-robust design
+available finds a small positive point estimate fully consistent with both
+the gold-standard physical evidence \citeparen{friedrich2020} and with zero
+--- after one season. The correct current statement about Utah's program is
+therefore agnostic: the claimed effect is neither confirmed nor refuted, and
+effects large enough to matter for interstate water accounting
+($\gtrsim$15--20\% per storm) are ruled out. Third, extra-area
+(``downwind'') effects on neighboring regions --- a recurring political
+concern --- are necessarily smaller than target-area effects and hence well
+below ground-based detectability at current program intensities.
+
+\subsection{Limitations}
+Wind sectors use each storm's mean 700\,hPa flow at the network; hourly
+wind shifts within storms are not modeled. SNOTEL gauges undercatch snowfall
+in wind, which attenuates but does not bias the estimates given fixed
+effects. Book Cliffs generator locations are approximate. The seeded/unseeded
+event labels inherit any errors in the operators' storm tables. Finally, the
+event catalog is built from precipitation, so completely dry seeded periods
+are unobservable; this biases against detecting effects only if seeding
+generates precipitation where none would otherwise occur, which the physical
+literature does not support at meaningful scale.
+
+\section{Data and Code Availability}
+All datasets constructed for this study (generator coordinates, storm
+operations record, storm winds, event-level results) and all analysis code
+are released at the accompanying repository. Every input derives from public
+sources: Utah DWR seasonal reports, NOAA HRRR (AWS Open Data), and USDA NRCS
+SNOTEL.
+
+\section{Acknowledgments}
+The author thanks the Utah Division of Water Resources for publishing
+operational seasonal reports at the level of detail that makes independent
+evaluation possible, and acknowledges the use of Claude (Anthropic) for
+research and engineering assistance throughout.
+
+\section{References}
+\newcounter{refc}
+\newcommand{\bibitemx}{\stepcounter{refc}\item[\arabic{refc}.]}
+\begin{itemize}[leftmargin=1.6em,itemsep=2pt,parsep=0pt]\small
+\bibitemx French, J.~R., et al. ``Precipitation formation from orographic
+cloud seeding.'' \emph{Proceedings of the National Academy of Sciences}
+115.6 (2018): 1168--1173.
+\bibitemx Friedrich, K., et al. ``Quantifying snowfall from orographic cloud
+seeding.'' \emph{Proceedings of the National Academy of Sciences} 117.10
+(2020): 5190--5195.
+\bibitemx Griffith, D.~A., M.~E. Solak, and D.~P. Yorty. ``30+ Winter Seasons
+of Operational Cloud Seeding in Utah.'' \emph{Journal of Weather
+Modification} 41 (2009). AMS preprint:
+\url{https://ams.confex.com/ams/pdfpapers/138877.pdf}.
+\bibitemx Utah Division of Water Resources. ``Cloud Seeding'' program page
+and 2024--25 seasonal reports. Accessed July 2026.
+\url{https://water.utah.gov/cloudseeding/}.
+\bibitemx NOAA. ``High-Resolution Rapid Refresh (HRRR).'' Registry of Open
+Data on AWS. \url{https://registry.opendata.aws/noaa-hrrr-pds/}.
+\bibitemx USDA Natural Resources Conservation Service. ``Air and Water
+Database (AWDB) REST API / SNOTEL.''
+\url{https://wcc.sc.egov.usda.gov/awdbRestApi/}.
+\bibitemx Borusyak, K., X.~Jaravel, and J.~Spiess. ``Revisiting Event-Study
+Designs: Robust and Efficient Estimation.'' \emph{Review of Economic
+Studies} 91.6 (2024): 3253--3285.
+\end{itemize}
+
+\end{document}
