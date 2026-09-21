@@ -2,7 +2,7 @@
 
 Pulls just winter 2024-25 daily PREC for all SNOTEL stations in the 7 states
 straight from the public AWDB API (cached in data/.local_snotel/), then runs
-storm_core.analyze_storms. Writes data/storm-results-2024-25.json.
+storm_core.analyze_storms. Writes data/results/storm-results-2024-25.json.
 
   uv run --with pandas --with pyarrow --with numpy --with requests \
       python run_storm_analysis.py
@@ -89,8 +89,8 @@ def main():
     per_storm = res.pop("per_storm")
     pd.DataFrame(per_storm, columns=[
         "program", "e0", "e1", "seeded", "exp_mean_in", "ctl_mean_in"]
-    ).to_csv(HERE / "data" / "storm-per-event-2024-25.csv", index=False)
-    out = HERE / "data" / "storm-results-2024-25.json"
+    ).to_csv(HERE / "data" / "results" / "storm-per-event-2024-25.csv", index=False)
+    out = HERE / "data" / "results" / "storm-results-2024-25.json"
     out.write_text(json.dumps(res, indent=2))
     print(json.dumps(res, indent=2))
 

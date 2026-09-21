@@ -43,7 +43,7 @@ def centroids():
 def storm_windows():
     rows = list(csv.DictReader(open(HERE / "data" / "seeded-storms-2024-25.csv")))
     # also cover every detected event window (incl. unseeded), if available
-    ev = HERE / "data" / "storm-per-event-2024-25.csv"
+    ev = HERE / "data" / "results" / "storm-per-event-2024-25.csv"
     if ev.exists():
         for r in csv.DictReader(open(ev)):
             rows.append({"program": r["program"], "date_start": r["e0"],
@@ -153,7 +153,7 @@ def main():
                          round(dir_from, 1), round(speed, 1), len(us)])
 
     # event-level winds (per program x detected event), if event file exists
-    ev = HERE / "data" / "storm-per-event-2024-25.csv"
+    ev = HERE / "data" / "results" / "storm-per-event-2024-25.csv"
     if ev.exists():
         ev_rows = []
         seen = set()

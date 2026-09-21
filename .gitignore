@@ -1,5 +1,9 @@
 data/.local_snotel/
+data/.snotel_archive/
 data/.wind_cache.json
+data/results/seasonal-panel.parquet
 paper/*.aux
 paper/*.log
 __pycache__/
+.DS_Store
+.venv/

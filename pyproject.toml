@@ -1,0 +1,13 @@
+[project]
+name = "seeding-verification"
+version = "1.1.0"
+description = "Independent, reproducible evaluation of Utah's operational cloud seeding programs from public data"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [{ name = "Bryce Judy" }]
+requires-python = ">=3.11"
+dependencies = ["pandas>=2.0", "pyarrow>=15", "numpy>=1.26", "requests>=2.31"]
+
+[project.optional-dependencies]
+winds = ["eccodes>=2.35"]
+figures = ["matplotlib>=3.8"]

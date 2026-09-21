@@ -1,0 +1,137 @@
+{
+  "panel": {
+    "stations": 476,
+    "station_winters": 18067,
+    "winters": [
+      1981,
+      2026
+    ],
+    "control_stations": 207,
+    "cohort_stations": 72,
+    "daily_obs": 13622811
+  },
+  "imputation_estimator_log_winter_prec": {
+    "overall_pct": -1.35,
+    "n_obs": 1030,
+    "by_cohort": {
+      "book_cliffs_tavaputs": {
+        "pct": -16.69,
+        "n": 6,
+        "stations": 2,
+        "first_winter": 2024,
+        "ci95": [
+          -28.49,
+          3.08
+        ]
+      },
+      "east_salt_lake_wasatch": {
+        "pct": -6.55,
+        "n": 28,
+        "stations": 1,
+        "first_winter": 1988,
+        "ci95": [
+          -12.31,
+          -1.2
+        ]
+      },
+      "east_shore_wasatch": {
+        "pct": 10.63,
+        "n": 30,
+        "stations": 10,
+        "first_winter": 2024,
+        "ci95": [
+          2.09,
+          23.53
+        ]
+      },
+      "high_uintas_south": {
+        "pct": 0.38,
+        "n": 260,
+        "stations": 10,
+        "first_winter": 2001,
+        "ci95": [
+          -7.36,
+          8.36
+        ]
+      },
+      "northern_utah_box_elder_cache": {
+        "pct": 6.07,
+        "n": 190,
+        "stations": 5,
+        "first_winter": 1989,
+        "ci95": [
+          0.96,
+          11.6
+        ]
+      },
+      "utah_other": {
+        "pct": -3.22,
+        "n": 36,
+        "stations": 12,
+        "first_winter": 2024,
+        "ci95": [
+          -17.86,
+          15.03
+        ]
+      },
+      "western_uintas": {
+        "pct": -5.09,
+        "n": 480,
+        "stations": 15,
+        "first_winter": 1989,
+        "ci95": [
+          -8.92,
+          -0.92
+        ]
+      }
+    },
+    "overall_ci95": [
+      -5.98,
+      3.56
+    ]
+  },
+  "event_study_pct_by_rel_year": {
+    "0": 8.85,
+    "1": -5.45,
+    "2": -13.97,
+    "3": -12.05,
+    "4": 19.36,
+    "5": 14.47,
+    "6": -6.3,
+    "7": 3.92,
+    "8": -1.22,
+    "9": 3.23,
+    "10": 25.09,
+    "11": -12.51,
+    "12": -5.34,
+    "13": -5.84,
+    "14": -26.32,
+    "15": -5.72,
+    "16": 15.66,
+    "17": 13.97,
+    "18": -4.9,
+    "19": -1.54,
+    "20": -2.53,
+    "21": -9.89,
+    "22": 25.07,
+    "23": -7.6,
+    "24": -6.82,
+    "25": -2.93,
+    "26": -21.75,
+    "27": -6.36,
+    "28": 14.33,
+    "29": -4.71,
+    "30": 2.99,
+    "31": -0.47,
+    "32": -13.38,
+    "33": -7.49,
+    "34": 19.22,
+    "35": 15.83,
+    "36": 8.56,
+    "37": -0.93,
+    "38": 4.82
+  },
+  "placebo_pre8yr_pct": 5.58,
+  "central_southern_double_ratio": 0.9493,
+  "double_ratio_caveat": "suspension winters 1984-87 were wet by construction; ratio biased toward showing a seeding effect"
+}

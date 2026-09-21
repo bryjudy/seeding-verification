@@ -42,7 +42,7 @@ def main():
     gens = pd.read_csv(HERE / "data" / "generators-2024-25.csv")
     cents = gens.groupby("program")[["lat", "lon"]].mean()
     evw = pd.read_csv(HERE / "data" / "event-winds-2024-25.csv")
-    per_event = pd.read_csv(HERE / "data" / "storm-per-event-2024-25.csv")
+    per_event = pd.read_csv(HERE / "data" / "results" / "storm-per-event-2024-25.csv")
     seeded_map = {(r["program"], r["e0"]): bool(r["seeded"])
                   for _, r in per_event.iterrows()}
 
@@ -143,7 +143,7 @@ def main():
             est["pct_ci95"] = [round(100 * (np.exp(lo_) - 1), 2),
                                round(100 * (np.exp(hi_) - 1), 2)]
         out[name] = est
-    (HERE / "data" / "v22-plume-rotation-results.json").write_text(
+    (HERE / "data" / "results" / "v22-plume-rotation-results.json").write_text(
         json.dumps(out, indent=2))
     print(json.dumps(out, indent=2))
 

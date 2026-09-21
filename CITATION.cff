@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code, the datasets, or these results, please cite the working paper."
+title: "Storm-Level Independent Verification of Operational Cloud Seeding: Evidence from Utah's 2024-25 Winter Season"
+authors:
+  - family-names: Judy
+    given-names: Bryce
+type: software
+year: 2026
+repository-code: "https://github.com/bryjudy/seeding-verification"
+license: MIT
+keywords:
+  - cloud seeding
+  - weather modification
+  - causal inference
+  - SNOTEL
+  - HRRR
+  - program evaluation

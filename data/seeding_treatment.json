@@ -1,0 +1,73 @@
+{
+  "_doc": "Treatment assignment for Utah seeding analysis. Winter season labeled by its ENDING year (1989 = 1988-89). Station assignment: by state+county (upper-case) from SNOTEL metadata; areas listed in priority order — first match wins.",
+  "areas": [
+    {
+      "name": "central_southern_utah",
+      "state": "UT",
+      "counties": ["BEAVER", "EMERY", "GARFIELD", "IRON", "JUAB", "MILLARD", "PIUTE", "SANPETE", "SEVIER", "WASHINGTON", "WAYNE", "KANE"],
+      "seeded_winters": {"start": 1974, "end": null, "gaps": [1984, 1985, 1986, 1987]},
+      "confidence": "high"
+    },
+    {
+      "name": "northern_utah_box_elder_cache",
+      "state": "UT",
+      "counties": ["BOX ELDER", "CACHE", "RICH"],
+      "seeded_winters": {"start": 1989, "end": null, "gaps": []},
+      "confidence": "medium",
+      "note": "'most winters' per NAWC; Cache Valley UAV program added ~2025"
+    },
+    {
+      "name": "east_salt_lake_wasatch",
+      "state": "UT",
+      "counties": ["SALT LAKE"],
+      "seeded_winters": {"start": 1988, "end": null, "gaps": [1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006]},
+      "confidence": "low",
+      "note": "1987-88 to 1994-95 program; Alta/Snowbird active again by 2007-08; Six Creeks added ~2024. Gap years approximate."
+    },
+    {
+      "name": "western_uintas",
+      "state": "UT",
+      "counties": ["SUMMIT", "WASATCH"],
+      "seeded_winters": {"start": 1989, "end": null, "gaps": [1994, 1996, 1997, 1998, 1999, 2000]},
+      "confidence": "medium"
+    },
+    {
+      "name": "high_uintas_south",
+      "state": "UT",
+      "counties": ["DUCHESNE", "UINTAH"],
+      "seeded_winters": {"start": 2001, "end": null, "gaps": []},
+      "confidence": "high"
+    },
+    {
+      "name": "book_cliffs_tavaputs",
+      "state": "UT",
+      "counties": ["CARBON", "GRAND"],
+      "seeded_winters": {"start": 2024, "end": null, "gaps": []},
+      "confidence": "medium",
+      "note": "2023 expansion; exact first season to confirm from DWR seasonal reports"
+    },
+    {
+      "name": "east_shore_wasatch",
+      "state": "UT",
+      "counties": ["DAVIS", "WEBER", "MORGAN"],
+      "seeded_winters": {"start": 2024, "end": null, "gaps": []},
+      "confidence": "medium"
+    },
+    {
+      "name": "utah_other",
+      "state": "UT",
+      "counties": ["*"],
+      "seeded_winters": {"start": 2024, "end": null, "gaps": []},
+      "confidence": "low",
+      "note": "2023 statewide expansion catch-all (Tooele, Utah, Daggett, San Juan...); treat as newly seeded"
+    }
+  ],
+  "excluded_control_regions": [
+    {"state": "CO", "reason": "San Juans/Grand Mesa/Gunnison/Vail-Summit long-running programs", "counties_blocklist": ["SAN JUAN", "SAN MIGUEL", "DOLORES", "LA PLATA", "HINSDALE", "OURAY", "MONTROSE", "DELTA", "MESA", "GUNNISON", "EAGLE", "SUMMIT", "PITKIN", "LAKE", "MINERAL", "ARCHULETA", "RIO GRANDE"]},
+    {"state": "NV", "reason": "DRI programs Tahoe/Carson, Ruby Mtns, Spring Mtns", "counties_blocklist": ["WASHOE", "DOUGLAS", "CARSON CITY", "STOREY", "ELKO", "CLARK", "LYON"]},
+    {"state": "WY", "reason": "Medicine Bow/Sierra Madre/Wind River programs 2005+", "counties_blocklist": ["CARBON", "ALBANY", "FREMONT", "SUBLETTE", "HOT SPRINGS"]},
+    {"state": "ID", "reason": "Idaho Power Payette 2003+/Boise-Wood 2008+/Upper Snake 2018+", "counties_blocklist": ["VALLEY", "ADAMS", "BOISE", "ELMORE", "CAMAS", "BLAINE", "BONNEVILLE", "FREMONT", "MADISON", "TETON", "SWAN VALLEY", "CARIBOU"]},
+    {"state": "AZ", "reason": "SRP Mogollon Rim programs", "counties_blocklist": ["GILA", "NAVAJO", "APACHE", "COCONINO"]},
+    {"state": "NM", "reason": "largely unseeded; keep all", "counties_blocklist": []}
+  ]
+}
