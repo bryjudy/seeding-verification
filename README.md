@@ -33,6 +33,16 @@ Utah runs the largest remotely controlled seeding network in the United States, 
 
 ![seasonal panel](figures/seasonal_panel.png)
 
+
+## What the state gets for $5M a year (2026-09-26)
+
+Turning the seven-season estimate into water, as a distribution rather than a number (`COST-ANALYSIS.md`, `src/cost_per_acre_foot.py`):
+expected gain ≈ 95k acre-feet a year (about 38% of the state's 249,600 AF claim) at ≈ $52/AF, versus the state's own $20/AF at today's
+budget (the ~$1/AF still quoted dates from 2009-10 costs). About one bootstrap draw in six has the program removing water from the target
+areas; about two-thirds deliver less than half the claimed volume. Cheap water is plausible; no water is possible; the claim is unsupported.
+
+![cost distribution](figures/cost_distribution.png)
+
 ## Why the wind-rotation design
 
 Silver iodide plumes travel downwind, so which gauges are exposed changes storm by storm with each storm's own wind. Design 3 estimates
