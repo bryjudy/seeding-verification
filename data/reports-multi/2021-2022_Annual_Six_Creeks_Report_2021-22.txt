@@ -1,0 +1,1075 @@
+1 
+ 
+ 
+Cloud Seeding Annual Report and 
+Evaluation 
+ 
+Program: 
+Six Creeks Program 
+2021-2022 Winter Season 
+ 
+Prepared For: 
+Salt Lake City Department of Public Utilities 
+And The 
+Utah Department of Water Resources 
+ 
+Prepared By: 
+David Yorty 
+Garrett Cammans 
+North American Weather Consultants, Inc. 
+8180 South Highland Dr. Suite B-2 
+Sandy, UT 84093 
+ 
+ 
+July 2022 
+  
+
+2 
+ 
+WEATHER MODIFICATION 
+The Science Behind Cloud Seeding 
+The Science 
+The cloud-seeding process aids precipitation formation by 
+enhancing ice crystal production in clouds. When the ice crystals 
+grow sufficiently, they become snowflakes and fall to the 
+ground.  
+Silver iodide has been selected for its environmental safety and 
+superior efficiency in producing ice in clouds. Silver iodide adds 
+microscopic particles with a structural similarity to natural ice 
+crystals. Ground-based and aircraft-borne technologies can be 
+used to add the particles to the clouds. 
+Safety 
+Research has clearly documented that cloud seeding with silver-
+iodide aerosols shows no environmentally harmful effect. Iodine 
+is a component of many necessary amino acids. Silver is both 
+quite inert and naturally occurring, the amounts released are far 
+less than background silver already present in unseeded areas. 
+Effectiveness 
+Numerous studies performed by universities, professional 
+research organizations, private utility companies and weather 
+modification providers have conclusively demonstrated the 
+ability for Silver Iodide to augment precipitation under the 
+proper atmospheric conditions.  
+ 
+1.  
+ 
+ 
+ 
+3 
+ 
+ 
+STATE OF THE CLIMATE 
+Every ten years, the National Oceanic and Atmospheric Association (NOAA) releases a summary of various 
+U.S. weather conditions for the past three decades to determines average values for a variety of 
+conditions, including, temperature and precipitation.  This is known as the U.S. Climate Normal, with a 30-
+year average, representing the “new normal” for our climate.  These 30 -year normal values can help to 
+determine a departure from historic norms and identify current weather trends.   
+The recently released 30-year average ranges from 1990 – 2020.  Images in Figure 1 and 2 show how each 
+30-year average for the past 120 years compares to the composite 20th century average for temperature 
+and precipitation.  For the western U.S., the 1990 -2020 average show much warmer than average 
+temperatures, in comparison to the 100-year 20th century average.  When comparing precipitation for the 
+past 30 years to both the previous 30-year average and the 1901-2000 average, the American Southwest 
+(including portions of Utah, Ar izona, California and Nevada) has seen as much as a 10% decrease in 
+average annual precipitation.  
+ 
+Figure 1 U.S. Annual Temperature compared to 20th-Century Average 
+ 
+
+4 
+ 
+ 
+Figure 2 U.S. Annual Precipitation compared to 20th-Century Average 
+  
+
+5 
+ 
+TABLE OF CONTENTS 
+1. EXECUTIVE SUMMARY .......................................................................................................................... 6 
+2. INTRODUCTION ..................................................................................................................................... 8 
+3. CLOUD SEEDING THEORY .................................................................................................................... 10 
+4. PROJECT DESIGN ................................................................................................................................. 11 
+4.1 Background ................................................................................................................................. 11 
+4.2 Seedability Criteria ...................................................................................................................... 11 
+4.3 Equipment and Project Set-Up ................................................................................................... 12 
+5. WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS ........................................................ 15 
+6. OPERATIONS ....................................................................................................................................... 18 
+6.1 Overview ..................................................................................................................................... 18 
+6.2 Operational Procedures .............................................................................................................. 23 
+6.3 Operational Summary ................................................................................................................. 23 
+7. ASSESSMENT OF SEEDING EFFECTS .................................................................................................... 34 
+7.1 Background ................................................................................................................................. 34 
+7.2 Evaluation Approach ................................................................................................................... 36 
+7.3 Target and Control Data Resulting Equations ............................................................................. 36 
+7.4 Results for the 2022 Water Year ................................................................................................. 39 
+ 
+  
+6 
+ 
+1. EXECUTIVE SUMMARY 
+Salt Lake City Department of Public Works (SLCDPW)  initially sponsored winter cloud seeding programs 
+targeting the Six Creeks drainage basin in Water Years 1989 through 1996, with NAWC operating these 
+programs. NAWC analysis of potential effects of the seeding indicated positive effects (~6% to 17% for 
+water years 1989 and 1990, Thompson, et al., 1990).  It was NAWC’s understanding that this program was 
+discontinued following water year (1996) due to budgetary considerations.  
+SLCDPW expressed an interest in the fall of 2018 in re-establishing a cloud seeding program to impact the 
+Six Creeks drainage basins that provide runoff to the Salt Lake Valley. A proposal was drawn up by NAWC 
+and accepted by SLCDPU in the fall of 2018, and the first season of operations for the current program 
+began in December 2019. 
+The current season’s cloud seeding program began on November 15, 2021 and ended on April 15, 2022.  
+A total of 2 1 storm events were seeded during all or portions of 3 5 days during the 2021-2022 season, 
+using a network  of eight ground -based silver iodide g enerators. No seeded storm  events occurred in 
+November this season although there were seven seeded events in December, followed by two in January, 
+two in February, seven in March and three additional seeded events in April.  A total of 1060.75 cumulative 
+hours of seeding generator operations were conducted during the season from the ground sites.  
+Snowpack and precipitation were again somewhat below normal in the Six Creeks project area during the 
+2021-2022 winter season, with a La Nina pattern in place si milar to the previous season.  As of April 15, 
+2022, sites in the Six Creeks target area reported snowpack water equivalent values ranging from roughly 
+60-80% of the median  values for that date , with an overall basin value around 70% of the average 
+(median).  
+There was only one seeding suspension that took place, specific to Little Cottonwood Canyon during the 
+last week of December.  Avalanche conditions became extremely high during that time, so that NAWC 
+avoided using sites which would affect that canyon in particular.  Seeding continued for the remainder of 
+the program.   
+Target/control evaluations have been  developed for the Six Creeks seeding program, utilizing NRCS 
+SNOpack TELemetry (SNOTEL) precipitation and snow water content data.  The precipitation evaluations 
+include those utilizing both December – March and November – April period totals.  For this report, 
+consistent with last season’s analysis, the December – March regressions were applied to the current 
+season. The other evaluations were based on April 1 snow water content (SWE) values.  The same set of 
+target and control sites was utilized for the various evaluations, which includes five target and three 
+control sites as detailed in Section 6.3 of the report.  For each data type (December – March precipitation, 
+November – April precipitation, and April 1 SWE), both linear and multiple linear regression equations 
+were developed.   
+Results of the regression analyses for Water Year 2021  were in rather good agreement , with the 
+precipitation evaluations (December – March, linear and multiple linear) yielding observed/predicted 
+ratios of 1.02 and 1.0 5, respectively.  Ratios above 1.0 are suggestive of an increase in target area 
+precipitation due to seeding, while values near or below 1.0 are not.  Given that these two values are both 
+above 1.0, they suggest with relative confidence positive seeding effect in the 2% to 5% range.   
+7 
+ 
+The four-season mean of evaluation yielded ratios of 1.01 and 1.03 (precipitation linear and multiple 
+linear), and 1.09 and 1.10 (snowpack linear and multiple linear).  This four-year mean analysis suggests 
+snowpack increases of up to 10% resulting from cloud seeding.   
+These re sults correspond to the results of longer running programs in nearby portions of the Rocky 
+Mountain Corridor. This correspondence provides additional justification for t he increase percentages 
+predicted by the four-year evaluation. NAWC will continue to perform these evaluations as long as the 
+program is operational . The statistical significance of the results of these ev aluations will increase with 
+each successive year of seeding and study. 
+ 
+Recommendations  
+NAWC sees tremendous opportunity for improving the program th rough the use of remotely operated 
+equipment. Remote equipment allows generators to be placed in areas that would be  inaccessible for 
+manual operations. One such location is on the point of the mountain North of the U tah State Capital. 
+This high elevation site, positioned north and west of the target area would prove ideal for seeding. 
+One remote generator would be sufficient to cover this area . The cost of the remote equipment can be 
+discussed if there is adequate interest in its’ adoption. 
+  
+8 
+ 
+2. INTRODUCTION 
+The history of cloud seeding operations for the Six Creeks drainage basins dat es back to the late 1980s. 
+Salt Lake City has sponsored winter cloud seeding programs targeting the area in water years 1989 
+through 1996. North American Weather Consultants (NAWC) operated these programs. NAWC analysis of 
+potential effects of the seeding indicated positive effects (about 6% to 17% for water years 1989 and 1990, 
+Thompson et al., 1990).  It was NAWC’s understanding that this program was discontinued following water 
+year 1996 due to budgetary considerations.  
+The Salt Lake City Department of Public Utilities (SLCDPU) was contacted by the Utah Division of Water 
+Resources regarding the cloud-seeding program.  Following discussions, SLCDPU expressed an interest in 
+re-establishing a cloud seeding program to impact the Six Creek’s drainage basins that provide runoff to 
+the Salt Lake Valley. This interest was expressed in a letter to Candice Hasenyager, coordinator of the Utah 
+Division of Water Resources cloud seeding programs, that would enable cost sharing of this program with 
+the Utah Division of Water Resources (e.g., up to 50% cost sharing state support).  
+NAWC contacted the SLCDPU  and it was agreed that NAWC would prepare a proposal to conduct a 
+program for the 2018 -2019 winter season.  The goal of the program would be to augment the flows of 
+City Creek, Emigration Creek, Parleys Creek, Mill Creek, Big Cottonwood Creek and Little C ottonwood 
+Creek. Figure 2.1 provides a map of the proposed target area (e.g., six creeks drainage areas above 6000 
+feet MSL). The SLCDPU accepted this proposal, and an agreement was signed effective November 19, 
+2018.  The program has generally been conduc ted between about mid -November and mid -April in the 
+subsequent seasons. This report focuses on the design, implementation, and operation of the program 
+for the 2021-2022 season. 
+9 
+ 
+ 
+Figure 2.1 Six Creeks Target Area 
+  
+
+10 
+ 
+3. CLOUD SEEDING THEORY 
+Clouds form when temperatures in the atmosphere reach saturation, that is, a relative humidity of 100%. 
+This saturated condition causes water vapor to condense around a nucleus forming a cloud droplet. These 
+nuclei, are known as cloud condensation nuclei. Clouds can be composed of water droplets, ice crystals 
+or a combination of the two. Clouds that are entirely warmer than freezing are sometimes referred to as 
+warm clouds. Likewise, clouds that are colder than freezing are referred to as cold clouds. Precipitation 
+occurs naturally from both types of clouds, though this process is not always efficient. 
+In warm clouds, cloud droplets that survive long enough, collide and grow to raindrop sizes, at which point 
+they can overcome updrafts within the cloud deck and fall to the ground as rain. This process is known as 
+collision/coalescence. This process is especially important in tropical clouds bu t can also occur in more 
+temperate climates. 
+In cold regions (< 0°C) of clouds, it is possible for cloud water droplets to remain in a liquid state while 
+below the freezing point (supercooled),  as a function of the purity of the cloud water droplets. In a 
+laboratory environment, pure water droplets can remain unfrozen down to a temperature of -39°C. In 
+natural settings temperatures as cold as -17°C are fairly common. 
+Supper cooled liquid water is the result  of the energetic nudge that is required to insti gate the freezing 
+process. Without an energetic nudge the freezing of water is not spontaneous at 0°C. Impurities in the air 
+can provide a surface for supercooled liquid water to congregate around and initiate the freezing process. 
+These impurities are re ferred to as ice n uclei. Examples of ice nucl ei include dust , salt and pollution 
+particles, or in seeded areas silver iodide. 
+Once an ice crystal is formed within a cloud it can grow due to surrounding water vapor,  eventually 
+forming a snowflake (diffusional growth). Ice crystals can also gain mass as they fall and contact, then 
+freeze, other supercooled clou d droplets, a process known as riming. These snowflakes may reach the 
+ground as snow if temperatures at the surface are 0°C or colder , or as rain if  surface temperatures are 
+warmer than freezing. 
+Research conducted in the late 1940’s demonstrated that tiny  particles of silver iodide , under the right 
+conditions, mimic natural particles and serve as freezing nuclei . Silver iodide is a particularly effective 
+nucleating agent at temperatures colder than -5°C. Silver iodide particles were shown to be much more 
+active at temperatures between -5°C and -15°C than other natural freezi ng nuclei found in the 
+atmosphere.  
+The basis of this and other winter time cloud seeding programs, therefore relies on the in tentional and 
+calculated introduction of silver iodide into appropriate storm systems. When performed in accordance 
+with industry best practic es and hist orical research programs, silver iodide  serves as a very effective 
+nucleating agent. The efficiency of the natural storm system can thus be improv ed resulting in higher 
+yielding snowfall events. 
+  
+11 
+ 
+4. PROJECT DESIGN 
+4.1 Background     
+Operational procedures during the 202 1-2022 Six Creeks cloud seeding program utilized the basic 
+principles of applying cloud seeding technology that have been shown to be effective during more than 
+40 years of winter cloud seeding for some mountainous regions of Utah. Continued increases in availability 
+of weather data and forecast products have led to improved seeding opportunity recognition capabilities, 
+and continued analysis of the effectiveness of operational cloud seeding projects is leading to improved 
+confidence in the accuracy of the long -term average effects of such programs. NAWC has incorporated 
+observational, seeding method and evaluation enhancements into the project when they are believed to 
+be of practical value. 
+4.2 Seedability Criteria 
+Project operations have utilized a selective seeding approach, which has proven to be the most efficient 
+method, providing the most cost-effective results. Selective seeding means that seeding is conducted only 
+during storms (or portions of storms) when seeding is likely to be effective. These decisions are based on 
+several criteria, which determine the seedability of the storm and deal with meteorological characteristics 
+(temperature, stability, wind flow and moisture content) associated with winter  season cloud systems. 
+The following points provide the seeding criteria, which NAWC has established for other Utah winter cloud 
+seeding program: 
+• Cloud bases near or (ideally) below the mountain barrier crest. 
+• Low-level wind directions and speeds would favor the movement of the silver iodide particles 
+from their release points into the intended target area. 
+• No low-level atmospheric inversions or stable layers that would restrict the vertical movement 
+of the silver iodide particles from the surface to at least the -5°C (23°F) level or colder. 
+• Temperature at mountain barrier crest height expected to be -5°C (23°F) or colder. 
+• Temperature at the 700 mb level (approximately 10,000 feet MSL) expected to be warmer than 
+-15°C (5°F) 
+ 
+Seeding cannot be effective unless the seeding material reaches portions of clouds equal to or colder than 
+the warmest activation temperature (near -5°C) for silver iodide. After combustion, the silver iodide 
+solution produces ice -forming nuclei (crystals), which closely resemble natural ice crystals in structure. 
+These crystals become active as ice -forming nuclei beginning at temperatures near -5°C (23°F) in-cloud. 
+Since experience has indicated that seeding is most effective within a particular temperature seeding 
+window (Griffith et al., 2013), the cloud seeding nuclei generators were operated only during those 
+periods when the temperatures within the cloud mass were between about -5°C and -25°C (+23°F to -
+13°F). Seeding will generally be effective within this range, if the cloud base is at a lower elevation than 
+the mountain crest and no temperature inversions or other stable layers exist between the elevation of 
+the cloud seeding generator and the cloud base. The existence of low -level inversions, or any significant 
+stable layers, can inhibit the effects of seeding by tra pping silver iodide particles released from ground -
+based sources and preventing them from traveling to portions of the cloud where they can aid in 
+nucleation and eventual precipitation production. For the seeding to be effective, the AgI crystals must 
+12 
+ 
+become active in the cloud region which contains supercooled liquid water droplets , with sufficient 
+downwind distance for the growth and precipitation process to affect the targeted areas .  If the AgI 
+crystals take too long to become active, or if the temperature upwind of the crest is too warm, the plume 
+will pass from the generator through the precipitation formation zone and over the mountain crest 
+without freezing the cloud drops in time to affect precipitation in the desired area. 
+Most storms that affect Utah’s mountains are associated with synoptic (large-scale) weather systems that 
+move into Utah from the southwest, west, or northwest.  Usually, they consist of a frontal system and/or 
+an upper trough, with the air preceding the front or trough flowing from the south or southwest.  As the 
+front/trough passes through the area, the wind flow changes to the west, northwest, or north and the 
+atmosphere cools.  Clouds and precipitation may precede the front/trough passage, or they may mo stly 
+occur along the boundary of the colder air mass that moves into the region, and in some cases, continuing 
+in the airmass behind the front or trough.   For that reason, the seeding generators were situated to enable 
+effective targeting in varying wind flow regimes, primarily ranging from southwesterly to northwesterly.  
+As a clarification of this, w inds in meteorology are reported  as the direction  from which the winds are 
+blowing. For example, a southwest wind means the winds are blowing from the southw est towards the 
+northeast. 
+4.3 Equipment and Project Set-Up 
+The locations of the eight seeding generators are shown in Figure 4.1, with site information in Table 4-1.  
+The sites were located to maximize their potential use during typical storm periods. 
+The cloud seeding equipment at each site includes a cloud seeding nuclei generator and a propane gas 
+supply tank. Figure 4.2 shows the White Reservoir site. The seeding solution consists of 2% (by weight) 
+silver iodide (AgI), complexed with small portions of sodium iodide and para-dichlorobenzene, in solution 
+with acetone. This particular formula is designed specifically to be a fast acting, nucleation agent via the 
+condensation-freezing mechanism, rather than via the slower contact nucleation mechanism. This is an 
+important characteristic, given the relatively narrow mountain barriers within the cloud seeding target 
+areas in Utah.   
+When a site is in operation, the propane gas pressurizes the solution tank, which forces the solution into 
+the burn chamber. The regulated seeding solution is sprayed into the propane flame, where microscopic 
+silver iodide crystals are formed through the combustion process. The silver iodide is released at a rate of 
+roughly eight grams per hour.  
+NAWC has a standing policy of operating within guidelines adopted to ensure public safety. Accordingly, 
+NAWC, working in conjunction with the Utah Division of Water Resources, has developed criteria and 
+procedures for the suspension of cloud seeding operations. Appendix A provides the resulting suspension 
+criteria. 
+13 
+ 
+  
+Figure 4.1 Target Area and Seeding Site Locations 
+Table 4-1 
+Seeding Site Locations 
+Site 
+Number Name Latitude 
+(°N) 
+Longitude 
+(°W) 
+Elevation 
+(feet) 
+1 Baskin Reservoir 40.7438 111.8183 4835 
+2 Mountain Dell Treatment 40.7488 111.7227 5380 
+3 45th South Pump Station 40.6747 111.8014 4950 
+4 White Reservoir 40.6772 111.7760 5620 
+5 Big Cottonwood Canyon 
+Water Treatment 40.6189 111.7818 4993 
+6 Little Cottonwood 40.576 111.798 5170 
+7 Wasatch Resort 40.571 111.763 5650 
+8 Alpine 40.479 111.755 5440 
+ 
+ 
+
+14 
+ 
+ 
+Figure 4.2 White Reservoir Cloud Seeding Site 
+ 
+  
+
+15 
+ 
+5. WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS  
+NAWC maintains a fully equipped project operations center at its Sandy, Utah headquarters.  
+Meteorological information is acquired online from a wide variety of sources, including some subscriber 
+services.  This information includes weather forecast model data, surface observations, rawinsonde 
+(weather balloon) upper -air observations, satellite i mages, NEXRAD radar information, and 
+weather/highway cameras.  This information helps NAWC meteorologists to determine when conditions 
+are appropriate for cloud seeding.  Each of NAWC’s meteorologists also has access to these same products 
+at home, to allo w continued monitoring and conduct of seeding operations outside of regular business 
+hours.  Figures 5.1 – 5.4 show examples of some of the available weather information that is used in this 
+decision-making process for operational cloud seeding programs.  
+ 
+ 
+Figure 5.1 Infrared satellite image at 2050 MDT on December 14, 2021 as a major frontal system 
+affected the state 
+
+16 
+ 
+ 
+Figure 5.2 Radar reflectivity radar image over northern Utah at 2059 MDT on December 14, 
+2021. 
+ 
+Figure 5.3 Radar depiction of vertically integrated water values in some showers on the 
+afternoon of March 5, 2022.  
+ 
+
+17 
+ 
+   
+Figure 5.4 Example of GFS (Global Forecast System) model output for a storm event over the 
+western U.S. on March 9.  Forecast model data is widely used by program 
+meteorologists in the analysis and forecast of conditions favorable to seeding 
+operations.   
+
+18 
+ 
+6. OPERATIONS 
+6.1 Overview 
+This season’s cloud seeding program for Six Creeks target area became active on November 15, 2021 and 
+ended on April 15, 2022.   A total of 21 storm events were seeded during all or portions of 35 days. There 
+were seven seeded events in December, two each in the months of January and February, seven in March, 
+and three additional seeding events in April. A total of 1060.75 cumulative hours of seeding generator 
+operations were conducted during the season from the ground sites. Table 6-1 provides the dates an d 
+ground generator usage for the season. Tables 6-2 a and b provides the hours of generator operations by 
+generator site location.  
+Table 6-1 
+Storm Dates and Generator Usage, 2021-2022 Winter Season  
+Storm Number Storm Period Number of CNGs 
+Operated Generator Hours 
+1 December 8-9 4 22 
+2 December 10 4 28.5 
+3 December 14-15 3 30 
+4 December 16-17 3 66 
+5 December 24-25 3 54 
+6 December 26 4 31 
+7 December 30-31 6 111.75 
+8 January 7-8 1 11.5 
+9 January 20-21 5 61.5 
+10 February 15-16 5 57.5 
+11 February 21 5 30.5 
+12 March 5-6 7 106.75 
+13 March 8-9 8 159.5 
+14 March 13 2 4 
+15 March 16 6 25.25 
+16 March 20 4 30.75 
+17 March 29 4 32.5 
+18 March 31 5 24.75 
+19 April 4-5 5 47.75 
+20 April 11-13 6 93 
+21 April 14-15 4 57 
+Total --- --- 1060.75 
+ 
+19 
+ 
+Table 6-2a 
+Generator Hours for 2021-22, Storms 1-12 
+Storm 1 2 3 4 5 6 7 8 9 10 11 12 
+Date 
+Dec 
+8-9 
+Dec 
+10 
+Dec 
+14-15 
+Dec 
+16-17 
+Dec 
+24-25 
+Dec 
+26 
+ 
+Dec 
+30-31 
+Jan 
+7-8 
+Jan 
+20-21 
+Feb 
+15-16 
+Feb 
+21 
+Mar 
+5-6 
+SITE             
+Baskin 
+Reservoir 5.5 7  22  8 18.75  11.5   5.75 
+Mountain 
+Dell 
+Treatment 
+5.5 7.5 13.25    18.25   4  20 
+4500 S Pump 
+House 5.5 7 8.25 22 18 8 19.25  11.5 12 4.25 4 
+White 
+Reservoir 5.5 7 8.5 22 18 8 19  11.75 12 5  
+Big 
+Cottonwood 
+Treatment 
+    18 7 18 11.5 12  4.75 20 
+Little 
+Cottonwood 
+Canyon 
+      18.5  14.75 24.5 8 21 
+Wasatch 
+Resort          5 8.5 21 
+Alpine            15 
+Storm Total 22 28.5 30 66 54 31 111.75 11.5 61.5 57.5 30.5 106.
+75 
+ 
+20 
+ 
+Table 6-2b 
+Generator Hours for 2021-22, Storms 13-21 
+Storm 13 14 15 16 17 18 19 20 21 
+Date 
+Mar 
+8-9 
+Mar 
+13 
+Mar 
+16 
+Mar 
+20 
+Mar 
+29 
+Mar 
+31 
+Apr 
+4-5 
+Apr 
+11-13 
+Apr 
+14-15 
+SITE          
+Baskin 
+Reservoir 23  4 7.75 8 5  2  
+Mountain 
+Dell 
+Treatment 
+23.75 1 5  8.5   5  
+4500 S Pump 
+House 18.75  4 8  5 2.5   
+White 
+Reservoir 18.75  4 7.5 8 5 2.25 27.5  
+Big 
+Cottonwood 
+Treatment 
+22.5 3 5.25  8 5.5 14 6 14.5 
+Little 
+Cottonwood 
+Canyon 
+22.5  3 7.5   14.5 24.5 15 
+Wasatch 
+Resort 24     4.25 14.5 28 14.5 
+Alpine 6.25        13 
+Storm Total 159.5 4 25.25 30.75 32.5 24.75 47.75 93 57 
+ 
+ 
+Snowfall for the 2021-2022 winter season was below normal (median) values for all of the target area and 
+most of northern Utah. As of April 15, 2021, SNOTEL sites in the Six Creeks target area reported snowpack 
+water content ranging from about 60% to 80% of the median, with an overall basin value of 70% of the 
+median snowpack. Water Year precipitation, due in large part to a very wet October, was much closer to 
+the median value at 97%.  Data for each SNOTEL site is provided in Table 6-3.  
+ 
+21 
+ 
+Table 6-3 
+Snowpack and Precipitation Data from SNOTEL sites – April 15, 2022 
+ 
+Measurement Site 
+Snow Water Equivalent (in) Water Year Precipitation (in) 
+4-15-22 Median % 4-15-22 Median % 
+Louis Meadow 5.5 6.5 85% 23.1 22.5 103% 
+Lookout Peak 19.0 25.8 74% 28.4 30.8 92% 
+Parleys Summit 9.1 10.8 84% 23.2 22.7 102% 
+Mill-D North 13.8 22.2 62% 25.9 25.8 100% 
+Brighton 13.7 22.2 62% 26.4 26.2 101% 
+Snowbird 31.6 38.8 81% 34.1 35.5 96% 
+Basin Index %   70%   97% 
+ 
+Figures 6.1 to 6.3 show plots of data from three SNOTEL sites located in the target area during the 2021-
+2022 winter season. Figure 6.4 shows the seasonal snow water equivalent time series data for the Provo-
+Utah-Jordan Basin as a whole compared to average values and some recent winter seasons.  
+ 
+ 
+ 
+Figure 6.1. NRCS SNOTEL snow and precipitation plot for Louis Meadow.  Historical max/min 
+values shown as purple and red lines; median as green; current season as black.  
+
+22 
+ 
+ 
+Figure 6.2. NRCS SNOTEL snow and precipitation plot for Mill D – North.  Historical max/min 
+values shown as purple and red lines; median as green; current season as black. 
+ 
+Figure 6.3. NRCS SNOTEL snow and precipitation plot for Snowbird. Historical max/min values 
+shown as purple and red lines; median as green; current season as black. 
+
+23 
+ 
+ 
+Figure 6.4 NRCS SNOTEL snow and precipitation plot for Brighton. Historical max/min values 
+shown as purple and red lines; median as green; current season as black. 
+6.2 Operational Procedures 
+ 
+In operational practice, approaching storms were monitored at the NAWC operations center at NAWC’s 
+corporate offices located in Sandy, Utah utilizing online weather information. If the stor m met the 
+seedability criteria presented in Table 3 -1, and if no seeding curtailments or suspensions were in effect, 
+an appropriate array of seeding generators were activated and adjusted as conditions required. Seeding 
+continued as long as conditions were  favorable and seedable clouds remained over the target area. In a 
+normal sequence of events, certain generators would be used in the early period of storm passage, some 
+of which might be turned off as the wind direction changed, with other generators then  used to target 
+the area in response to the evolving wind pattern. The wind directions during productive storm periods 
+in the Six Creeks target area usually favor a northwesterly or southwesterly direction. In meteorology wind 
+direction is reported in term s of the direction from which the wind is blowing; for example, a 
+northwesterly wind would be blowing from the northwest toward the southeast.  
+ 
+6.3 Operational Summary 
+This section summarizes the weather conditions and seeding operations during the season’s storm events. 
+All times are local (MST/MDT) unless otherwise noted.  
+ 
+November 2021 
+Following a wet October, November was generally a dry and mild month.  There were some limited 
+operations for a separate program targeting the Snowbird resort within the Six Creeks area, but otherwise 
+conditions were not favorable for targeting the Six Creeks program after it became active on November 
+
+24 
+ 
+15.  Figure 6.5 shows November precipitation around the state as a percentage of normal.  The Six Creeks 
+area is in an area which received about 30% of the normal monthly precipitation.   
+ 
+ 
+Figure 6.5 November 2021 precipitation percent of normal  
+ 
+December 2021 
+Dry and mild conditions persisted across the area through the first week of December. A long wave trough 
+pattern then developed across the western U.S. starting around December 8. This resulted in an extended 
+period of cold and wet weather with numerous storm events during the remainder of the month . There 
+were seven seeded storm periods during the month of December.  Avalanche conditions were carefully 
+monitored before and during each event to ensure that all regulations were honored. December 23 -31 
+
+25 
+ 
+saw av alanche danger increase and become high across the area which prompted the suspension of 
+seeding operations for Little Cottonwood Canyon in particular. Seeding did continue for most of the Six 
+Creeks target area. 
+The first seeded storm event of the season occurred during the morning to midday hours of December 9, 
+with widespread precipitation over the area.  Temperatures cooled to below -6 C at 700 mb in 
+northwesterly flow.  By early afternoon precipitation and seeding ended.  By the morning of December 
+10, temperatures had become quite cold (near -15 C at 700 mb) and northwesterly flow led to lake effect 
+snow showers.  Seeding was conducted again during the morning through midday hours of the 10 th  to 
+target this activity.  Although only portions of this storm event (which began on December 8) were seeded 
+for the Six Creeks program, the storm as a whole produced over an inch of water content for most of the 
+target area from December 8-10.   
+A strong frontal system moved into northern Utah on the evening of  December 14, with widespread 
+moderate to heavy precipitation and some strong winds.  As temperatures cooled overnight, conditions 
+became favorable for seeding in the post -frontal environment and snow showers continued over the 
+Wasatch Range.  Seeding was conducted from late in the evening on the 14th until about mid-morning on 
+the 15th when snowfall activity ended.  Although much of the precipitation occurred in the warm portion 
+of this storm before seeding operations began, storm totals exceeded an inch o f water content across 
+most of the Six Creeks target area.  Most ski areas reported 10-20 inches of snowfall.   
+Seeding began in the late afternoon of December 16 as temperatures cooled in northwesterly flow and a 
+trough brought snow showers to the area.  Low-level stability in the Salt Lake Valley was a potential issue 
+at times in this event, although seeding sites ran overnight and conditions appeared at least marginally 
+good for mixing of the material.  Some convective type snow showers occurred with temperatures cooling 
+to below -13 C at 700 mb on the morning of December 17.  Seeding operations continued in through 
+midday and much of the afternoon on December 17 with nice looking convective  clouds as well as 
+orographic snow showers and some lake enhancement in northwesterly flow.  By late afternoon moisture 
+decreased and operations ended.  Precipitation totals with this system were around 0.5 – 0.8” of water 
+content in the target area.   
+Another significant snowfall event affected the area from December 23-25.  Initially, the main snow band 
+was producing snowfall from a higher cloud deck and appeared naturally efficient so that no seeding was 
+conducted on the 23 rd.  Latter portions of the event, beginning on the evening of the 24 th, contained 
+orographic and somewhat convective type showers that appeared good for seeding.  Precipitation ended 
+mid-morning on the 25 th along with seeding ops.  The seeded portion of this event produced about a 
+quarter inch of water equivalent with heavier amounts in the initial portion.  Seeding was suspended for 
+Little Cottonwood Canyon due to avalanche conditions there.  
+A strong cold front, with some significant wind activity and snow squalls, affected the area on December 
+26.  Seeding was conducted during the daytime hours , although temperatures were fairly cold and 
+dropped to below -15 C at 700 mb following the frontal passage.  Precipitation totals ranged from about 
+0.20 – 0.60” of water equivalent. 
+Some additional storm periods late in December featured mostly light sno wfall and clouds composed of 
+mostly ice, generally not favorable for seeding operations.  However, a significant snowfall event on 
+December 30-31 produced good conditions for seeding beginning in westerly flow on the afternoon of 
+26 
+ 
+the 30 th.  Seeding continued in northwesterly flow until late morning on the 31 st, with temperatures 
+becoming quite cold (well below -15 C at 700 mb) by later in the day so that clouds were composed mainly 
+of ice and conditions were no longer favorable.  Precipitation totals with this storm event as a whole were 
+greater than expected, with well over 1.5” of water content in most of the Six Creeks area.  
+December precipitation was about 150-200% of the monthly average, as shown in Figure 6.6. 
+  
+ 
+Figure 6.6 December 2021 precipitation, percent of average 
+ 
+January 2022 
+
+27 
+ 
+Aside from a wet period from approximately January 4 -7 that brought significant snowfall to portions of 
+northern Utah, January was a generally dry month.  Some of the storm events that did make their way 
+into the area were very lacking in moisture and contained arctic air.  A temperature inversion during 
+portions of the month also inhibited operations.  In all, there were only two seedable storm period in 
+January.  
+ A strong zonal flow pattern brought precipitation focused north of the area during the January 4-7 period.  
+Some light precipitation occurred at times but with warm temperatures and lower level stability being an 
+issue.  The Six Creeks program was near the southern edge of the main precipitation ac tivity during this 
+period, although orographics were good and the target area generally picked up over 2 inches of water 
+content during this time period as a whole.  There was only some minimal seeding conducted (from one 
+site) on the night of January 7-8 as temperatures cooled somewhat on the tail end of this stormy period.  
+However, conditions became quite dry by the morning of the 8th. 
+A fairly weak and splitting system did provide a seeding opportunity on the night of January 20 -21.  The 
+700 mb temperature fell from near -5 C on the 20th to near -12 C by the morning of the 21st.  Precipitation 
+totals of around a quarter inch were measured, with seeding ending on the morning of the 21st.   
+Portions of the Wasatch around the Six Creeks area received anywhere from about 30-70% of the January 
+average (Figure 6.7), basically all occurring with the event early in the month.  There was a strong north-
+south gradient observed due to the location of this event affecting mainly far northern portions of the 
+state.   
+28 
+ 
+ 
+ 
+Figure 6.7 January 2022 precipitation, percent of average 
+ 
+February 2022 
+ An unfavorable weather pattern remained locked in place during February, with only a few weak 
+systems that generally arrived from the north and lacked any significant moisture.  Temperatures 
+inversions became fairly widespread over portions of northern Utah during much of the month and these 
+also minimized any seeding potential.   There were two seeded storm periods in February. 
+A trough moving into the area from the north brought some snow showers beginning the night of February 
+15 but mainly during the day on the 16th.  The 700 mb temperature cooled to around -12 C with improved 
+mixing during the daytime hours and some nice orographic and convective type snow showers developed 
+
+29 
+ 
+that looked pretty favorable for seeding per visual and other observations.  Seeding was conducted mainly 
+on the 16 th at several sites favorable to northwesterly flow.  Precipitation totals of 0.2 to 0.4” were 
+observed.   
+A frontal band with light snowfall  moved southward across the area on the morning of February 21.  
+Although most clouds were relatively high and moisture with this system was lacking, there were a few 
+lower clouds and seeding was conducted during the morning to midday hours from several si tes.  
+Precipitation totals were limited, around 0.1 to 0.3”.   
+February precipitation was under 30% of the normal monthly amount, as shown in Figure 6.8. 
+ 
+ 
+Figure 6.8 February 2022 precipitation percent of average 
+
+30 
+ 
+March 2022 
+The weather pattern  became somewhat more active during March, although precipitation amounts 
+around the region were highly variable and generally on the low side.  Many of the storm events that 
+affected the area continued to lack low level moisture, which was very characteristic of the season as a 
+whole.   
+A storm event on March 5 -6 broug ht a complex wind pattern to the area as a partially closed low 
+developed over the southern Great Basin with several smaller scale circulation centers.  A surface frontal 
+boundary over northern Utah merged with a mid -level feature arriving from the southwest late in the 
+afternoon, setting off widespread showers and some locally heavy thunderstorms near the southern Salt 
+Lake Valley.  This was followed by widespread precipitation which turned to snow in the valley as 700 mb 
+temperatures dropped below -8 C overnight.  Seeding began on th e afternoon/evening of March 5 and 
+continued overnight during this widespread moderate snowfall event (locally heavy in some lower 
+elevation areas around the Salt Lake Valley).  By early afternoon  on the 6 th, snowfall and seeding 
+operations ended.  Precipitation totals ranged between about 0.5 – 1.0” in the Six Creeks area with this 
+event.  
+A trough embedded in a strong west-northwest flow pattern brought snowfall into the area beginning on 
+the afternoon of March 8 in southwesterly flow.  A frontal zone moved through in the evening with winds 
+shifting to the northwest overnight.  The 700 mb temperature was around -10 to -12 C.  A band of heavier 
+snowfall moved over the area during the early morning hours of March 9 followed by scattered convective 
+snow showers during the day with some cold advection in northwesterly flow.  Snow showers and seeding 
+ended during the evening of the 9 th.  Overall, this was one of the most seeded events and utilized all of 
+the available seeding sites at least during some time per iod.  It was also one of the biggest events with 
+about 1-2” of snow water content in most of the target area. 
+A weak, fast -moving system on March 13 produced a brief seeding opportunity as some convective 
+showers and thundershowers developed during the la te afternoon.  Low -level moisture was generally 
+lacking, with fairly high-based clouds.  Some brief seeding was conducted from a couple of sites. Despite 
+the lack of lower-level moisture, the target area received up to over a half inch of snow water content in 
+places.   
+A weak system on March 16, combined with some lower-level moisture plus daytime heating resulted in 
+convective snow shower development.  Temperatures were good, near -8 C at 700 mb with light 
+northwesterly winds.  Seeding was conducted for these showers during the midday and afternoon hours.  
+Precipitation amounts were fairly light and scattered, mostly under a quarter inch. 
+A cold frontal passage during the day on March 20 resulted in a seeding opportunity, using several sites, 
+from the late morning through the afternoon hours.  The 700 mb temperature dropped to around -10 C 
+behind the front and some weakly convective snow showers developed during the afternoon hours.  This 
+activity ended by about sunset with clearing skies.  Precipitation amounts approaching a half inch were 
+common at SNOTEL sites in the target area for this event.  
+A surprisingly good situation developed on March 29 with a weak trough over the area.  The lower levels 
+were fairly moist with dew point values well above free zing.  Daytime heating combined with strong 
+orographic effects to produce a persistent area of convection (including lightning activity) al igned with 
+31 
+ 
+the Wasatch Range and the eastern portion of the Salt Lake Valley.  This activity  persisted through the 
+afternoon and early evening and  included some graupel  and small hail , an indication of significant 
+amounts of supercooled water.  Winds had a fairly strong northerly component, so essentially the 
+northern half of the seeding site array was active from  midday through the early evening hours.  
+Precipitation amounts were locally much higher than forecast, ranging up to an inch or more of water 
+content in some parts of the target area.   
+A weak system crossed the area on March 31 with light northwesterly winds, and a 700 mb temperature 
+around -5 C.   Light precipitation was mostly falling from higher clouds initially, but lower-level moisture 
+increased by midday and some scattered convective showers developed in the afternoon.   Seeding was 
+conducted from the late morning until late afternoon, when showers ended.  Precipitation was pretty 
+minimal with this system, generally 0.1” or less.   
+Figure 6.9 shows March precipitation as a percentage of normal, which was quite variable geographically 
+but generally in the vicinity of 70% for the Six Creeks area.   
+ 
+ 
+   
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+Figure 6.9 March 2022 precipitation, percent of average 
+ 
+April 2021 
+April precipitation was again quite variable over the area, with a strong north-south gradient near the Six 
+Creeks watershed.  The storm track was somewhat active and strongly favored northern portions of the 
+state.  This produced three seeding opportunities in April, prior to the program ending for the season on 
+April 15. 
+Somewhat favorable seeding conditions developed on the night of April 4-5, as a frontal system affected 
+northern Utah.  Temperatures were quite warm initially but conditions improved into the early morning 
+hours of April 5.  Seeding was conducted from a few sites overnight with a couple additional sites added 
+
+33 
+ 
+on the morning of the 5 th.  However, conditions became unfavorable by late morning with only some 
+higher clouds over the area, and operations ended.  This system broug ht variable amounts of 
+precipitation, mainly focused on higher elevations of the target area where locally over a half inch of water 
+content was received.   
+An unseasonably large and cold trough affected the area during the April 11-13 period, with a strong cold 
+front arriving on the evening of the 11th.  The 700 mb temperature dropped from about 0 C ahead of the 
+front to as cold as -15 C by the morning of the 12 th.  A band of heavy snowfall affected the area on the 
+evening of the 11 th in the frontal zone,  followed by convective type snow showers on the 12 th in cold 
+northwesterly flow.  There was some lake enhancement of the snow showers locally as well.  However, 
+on the 12th lower-level moisture was notably lacking with dew points becoming quite low.  Much of the 
+seeding ended on the 12 th for this reason, although seeding was continued at a couple of the more 
+favorable sites again overnight (April 12 -13) and into the 13 th as a similar situation persisted, with some 
+lake enhanced snow showers.  Seeding finally ended by the afternoon of the 13 th.  Precipitation totals 
+from this event were generally between 1.0 – 1.6” of water content in the target area, with fairly 
+impressive amounts of low-density snowfall accumulating.   
+As a cold trough lingered over the Pacific Northwest on April 14-15, a band of light snowfall developed in 
+a southwesterly flow pattern and seeding began from some favorable sites on the evening of the 14 th.  
+Some weak convective snow showers persisted in westerly flow on the morning of the 15 th, and seeding 
+continued until almost midday for higher portions of the watershed.  Seeding operations ended before 
+noon, and this was the final seeded event of the season.   
+Figure 6.10 shows precipitation percentages of normal in April, which were near normal in portions of 
+northern Utah down to about the Six Creeks area and generally well below normal elsewhere.  
+ 
+ 
+ 
+34 
+ 
+ 
+ 
+Figure 6.10 April 2022 precipitation, percent of average 
+ 
+7. ASSESSMENT OF SEEDING EFFECTS 
+7.1 Background 
+Historically, in weather modification, the most significant seeding results have been observed in 
+wintertime seeding programs for snowpack augmentation in mountainous areas. The apparent increases 
+due to seeding are generally less than 20% for individual seasons, and in the range of 5-15% for the long-
+term average. This section of the report summarizes statistical evaluations of the effects of the cloud 
+seeding on the precipitation and snowpack for the Six Creeks program. When expressed as percentages, 
+
+35 
+ 
+the increases may not initially appear to be particularly high. However, when considering that these 
+increases are area-wide averages covering thousands of square miles, the volume of the increased runoff 
+is significant. 
+NAWC has used a commonly employed evaluation technique referred to as the target and control 
+comparison, based on evaluating the effects of seeding on a variable that would be affected by seeding 
+(such as precipitation or snow water content). Records of the variable to be evaluated are acquired for an 
+historical (non -seeded) period of sufficient duration, ideally 20 years or more. These records are 
+partitioned into those that lie within the designated seeded  target area of the project and those in 
+appropriate control areas. Ideally the control area consists of sites well correlated with the target area 
+sites, but which would be unaffected by any seeding programs. All the historical data , precipitation, in 
+both the target and control areas are taken from a period that has not been subject to cloud seeding 
+activities, since past seeding could affect the development of a relationship between the target and 
+control areas. These two sets of data are analyzed mathematically to develop a regression equation which 
+estimates (calculates) the most probable amount of natural target area precipitation, based on the 
+amount of precipitation observed in the control area. This equation is then used during the seeded period 
+to estimate what the target area precipitation should have been in the absence of cloud seeding. A 
+comparison can then be made between the estimated natural target area precipitation and that which 
+occurred during the seeded seasonal periods. 
+This target and control technique works well where a good statistical correlation can be found between 
+the target and control area variables. Generally, the closer the control sites are to the seeding target area, 
+the higher the correlation will be. Control sites, which a re too close to the target area, however, can be 
+subject to seeding impacts, which would result in an underestimate of the seeding effect. For precipitation 
+and snowpack assessments, correlations of 0.90 or better are considered excellent and correlations 
+around 0.85 are good. A correlation of 0.90 indicates that over 80% of the variance (random variability) in 
+the historical data set is explained by the regression equation. Correlations less than about 0.80 are still 
+acceptable, but it would likely take much longer (many more years of comparison) to attach any statistical 
+significance to the apparent seeding results. 
+For the Six Creeks program, which was originally active in the late 1980s through mid-1990s, a 
+target/control evaluation was developed in the early 1990s and used to estimate the seeding effects. The 
+regression equation developed at that time utilized precipitation data from various sources. This was 
+before a significant SNOTEL data climatology was available, as most of the SNOTEL sites were installed in 
+the late 1980s in this area, with the earliest sites being installed in the late 1970s. Most of the other types 
+of precipitation gauges used in the early analysis are no longer consistently active or have poor data 
+availability (e.g., data gaps) compared to SNOTEL data which normally has no missing data.  Additionally, 
+lower elevation precipitation sites have poorer correlation to the higher elevations of the seeding target 
+area than do similar high-elevation (i.e., SNOTEL) control sites.  Therefore, the various recently developed 
+target/control analyses for this program, which can be applied to the past and current seeded  seasons 
+(and to any future seeded seasons), are based solely on SNOTEL data. The historical regression period of 
+22 years consi sts of the non -seeded water years of 1997 -2018, which is considered an adequate base 
+period. The earlier seeded seasons of 1988 -1996 can be considered an external data set for these more 
+recent evaluations, and considered separately from the recent seeded season data during the current 
+program.  
+36 
+ 
+7.2 Evaluation Approach 
+The state of Utah (as well as many other westerns states) has an excellent SNOTEL data collection system. 
+These automated sites collect both cumulative precipitation and snow water content d ata. Precipitation 
+and snowpack data used in these analyses were obtained from Natural Resources Conservation Service 
+(NRCS) SNOTEL sites and are publicly available online. For evaluation of a seeding program, the 
+precipitation data are typically summed over a representative season (for example, November – April or 
+December – March) which can be used consistently in the evaluation, even though the seasonal period of 
+seeding operations may potentially vary somewhat from one season to another. April 1 snow wa ter 
+equivalent (SWE) measurements are hydrologically strategic and have typically been used for the 
+snowpack portion of the seeding evaluations, since at high elevation sites the April 1 SWE frequently 
+represents the approximate maximum snow accumulation f or the winter season. Most streamflow and 
+reservoir storage forecasts are also made by state water agencies based on the April 1 snowpack data. 
+Some potential pitfalls with snowpack measurements must be recognized when using snow water content 
+to evaluate seeding effectiveness. One potential problem is that not all winter storms are cold, and 
+sometimes rain falls in the mountains. At some lower elevation mountain sites this can lead to a disparity 
+between precipitation totals (which include all precipitatio n that falls) and snowpack water content 
+(which includes only the water content of the snowpack at a particular time). In addition, warm periods 
+can cause some melting of the snowpack prior to April 1. If the melting is sufficient, the water content in 
+the snow can be lower than the total amount which actually fell. Additionally, not all storms that produce 
+snow in the higher elevation areas of Utah are seeded. Since the April 1st snow water content usually 
+represents total seasonal snowpack accumulation, the apparent results of a seeding program conducted 
+for a portion of the accumulation season will be less (in terms of the percentage increase) than if only the 
+seeded period was evaluated. 
+In evaluating the SNOTEL site data, double-mass plots were produced as a quality control measure. These 
+are a special type of scatterplot of cumulative data over a specified time period, allowing a chronological 
+comparison of two sites, or a site vs. a group data mean, etc. The purpose is to test for outliers in the data 
+or long-term changes in the relationships between sites, which would negatively affect a target/control 
+evaluation. In some cases, sites, which appear to be outliers in this way, may be excluded from the 
+analyses. For these equations, potential target and control sites were compared in this way for the non -
+seeded seasons. In general, the data were in good agreement for both precipitation and snowpack during 
+these seasons. However, one potential control site (Timpanogos Divide), which is just south of the Si x 
+Creeks target area, had data that varied somewhat from that of most other sites during certain time 
+periods. The location of this particular site also suggests that, although technically outside of the target 
+area, it is likely subject to some seeding effects in northwesterly wind patterns. Due to these factors, a 
+decision was made to exclude it as a control site.  
+7.3 Target and Control Data Resulting Equations 
+The precipitation evaluation equations utilize SNOTEL data summed over both the November – April and 
+December – March seasonal periods. This allows some flexibility in focusing the precipitation analysis on 
+the seasonal periods when seeding actually takes place, if the program is active in future seasons. The 
+snowpack (SWE) equations utilize April 1 data, although data from other dates could be selected (which 
+would require the development of new regression equations). April 1 SWE may include snow that 
+accumulated before seeding began in a particular season, and would exclude the effect s of any seeding 
+37 
+ 
+after April 1, etc. In some seasons, snowmelt prior to April 1 may also affect the SWE analyses to an extent. 
+For these reasons, the snowpack (SWE) equations have slightly lower correlations and the results may be 
+less reliable than those produced by the corresponding precipitation analyses.  
+Figure 7.1 shows a map of the target area and the five target SNOTEL sites, while Figure 7.2 shows the 
+locations of the three control sites in relation to the target area. Location and elevation inform ation for 
+these sites is provided in Table 6-1. The five SNOTEL sites selected within the seeding target area should 
+represent this area well in terms of their geographic locations and the potential to quantify seeding 
+effects. The three control sites were  selected based on the desire to bracket the target area 
+geographically, especially in the north-south dimension. This helps to account for storm track variations 
+and to avoid cross seeding effects on other seeding programs at the control sites. This is a challenging 
+task, due to the number of seeding programs in Utah. A site north of the target area (Farmington SNOTEL) 
+and a couple of sites in eastern/northern Nevada, Berry Creek and Pole Creek, were selected as controls. 
+The two Nevada sites are also util ized as controls for other Utah seeding programs. A SNOTEL site  
+(Cascade) located to the south of Timpanogos was analyzed as a potential control; however, that site had 
+a shorter period of record, which begins in 2003. It also did not compare well to other sites in the area on 
+a double-mass plot, with many seasonal and multi -seasonal variations in comparison to the other sites. 
+The final selection of the three control sites shown in Figure 7.2 should be ideal for producing a realistic 
+forecast of “natural” target area precipitation for comparison to the observed values during the seeded 
+seasons.  SNOTEL sites located inside the Six Creeks target area are utilized as the set of target sites.  
+ 
+Figure 7.1 Six Creeks SNOTEL Target Site Locations (target area denoted in red) 
+
+38 
+ 
+ 
+Figure 7.2 Six Creeks SNOTEL Control Site Locations 
+Table 6-1 
+Target and Control SNOTEL Sites for Precipitation and Snowpack Evaluations 
+Site Name Latitude Longitude Elevation (feet) 
+Target Sites 
+Snowbird 40°34’ N 111°40’ W 9177 
+Brighton 40°36’ N 111°35’ W 8766 
+Mill-D North 40°40’ N 111°38’ W 8963 
+Parley’s Summit 40°46’ N 111°38’ W 7585 
+Lookout Peak 40°50’ N 111°43’ W 8161 
+Control sites 
+Farmington (Upper) 40°58’ N 111°49’ W 7902 
+Berry Creek, NV 39°19’ N 114°37’ W 9377 
+Pole Creek, NV 41°52’ N 115°15’ W 8360 
+ 
+The linear regression equation developed from the historical relationship between the control and target 
+groups is of the following form:   
+ YC = A(XO) + B  
+where YC is the calculated average target area precipitation (inches) for a specific period (e.g., December-
+March), and XO is the control average observed precipitation for the same period. The coefficients A and 
+B, the slope and y intercept values from the historic regression equation are constants.  The seeding effect 
+
+39 
+ 
+(SE) can be expressed as the rat io (R) of the average observed target precipitation to the average 
+calculated (estimated) natural target precipitation, such that: 
+SE = R = (YO)/(YC) 
+where Y O is the target area average observed precipitation (inches) and Y C is the target area average 
+calculated precipitation (inches).  The seeding effect can also be expressed as a percent excess (or deficit) 
+of the expected precipitation in the form: 
+SE = (YO – YC) / (YC x 100) 
+The regression equations and the historical correlation coefficients for the two target areas are presented 
+in Table 6-2. The stations, which constitute each control/target group, are listed in Appendix C. 
+Table 6-2 
+Regression Equations and Coefficient/Variance 
+for Precipitation and Snowpack Evaluations 
+Evaluation Type Equation 
+Correlation 
+Coefficient 
+(r) 
+Variance (r2) 
+Precipitation November-April 
+Linear Y = 1.267(X) + 1.76 0.932 0.868 
+Precipitation November-April 
+Multiple Linear 
+Y = 0.623(X1) + 0.003 (X2) + 0.366(X3) + 
+2.24 0.959 0.920 
+Precipitation December-
+March - Linear Y = 1.339(X) +0.37 0.943 0.889 
+Precipitation December-
+March- Multiple Linear 
+Y = 0.588(X1) + 0.014 (X2) + 0.546(X3) 
++1.02 0.958 0.917 
+Snow April 1 Linear Y = 1.131(X) – 2.35 0.943 0.889 
+Snow April 1 Multiple Linear Y = 0.406(X1) + 0.411 (X2) + 0.205 (X3) – 
+0.56 0.946 0.895 
+ 
+where Y = Calculated average target precipitation (November – April) or April 1st snow water content, and 
+X = control 3-site average, X1 = Farmington, X2 = Berry Creek, NV and X3 = Pole Creek, NV 
+7.4 Results for the 2022 Water Year 
+Evaluation results for the 2022 Water Year were mixed when using these equations to predict the natural 
+precipitation or snow for the target area in the absence of seeding, in comparison to the observed values. 
+Results of the December – March precipitation and the April 1 snowpack evaluations are shown in Table 
+6-3. It is worth keeping in mind that single -season results have very little statistical significance, and 
+multiple seasons are required to yield a stable result in these types of evaluations. This is due to a high 
+natural variability in precipitation and snowfall patterns between control and target sites, compared to 
+40 
+ 
+the effects of the seeding program. The precipitatio n evaluations yielded observed/predicted ratios of 
+1.02 and 1.05 for this season linear and multiple linear equations, respectively , which is suggestive of a 
+positive seeding effect. The snowpack evaluations yielded single-season ratios of 0.87 for both the linear 
+and multiple linear equations.  It is not clear why the snowpack results are significantly lower this season 
+than for precipitation, although it is possibly that a warm spell in late March affected the control vs. target 
+sites unequally in regards to early season melt.  However, this variable can work in either direction and is 
+simply one factor (specific to snowpack analysis) that makes the target/control equations imperfect.    
+There are several extraneous factors that can affect the outcome of these evaluations, particularly on a 
+single-season basis. The efficiency of precipitation gauges in catching snowfall is known to decrease 
+(perhaps substantially) with increasing wind speed . The SWE measurements can also be affected by 
+various factors, such as blowing snow or variations in snowmelt patterns during the season prior to April 
+1. The effect of any of these factors may vary from site to site and from season to season, which may 
+affect the relationship between target and control data and thus the evaluation results.  
+In addition to the ratio of the observed to predicted values discussed above, the predicted values obtained 
+in the regression equations can be subtracted from the corr esponding observed values, to examine the 
+difference in observed minus predicted values based on the target area average. When the 
+observed/predicted ratio for a particular evaluation is less than 1.0, this value will be negative, and when 
+the ratio is gre ater than 1.0 the value will be positive. When data from several or more seeded seasons 
+are available, the composite observed minus predicted values based on multiple seasons of data can begin 
+to indicate the magnitude of precipitation (or snow water conte nt) increases that are likely being 
+generated by the cloud seeding operations.  
+The second-to-bottom row in Table 6-3 summarizes the overall mean of the 2022 season’s results, while 
+the bottom row summarizes the overall mean for the period of 2019 through 2022 seasons. The data are 
+not typically averaged in this way, but these mean values may aid in the interpretation of the mixed results 
+from the different evaluation techniques. The overall t hree-season mean result is a ratio of 1. 06, which 
+could be taken to suggest an 8% increase in precipitation/SWE. This ratio is equivalent to just about 1.20 
+inches of additional precipitation/SWE for the seasons. A similar program was conducted for this Six 
+Creeks target area for water years 1989 through 1996. The linear and multiple linear regression equations 
+developed for the analysis were also applied to the historically seeded period of 1989 -1996 water years 
+(one or more of these SNOTEL sites did not have data available yet in 1988). For this set of years as a 
+whole, December – March precipitation evaluation results averaged 1.01 (linear) and 1.0 2 (multiple 
+linear). For April 1 SWE, results averaged 1.14 (linear) and 1.16 (multiple linear).   
+41 
+ 
+Table 6-3 
+Evaluation Results Summary 
+Evaluation Type Observed/Predicted 
+Ratio 
+Observed – Predicted Difference 
+(Inches of precipitation or SWE) 
+Precipitation 
+December-March Linear 
+(single season only) 
+1.02 0.37 
+Precipitation December - 
+March Multiple Linear  
+(Single season only) 
+1.05 0.84 
+Snow April 1 Linear  
+(Single season only) 0.87 -2.24 
+Snow April 1  
+Multiple Linear 
+(Single season only) 
+0.87 -2.16 
+2022 Mean of Results 0.95 -0.80 
+2019-2022 Mean 1.06 1.20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

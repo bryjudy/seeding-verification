@@ -1,0 +1,50 @@
+{
+ "events_detected": 19,
+ "downwind_deg_by_program": {
+  "northern_utah": 82.6,
+  "six_creeks": 85.8,
+  "western_uintas": 80.3
+ },
+ "pooled": {
+  "effect_pct": 1.52,
+  "ci95": [
+   -12.64,
+   21.92
+  ],
+  "n_obs": 103
+ },
+ "programs": {
+  "book_cliffs": {
+   "skipped": "no seeded/unseeded contrast"
+  },
+  "cache_valley_uav": {
+   "skipped": "no seeded/unseeded contrast"
+  },
+  "central_southern_tooele": {
+   "skipped": "no seeded/unseeded contrast"
+  },
+  "east_shore": {
+   "skipped": "no seeded/unseeded contrast"
+  },
+  "high_uintas": {
+   "skipped": "no seeded/unseeded contrast"
+  },
+  "northern_utah": {
+   "effect_pct": -16.16,
+   "ci95": [
+    -41.01,
+    18.3
+   ],
+   "n_storms_seeded": 9,
+   "n_storms_unseeded": 10,
+   "n_exposed_stations": 20,
+   "n_nearmiss_stations": 15
+  },
+  "six_creeks": {
+   "skipped": "9 exposed / 0 near-miss stations"
+  },
+  "western_uintas": {
+   "skipped": "14 exposed / 1 near-miss stations"
+  }
+ }
+}

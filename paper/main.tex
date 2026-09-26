@@ -6,6 +6,7 @@
 \usepackage[margin=1.9cm,top=2.2cm,bottom=2.4cm]{geometry}
 \usepackage{titlesec}
 \usepackage{booktabs}
+\usepackage{graphicx}
 \usepackage{fancyhdr}
 \usepackage{caption}
 \usepackage{enumitem}
@@ -59,7 +60,7 @@
 \twocolumn[{%
 \thispagestyle{firstpage}
 \vspace*{0.8cm}
-{\noindent\sffamily\bfseries\LARGE Storm-Level Independent Verification of\\[2pt] Operational Cloud Seeding: Evidence from\\[2pt] Utah's 2024--25 Winter Season\par}
+{\noindent\sffamily\bfseries\LARGE Storm-Level Independent Verification of\\[2pt] Operational Cloud Seeding: Seven Seasons\\[2pt] of Utah's Program, 2016--2025\par}
 \vspace{0.9em}
 {\noindent\sffamily\bfseries\large Bryce Judy\textsuperscript{1,$*$}\par}
 \vspace{0.6em}
@@ -74,21 +75,28 @@ operators using target/control methods that cannot separate seeding effects
 from \emph{operator storm selection}: storms are seeded precisely when
 atmospheric conditions favor the target areas. This study performs, to the
 author's knowledge, the first independent storm-level evaluation of an
-operational program built entirely from public data. We assemble a
-machine-readable record of Utah's 2024--25 operations---181 generator sites,
-203 seeded storm periods totaling 17{,}143 generator-hours across seven
-programs---together with per-storm 700\,hPa winds from the HRRR archive and
+operational program built entirely from public records. We assemble a
+machine-readable record of Utah's operations across seven winters
+(2016--17 and 2019--20 through 2024--25): 181 generator sites and 525 seeded
+storm periods totaling 37{,}773 generator-hours, transcribed from the
+operator's seasonal reports (the 2024--25 set published online, six earlier
+seasons provided by the Division of Water Resources)---together with per-storm 700\,hPa winds from the HRRR archive and
 daily precipitation from 546 SNOTEL stations in seven states. Three research
 designs of increasing selection-robustness are applied. A naive seeded-versus-unseeded
 storm comparison yields an implausible $+335\%$ for the largest program,
 quantifying the selection artifact. Same-sector near-miss controls reduce the
 pooled estimate to $+24\%$ [$+4$, $+50$]. The most robust design---a
 wind-rotation test in which plume exposure is recomputed from each storm's own
-wind field per generator---yields $+1.5\%$ [$-9.6$, $+13.1$] per seeded storm
-with a clean placebo on unseeded storms. One season therefore cannot
-distinguish the claimed 3--15\% effect from zero, while per-storm effects
-larger than $\sim$15--20\% are excluded. The design's power scales directly
-with additional seasons of operations records. All data and code are released.
+wind field per generator---yields, pooled over seven seasons (937
+program-events, 143 seeded), $+5.8\%$ [$-0.0$, $+12.1$] in-plume during
+seeded storms against a placebo of $+3.0\%$ [$+0.1$, $+6.2$] in-plume during
+unseeded storms. The placebo is now resolvably positive, revealing a
+wind-aligned orographic gradient that the smooth control does not fully
+absorb; the placebo-corrected seeding effect is $+2.7\%$ [$-2.1$, $+8.8$] per
+seeded storm. Seven seasons therefore remain consistent with a small positive
+operational effect and with zero, and exclude per-storm effects above
+$\sim$9\%---ruling out the upper half of the 3--15\% claims. All data and code
+are released.
 \par}
 \vspace{0.6em}
 {\noindent\small\keywords{Weather Modification, Cloud Seeding, Causal Inference, SNOTEL, HRRR, Program Evaluation}\par}
@@ -152,14 +160,23 @@ paper.
 \subsection{Seeding operations records}
 The Utah Division of Water Resources publishes annual reports for each
 seeding program, prepared by the operator (North American Weather
-Consultants) \citeparen{dwr}. From the eight 2024--25 reports we extract:
+Consultants) \citeparen{dwr}. From the eight 2024--25 reports (published online) and 14 earlier seasonal
+reports for the Northern Utah, Western Uintas and Six Creeks programs
+(2016--17, 2019--20 through 2023--24; provided by the Division of Water
+Resources on request in September 2026) we extract:
 (i)~generator site tables --- 181 sites with coordinates across the
 Central/Southern Utah + Tooele, Western Uintas, High Uintas, Northern Utah,
 East Shore, Six Creeks, and Cache Valley programs (Book Cliffs sites are
 published as town names only and are geocoded approximately); and
-(ii)~storm-operations tables --- 203 program-storm periods with dates, sites
-used, and generator-hours, totaling 17{,}143 hours across seven ground-based
-programs. Program treatment histories (adoption years, the 1983--87
+(ii)~storm-operations tables --- 525 program-storm periods with dates, sites
+used, and generator-hours (17{,}143 hours across seven programs in 2024--25;
+20{,}630 hours across 2--3 programs per earlier season). Earlier-season
+tables were parsed automatically and validated against each report's stated
+seasonal total, matching to the quarter-hour for every Western Uintas season
+and four Northern Utah seasons; three known gaps (a missing 2020--21 Six
+Creeks table, remote hours in 2022--23 Northern Utah, an unverified 2023--24
+Six Creeks continuation) are documented in the repository. Generator
+coordinates for earlier seasons use the 2024--25 site table. Program treatment histories (adoption years, the 1983--87
 statewide suspension) are taken from the operator's 30-season retrospective
 \citeparen{griffith2009}.
 
@@ -254,7 +271,8 @@ quantification of operator storm selection: seeded storms are storms chosen
 for favoring the targets.
 
 \begin{table}[t]
-\caption{Pooled storm-level estimates across designs, winter 2024--25.
+\caption{Pooled storm-level estimates across designs. Designs 1--2: winter
+2024--25. Design 3: 2024--25 alone and pooled over seven seasons.
 Effects are percentage changes in storm-total precipitation at exposed
 stations; 95\% CIs by bootstrap over storm events.}
 \label{tab:designs}
@@ -266,8 +284,11 @@ Design & Effect & 95\% CI \\
 1. Far controls (naive) & $+69.0\%$ & $[-9.9, +220.8]$ \\
 2. Near-miss controls & $+24.2\%$ & $[+3.7, +49.7]$ \\
 \quad placebo: windows $+10$ days & $+0.2\%$ & $[-16.7, +20.7]$ \\
-3. Wind-rotation, per-generator & $+1.5\%$ & $[-9.6, +13.1]$ \\
+3. Wind-rotation, per-generator (2024--25) & $+1.5\%$ & $[-9.6, +13.1]$ \\
 \quad placebo: unseeded events & $-8.4\%$ & $[-26.8, +10.3]$ \\
+3. Wind-rotation, \textbf{seven seasons} & $+5.8\%$ & $[-0.0, +12.1]$ \\
+\quad placebo: unseeded events & $+3.0\%$ & $[+0.1, +6.2]$ \\
+\quad \textbf{seeded $-$ placebo} & $\mathbf{+2.7\%}$ & $\mathbf{[-2.1, +8.8]}$ \\
 \bottomrule
 \end{tabular}
 
@@ -287,7 +308,7 @@ residual selection: orographic enhancement on strong-flow seedable storms is
 naturally larger at the barrier than 55--130\,km downwind, and near-miss
 controls only partially absorb this.
 
-\subsection{Wind-rotation: no resolvable effect at one season}
+\subsection{Wind-rotation: one season}
 Design 3 yields $\beta_1 = +1.5\%$ [$-9.6$, $+13.1$] for in-plume exposure
 during seeded events, with the unseeded-event placebo at $\beta_0 = -8.4\%$
 [$-26.8$, $+10.3$] --- statistically zero, as required. (An intermediate
@@ -301,16 +322,44 @@ true operational effect should --- small and positive --- but one season of
 data cannot distinguish it from zero. Conversely, per-storm effects larger
 than approximately 15--20\% are excluded at conventional confidence levels.
 
-\subsection{Power and the path to resolution}
-The binding constraint is seasons, not stations. Winter 2024--25 supplies 26
-usable events and 121 program-event observations, giving Design 3 a CI
-half-width of $\sim$11 percentage points. Under simple $1/\sqrt{n}$ scaling,
-four to nine additional seasons of operations records --- which the Division
-of Water Resources maintains and provides on request --- would narrow the CI
-to $\pm 4$--$5\%$, sufficient to confirm or refute the 3--15\% operational
-claims. The marginal cost of extending the analysis is transcription of the
-operators' storm tables; all other inputs (HRRR, SNOTEL) extend
-automatically.
+\begin{figure}[t]
+\centering
+\includegraphics[width=\columnwidth]{../figures/multi_season.png}
+\caption{Design 3 across seasons. Left: in-plume effect during seeded events by
+season (2016--17 rests on four seeded events); dashed lines are the pooled
+seeded and placebo estimates. Right: one-season versus seven-season estimates
+with 95\% bootstrap CIs; the placebo-corrected effect is $+2.7\%$ [$-2.1$, $+8.8$].}
+\label{fig:multi}
+\end{figure}
+
+\subsection{Wind-rotation: seven seasons}
+Pooling the six additional seasons (40{,}013 station-event observations, 937
+program-events, 143 seeded) gives $\beta_1 = +5.8\%$ [$-0.0$, $+12.1$] for
+in-plume exposure during seeded events. The CI half-width falls from $\sim$11
+to $\sim$6 points, as the $1/\sqrt{n}$ projection anticipated. The unseeded
+placebo, however, is now resolvably positive: $\beta_0 = +3.0\%$ [$+0.1$,
+$+6.2$]. Stations downwind of the generators receive more precipitation in
+unseeded storms too, i.e.\ a wind-aligned orographic gradient that the smooth
+exposure score does not fully absorb. Because $\beta_0$ is estimated on the
+same stations and geometry, the appropriate seeding estimate is the
+difference: $\beta_1 - \beta_0 = +2.7\%$ [$-2.1$, $+8.8$] per seeded storm
+(bootstrap over events). Per-season $\beta_1$ estimates vary widely (from
+$-2.9\%$ in 2020--21 to $+26.7\%$ in 2016--17, the latter on only four seeded
+events), and the 2024--25 season reproduces the one-season result ($+1.4\%$).
+Excluding 2016--17 leaves $\beta_1 = +7.0\%$, $\beta_0 = +3.4\%$.
+
+The seven-season evidence is thus consistent with a small positive operational
+effect of a few percent per seeded storm and with zero, and it excludes
+per-storm effects above roughly $9\%$. A placebo that any downwind-versus-upwind
+design must report---and that target/control ratios cannot compute---turns out
+to be the most consequential methodological finding.
+
+\subsection{Power}
+Earlier seasons cover only two or three programs and contribute 4--15 seeded
+events each against 75 in 2024--25; the older monthly operator reports
+(2004 onward) and the remaining programs' seasonal tables would roughly
+double the seeded-event count. The marginal cost remains transcription of the
+operators' storm tables; HRRR and SNOTEL extend automatically.
 
 \section{Discussion}
 
@@ -321,10 +370,12 @@ plausible true effect; seasonal versions of those methods have noise floors
 wider than the effects claimed. Second, the most selection-robust design
 available finds a small positive point estimate fully consistent with both
 the gold-standard physical evidence \citeparen{friedrich2020} and with zero
---- after one season. The correct current statement about Utah's program is
-therefore agnostic: the claimed effect is neither confirmed nor refuted, and
-effects large enough to matter for interstate water accounting
-($\gtrsim$15--20\% per storm) are ruled out. Third, extra-area
+--- now across seven seasons, once the newly resolvable orographic placebo is
+subtracted ($+2.7\%$ [$-2.1$, $+8.8$] per seeded storm). The correct current
+statement about Utah's program is therefore: a small effect of a few percent
+per seeded storm is plausible and unproven; the upper half of the 3--15\%
+seasonal claims, and any effect large enough to matter for interstate water
+accounting ($\gtrsim$9\% per storm), is ruled out. Third, extra-area
 (``downwind'') effects on neighboring regions --- a recurring political
 concern --- are necessarily smaller than target-area effects and hence well
 below ground-based detectability at current program intensities.
@@ -333,16 +384,25 @@ below ground-based detectability at current program intensities.
 Wind sectors use each storm's mean 700\,hPa flow at the network; hourly
 wind shifts within storms are not modeled. SNOTEL gauges undercatch snowfall
 in wind, which attenuates but does not bias the estimates given fixed
-effects. Book Cliffs generator locations are approximate. The seeded/unseeded
-event labels inherit any errors in the operators' storm tables. Finally, the
+effects. Book Cliffs generator locations are approximate, and earlier seasons are
+evaluated with the 2024--25 generator network, which had more sites than
+early seasons; this over-specifies early-season plumes and can only dilute
+estimated effects. The seeded/unseeded event labels inherit any errors in the
+operators' storm tables and in their automated transcription. The positive
+unseeded placebo indicates residual orographic anisotropy in the exposure
+geometry; we report the placebo-corrected difference, but a control that
+absorbs it by construction (e.g.\ station-by-wind-sector fixed effects) is the
+natural next specification. Finally, the
 event catalog is built from precipitation, so completely dry seeded periods
 are unobservable; this biases against detecting effects only if seeding
 generates precipitation where none would otherwise occur, which the physical
 literature does not support at meaningful scale.
 
 \section{Data and Code Availability}
-All datasets constructed for this study (generator coordinates, storm
-operations record, storm winds, event-level results) and all analysis code
+All datasets constructed for this study (generator coordinates, the
+seven-season storm operations record, storm and event winds, per-season and
+pooled event-level results, and text extracts of the DWR reports for
+provenance) and all analysis code
 are released at \url{https://github.com/bryjudy/seeding-verification}. Every input derives from public
 sources: Utah DWR seasonal reports, NOAA HRRR (AWS Open Data), and USDA NRCS
 SNOTEL.

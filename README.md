@@ -4,7 +4,11 @@ Does Utah's cloud seeding program add the 3-15% of winter precipitation it claim
 
 Utah runs the largest remotely controlled seeding network in the United States, expanded in 2023 with $12M one-time funding and a $5M annual budget. The evaluations that justify the spend are produced by the contractor that runs the program, using target/control comparisons whose treatment variable is not exogenous: storms are seeded exactly when the wind, moisture and temperature favor the target areas. This repo asks what happens when you take that selection seriously.
 
-📄 Working paper: [paper/seeding-verification-2026.pdf](paper/seeding-verification-2026.pdf) (4 pages)
+📄 Working paper v2 (seven seasons): [paper/seeding-verification-2026.pdf](paper/seeding-verification-2026.pdf)
+
+**Update 2026-09-25 — seven seasons.** The Utah Division of Water Resources shared its earlier seasonal reports. Parsing them gives 525 seeded storm periods over 2016-17 and 2019-20 through 2024-25 (37,773 generator-hours). The wind-rotation design pooled over all seven seasons: **+5.8% [−0.0, +12.1]** in-plume during seeded storms, but the unseeded placebo is now **+3.0% [+0.1, +6.2]** (a wind-aligned orographic gradient the smooth control does not fully absorb), so the placebo-corrected effect is **+2.7% [−2.1, +8.8]** per seeded storm. Consistent with a few percent, consistent with zero, and excluding per-storm effects above ~9%. Per-season estimates and caveats: `data/results/multi-season/`, `FINDINGS` in the paper §Results.
+
+![seven seasons](figures/multi_season.png)
 
 ![selection bias progression](figures/selection_bias_progression.png)
 
@@ -19,8 +23,11 @@ Utah runs the largest remotely controlled seeding network in the United States, 
 | 1. Seeded vs unseeded storms, far controls (how programs are evaluated) | +69% pooled, **+335%** for the largest program | [−10, +221] |
 | 2. Same-sector near-miss controls | +24.2% | [+3.7, +49.7] |
 | — placebo: seeding windows shifted +10 days | +0.2% | [−16.7, +20.7] |
-| 3. **Wind-rotation, per-generator plume geometry** | **+1.5%** | **[−9.6, +13.1]** |
+| 3. **Wind-rotation, per-generator plume geometry** (2024-25) | +1.5% | [−9.6, +13.1] |
 | — built-in placebo: unseeded storms in-plume | −8.4% | [−26.8, +10.3] |
+| 3. **Wind-rotation, seven seasons pooled** | +5.8% | [−0.0, +12.1] |
+| — placebo: unseeded storms in-plume | +3.0% | [+0.1, +6.2] |
+| — **seeded − placebo** | **+2.7%** | **[−2.1, +8.8]** |
 
 +335% is physically impossible (the gold-standard SNOWIE field experiment puts orographic seeding at single to low double digits), so it is a direct measurement of how much selection bias a conventional evaluation carries at storm scale. The most selection-robust design lands at +1.5% per seeded storm with a clean placebo: consistent with the physical literature, consistent with zero, and excluding per-storm effects above roughly 15-20%. One season cannot separate "works as claimed" from "does nothing"; four to nine seasons of operations records would.
 
@@ -46,6 +53,8 @@ No public GIS layer of Utah's generator network existed. These were parsed from 
 |---|---|
 | `data/generators-2024-25.csv` | 181 seeding generator sites with coordinates, all 8 programs (Book Cliffs sites are town-approximate) |
 | `data/seeded-storms-2024-25.csv` | 203 seeded storm periods: dates, sites used, generator-hours (17,143 h across 7 ground programs) |
+| `data/seeded-storms-multi.csv` | **525 seeded storm periods, 7 seasons** (2016-17, 2019-20…2024-25; NU/WU/SC + all programs 2024-25), parsed by `src/parse_storm_tables_multi.py` from the DWR reports (text in `data/reports-multi/`) |
+| `data/results/multi-season/` | per-season event winds, per-event results, and the pooled seven-season wind-rotation estimate (`v23-multi-season-results.json`) |
 | `data/storm-winds-2024-25.csv` | mean 700 hPa wind at each program's generator network per seeded storm (HRRR) |
 | `data/event-winds-2024-25.csv` | same, for every detected precipitation event including unseeded ones |
 | `data/seeding_treatment.json` | per-area seeding timeline 1974-2026 (adoption years, the 1983-87 suspension, gaps) and the neighboring-state programs excluded from controls, with sources in `data/seeding-treatment-map.md` |
@@ -61,7 +70,9 @@ uv run python src/parse_generators.py          # report text -> generators-2024-
 uv run python src/fetch_storm_winds.py         # HRRR byte-range GRIB2 -> storm + event winds (needs eccodes; ~30 min first run)
 uv run python src/run_storm_analysis.py        # Designs 1-2, placebo, dose-response (~10 min first run: one winter of SNOTEL for 7 states)
 uv run python src/v22_plume_rotation.py        # program-centroid rotation test (intermediate design, kept for the record)
-uv run python src/v23_per_generator.py         # Design 3
+uv run python src/v23_per_generator.py         # Design 3 (2024-25)
+uv run python src/parse_storm_tables_multi.py  # DWR report text -> seeded-storms-multi.csv (7 seasons)
+uv run python src/multi_season.py              # Design 3 pooled over 7 seasons (HRRR winds for ~1,500 hours: run on a VM, see src/vm_multi_season_startup.sh)
 uv run python src/run_seasonal_panel.py        # Design 0: 46-winter panel (~45 min first run: full SNOTEL archive for 7 states)
 uv run --with matplotlib python src/make_figures.py
 ```
@@ -70,7 +81,7 @@ The paper builds with `cd paper && tectonic main.tex`.
 
 ## Limitations, stated plainly
 
-- One season for the storm-level designs. The binding constraint is seasons, not stations; the Division of Water Resources holds decades of operations reports and provides them on request.
+- Storm-level designs now span seven seasons, but earlier seasons cover only 2–3 programs (4–15 seeded events each vs 75 in 2024-25) and use the 2024-25 generator sites. The unseeded placebo is positive at +3%, so the seeding effect is reported as seeded − placebo.
 - Wind sectors use each storm's mean 700 hPa flow at the network; hourly shifts within storms are not modeled.
 - SNOTEL gauges undercatch snow in wind. This attenuates but does not bias the estimates given fixed effects.
 - Book Cliffs generator coordinates are approximate. Seeded/unseeded labels inherit any errors in the operators' storm tables.

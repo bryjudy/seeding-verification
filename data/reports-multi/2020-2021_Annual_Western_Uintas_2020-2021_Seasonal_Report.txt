@@ -1,0 +1,1782 @@
+ 
+Annual Cloud Seeding Report 
+Western Uintas Program 
+2020-2021 Winter Season 
+ 
+Prepared For: 
+Weber Basin Water Conservancy District 
+Central Utah Water Conservancy District 
+Provo River Water Users Association 
+State of Utah, Division of Water Resources 
+ 
+Prepared By: 
+Todd Flanagan 
+David Yorty 
+Garrett Cammans 
+ 
+North American Weather Consultants, Inc. 
+8180 S. Highland Dr., Suite B-2 
+Sandy, Utah 84093 
+ 
+Report No. 21-12 
+Project No. 20-456 
+ 
+August 2021 
+
+ 
+1 
+ 
+TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY ................................ ................................ ................................ .......................2 
+THE SCIENCE OF CLOUD SEEDING ................................ ................................ ................................ .......3 
+STATE OF THE CLIMATE ................................ ................................ ................................ ......................4 
+1.0 INTRODUCTION ................................ ................................ ................................ ......................... 6 
+2.0 PROGRAM DESIGN ................................ ................................ ................................ ....................7 
+2.1 BACKGROUND ................................ ................................ ................................ .....................7 
+2.2 SEEDING CRITERIA ................................ ................................ ................................ ................7 
+2.3 EQUIPMENT AND PROJECT SET UP ................................ ................................ ........................... 7 
+3.0 WEATHER DATA AND MODELS ................................ ................................ ................................ . 11 
+4.0 OPERATIONS ................................ ................................ ................................ ...........................  15 
+4.1  OPERATIONAL SUMMARY ................................ ................................ ................................ .... 20 
+5.0 ASSESSMENT OF SEEDING EFFECTS ................................ ................................ ...........................  30 
+5.1 BACKGROUND ................................ ................................ ................................ ................... 30 
+5.2 CONSIDERATIONS IN THE DEVELOPMENT OF TARGET/CONTROL EVALUATIONS ................................ .. 31 
+5.3 EVALUATION OF SNOW WATER CONTENT ................................ ................................ ................ 31 
+5.4 SUMMARY OF EVALUATION RESULTS ................................ ................................ ...................... 39 
+6.0  CONCLUSIONS ................................ ................................ ................................ ........................  41 
+REFERENCES ................................ ................................ ................................ ................................ .... 42 
+APPENDIX A SUSPENSION CRITERIA ................................ ................................ ................................ .. 43 
+1.  EXCESS SNOWPACK ACCUMULATION ................................ ................................ ...................... 43 
+2. RAIN-INDUCED WINTER FLOODS ................................ ................................ ............................  45 
+3. SEVERE WEATHER ................................ ................................ ................................ .............. 45 
+APPENDIX B SEEDING OPERATIONS TABLES ................................ ................................ ...................... 47 
+APPENDIX C EVALUATION DATA ................................ ................................ ................................ ....... 49 
+APPENDIX D GLOSSARY ................................ ................................ ................................ .................... 54 
+  
+ 
+2 
+ 
+EXECUTIVE SUMMARY 
+A total of 25 winter se asons of cloud seeding have been conducted in portions of the western 
+Uinta Range in Utah. The Western Uintas program utilizes 12 ground -based, manually-operated (Cloud 
+Nuclei Generator, or CNG) sites, containing a 2% silver iodide solution.  The areas targ eted for seeding 
+have included the upper portions of both the Weber River and the Provo River drainages in most years.  
+Precipitation and snowfall were below normal during the 2020 -2021 winter season, with snow 
+water equivalent for the Weber-Ogden River basin averaging about 74% of the median value on April 1st. 
+The water year precipitation through April 1st averaged 67% of the normal (mean value) across the basin. 
+The Provo River basin had corresponding April 1st averages of 78% of median snowpack and 71% of mean 
+precipitation.  
+A total of 1272.75 CNG hours were conducted during 19 storm periods this season, out of a 
+maximum budgeted 2,500 hours.  There was one seeding suspension during the 2020 -2021 season, on 
+February 16th due to extreme avalanche danger. 
+Evaluations of the effectiveness of the cloud seeding program were made for both the past winter 
+season and for the 26 seeded winter seasons combined.  These evaluations utilize SNOTEL records 
+collected by the Natural Resources Conservation Service (NRCS) at selected sites within and surrounding 
+the seeded target area.  Analyses of the effects of seeding on target area precipitation and snow water 
+content have been conducted for this seeding program, utilizing target/control comparison techniques.  
+Multi-season target  vs. control evaluations have been performed to compare seasonal 
+performance of the target area in comparison to the control areas during both seeded and non-seeded 
+years. These studies have evaluated the performance of two variables rel ated to seasonal storm 
+productivity, namely total seasonal precipitation and April 1 snowpack (measured in inches of liquid water 
+equivalence).  
+Due to the short period of measurement for total precipitation in the target and control areas 
+prior to the onset of seeding activity this evaluation type is not considered to be as statistically significant 
+and has thus been removed from this report (results for this analysis are available upon request) . Both 
+linear and multiple -linear regression comparisons have been developed for the snowpack target vs. 
+control analysis . These e valuations have consistently demonstrated a 3% to 6% increases in April 1 st 
+snowpack resulting from cloud seeding efforts.  
+The results of a thus assumed 5% increase in overall seasonal productively would yield an average 
+of 0.8” of water across the target area or approximately 25,000 additional acre-feet of runoff. Section 5.0 
+of the report contains further discussion of these mathematical analyses, and estimates of the likely value 
+and cost/benefit ratio of the seeding program.  
+  
+ 
+3 
+ 
+THE SCIENCE OF CLOUD SEEDING 
+The Science 
+The cloud -seeding process aids precipitation formation by 
+enhancing ice crystal production in clouds. When the ice 
+crystals grow sufficiently, they become snowflakes and fall to 
+the ground.  
+Silver iodide has been selected for its environmental safety and 
+superior efficiency in producing ice in clouds. Silver iodide adds 
+microscopic particles with a structural similarity to natural ice 
+crystals. Ground-based and aircraft-borne technologies can be 
+used to add the particles to the clouds. 
+Safety 
+Research has clearly documented that cloud seeding with 
+silver-iodide aerosols shows no environmentally harmful effect. 
+Iodine is a component of many necessary amino acids. Silver is 
+both quite inert and naturally occurring, the amounts released 
+are far less than background silver already present in unseeded 
+areas. 
+Effectiveness 
+Numerous studies performed by universities, professional 
+research organizations, private utility companies and weather 
+modification providers have conclusively demonstrated the 
+ability for Silv er Iodide to augment precipitation under the 
+proper atmospheric conditions.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+STATE OF THE CLIMATE 
+Every ten years, the National Oceanic and Atmospheric Association (NOAA) releases a summary 
+of various U.S. weather conditions for the past three decades to determines average values for a variety 
+of conditions, including, temperature and precipitation.  This is known as the U.S Climate normal, with a 
+30-year average, representing the “new normal” for our climate. These 30-year normal values can help to 
+determine a departure from historic norms and identify current weather trends.  
+The recently released 30-year average ranges from 1990 – 2020. Images in Figure 1 and 2 show 
+how each 30 -year average for the past 120 years compares to the composite 20 th century average for 
+temperature and precipitation.  For the western U.S., the 1990 -2020 average show much warmer than 
+average temperatures, in comparison to the 100 -year 20 th century average.  When comparing 
+precipitation for the past 30 years to both the previous 30-year average and the 1901-2000 average, the 
+American Southwest (including portions of Utah, Arizona, California and Nevada) has seen as much as a 
+10% decrease in average annual precipitation.  
+ 
+Figure 1 U.S. Annual Temperature compared to 20th-Century Average 
+ 
+
+ 
+5 
+ 
+ 
+Figure 2 U.S. Annual Precipitation compared to 20th-Century Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+6 
+ 
+ 
+1.0 INTRODUCTION 
+Due to high natural precipitation variability and the increasing demand for water, cloud seeding 
+has been conducted in some parts of Utah for over 40 years, helping to augment water supplies.  Cloud 
+seeding in Utah is regulated by the Utah Department of Natural Resources through the Division of Water 
+Resources. After complying with various permit requirements, NAWC was granted a license and permit to 
+conduct cloud seeding for the Western Uintas program watersheds. A cloud seeding program was 
+conducted again during the 2020-2021 winter season for the Upper Weber and Provo River Basins. Cloud 
+seeding programs have been conducted in this area by North American Weather Consultants dating back 
+to 1989. These programs have often been jointly sponsored by two agencies: the Provo River Water Users 
+Association and the Weber Basin Water Conservancy District. 
+The Weber Basin Water Conservancy Distric t’s participation has been continuous since the 
+project’s inception while the Provo River Water Users Association opted out during water years 2006 to 
+2012. The Provo River Water Users Association rejoined the program for the 2012-13 season through the 
+present. Twelve ground-based silver iodide cloud nuclei generators (CNGs) were installed for the 2020 -
+2021 season’s program.  The main program became operational on December 1, 2020 and ended on 
+March 31, 2021. After discussion with clients, an extension period through much of April was granted, due 
+in part to the ongoing drought in the western United States. 
+This report provides information about the operational cloud seeding and results of statistical 
+analyses toward estimations of cloud seeding effects. Section 2 describes the seeding project design and 
+provides maps of the seeded target areas, as well as the locations of the CNGs with which the seeding was 
+conducted. Section 3 discusses the types of real-time and forecast meteorological data that are used for 
+conduct of the seeding programs. Section 4 summarizes the seeding operations conducted during this 
+past season. Section 5 details statistical evaluations of the effects of the cloud seeding program.  
+  
+ 
+7 
+ 
+2.0 PROGRAM DESIGN 
+2.1 Background 
+The operational pr ocedures utilized for this cloud seeding project are essentially the same as 
+those that have been proven to be effective for over 40 years of wintertime cloud seeding in the 
+mountainous regions of Utah (Griffith et al., 2009).  The results from these operat ional seeding efforts 
+have consistently indicated long -term average increases in wintertime precipitation and snow water 
+content during the periods in which cloud seeding was conducted.  These estimated increases have 
+generally ranged from 5 to 10 percent m ore than what would have been expected in the absence of 
+seeding, as predicted by historical linear regression target/control analyses. 
+2.2 Seeding Criteria 
+Project operations have utilized a selective seeding approach, which has proven to be the most 
+efficient and cost -effective method, and has provided the most beneficial results.  Selective seeding, or 
+seeding only of storms or portions of storms in which precipitation has a reasonable chance of being 
+enhanced, is based on several criteria which determine the seedability of the winter storms. These criteria 
+deal with key characteristics of the air mass (temperature, thermodynamic stability, wind flow and 
+moisture content), both in and below the precipitating clouds.  The following list provides a summary of 
+NAWC’s general seeding criteria. 
+• Cloud bases are below the mountain barrier crest. 
+• Low-level wind directions and speeds would favor the movement of the silver iodide 
+particles from their release points into the intended target area. 
+• No low-level atmospheric inversions or stable layers that would restrict the upward vertical 
+transport of the silver iodide particles from the surface to at least the -5°C (23°F) level or 
+colder. 
+• Temperature at mountain barrier crest height expected to be -5°C (23°F) or colder. 
+• Temperature at the 700mb level (approximately 10,000 feet) expected to be warmer than -
+15°C (5°F). 
+2.3 Equipment and Project Set Up 
+In the fall of 2020 NAWC reinstalled ground -based cloud seeding generators for the winter 
+seeding program. The generators were placed at carefully selected sites, to provide seeding plumes that 
+would be effective in enhancing snowfall over the project target area.  Climatological winter storm 
+behavior and prevailing wind direction are major factors in the placement of these sites. Twelve seeding 
+sites were installed for this year’s seeding program, whose locations are shown in Figure 2.1. Occasionally, 
+seeding sites installed for other seeding programs in the region (such as Northern Utah and High Uintas 
+programs) are u sed to target the Western Uintas program during less commonly occurring wind flow 
+situations.  
+ 
+8 
+ 
+ 
+Figure 2.1 Western Uintas target area and ground-based cloud seeding generator locations. 
+ 2.3.1 Ground-Based Manual Generators 
+The cloud seeding equipment consists of a cloud nuclei generator (CNG) unit and a propane gas 
+supply (Figure 2.2). The seeding solution, emitted via combustion, consists of two percent by weight silver 
+iodide (AgI), complexed with small portions of sodium iodide and para -dichlorobenzene in solution with 
+acetone. 
+The seeding unit is manually operated by igniting the propane flame (at the flame head in a burn 
+chamber) and adjusting the flow of seeding solution through a flow rate meter.  The propane gas also 
+pressurizes the solution tank, which allows the solution to be sprayed into the CNG’s burn chamber at a 
+regulated rate, where microscopic (sub-micron)-sized silver iodide crystals are formed. The crystals, which 
+closely resemble natural ice crystals in structure, are released at a rate of 8 grams per hour per generator 
+when using the 2% solution. These crystals become active as artificial ice nuclei in-cloud at temperatures 
+between -5°C (23°F) and -10°C (14°F) .  
+It is necessary that the AgI crystals become active in the form ation zone (the region in the cloud 
+which contains supercooled liquid water) upwind of, or over the project area mountain crest. This allows 
+the available supercooled liquid water to be effectively converted to ice crystals which grow to snowflake 
+size and precipitate onto the mountain barrier within the intended area of effect.  If the AgI crystals take 
+
+ 
+9 
+ 
+too long to become active, or if the temperature upwind of the crest is too warm, the seeding plume will 
+pass from the generator through the precipitation f ormation zone and over the mountain crest without 
+producing any additional snowfall at the surface. It is the meteorologist’s task to identify storm situations 
+in which the seeding treatment can be effective. 
+ 
+Figure 2.2  Manually operated cloud seeding generator 
+Cloud seeding generators were sited at 12 locations (mostly in the valleys), ranging from the 
+southwest to northwest sides of the target area, as shown in Figure 2.1. Pertinent CNG site information is 
+provided in Table 2-2. Most of the winter storms that affect the northern Utah Mountains are associated 
+with synoptic weather systems that move into Utah from the northwest, west or southwest. Usually they 
+consist of a frontal system and/or an upper trough with the winds preceding the front or trough blowing 
+from the south or southwest. As each system passes through the area, the wind flow changes to the west, 
+northwest, or north. Clouds and precipitation may precede as well as follow the front/trough passage, or 
+they may occur primarily after the passage along the boundary of the colder air mass that moves into the 
+region. For the region comprising the project target area, the most abundant precipitation and low -mid 
+
+ 
+10 
+ 
+level moisture usually occurs in west to northwest flow patterns.  This is when the best seeding 
+opportunities typically occur.  Southwesterly flow is generally associated with somewhat warmer 
+conditions that are sometimes less seedable. 
+Table 2-2 
+Cloud Seeding Generator Sites 
+Site ID Site Name Elev (Ft) Lat (N) Long (W) 
+1 Lost Creek Reservoir 5525 41° 07.10' 111° 29.32' 
+2 Croyden 5371 41° 04.12' 111° 30.83' 
+3 Coalville 5587 40° 55.95' 111° 20.72' 
+4 Pineview 6407 40° 56.39' 111° 10.18' 
+6 Oakley 6472 40° 43.07' 111° 18.00' 
+7 Kamas 6489 40° 38.43' 111° 16.77' 
+8 Kamas West 6872 40° 38.16' 111° 19.33' 
+9 Woodland 6706 40° 34.89' 111° 13.81' 
+10 Woodland East 7305 40° 33.35' 111° 06.80' 
+11 Midway 5570 40° 30.59' 111° 28.64' 
+12 Heber City 5810 40° 29.73' 111° 22.52' 
+14 Peoa 6148 40° 43.75' 111° 20.61' 
+ 
+2.3.2 Suspension Criteria 
+NAWC always conducts its projects within guidelines adopted to ensure public safety. Accordingly, 
+NAWC has a standing policy and project -specific procedures for the suspension of cloud seeding 
+operations in certain situations. Those criteria are shown in Appendix A, and have recently been updated 
+in coordination with the Utah Division of Water Resources. The criteria are an integral part of the seeding 
+program. There was one instance during the 2020 -2021 season where suspension criteria were met: on 
+February 16, during a storm event, seeding operations were prematurely ended when an Extreme Danger 
+Avalanche Warning was issued for most of the mountain ranges in Utah, including the Uintas.  
+  
+ 
+11 
+ 
+3.0 WEATHER DATA AND MODELS 
+NAWC maintains a fully equipped project operations center at its Sandy, Utah headquarters.  
+Meteorological information is acquired online from a wide variety of freely available sources and 
+subscriber services.  This information includes weather forecast model data, surface observations, 
+rawinsonde (weather balloon) upper -air observations, satellite images, NEXRAD radar information, and 
+weather cameras.  This information helps NAWC’s meteorologists to determine when conditions are 
+appropriate for cloud seeding. NAWC’s meteorologists are able to access all meteorological products from 
+their homes, allowing continued monitoring and conduct of seeding operations outside of regular 
+business hours. 
+Figures 3.1 – 3.3 show examples of some of the a vailable weather information that was used in 
+this decision-making process. Figure 3.4 displays predictions of ground -based seeding plume dispersion 
+for a discrete storm period in the Western Uintas Program from the 2019-2020 season using the National 
+Oceanic and Atmospheric Administration’s HYSPLIT model. This model helps to estimate the horizontal 
+and vertical spread of a plume from potential ground-based seeding sites based on wind fields contained 
+in the weather forecast models. 
+Global and regional fore cast models are a cornerstone of modern weather forecasting, and 
+important tools for operational meteorologists. These models forecast a variety of parameters at different 
+levels of the atmosphere, including winds, temperatures, moisture, and surface param eters such as 
+accumulated precipitation. An example of a display from the global GFS forecast model for a storm event 
+during the 2019-2020 season is shown in Figure 3.5. 
+A more recent meteorological product utilized by NAWC to improve operational efficienc y is a 
+customized High-Resolution Rapid Refresh (HRRR) model data display and analysis package, developed by 
+Idaho Power Company.  The HRRR contains important atmospheric parameters in much finer time and 
+space resolution than other (e.g. global) weather forecast models. Most importantly, this model identifies 
+the presence of supercooled liquid water, the primary target of cloud seeding. NAWC is working closely 
+with the Atmospheric Research Center at Utah State University to aid in the development of a forec ast 
+model that will predict or forecast relative concentrations of supercooled liquid water in storms 
+developing over the Uinta Range. 
+ 
+12 
+ 
+ 
+Figure 3.1 Visible spectrum satellite image of northern Utah on February 3, 2021 during a seeded event.  
+ 
+Figure 3.2 Weather radar image over northern Utah, on the morning of February 3, 2021.  Image courtesy 
+of Weathertap.com . 
+
+ 
+13 
+ 
+ 
+Figure 3.3 U.S. 700 mb map on February 3, 2021, illustrating the larger scale weather pattern across the 
+region. This map includes variables such as 700 mb height, winds, temperature and moisture 
+fields. Courtesy of NOAA Storm Prediction Center website, http://www.spc.noaa.gov . 
+
+ 
+14 
+ 
+ 
+Figure 3.4 HYSPLIT plume dispersion forecast from individual ground generator sites during a storm 
+period early on February 3, 2020 from all potential sites. These plots can help the 
+meteorologist to select the appropriate sites to utilize in a given situation.  
+ 
+Figures 3.5 GFS (Global Forecast Systems) model plot during a storm event on the night of February 2 -3, 
+2020. These types of plots provide analyses and forecasts for things such as wind, 
+temperatures, moisture at various levels of the atmosphere, as well as surface parameters 
+such as accumulated precipitation.  
+  
+
+ 
+15 
+ 
+4.0 OPERATIONS 
+The 20 20-2021 Western Uintas cloud seeding program for the Weber and Provo River basins 
+began on December 1, 2020 and ended on March 31st, 2021; after discussions with the clients regarding 
+the western U.S. drought, an extension of the program into April was granted. A total of 19 storm periods 
+were seeded during all or portions of 31 days: three storms were seeded in December, three in January, 
+five in February, five in March  and three during the April extension period . A total of 1272.75 seeding 
+generator hours were conducted this season. There was one brief suspension  during the season , on 
+February 16 due to extreme danger avalanche conditions . Table 4 -1 shows the dates and ground 
+generator usage for the storm events, and Appendix B contains more detailed site usage data. Figure 4.1 
+shows the usage of generator hours during the season. 
+Precipitation and snowfall were below normal during the 20 20-2021 winter season, with snow 
+water equivalent for the Weber-Ogden River basin averaging about 74% of the median value on April 1.  
+The water year precipitation through April 1 averaged 67% of the normal (mean value) across the basin.  
+The Provo River basin had corresponding April 1  averages of 78% of median snowpack and 71% of mean 
+precipitation. Figures 4.2 to 4.4 are seasonal graphs for some SNOTEL sites in the target area.  
+ 
+Figure 4.1 Seeding during the 2020-2021 season (red), in comparison to a linear usage of budgeted hours 
+through the season (diagonal line). Vertical black line denotes beginning of extension period. 
+ 
+
+ 
+16 
+ 
+Table 4-1 
+Storm dates and number of generators used, 
+2020-2021 season. 
+Storm No. Date(s) No. of Generators 
+Used No. of Hours 
+1 December 12 3 11.50 
+2 December 17-18 6 72.25 
+3 December 22-23 3 49.50 
+4 January 4-5 4 48.00 
+5 January 22-23 6 122.75 
+6 January 29-30 8 104.00 
+7 February 3 9 81.50 
+8 February 5 8 80.25 
+9 February 13-14 9 164.25 
+10 February 15-16 5 98.00 
+11 February 26-27 8 105.00 
+12 March 9-10 7 97.75 
+13 March 16 1 3.00 
+14 March 20-21 8 140.75 
+15 March 23 1 6.75 
+16 March 25-26 5 28.50 
+17 April 14 3 20.25 
+18 April 15-16 6 30.75 
+19 April 19 2 8.00 
+Season Total --- --- 1272.75 
+ 
+17 
+ 
+ 
+Figure 4.2  NRCS SNOTEL snow and precipitation plot for October 1, 2020 through May 1, 2021 for Trial 
+Lake, UT.  
+
+ 
+18 
+ 
+ 
+Figure 4.3  NRCS SNOTEL snow and precipitation plot for October 1 , 2020 through May 1, 2021 for Chalk 
+Creek #1, UT.  
+
+ 
+19 
+ 
+ 
+Figure 4.4  NRCS SNOTEL snow and precipitation plot for October 1, 2020 through May 1, 2021 for Beaver 
+Divide, UT. 4.1 Operational Procedures 
+
+ 
+20 
+ 
+In operational practice, the project meteorologist, with the aid of continually updated online 
+weather information, monitored each approaching sto rm. If the storm parameters met the seedability 
+criteria presented in Table 2 -1, and if no seeding curtailments or suspensions were in effect, an 
+appropriate array of seeding generators was ignited and then adjusted as evolving conditions required.  
+Seeding continued as long as conditions were favorable and precipitating clouds remained over the target 
+area. The operation of the seeding sites is not a simple “all-or-nothing” situation. Individual seeding sites 
+are selected and run based on their location, and targeting considerations based on storm attributes. 
+4.1  Operational Summary 
+A brief synopsis of seeded (or otherwise significant) storm events during the operational seeding 
+period is provided below.  All times are local (MST/MDT) unless otherwise noted.  References to wind 
+direction in meteorology correspond to the direction that the wind is coming from (the upwind direction). 
+The 700 mb level (~9,500 feet above sea level during the winter) temperature in the atmosphere is often 
+referenced, given that the  temperature near mountain crest height is an important consideration for 
+cloud seeding. 
+December 2020 
+December brought below normal precipitation/snowfall, despite a typical volume of storm 
+systems for December affecting Utah.  There were three seeded stor m events during the month.  Figure 
+4.5 shows December 2020 precipitation across the region as a percentage of average (mean) monthly 
+totals.  
+ 
+21 
+ 
+ 
+Figure 4.5  December 2020 precipitation, percent of normal 
+A shortwave disturbance riding southeast through a longwave trough covering the western two-
+thirds of the country began to push into the Great Basin on the 11 th, with moisture ahead of the system 
+spreading into Utah during the evening and overnight hours into the 12th.  Light snow spread across the 
+area, but light winds were not favorable for seeding transport into the clouds  during the first part of the 
+storm event. As the axis of the disturbance passed through the Uintas in the morning hours of the 12 th, 
+north to northwest flow began to set up with bands of sn ow showers developing and pushing into the 
+target area. A few generator sites were activated for this second part of the storm event, running from 
+late morning into the latter part of the afternoon before activity tapered off. 
+Another disturbance began to affect the entire state during the morning and early afternoon 
+hours of the 17 th, but the airmass below 700 mb was stable and thus, not ideal for seeding operations.  
+Similar to the previous storm, as the axis of the disturbance passed through the area, the  wind flow 
+became northwesterly, temperatures aloft cooled and the airmass became unstable, allowing for snow 
+showers to develop and move into the Western Uintas.  Several CNG sites were activated during the 
+evening hours and continued to run overnight into  the morning hours of the 18 th, by which time 
+
+ 
+22 
+ 
+precipitation came to an end.  Areal observations indicated a tenth to nearly a half inch of liquid water 
+equivalent was recorded.  
+A fast-moving disturbance accompanied by a strong cold front moved across the state during the 
+afternoon of the 22 nd. Initially, temperatures aloft were rather warm for late December, but after the 
+passage of the cold front, temperatures fell sharply and moist, unstable northwest flow developed in its 
+wake. Snow developed, enhan ced by a “backside” area of lift that continued to bring snow to the 
+mountains of northern Utah. CNG sites were activated in the afternoon of the 22nd and continued to run 
+until the morning of the 23 rd, when precipitation tapered off. Up to 0.6” of liquid water equivalent were 
+recorded in the target area. 
+January 2021 
+January weather patterns continued those of December 2020, with below normal 
+precipitation/snowfall amid a lower-than-average number of storm systems affecting the state. Figure 4.6 
+shows January 2021 precipitation across the state as a percentage of average (mean) monthly totals.  
+ 
+ Figure 4.6  January 2021 precipitation, percent of normal 
+
+ 
+23 
+ 
+A trough of low pressure pushed inland across the Pacific Northwest late on January 3rd/early 4th 
+and quickly advanced eastward toward Utah.  Warm advection on the forward side of the trough was 
+accompanied by an increase in moisture aloft, with radar indicating widespread precipitation by evening 
+across northern Utah; unfortunately, the lower levels o f the atmosphere were dry so much of the 
+precipitation was not reaching the ground.  As the cold front approached, a band of precipitation 
+developed along it across northern Nevada with lightning noted near Winnemucca, an attestation of the 
+energetic nature of the approaching front. Several sites were activated on the southern end of the target 
+area in anticipation of overnight precipitation ramping up, which did occur as the front began to push 
+across northern Utah.  The icing meter at Dry Ridge in the High Uintas did record several icing cycles 
+between 2100 MST and 0230 MST, an indication of the presence of supercooled liquid water.  Snow 
+continued overnight into the early morning of the 5th before tapering off. Brief light northwest flow snow 
+showers developed later in the day but were insignificant.  Storm total precipitation was generally in the 
+0.1-0.5” range (liquid water equivalent). After this event, a prolonged period of dry weather affected most 
+of Utah. 
+The next storm system began to impact Utah early  in the afternoon of January 22 nd. An upper-
+level trough was digging into central California with a lead shortwave disturbance near San Francisco.  
+Ahead of the trough, upper -level diffluent flow and moisture advection across Utah was resulting in an 
+expanding area of precipitation. 700 mb temperatures were marginally sufficient for seeding criteria, at -
+5°C. Precipitation continued into the evening with several CNG sites activated as better wind flow was 
+observed by that time. Precipitation continued overnight and into the morning of the 23rd, with south and 
+southwest-facing slopes seeing the brunt of the snowfall.  Snow showers continued into the afternoon 
+hours before tapering off, at which time CNG sites were shut off.  Storm total precipitation ranged from 
+0.5”-1.2” of snow water equivalent. 
+The third and final storm to impact Utah for January approached on the afternoon of the 29 th. 
+Moist and relatively warm southerly flow ahead of the approaching trough of low pressure began to 
+spread precipitation across the state, but warm mid -level temperatures (700 mb temp -2°C) and light, 
+erratic low-level winds precluded seeding operations during this part of the event.  By evening, as the 
+trough axis passed across the area, winds veered around to northwesterly, and temperatures cooled off. 
+Moist upslope flow on northwest -facing slopes produced widespread snow showers across the target 
+area. Several sites were activated in the evening and continued to operate until the morning of the 30 th, 
+when precipitation tapered off as the trough exited the area. Total snow water equivalent (SWE) for this 
+event ranged from 0.3”-0.7”. 
+February 2021 
+Precipitation in February was above average across the target area , with five seeding 
+opportunities during an active month, weatherwise. Figure 4.7 shows the percentage of normal February 
+precipitation across the region. 
+ 
+24 
+ 
+ 
+ 
+Figure 4.7  February 2021 precipitation, percent of normal 
+Early on February 3, the northern and more potent piece of a splitting west coast uppe r-level 
+trough began to approach Utah. Ahead of the trough axis, a strong cold front and associated precipitation 
+pushed into northern Utah during the morning hours with isolated lightning strikes observed. While it was 
+relatively warm ahead of the frontal boundary – 700 mb temperatures were around -3°C – temperatures 
+dropped fairly quickly behind the front with west to northwest flow becoming established, providing for 
+great orographic lift over the mountains.  Several sites were activated towards the latte r part of the 
+morning and continued to operate through the afternoon, shutting off during the evening as precipitation 
+tapered off. SWE totals from this event were in the 0.25”-0.75” range. 
+A shortwave disturbance approached northern Utah early in the morn ing of February 5 th, with 
+light snow in advance of the system spreading across the area. 700 mb temperatures were ideal, around 
+-10°C. Although surface winds were fairly light and variable, winds just above the surface were stronger 
+and more favorable for proper targeting with the seeding plumes. CNG sites were activated around mid-
+morning and continued through the afternoon as snow continued across much of the area.  As the 
+
+ 
+25 
+ 
+disturbance pushed further away from the area during the evening, the upslope flow weakened and snow 
+diminished, at which time sites were shut off. Total SWE from this storm event ranged from 0.25” to 1.00” 
+in some spots. 
+Diffluent flow and warm/moist southwesterly flow ahead of an upper -level trough over central 
+California began to produce areas of precipitation across Utah early in the morning of February 13th. The 
+morning sounding from SLC indicated marginally sufficient 700 mb temperatures ( -6°C) with no stability 
+issues present. Several CNG sites were activated in the morning, with a couple more in the afternoon and 
+early evening as snow continued across the area. The trough axis pushed through around mid-afternoon 
+with winds becoming northwesterly and, eventually northerly by evening.  Snow continued overnight, 
+ending early in the morning on the 14th. Storm total SWE ranged from 0.10” to as much as 1.00”. 
+Quick on the heels of the previous disturbance, the next storm system to affect Utah began to 
+approach from the northwest during the day on February 15 th. Strong northwesterly winds aloft were in 
+place over Utah, with warm/moist advection occurring at lower levels promoting an area of precipitation 
+that spread across northern Utah during the day. As the axis of the shortwave disturbance passed across 
+the area late in the afternoo n, winds became northwesterly and moist upslope flow commenced with 
+snow intensifying for west/northwest facing slopes. Several CNG sites were activated in the evening and 
+continued to run overnight with ideal atmospheric parameters in place for seeding.  On the 16 th, snow 
+began to decrease in coverage during the morning, but picked up again substantially in the early afternoon 
+as a second shortwave disturbance approached.  Unfortunately, seeding operations had to come to an 
+abrupt end in the middle of the st orm event as the assessed danger of avalanches had reached the 
+Extreme category. Snowfall continued through the evening of the 16 th and into the morning of the 17 th 
+before finally tapering off. Storm total SWE ranged from 0.40” to 1.60”. 
+The last storm event of the month took place beginning on February 26 th. An upper-level trough 
+over the interior Pacific Northwest moved into the Great Basin during the afternoon/evening hours.  A 
+strengthening cold front ahead of the trough moved into northern Utah late in the afternoon 
+accompanied by a band of snow showers. West to northwest flow behind the front was ideal for upslope 
+flow to generate additional snow, and several CNG sites were activated early in the evening.  Snow 
+continued overnight into the morning hours of the 17 th, with sites shut down around 0800 MST as the 
+morning sounding from SLC indicated that 700 mb temperatures had fallen to -16°C, indicative that any 
+clouds present were likely to already have sufficient ice crystals in them and little in the way of 
+supercooled water. Storm total SWE was between 0.10” and 0.50”. 
+March 2021 
+ March saw below-normal precipitation across most of the area, despite storm systems affecting 
+the area on a regular basis during the month. There were five seeded storm periods in March. Figure 4.8 
+shows the regional March precipitation as a percentage of normal.  
+ 
+ 
+26 
+ 
+ 
+ Figure 4.8  March 2020 precipitation, percent of normal 
+By the end of the first week of March, a broad upper -level trough was in place over the 
+northeastern Pacific Ocean and western U.S. with a series of disturbances embedded within the upper -
+level flow. One such disturbance in central Nevada on the afternoon of March 9 th was pushing toward 
+Utah and would interact with a stalled mid -level boundary extending southwest to northeast across the 
+state. Initially, a dry low level airmass was in place and, as such, only virga was occurring with none of the 
+precipitation reaching the ground but by late afternoon some snow began to reach the ground in and near 
+the target area.  Some CNG sites were activated late afternoon/early evening with mainly light snow 
+continuing through the night and ending early in the morning on March 10 th. Storm total SWE was low, 
+only 0.10”-020”. 
+A vigorous closed low was located over Arizona on the morning of March 16 th, bringing 
+northeasterly winds to the Western Uintas. Enough moisture was in place to allow for some upslope flow 
+on the eastern side of the Western Uintas, and one site in the High Uintas program was activated for a 
+few hours in the afternoon to target clouds/snow showers moving into the Western Uintas target area.  
+
+ 
+27 
+ 
+During the morning of March 20 th, a cold front pushed into the Western Uintas accompanied by 
+a broad band of precipitation. 700 mb temperatures initially around -3°C dropped to -8°C behind the front, 
+with widespread upslope precipitation developing. CNG sites were activated as this band moved into the 
+area, with additional sites activated later in the day within the northwest flow regime.  Precipitation 
+continued overnight into the morning hours of March 21 st before tapering off, and sites were shut off.  
+Storm total SWE for this event ranged from 0.50” to 1.50”. 
+Another northeasterly flow event took place on March 23 rd, with snow showers moving into the 
+target area from Wyoming and the central High Uintas. One site upstream of the target area was activated 
+around the noon hour and continued to run until early evening, when precipitation came to an end. Due 
+to wind direction with this event, this was the only site suitable for operations. 
+On March 25th, a broad trough of low pressure moved from the Pacific Northwest moved into the 
+Great Basin, with light snow falling from a higher cloud deck over the target area.  700 mb temperatures 
+were ideal, around -8°C. South to southwesterly flow was producing some lower clouds but at least 
+through late afternoon, most of the precipitation was falling from the higher cloud deck. Some sites were 
+activated as the lower clouds gradually developed more liquid water.  Light snow shower bands moved 
+across the target area during the evening and overnight hours, and by morning the wind flow was 
+northwesterly, with a few more sites activated. Snow showers gradually diminished by late afternoon and 
+seeding operations ceased. Storm total SWE was in the 0.20”-0.40” range. 
+April 2021 
+At the request of the clients, an extension of the program was granted into April.  Precipitation 
+was below normal across the state. Four storm events affected the state during the month, three of which 
+were seedable for the Western Uintas target area. 
+ 
+28 
+ 
+ 
+ 
+Figure 4.9  April 2020 precipitation, percent of normal 
+A large trough was in place over the Great Basin on April 14 th. The airmass over Utah was dry 
+despite the presence of some bands of snow showers over the northwestern quadrant of the state. Some 
+of these bands expanded eastward into the Western Uintas by the noon hour and a couple of sites were 
+activated as atmospheric conditions became more favorable for seeding.  Snow showers continued until 
+early evening before tapering off, at which time seeding operations came to an end.  Storm total SWE 
+ranged from 0.10”-0.50”. 
+The aforementioned large trough had evolved into a closed upper low that was sitting over the 
+state on April 15 th. Extensive low clouds across the area within light north to northwest flow eventually 
+began to produce light snow showers, and a few sites were activated shortly before noon.  Seeding 
+continued through the afternoon and overnight as snow showers continued, ending on the morning of 
+the 16th. Storm total SWE ranged from 0.20” to 0.80”. 
+
+ 
+29 
+ 
+A fast-moving trough of low pressure brought some snow showers to northern Utah on April 19th 
+within strong northwest flow associated with a cold frontal passage.  A couple of generator sites were 
+activated for this event, which lasted into the overnight hours. 
+  
+ 
+30 
+ 
+5.0 ASSESSMENT OF SEEDING EFFECTS 
+5.1 Background 
+The seemingly simple issue of determining the effects of cloud seeding has received considerable 
+attention over the years. Evaluating the results of a cloud seeding program is often a rather difficult task, 
+however, and the results, especially single-season indications, should be viewed with appropriate caution. 
+The primary reason for the difficulty stems from the large natural variabilit y in the amounts of 
+precipitation that occur in a given area.  The ability to detect a seeding effect becomes a function of the 
+size of the seeding increase relative to the natural variability in the precipitation pattern.  Larger seeding 
+effects can be dete cted more readily, and with a smaller number of seeded cases than are required to 
+detect smaller increases. 
+Historically, among all cloud seeding project types, the most consistent results have been 
+observed in wintertime seeding programs in mountainous ar eas, with results indicating 5 -15 percent 
+increases in seasonal precipitation. Establishing an accurate approximation of the effects of seeding within 
+a single operational season can be challenging. Historically a rigorous study of seeding increase estimates 
+required a multi -year randomized seeding evaluation. This multi -year assessment method made it 
+impossible to address financial concerns in real time and encumbered projects with substantial 
+operational limitations.  
+To provide our clients with greater d ecisioning power, we developed a mathematical evaluation 
+process that enables us to perform single and multiple season evaluations. This model is based on a 
+“target and control” comparison of a given variable that is affected by seeding (precipitation or snowpack) 
+between a “target” area (where seeding occurred for the season being assessed) and a “control” area 
+(where no seeding occurred for the season being assessed)  
+After identifying appropriate control sites, data for the selected variable (e.g., preci pitation) is 
+analyzed for both the “target” area and the “control” area for years where no seeding was performed in 
+either area . A mathematical model (regression) is developed to determine the relationship between 
+precipitation in the “target” area and precipitation in the “control” area under natural circumstances. This 
+mathematical model is then used to analyze the selected variable in years where seeding did not occur in 
+the “control” area but did occur in the “target” area.  Using this model with data fo r the control sites, a 
+reasonable prediction can be made of what would have transpired in the target area had no seeding 
+occurred, then compare this to what actually happened in the target area. Consistent differences between 
+the predicted and observed target area data may be attributed to cloud seeding effects, although with a 
+low level of confidence until sufficient seeded season data is accumulated. 
+This target and control technique works well where good mathematical correlation can be found 
+between target and control area precipitation. Generally, the closer the two areas are geographically, and 
+the more similar they are in terms of elevation and topography, the higher the correlation and the more 
+certain the results. Areas selected that are too close together, however, can be subject to contamination 
+of the control sites by seeding activities.  This can result in an underestimate of the seeding effect.  For 
+precipitation and snowpack assessments, a correlation coefficient (r) of 0.90 or better woul d be 
+ 
+31 
+ 
+considered excellent, and correlations around 0.85 would be very good.  A correlation coefficient of 0.90 
+would indicate that over 80 percent of the variance (r 2) in the historical data set is explained by the 
+regression equation used to estimate the s ubject variable (expected precipitation or snowpack) in the 
+seeded years. Correlations less than about 0.80 are still acceptable, but it would likely take much longer 
+to attach any statistical significance to the apparent results of seeding. 
+5.2 Considerations in the Development of Target/Control Evaluations 
+With the advent of the Natural Resources Conservation Service's (NRCS) SNOTEL automated data 
+acquisition system in the late 1970's, access to precipitation and snowpack (water equivalent) data in 
+mountainous locations became routine. Before the automated system was developed, these data had to 
+be acquired by having NRCS personnel visit the site to take necessary measurements. This is still done at 
+some sites although most have been automated.  Historically, Utah has had snowpack measurements 
+taken at (usually) monthly intervals. Precipitation and snowpack data used in the analysis were obtained 
+from the NRCS and/or from the National Climatic Data Center.  The current season NRCS data are 
+considered provisional and subject to quality control analysis by the NRCS. 
+There have been, and continue to be, multiple cloud seeding programs conducted in the State of 
+Utah. As a consequence, potential control areas that are unaffected by cloud seeding are somewhat 
+limited. This is complicated by the fact that the best correlated control sites are generally those closest to 
+the target area, and SNOTEL measurement sites in Utah have likely been affected at some time by 
+numerous historical and current seeding programs.  
+Our normal approach in selecting control sites for a new project includes looking for sites that will 
+geographically bracket the intended target area.  The reason for this approach is that we have observed 
+that some winter seasons are dominated by a particular upper airflow pattern while other seasons are 
+dominated by other flow patterns. These different upper airflow patterns and resultant storm tracks often 
+result in heavier precipitation in one area versus the other.  For example, a strong El Nino pattern may 
+favor the production of heavy winter precipitation in the southwestern United States while a strong La 
+Nina pattern may favor the production of below normal precipitation in the southwest.  The inclusion of 
+control sites at somewhat varying latitudes (north-south), helping to bracket the target area, may improve 
+the estimation of natural target area precipitation under variable upper airflow patterns. 
+ Another consideration in the selection of control sites for the development of an historical 
+target/control relationship is one of data quality. A potential control site may be rejected due to poor data 
+quality if the data significantly diverges over time from other sites in the area. SNOTEL sites, the type used 
+in the evaluation of the Western Uintas program, typically have reliable long -term records with external 
+variables (such as terrain aspect and surrounding vegetation) carefully selected or maintained.  
+5.3 Evaluation of Snow Water Content 
+Historically, the Soil Conservation Service (SCS) routinely measured the mountain snowpack at 
+snow courses once or twice per month, usually starting in January and continuing until May or June.  
+Measurements were made by visiting the snow course (commonly a group of ten measurement points) 
+and taking core samples of the snow to determine the water content and depth of the snow at each 
+designated location along the course.  Though this manual method is still being used  at some sites, 
+ 
+32 
+ 
+beginning in the 1980s, the NRCS (formerly the SCS) automated SNOTEL system has provided daily 
+measurements of snow water (and precipitation) at many of the mountain sites.  With the use of a snow 
+pillow, the water equivalent of the snowpack  can be determined remotely by reading the weight of the 
+snow on the snow pillow. The water content within the snowpack is important since, after consideration 
+of antecedent soil moisture conditions, it ultimately determines how much water will be availabl e as 
+runoff when the snow melt occurs.  Hydrologists routinely use snow water content to make forecasts of 
+streamflow during the spring and early summer months.  As with the precipitation storage gauge and 
+SNOTEL precipitation gauge networks, Utah also has access to an excellent snow course and SNOTEL snow 
+pillow reporting system via the NRCS.  Many of the same reporting mountain sites are configured with 
+collocated precipitation and snowpack measurements. Consequently, it was judged important to evaluate 
+the effects of seeding on snowpack as well. 
+There are some potential pitfalls with snowpack measurements that must be recognized when 
+using snow water content to evaluate seeding effectiveness.  One problem that can occur is that not all 
+winter storms are cold,  and sometimes rain as well as snow falls in the mountains.  This can lead to a 
+disparity between precipitation totals (which measure everything that falls) and snowpack water content 
+(which measures only the water held in the snowpack at a particular time). Also, warm periods can occur 
+between snowstorms particularly in the spring season.  If a significant warm period occurs, some of the 
+precipitation that fell as snow may melt or sublimate by the time the next snow course measurement is 
+made. This can also lead to a greater disparity between snow water content and precipitation at lower 
+elevations (where more snow will melt in warm weather) than at higher elevations. 
+Another factor that can have an effect on the indicated results of the snowpack evaluation is the 
+date on which the snowpack measurement was made. These measurements are generally made near the 
+end of the month at the snow course sites and, since the advent of SNOTEL, are now made daily where 
+possible. Prior to SNOTEL, and at those sites where sn ow courses are still measured by visiting the site, 
+the measurement is recorded on the day it was made.  In some cases, because of scheduling issues or 
+stormy weather, the manual snow course measurements may have been made as much as several days 
+before or after the end of the month. This can lead to a disparity in the snowpack water content readings 
+when comparing one group (such as a control) with another control or target group. Normally, however, 
+snowpack measurements are made within a few days of the intended date.  
+April 1 st snowpack readings are widely used for runoff forecasting since they usually closely 
+represent the maximum snow accumulation for the winter season. Most streamflow and reservoir storage 
+forecasts are made on the basis of the April 1st snowpack data. For that reason, and because three to four 
+months of seeding are generally represented in the April 1 st snowpack measurements, April 1 st was 
+selected as the date for our snowpack analyses. 
+5.3.1 Target/Control Sites and Regression Equation Development 
+The procedure was essentially the same as what was done for the precipitation evaluation, e.g., 
+control and target area sites were selected, and average values for each were determined.  Seven target 
+area snow measurement sites were utilized for the Western Uintas Program, as shown in Figure 5.1. Table 
+5-1 provides the target area site names, elevations and locations of these sites. The average elevation of 
+the target sites is 8,637 feet MSL.  
+ 
+33 
+ 
+ 
+Figure 5.1 Western Uintas target area and snowpack target sites 
+Table 5-1 
+Target area snowpack sites 
+Map Label Site Name Elev. (Ft) Lat. (N) Long. (W) 
+1 Chalk Creek #2 8,200 40° 54' 111° 04' 
+2 Chalk Creek #1 9,100 40° 51' 111° 04' 
+3 Smith & Morehouse 7,600 40° 47' 111° 06' 
+4 Redden Mine, Lower 8,500 40° 41' 111° 13' 
+5 Hayden Fork 9,100 40° 48' 110° 53' 
+6 Trial Lake 9,960 40° 41' 110° 57' 
+7 Currant Creek 8,000 40° 21’ 111° 05’ 
+ 
+The five control sites are located in southern Idaho, northeastern Nevada and central Utah as 
+shown in Figure 5. 2. Control area site names, elevations and locations are provided in Table 5 -2. The 
+elevations of the control area sites average 6,887 feet (MSL).  The non-seeded seasons were 1970 -1988 
+and 1997-2000 (a total of 23 seasons). Many more historical seasons were available for the snow water 
+content analyses than for precipitation data, 23 versus 11 seasons. As a consequence, the snow water 
+content analyses results are likely to be much more reliable than the precipitation analyses for this 
+particular seeding program, and are the focus of this evaluation section. 
+ 
+
+ 
+34 
+ 
+ 
+Figure 5.2 Western Uintas target area and snow control sites (squares)  
+Table 5-2 
+Control area snowpack sites 
+Map Label Site Name Site ID Elev. (Ft) Lat. 
+(N) Long. (W) 
+A Badger Gulch SC, ID 14G03 6,660 42°06' 114°10' 
+B Big Bend, NV 15H04S 6,700 41°46' 115°43' 
+C Magic Mountain, ID 14G02S 6,880 42°11' 114°18' 
+D Willow Flat SC, ID 11G04 6,070 42°08' 111°38' 
+E Strawberry Divide, UT 11J08S 8,123 40°11' 111°13' 
+ 
+  
+The linear regression equation developed from the historical relationship between the average 
+control snowpack data and the average target snowpack data for April 1st was the following: 
+  
+YC = 0.741 (XO) + 6.36 (4) 
+ 
+     
+where YC is the calculated average snow water content (inches) for the seven -station target and 
+XO is the five-station control average observed snow water content for April 1st. 
+ 
+5.3.2 Linear Regression Snowpack Analysis 
+When the observed average control snow wat er content (11.5 inches) for April 1 st, 2020 period 
+was inserted in equation (1), the most probable average target area snow water content was calculated 
+to be 14.9 inches.  The actual observed average precipitation for the target group was 12.3 inches.  This 
+yields a single-season ratio of 0.82, which (for this single season) is itself not indicative of a seeding effect. 
+
+ 
+35 
+ 
+As stated before, the single-season evaluation results carry very little statistical significance. The strength 
+of the evaluation lies in the multi-year results as shown below. 
+The combined (24 -year) snow water linear regression evaluation for April 1 st, for the Western 
+Uintas target sites, yields a ratio of 1.03. This long-term mean excludes water years 2004 and 2015 during 
+which abnormal early snowmelt occurred, and thus includes 24 seeded seasons. The implied 3% increase 
+based on the snowpack evaluation is equivalent to an average of about 0.4 inches more water over the 
+watersheds than might have occurred without the cloud seeding. The snowpack evaluation for the seeded 
+water years is summarized in Table 5-3.  
+ 
+36 
+ 
+Table 5-3 
+Summary of April 1st snow water content evaluation, 
+using the Linear Regression technique. 
+Snowpack units are in inches of water equivalent. 
+Water  
+Year 
+Control 
+Average 
+Target 
+Observed 
+Target 
+Predicted 
+Obs/Pred 
+Ratio 
+Excess 
+Water 
+(inches) 
+1989 17.22 18.04 19.12 0.94 -1.08 
+1990 6.94 14.79 11.50 1.29 3.28 
+1991 10.34 15.00 14.02 1.07 0.98 
+1992 3.44 10.29 8.91 1.15 1.38 
+1993 16.02 21.34 18.23 1.17 3.11 
+1995 11.96 18.43 15.22 1.21 3.21 
+2001 6.62 10.53 11.27 0.93 -0.74 
+2002 14.86 14.21 17.37 0.82 -3.16 
+2003 7.04 12.31 11.58 1.06 0.74 
+2005 14.26 21.09 16.93 1.25 4.16 
+2006 21.12 21.81 22.01 0.99 -0.20 
+2007 7.12 10.16 11.64 0.87 -1.48 
+2008 17.28 20.07 19.16 1.05 0.91 
+2009 14.06 17.17 16.78 1.02 0.39 
+2010 11.22 11.84 14.67 0.81 -2.83 
+2011 20.06 24.50 21.22 1.15 3.28 
+2013 9.14 10.69 13.13 0.81 -2.45 
+2014 11.16 16.61 14.63 1.14 1.98 
+2016 14.74 14.71 17.28 0.85 -2.57 
+2017 16.68 23.46 18.72 1.25 4.74 
+2018 7.40 10.29 11.84 0.87 -1.56 
+2019 18.44 21.64 20.02 1.08 1.62 
+2020 14.78 16.80 17.31 0.97 -0.51 
+2021 11.54 12.30 14.91 0.82 -2.61 
+24 years 12.64 16.16 15.73 1.03 0.43 
+  
+5.3.3  Multiple Linear Regression Snowpack Analysis 
+A multiple linear regression analysis has been conducted for snowpack, and exhibits much lower 
+seasonal variability in the indicated observed/predicted ratios than does the corresponding linear 
+ 
+37 
+ 
+regression. The r value is also much better than for the standard linear regression (0.90 vs. 0.79).  This 
+implies less background noise in this equation, and thus likely more reliable estimates of the true seeding 
+effects. The results of the multiple regression snowpack analyses are provided in Table 5-4, implying about 
+a 6% increase over the long term (obtained from the ratio of 1.06 shown in bold in the bottom row of that 
+table). In the case of the Western Uintas evaluations, the multiple linear snowpack analysis is by far the 
+strongest mathematically and is likely the most reliable for evaluation of this program.  
+A double ratio analysis using snowpack data (similar to that for precipitation) resulted in a ratio 
+of 1.13, implying a 13% increase in the target area (relative to the control) during the seeded seasons.  
+However, this result is a high outlier in these evaluations and may not be representative of the actual 
+seeding effects. NAWC’s best estimate of seeding effects for the Western Uintas program is about a 6% 
+increase, as obtained in the multiple linear regression snowpack analysis. 
+ 
+ 
+Table 5-4 
+Summary of snow water content evaluation using the multiple linear regression technique.  
+Snowpack units are inches of water equivalent. 
+Water 
+Year 
+Magic 
+Mtn, ID 
+Badger 
+Gulch, 
+ID 
+Willow 
+Flat, ID 
+Big 
+Bend, 
+NV 
+Strawb
+erry 
+Div, UT 
+Target 
+Observe
+d 
+Snowpac
+k 
+Est 
+Target 
+Snow 
+ 
+Obs/Pre
+d Ratio 
+Excess 
+Water 
+(inches) 
+1989 23.60 16.20 18.00 10.50 17.80 18.04 17.84 1.01 0.20 
+1990 10.20 7.70 4.00 0.00 12.80 14.79 13.45 1.10 1.34 
+1991 14.70 7.50 11.20 2.40 15.90 15.00 14.95 1.00 0.05 
+1992 3.60 3.00 3.70 0.00 6.90 10.29 9.05 1.14 1.24 
+1993 18.10 14.60 17.70 8.40 21.30 21.34 20.18 1.06 1.16 
+1995 15.70 10.40 12.90 3.90 16.90 18.43 16.52 1.12 1.91 
+2001 11.40 6.10 5.10 2.00 8.50 10.53 10.02 1.05 0.51 
+2002 20.90 15.80 14.30 10.40 12.90 14.21 14.88 0.96 -0.66 
+2003 10.60 4.20 8.10 2.00 10.30 12.31 10.71 1.15 1.61 
+2005 16.70 9.80 14.90 7.70 22.20 21.09 18.68 1.13 2.40 
+2006 28.20 18.20 21.00 14.50 23.70 21.81 21.03 1.04 0.78 
+2007 14.00 5.20 6.00 1.80 8.60 10.16 9.51 1.07 0.65 
+2008 20.00 16.80 19.00 11.60 19.00 20.07 19.16 1.05 0.91 
+2009 20.40 10.20 15.50 10.10 14.10 17.17 13.50 1.27 3.67 
+2010 15.70 11.20 10.80 8.40 10.00 11.84 11.97 0.99 -0.13 
+2011 21.80 15.40 24.60 13.80 24.70 24.50 21.82 1.12 2.68 
+2013 15.20 9.60 9.40 2.00 9.50 10.69 12.03 0.89 -1.34 
+2014 17.70 11.40 10.20 2.20 14.30 16.61 15.18 1.09 1.43 
+2016 22.40 14.70 14.80 9.50 12.30 14.71 14.11 1.04 0.61 
+2017 19.80 15.10 15.20 10.10 23.20 23.46 20.64 1.14 2.82 
+2018 12.70 6.90 7.10 2.70 7.60 10.29 9.79 1.05 0.49 
+2019 21.20 17.70 19.00 10.40 23.90 21.64 22.32 0.97 -0.67 
+2020 21.40 15.60 13.00 8.40 15.50 16.80 16.37 1.03 0.43 
+2021 16.60 12.40 12.00 6.70 10.00 12.30 12.78 0.96 -0.48 
+24 yrs 17.19 11.49 12.81 6.65 15.08 16.16 15.27 1.06 0.89 
+ 
+ 
+5.4 Summary of Evaluation Results 
+The April 1 st snowpack analyses for 24 seeded seasons (2004 and 2015 were excluded) yield 
+observed/predicted ratios of 1.03 (linear) and 1.06 (multiple linear). The results using April 1st snowpack 
+imply average increases of roughly 3% -6%, which seems reasonable for this program, particularly in 
+comparison to results of similar programs in the western U.S. and nearby programs in Utah. The April 1st 
+snowpack evaluations are considered much more representative than the December-March precipitation 
+evaluation (previously included in this section) due to a much longer historical period being available for 
+the snow water versus precipitation evaluation of 23 ve rsus 11 seasons , and a stronger statistical 
+correlation (i.e., r value of 0.90).   Also of interest in the case of the snowpack evaluations is the much 
+lower year -to-year variability observed in the results of the snowpack multiple linear evaluation, 
+suggesting that this particular equation is likely the best predictor of the “expected” natural target area 
+precipitation based on the available control site snowpack data. This suggests a likely long-term average 
+seeding effect in the neighborhood of 6% for this program.       
+  
+ NAWC considers the Western Uintas evaluations to be conservative estimates of the effects of 
+seeding for a variety of reasons.  For example, some months that were included in the “seeded” period 
+actually were not seeded during all season s. Also, one of the control sites (Strawberry Divide) is located 
+in an area that has been seeded for another program during some winter seasons.  The snowpack 
+evaluations are also conservative because they are based upon April 1st data. These data contain periods 
+in the fall and early winter in which snowpack accumulated in the target area without any effects of 
+seeding. This would dilute the indicated effects of seeding over the long term.  
+Due in large part to the continually rising demand for water across  the Rocky Mountain States, 
+there are no longer any particularly good control sites. The few potential sites that reside close to the 
+target area and have adequate historic records are all likely affected by other nearby cloud -seeding 
+projects each winter, thus reducing the apparent gains derived from cloud seeding 
+ Another potential confounding issue in evaluating the effects of cloud seeding in the Western 
+Uintas target area is that the historical target/control evaluations seem to be impacted by urban ai r 
+pollution, based upon an analysis performed and published by NAWC (Griffith et al., 2005). A copy of the 
+paper on this topic was provided in the 2005 report and is also available on NAWC’s website 
+(www.nawcinc.com/nawcpapers.html). That analysis document ed an approximate 16% decline in the 
+November through March precipitation at Trial Lake during the period from 1956 to 2004.  Data more 
+recent than this would be affected by cloud seeding as well, with the competing effects difficult to 
+separate. 
+The contro l area sites in northeastern Nevada and southwestern Idaho are primarily in 
+unpopulated areas which would not be expected to be subject to the air pollution problems as discussed 
+in the 2005 paper. On the other hand, from our investigations (Griffith et al., 2005) it appears that some 
+of the target sites for the Western Uintas program are being negatively impacted by air pollution.  The 
+likely result then is that the equations used to evaluate the program may be over-predicting the amount 
+of “natural” precip itation (i.e., that which would occur without seeding) in the target area during the 
+seeded periods. As a consequence, the evaluations of the program are likely indicating less of a seeding 
+effect than is actually occurring.  
+ 
+ 
+This situation was also consid ered in a study conducted by Givati and Rosenfeld (2004); they 
+reported on an operational cloud seeding program being conducted in Israel, plus some areas in California 
+that are exhibiting these pollution impacts. A quote from the Givati and Rosenfeld study is as follows: “In 
+this study, we avoided addressing the possible confounding effects of the glaciogenic cloud seeding of the 
+orographic clouds in both Israel and California.  If seeding did enhance precipitation, the effects in the 
+absence of seeding may have been larger than indicated in this study.” In other words, cloud seeding may 
+potentially be offsetting the negative effects of air pollution on precipitation.  For example, if air 
+pollution was reducing December through March precipitation by 10% and cloud seeding was increasing 
+precipitation by 10%, the evaluations that we have been conducting for the Western Uintas may indicate 
+no effect even though there actually was a 10% increase due to cloud seeding.  And the corollary is that 
+without cloud seeding, the drop in precipitation due to pollution effects might be more pronounced.  
+Appendix C contains additional information on the historical and seeded years precipitation and 
+snow water averages, regression equations and predicted and observed values. 
+  
+ 
+ 
+6.0  CONCLUSIONS 
+The difficulties involved in predicting seasonal increases in snowpack resulting from cloud seeding 
+have been thoroughly described in this report.  With those realities and their potential impacts 
+summarized, we offer the following statements regarding the seeding project effectiveness. 
+The cumulative evaluation results using the regular and multiple linear regression techniques 
+based on April 1 st snow water content, indicate an estimated 3% to 6% seasonal average increase These 
+are considered to be the best, most credible (although perhaps still conservative) estimations of the true 
+effects of the seeding program.  
+For the Western Uintas program, a 5% average increase would yield approximately ~0.8 inches of 
+additional water over the target  area. The target area comprises approximately 600 square miles.  An 
+average 0.8 inches of augmented water across the target would yield approximately 25, 000 additional 
+acre-feet of runoff. Using an estimated average current cost of conducting the seeding program, the cost 
+of producing the additional runoff via cloud seeding is approximately $3.01 per acre-foot. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+REFERENCES 
+Givati, A. and D. Rosenfeld, 2004: Quantifying Precipitation Suppression Due to Air Pollution. American 
+Meteorological Society, Journal of Applied Meteorology, Vol. 43, pp. 1038-1056. 
+ 
+Griffith, D. A., M. E. Solak and D.P. Yorty, 2003: Summary and Evaluation of 2002-2003 Winter Cloud 
+Seeding Operations in the Western Uinta Mountains, Utah. NAWC Report No. WM 03-6, 
+September, 2003. 
+ 
+Griffith, D. A., M. E. Solak and D.P. Yorty, 2005: Is Air Pollution Impacting Winter Orographic 
+Precipitation in Utah? Weather Modification Association, J. Wea. Modif., Vol. 37, pp. 14-20. 
+ 
+Griffith, D.A., M.E. Solak and D.P. Yorty, 2009: 30+ Winter Seasons of Operational Cloud Seeding in Utah. 
+J. Wea. Modif., Vol. 41, pp. 23-37. 
+ 
+Solak, M.E., D. P. Yorty and D.A. Griffith, 2003: Estimations of Downwind Cloud Seeding Effects in Utah. 
+Weather Modification Association, J. Wea. Modif, Vol. 35, pp. 52-58.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+APPENDIX A SUSPENSION CRITERIA 
+ 
+Certain situations require temporary or longer -term suspension of cloud seeding activities, with 
+reference to well -considered criteria for consideration of possible suspensions, to minimize either an 
+actual or apparent contribution of seeding to a potentia lly hazardous situation. The ability to forecast 
+(anticipate) and judiciously avoid hazardous conditions is very important in limiting any potential liability 
+associated with weather modification and to maintain a positive public image.  
+There are three pr imary hazardous situations around which suspension criteria have been 
+developed. These are:  
+ 1. Excess snowpack accumulation  
+ 2. Rain-induced winter flooding  
+ 3. Severe weather  
+1.  Excess Snowpack Accumulation  
+Snowpack begins to accumulate in the moun tainous areas of Utah in November and continues 
+through April. The heaviest average accumulations normally occur from January through March. Excessive 
+snowpack water content becomes a potential hazard during the resultant snowmelt.  The Natural 
+Resources Conservation Service (NRCS) maintains a network of high elevation snowpack measurement 
+sites in the State of Utah, known as the SNOTEL network. SNOTEL automated observations are now readily 
+available, updated as often as hourly.  The following set of criteria , based upon observations from these 
+SNOTEL site observations, has been developed as a guide for potential suspension of operations. 
+ 
+ 
+  
+  
+Snowpack-related suspension considerations will be assessed on a geographical division or sub-
+division basis. The NRCS has divided the State of Utah into 13 such divisions as follows: Bear River, Weber-
+Ogden Rivers, Provo River -Utah Lake-Jordan River, Tooele Valley -Vernon Creek, Green River, Duchesne 
+
+ 
+ 
+River, Price-San Rafael, Dirty Devil, South Eastern Utah, Sevier River, Beaver River, Escalante River, and 
+Virgin River. The Weber-Ogden and Provo River – Utah Lake – Jordan River criteria apply to suspension 
+considerations for the Western Uintas project. Since SNOTEL observations are available on a  daily basis, 
+suspensions (and cancellation of suspensions) can be made on a daily basis using linear interpolation of 
+the first of month criteria.  For the Western Uintas, four SNOTEL sites (Chalk Creek #1, Trial Lake, Smith 
+and Morehouse, and Rock Creek) have date-specific snow water equivalent criteria on which suspension 
+decisions can be based.  
+Streamflow forecasts, reservoir storage levels, soil moisture content and amounts of precipitation 
+in prior seasons are other factors which need to be considered when the potential for suspending seeding 
+operations due to excess snowpack water content exists.  
+2. Rain-induced Winter Floods  
+The potential for wintertime flooding from rainfall on low elevation snowpack is fairly high in 
+some (especially the more southern) target areas during the late winter/early spring period.  Every 
+precaution must be taken to insure accurate forecasting and timely suspension of operations during these 
+potential flood-producing situations. The objective of suspension under these conditions is to eliminate 
+both the real and/or perceived impact of weather modification when any increase in precipitation has the 
+potential of creating a flood hazard. 
+3. Severe Weather  
+During periods of hazardous weather associated with both winter oro graphic and convective 
+precipitation systems it is sometimes necessary or advisable for the National Weather Service (NWS) to 
+issue special weather bulletins advising the public of the weather phenomena and the attendant hazards. 
+Each phenomenon is described in terms of criteria used by the NWS in issuing special weather bulletins.  
+Those that may be relevant in the conduct of winter cloud seeding programs include the following: 
+• Winter Storm Warning - This is issued by the NWS when it expects heavy snow warn ing 
+criteria to be met, along with strong winds/wind chill or freezing precipitation. 
+• Flash Flood Warnings - This is issued by the NWS when flash flooding is imminent or in 
+progress. In the Intermountain West, these warnings are generally issued relative to, but 
+are not limited to, fall or spring convective systems. 
+Seeding operations may be suspended whenever the NWS issues a weather warning for or 
+adjacent to any target area. Since the objective of the cloud seeding program is to increase winter snowfall 
+in the mountainous areas of the state, operations will typically not be suspended when Winter Storm 
+Warnings are issued, unless there are special considerations (e.g., a heavy storm that impacts Christmas 
+Eve travel).  
+ 
+Flash Flood Warnings are usually issued when intense convective activity causing heavy rainfall is 
+expected or is occurring. Although the probability of this situation occurring during our core operational 
+seeding periods is low, the potential does exist, especially over southern sections of the state during late 
+March and early April, which can include the project spring extension period. The type of storm that may 
+cause problems is one that has the potential of producing 1 -2 inches (or greater) of rainfall in 
+ 
+ 
+approximately a 24 -hour period, combined with high freezing levels (e.g., > 8,000 feet MSL).  Seeding 
+operations will be suspended for the duration of the warning period in the affected areas. 
+NAWC’s project meteorologists have the authority to temporarily suspend localized seeding 
+operations due to development of hazardous severe weather conditions even if the NWS has not issued 
+a warning. This would be a rare event, but it is important for the operator to have this latitude. 
+ 
+ 
+APPENDIX B SEEDING OPERATIONS TABLES 
+Table B-1 
+Generator Hours – Western Uintas, 2020-2021 
+Storms 1-10 (rounded to quarter hour) 
+Storm 1 2 3 4 5 6 7 8 9 10 
+Date Dec 
+12 
+Dec  
+17-18 
+Dec  
+22-23 
+Jan  
+4-5 
+Jan  
+22-23 
+Jan  
+29-30 
+Feb  
+3 
+Feb  
+5 
+Feb  
+13-14 
+Feb  
+15-16 
+SITE           
+W1           
+W2  11         
+W3 5.75       9.75 14.25 19.75 
+W4 5.75 12.5     9 10.25 11  
+W6  11.5 15.5  20 13 8.5 10 22  
+W7  13.75 18  20 13 9 10  18.75 
+W8  11.5    13 9 10 19.5 19.75 
+W9  12.5 16.5 12 21 13 8.75 10 22.25 20 
+W10 5.5 13 17 12 21 13 9 9.5 22.25  
+W11  9.5 14.25 12 20.5 12 9.5  8.75 19.75 
+W12  12.25 16 12  14 8.75  22.25  
+W14  12 16  20.25 13 10 10.75 22  
+           Storm 
+Total 
+ 
+17 119.5 113.25 48 122.75 104 81.5 80.25 164.25 98 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table B-2 
+Generator Hours – Western Uintas, 2020-2021 
+Storms 11-19 
+ 
+ 
+Storm 11 12 13 14 15 16 17 18 19  
+Date Feb 
+26-27 
+Mar  
+9-10 
+Mar  
+16 
+Mar  
+20-21 
+Mar  
+23 
+Mar  
+25-26 
+Apr  
+14 
+Apr  
+15-16 
+Apr  
+19 
+Site 
+Totals 
+SITE           
+W1          0 
+W2    12.25      23.25 
+W3 13 14.25  12.25  8.75  5.5 5 108.25 
+W4  13  12  8.75  20.25  102.5 
+W6 13 14.25  21.25      149 
+W7 13   21   6.75   143.25 
+W8 13 14  21      130.75 
+W9 13   21.25  6.25 6.5   183 
+W10 13 14     7   156.25 
+W11 13         119.25 
+W12  14.25    4.5    104 
+W14 14 14  19.75     3 154.75 
+H18*   3  6.75   5  9.75 
+           Storm 
+Total 
+ 
+105 97.75 3 140.75 6.75 28.5 20.25 30.75 8.00 1272.75 
+ 
+* A site designated for the High Uintas program that was used to seed the Western Uintas in certain 
+wind flow situations 
+  
+ 
+ 
+APPENDIX C EVALUATION DATA 
+ 
+Western Uintas December – March Precipitation, Linear Regression 
+YEAR XOBS YOBS YCALC RATIO EXCESS 
+Regression (non-seeded) period:    
+1980 21.45 19.89 17.93 1.11 1.96 
+1981 9.55 11.53 9.90 1.16 1.63 
+1982 21.23 20.44 17.78 1.15 2.66 
+1983 16.45 13.03 14.56 0.90 -1.53 
+1984 20.43 13.81 17.24 0.80 -3.42 
+1985 9.63 11.47 9.95 1.15 1.52 
+1986 18.55 17.23 15.97 1.08 1.26 
+1987 8.73 8.41 9.34 0.90 -0.93 
+1988 10.88 10.77 10.79 1.00 -0.02 
+1997 20.68 17.74 17.41 1.02 0.34 
+1998 16.48 14.34 14.57 0.98 -0.23 
+1999 14.25 12.64 13.07 0.97 -0.43 
+2000 15.15 14.47 13.68 1.06 0.79 
+      
+Mean 15.68 14.03 14.03 1.00 0.00 
+      
+Seeded period:     
+YEAR XOBS YOBS YCALC RATIO EXCESS 
+1989 15.03 13.37 13.60 0.98 -0.23 
+1990 9.85 11.59 10.10 1.15 1.48 
+1991 10.00 11.46 10.20 1.12 1.25 
+1992 5.15 6.01 6.93 0.87 -0.92 
+1993 17.13 17.83 15.01 1.19 2.82 
+1994* 9.15 10.71 9.63 1.11 1.08 
+1995 12.45 14.71 11.86 1.24 2.86 
+1996* 18.73 18.37 16.09 1.14 2.28 
+2001 9.23 8.64 9.68 0.89 -1.04 
+2002 13.45 10.37 12.53 0.83 -2.16 
+2003 9.93 9.61 10.15 0.95 -0.54 
+2004 14.58 10.36 13.29 0.78 -2.93 
+2005 11.60 14.99 11.28 1.33 3.70 
+2006** 21.43 16.99 17.91 0.95 -0.93 
+2007** 12.23 9.29 11.71 0.79 -2.42 
+2008** 16.93 16.54 14.88 1.11 1.67 
+2009** 16.20 14.67 14.39 1.02 0.28 
+2010** 12.13 9.41 11.64 0.81 -2.22 
+2011** 17.43 17.91 15.21 1.18 2.70 
+2012* 11.78 8.47 11.40 0.74 -2.93 
+2013 13.35 9.03 12.46 0.72 -3.44 
+2014 14.48 13.20 13.22 1.00 -0.02 
+ 
+ 
+YEAR XOBS YOBS YCALC RATIO EXCESS 
+2015 11.08 7.99 10.93 0.73 -2.94 
+2016 17.80 13.16 15.47 0.85 -2.31 
+2017 21.30 23.00 17.83 1.29 5.17 
+2018 11.63 8.80 11.30 0.78 -2.50 
+2019 15.33 14.97 13.80 1.09 1.17 
+2020 15.20 12.60 13.71 0.92 -1.11 
+2021 11.73 9.77 11.37 0.86 -1.60 
+      
+Mean 13.71 12.55 12.71 0.99 -0.16 
+      
+      
+* No seeding in target areas    
+** Seeding in Weber Basin but not in Provo R Basin  
+    
+     
+  
+      
+      
+SUMMARY OUTPUT     
+      
+Regression Statistics     
+Multiple R 0.877723     
+R Square 0.770398     
+Adjusted R Square 0.744887     
+Standard Error 1.728461     
+Observations 11     
+      
+      
+  Coefficients 
+Standard 
+Error t Stat P-value Lower 95% 
+Intercept 3.456066 1.994168 1.733087 0.117116 -1.05506 
+X Variable 1 0.674813 0.122798 5.495294 0.000383 0.397024 
+      
+ 
+ 
+ 
+ 
+ 
+Western Uintas April 1 Snowpack, Linear Regression 
+YEAR XOBS YOBS YCALC RATIO EXCESS 
+Regression (non-seeded) period:    
+1970 16.14 16.21 18.32 0.89 -2.11 
+1971 18.66 21.43 20.19 1.06 1.24 
+1972 19.18 18.17 20.57 0.88 -2.40 
+ 
+ 
+1973 16.02 16.61 18.23 0.91 -1.62 
+1974 18.42 16.77 20.01 0.84 -3.24 
+1975 20.08 19.97 21.24 0.94 -1.27 
+1976 17.46 17.33 19.30 0.90 -1.97 
+1977 6.24 8.97 10.98 0.82 -2.01 
+1978 16.18 19.23 18.35 1.05 0.88 
+1979 17.40 17.80 19.25 0.92 -1.45 
+1980 19.86 25.26 21.08 1.20 4.18 
+1981 8.38 12.66 12.57 1.01 0.09 
+1982 21.08 23.50 21.98 1.07 1.52 
+1983 18.42 20.90 20.01 1.04 0.89 
+1984 24.80 22.01 24.74 0.89 -2.72 
+1985 16.06 21.44 18.26 1.17 3.18 
+1986 15.84 25.73 18.10 1.42 7.63 
+1987 8.08 13.97 12.35 1.13 1.62 
+1988 11.42 14.23 14.82 0.96 -0.59 
+1997 19.72 22.41 20.97 1.07 1.44 
+1998 14.30 16.39 16.96 0.97 -0.57 
+1999 13.34 14.86 16.24 0.91 -1.39 
+2000 13.90 15.41 16.66 0.93 -1.25 
+      
+Mean 16.13 18.32 18.31 1.00 0.00 
+      
+Seeded period:     
+YEAR XOBS YOBS YCALC RATIO EXCESS 
+1989 17.22 18.04 19.12 0.94 -1.08 
+1990 6.94 14.79 11.50 1.29 3.28 
+1991 10.34 15.00 14.02 1.07 0.98 
+1992 3.44 10.29 8.91 1.15 1.38 
+1993 16.02 21.34 18.23 1.17 3.11 
+1994* 8.42 13.31 12.60 1.06 0.72 
+1995 11.96 18.43 15.22 1.21 3.21 
+1996* 16.96 22.21 18.93 1.17 3.29 
+2001 6.62 10.53 11.27 0.93 -0.74 
+2002 14.86 14.21 17.37 0.82 -3.16 
+2003 7.04 12.31 11.58 1.06 0.74 
+2004*** 11.74 9.83 15.06 0.65 -5.23 
+2005 14.26 21.09 16.93 1.25 4.16 
+2006** 21.12 21.81 22.01 0.99 -0.20 
+2007** 7.12 10.16 11.64 0.87 -1.48 
+2008** 17.28 20.07 19.16 1.05 0.91 
+2009** 14.06 17.17 16.78 1.02 0.39 
+2010** 11.22 11.84 14.67 0.81 -2.83 
+2011** 20.06 24.50 21.22 1.15 3.28 
+2012* 9.22 8.86 13.19 0.67 -4.33 
+2013 9.14 10.69 13.13 0.81 -2.45 
+2014 11.16 16.61 14.63 1.14 1.98 
+2015*** 4.66 6.40 9.81 0.65 -3.41 
+ 
+ 
+2016 14.74 14.71 17.28 0.85 -2.57 
+2017 16.68 23.46 18.72 1.25 4.74 
+2018 7.40 10.29 11.84 0.87 -1.56 
+2019 18.44 21.64 20.02 1.08 1.62 
+2020 14.78 16.80 17.31 0.97 -0.51 
+2021 11.54 12.30 14.91 0.82 -2.61 
+      
+Mean 12.64 16.16 15.73 1.027 0.43 
+      
+      
+* No seeding in target areas    
+** Seeding in Weber Basin only, not in Provo R Basin  
+*** Excluded from the mean due to excessive snow melt   
+    
+     
+SUMMARY OUTPUT     
+      
+Regression Statistics     
+Multiple R 0.790698     
+R Square 0.625203     
+Adjusted R Square 0.607356     
+Standard Error 2.604868     
+Observations 23     
+      
+      
+  Coefficients 
+Standard 
+Error t Stat P-value Lower 95% 
+Intercept 6.361749 2.091542 3.041654 0.006201 2.012148 
+X Variable 1 0.741148 0.125223 5.918647 7.11E-06 0.480734 
+      
+ 
+Western Uintas April 1 Snowpack, Multiple Linear Regression 
+YEAR 
+Magic  
+Mtn, ID 
+Badger  
+Gulch, ID 
+Willow 
+Flat, ID 
+Big Bend, 
+NV 
+Strawberry 
+Divide, UT YOBS YCALC RATIO EXCESS 
+Non-Seeded Years 
+1970 23.30 15.30 13.10 10.80 18.20 16.21 17.11 0.95 -0.89 
+1971 24.80 14.10 20.40 12.70 21.30 21.43 18.69 1.15 2.74 
+1972 33.40 20.40 13.20 10.90 18.00 18.17 17.76 1.02 0.41 
+1973 21.60 14.40 15.40 8.90 19.80 16.61 18.45 0.90 -1.83 
+1974 25.20 20.00 17.00 11.90 18.00 16.77 18.95 0.88 -2.18 
+1975 24.40 18.70 20.40 15.70 21.20 19.97 20.06 1.00 -0.09 
+1976 22.00 15.50 21.20 12.70 15.90 17.33 16.71 1.04 0.62 
+1977 8.40 6.00 6.00 3.10 7.70 8.97 9.84 0.91 -0.87 
+1978 19.20 12.40 15.20 9.20 24.90 19.23 20.71 0.93 -1.48 
+1979 19.60 14.60 19.40 10.10 23.30 17.80 21.02 0.85 -3.22 
+ 
+ 
+1980 21.50 15.70 20.40 13.70 28.00 25.26 23.35 1.08 1.91 
+1981 12.00 7.20 6.60 2.00 14.10 12.66 13.70 0.92 -1.04 
+1982 28.10 18.20 19.30 13.70 26.10 23.50 22.32 1.05 1.18 
+1983 24.60 14.60 12.90 15.70 24.30 20.90 19.19 1.09 1.71 
+1984 32.00 19.50 25.10 18.00 29.40 22.01 24.14 0.91 -2.12 
+1985 20.80 14.70 15.40 9.10 20.30 21.44 18.92 1.13 2.52 
+1986 19.10 16.10 16.60 4.40 23.00 25.73 22.17 1.16 3.56 
+1987 10.60 8.80 6.90 2.30 11.80 13.97 13.24 1.06 0.73 
+1988 16.10 9.00 10.80 6.80 14.40 14.23 13.75 1.04 0.48 
+1997 26.90 18.60 17.40 8.40 27.30 22.41 23.99 0.93 -1.58 
+1998 18.20 11.50 16.00 7.20 18.60 16.39 17.39 0.94 -1.01 
+1999 20.00 13.80 13.40 8.00 11.50 14.86 13.69 1.08 1.16 
+2000 18.50 11.90 13.10 8.80 17.20 15.41 16.12 0.96 -0.71 
+          
+Mean 21.32 14.39 15.44 9.74 19.75 18.32 18.32 1.00 0.00 
+          
+Seeded Years 
+YEAR 
+Magic Mtn, 
+ID 
+Badger 
+Gulch, ID 
+Willow 
+Flat, ID 
+Big Bend, 
+NV 
+Strawberry 
+Divide, UT YOBS YCALC RATIO EXCESS 
+1989 23.60 16.20 18.00 10.50 17.80 18.04 17.84 1.01 0.20 
+1990 10.20 7.70 4.00 0.00 12.80 14.79 13.45 1.10 1.34 
+1991 14.70 7.50 11.20 2.40 15.90 15.00 14.95 1.00 0.05 
+1992 3.60 3.00 3.70 0.00 6.90 10.29 9.05 1.14 1.24 
+1993 18.10 14.60 17.70 8.40 21.30 21.34 20.18 1.06 1.16 
+1994* 11.60 8.40 11.60 0.40 10.10 13.31 12.88 1.03 0.44 
+1995 15.70 10.40 12.90 3.90 16.90 18.43 16.52 1.12 1.91 
+1996* 21.20 14.70 16.30 10.20 22.40 22.21 19.96 1.11 2.25 
+2001 11.40 6.10 5.10 2.00 8.50 10.53 10.02 1.05 0.51 
+2002 20.90 15.80 14.30 10.40 12.90 14.21 14.88 0.96 -0.66 
+2003 10.60 4.20 8.10 2.00 10.30 12.31 10.71 1.15 1.61 
+2004*** 20.20 13.00 11.40 3.60 10.50 9.83 13.30 0.74 -3.47 
+2005 16.70 9.80 14.90 7.70 22.20 21.09 18.68 1.13 2.40 
+2006** 28.20 18.20 21.00 14.50 23.70 21.81 21.03 1.04 0.78 
+2007** 14.00 5.20 6.00 1.80 8.60 10.16 9.51 1.07 0.65 
+2008** 20.00 16.80 19.00 11.60 19.00 20.07 19.16 1.05 0.91 
+2009** 20.40 10.20 15.50 10.10 14.10 17.17 13.50 1.27 3.67 
+2010** 15.70 11.20 10.80 8.40 10.00 11.84 11.97 0.99 -0.13 
+2011** 21.80 15.40 24.60 13.80 24.70 24.50 21.82 1.12 2.68 
+2012* 17.20 10.90 9.30 2.80 5.90 8.86 10.14 0.87 -1.29 
+2013 15.20 9.60 9.40 2.00 9.50 10.69 12.03 0.89 -1.34 
+2014 17.70 11.40 10.20 2.20 14.30 16.61 15.18 1.09 1.43 
+2015*** 13.00 5.40 0.00 0.00 4.90 6.40 7.25 0.88 -0.85 
+2016 22.40 14.70 14.80 9.50 12.30 14.71 14.11 1.04 0.61 
+2017 19.80 15.10 15.20 10.10 23.20 23.46 20.64 1.14 2.82 
+2018 12.70 6.90 7.10 2.70 7.60 10.29 9.79 1.05 0.49 
+2019 21.20 17.70 19.00 10.40 23.90 21.64 22.32 0.97 -0.67 
+2020 21.40 15.60 13.00 8.40 15.50 16.80 16.37 1.03 0.43 
+ 
+ 
+2021 16.60 12.40 12.00 6.70 10.00 12.30 12.78 0.96 -0.48 
+          
+Mean 17.19 11.49 12.81 6.65 15.08 16.16 15.27 1.058 0.89 
+          
+* No seeding in target areas 
+** Seeding in Weber Basin only, not Provo River Basin 
+*** Excluded due to excessive snow melt 
+          
+SUMMARY OUTPUT         
+          
+Regression Statistics         
+Multiple R 0.90476         
+R Square 0.81859         
+Adjusted R 
+Square 0.76523         
+Standard 
+Error 2.01422         
+Observations 23         
+          
+          
+  Coefficients 
+Standard 
+Error t Stat P-value Lower 95% 
+Upper 
+95% 
+Lower 
+95.0% 
+Upper 
+95.0%  
+Intercept 3.99574 1.84903 2.16099 0.04526 0.09463 7.89686 0.09463 7.89686  
+X Variable 1 -0.13065 0.21561 -0.6059 0.55256 -0.5855 0.32425 -0.5855 0.32425  
+X Variable 2 0.41099 0.30428 1.35067 0.19451 -0.231 1.05297 -0.231 1.05297  
+X Variable 3 0.11836 0.18066 0.65516 0.52114 -0.2628 0.49953 -0.2628 0.49953  
+X Variable 4 -0.17098 0.20373 -0.8392 0.41298 -0.6008 0.25886 -0.6008 0.25886  
+X Variable 5 0.55836 0.1195 4.67251 0.00022 0.30624 0.81048 0.30624 0.81048  
+          
+ 
+APPENDIX D GLOSSARY 
+ 
+ 
+Advection: Movement of an air mass. Cold advection describes a colder air mass moving into the area, 
+and warm advection is used to describe an incoming warmer air mass. Dry and moist advection can be 
+used similarly. 
+ 
+Air Mass: A term used to describe a region of the atmosphere with certain defining characteristics. For 
+example, a cold or warm air mass, or a wet or dry air mass. It is a fairly subjective term but is usually 
+used in reference to large (synoptic scale) regions of the atmosphere, both near the surface and/or at 
+mid and upper levels of the atmosphere. 
+ 
+Cold-core low: A typical mid-latitude type of low pressure system, where the core of the system is 
+colder than its surroundings. This type of system is also defined by the cyclonic circulation being 
+ 
+ 
+strongest in the upper levels of the atmosphere. The opposite is a warm-core low, which typically occurs 
+in the tropics. 
+ 
+Cold Pool: An air mass that is cold relative to its surroundings, and may be confined to a particular basin 
+ 
+Condensation: Phase change of water vapor into liquid form. This can occur on the surface of objects 
+(such as dew on the grass) or in mid-air (leading to the formation of clouds). Clouds are technically 
+composed of water in liquid form, not water vapor.  
+ 
+Confluent: Wind vectors coming closer together in a two-dimensional frame of reference (opposite of 
+diffluent). The term convergence is also used similarly. 
+ 
+Convective (or convection): Pertains to the development of precipitation areas due to the rising of 
+warmer, moist air through the surrounding air mass. The warmth and moisture contained in a given air 
+mass makes it lighter than colder, dryer air. Convection often leads to small-scale, locally heavy showers 
+or thundershowers. The opposite precipitation type is known as stratiform precipitation. 
+ 
+Convergence: Refers to the converging of wind vectors at a given level of the atmosphere. Low-level 
+convergence (along with upper-level divergence), for instance, is associated with lifting of the air mass 
+which usually leads to development of clouds and precipitation. Low-level divergence (and upper-level 
+convergence) is associated with atmospheric subsidence, which leads to drying and warming. 
+ 
+Deposition: A phase change where water vapor turns directly to solid form (ice). The opposite process is 
+called sublimation. 
+ 
+Dew point: The temperature at which condensation occurs (or would occur) with a given amount of 
+moisture in the air. 
+ 
+Diffluent: Wind vectors spreading further apart in a two-dimensional frame of reference; opposite of 
+confluent 
+ 
+Entrain: Usually used in reference to the process of a given air mass being ingested into a storm system 
+ 
+Evaporation: Phase change of liquid water into water vapor. Water vapor is usually invisible to the eye. 
+ 
+El Nino: A reference to a particular phase of oceanic and atmospheric temperature and circulation 
+patterns in the tropical Pacific, where the prevailing easterly trade winds weaken or dissipate. Often has 
+an effect on mid-latitude patterns as well, such as increased precipitation in southern portions of the 
+U.S. and decreased precipitation further north. The opposite phase is called La Nina. 
+ 
+Front (or frontal zone): Reference to a temperature boundary with either incoming colder air (cold 
+front) or incoming warmer air (warm front); can sometimes be a reference to a stationary temperature 
+boundary line (stationary front) or a more complex type known as an occluded front (where the 
+temperature change across a boundary can vary in type at different elevations).  
+ 
+Glaciogenic: Ice-forming (aiding the process of nucleation); usually used in reference to cloud seeding 
+nuclei 
+ 
+ 
+ 
+GMT (or UTC, or Z) time: Greenwich Mean Time, universal time zone corresponding to the time at 
+Greenwich, England. Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7 
+hours. 
+ 
+Graupel: A precipitation type that can be described as “soft hail”, that develops due to riming 
+(nucleation around a central core). It is composed of opaque (white) ice, not clear hard ice such as that 
+contained in hailstones. It usually indicated the presence of convective clouds and can be associated 
+with electrical charge separation and occasionally lightning activity. 
+ 
+High Pressure (or Ridge): Region of the atmosphere usually accompanied by dry and stable weather. 
+Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic 
+(clockwise) circulation pattern. 
+ 
+Inversion: Refers to a layer of the atmosphere in which the temperature increase with elevation 
+ 
+Jet Stream or Upper-Level Jet (sometimes referred to more generally as the storm track): A region of 
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track 
+in the mid-latitudes. This is the area that also typically corresponds to the greatest amount of mid-
+latitude synoptic-scale storm development. 
+ 
+La Nina: The opposite phase of that known as El Nino in the tropical Pacific. During La Nina the easterly 
+tropical trade winds strengthen and can lead in turn to a strong mid-latitude storm track, which often 
+brings wetter weather to northern portions of the U.S.  
+ 
+Longwave (or longwave pattern): The longer wavelengths, typically on the order of 1,000 – 2,000+ miles 
+of the typical ridge/trough pattern around the northern (or southern) Hemisphere, typically most 
+pronounced in the mid-latitudes. 
+ 
+Low-Level Jet: A zone of maximum wind speed in the lower atmosphere. Can be caused by geographical 
+features or various weather patterns, and can influence storm behavior and dispersion of cloud seeding 
+materials 
+ 
+Low-pressure (or trough): Region of the atmosphere usually associated with stormy weather. 
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic (counter-
+clockwise) circulation pattern in the Northern Hemisphere. 
+ 
+Mesoscale: Sub - synoptic scale, about 100 miles or less; this is the size scale of more localized weather 
+features (such as thunderstorms or mountain-induced weather processes). 
+ 
+Microphysics: Used in reference to composition and particle types in a cloud 
+ 
+MSL (Mean Sea Level): Elevation height reference in comparison to sea level 
+ 
+Negative (ly) tilted trough: A low-pressure trough where a portion is undercut, such that a frontal zone 
+can be in a northwest to southeast orientation. 
+ 
+Nucleation: The process of supercooled water droplets in a cloud turning to ice. This is the process that 
+is aided by cloud seeding. For purposes of cloud seeding, there are three possible types of cloud 
+ 
+ 
+composition: Liquid (temperature above the freezing point), supercooled (below freezing but still in 
+liquid form), and ice crystals.  
+ 
+Nuclei: Small particles that aid water droplet or ice particle formation in a cloud  
+ 
+Orographic: Terrain-induced weather processes, such as cloud or precipitation development on the 
+upwind side of a mountain range. Orographic lift refers to the lifting of an air mass as it encounters a 
+mountain range. 
+ 
+Pressure Heights:  
+(700 millibars, or mb): Corresponds to approximately 10,000 feet above sea level (MSL); 850 mb 
+corresponds to about 5,000 feet MSL; and 500 mb corresponds to about 18,000 feet MSL. These are 
+standard height levels that are occasionally referenced, with the 700-mb level most important regarding 
+cloud-seeding potential in most of the western U.S. 
+ 
+Positive (ly) tilted trough: A normal U-shaped trough configuration, where an incoming cold front would 
+generally be in a northeast– southwest orientation. 
+ 
+Reflectivity: The density of returned signal from a radar beam, which is typically bounced back due to 
+interaction with precipitation particles (either frozen or liquid) in the atmosphere. The reflectivity 
+depends on the size, number, and type of particles that the radar beam encounters 
+ 
+Ridge (or High Pressure System): Region of the atmosphere usually accompanied by dry and stable 
+weather. Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic 
+(clockwise) circulation pattern. 
+ 
+Ridge axis: The longitude band corresponding to the high point of a ridge 
+ 
+Rime (or rime ice): Ice buildup on an object (often on an existing precipitation particle) due to the 
+freezing of supercooled water droplets. 
+ 
+Shortwave (or shortwave pattern): Smaller-scale wave features of the weather pattern typically seen at 
+mid-latitudes, usually on the order of a few to several hundred miles; these often correspond to 
+individual frontal systems 
+ 
+Silver iodide: A compound commonly used in cloud seeding because of the similarity of its molecular 
+structure to that of an ice crystal. This structure helps in the process of nucleation, where supercooled 
+cloud water changes to ice crystal form. 
+ 
+Storm Track (sometimes reference as the Jet Stream): A zone of maximum storm propagation and 
+development, usually concentrated in the mid-latitudes. 
+ 
+Stratiform: Usually used in reference to precipitation, this implies a large area of precipitation that has a 
+fairly uniform intensity except where influenced by terrain, etc. It is the result of larger-scale (synoptic 
+scale) weather processes, as opposed to convective processes. 
+ 
+Sublimation: The phase change in which water in solid form (ice) turns directly into water vapor. The 
+opposite process is deposition. 
+ 
+ 
+ 
+Subsidence: The process of a given air mass moving downward in elevation, such as often occurs on the 
+downwind side of a mountain range 
+ 
+Supercooled: Liquid water (such as tiny cloud droplets) occurring at temperatures below the freezing 
+point (32 F or 0 C). 
+ 
+Synoptic Scale: A scale of hundreds to perhaps 1,000+ miles, the size scale at which high and low 
+pressure systems develop 
+ 
+Trough (or low pressure system): Region of the atmosphere usually associated with stormy weather. 
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic (counter-
+clockwise) circulation pattern in the Northern Hemisphere. 
+ 
+Trough axis: The longitude band corresponding to the low point of a trough 
+ 
+Upper-Level Jet or Jet Stream (sometimes referred to more generally as the storm track): A region of 
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track 
+in the mid-latitudes. This is the area that also typically corresponds to the greatest amount of mid-
+latitude synoptic-scale storm development. 
+ 
+ 
+UTC (or GMT, or Z) time: Greenwich Mean Time, universal time zone corresponding to the time at 
+Greenwich, England. Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7 
+hours. 
+ 
+Vector: Term used to represent wind velocity (speed + direction) at a given point 
+ 
+Velocity: Describes speed of an object, often used in the description of wind intensities 
+ 
+Vertical Wind Profiler: Ground-based system that measures wind velocity at various levels above the 
+site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

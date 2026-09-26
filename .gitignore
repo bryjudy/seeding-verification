@@ -7,3 +7,10 @@ paper/*.log
 __pycache__/
 .DS_Store
 .venv/
+
+# private outreach material — never commit
+OUTREACH-*.md
+outreach-*.md
+outreach-*.csv
+outreach_*.py
+paper/main.pdf

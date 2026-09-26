@@ -1,0 +1,1506 @@
+ 
+Annual Cloud Seeding Report 
+Northern Utah Aerial Program 
+2023-2024 Winter Season 
+ 
+Prepared For: 
+State of Utah, Division of Water Resources 
+ 
+Prepared By: 
+Todd Flanagan 
+ 
+ 
+ 
+North American Weather Consultants, Inc. 
+8180 S. Highland Dr., Suite B-2 
+Sandy, Utah 84093 
+ 
+ 
+ 
+ 
+June 2024 
+ 
+ 
+
+ 
+ 
+TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY ................................................................................................................................... i 
+THE SCIENCE BEHIND CLOUD SEEDING ......................................................................................................... ii 
+STATE OF THE CLIMATE................................................................................................................................ iii 
+1.0 INTRODUCTION ................................................................................................................................ 1 
+2.0 PROJECT DESIGN .............................................................................................................................. 2 
+2.1 Project Design Considerations .......................................................................................... 3 
+2.2 Northern Utah Aerial Seeding Project Design ................................................................... 4 
+3.0   EQUIPMENT, PROCEDURES AND PERSONNEL ................................................................................. 6 
+3.1 Weather Radar .................................................................................................................. 6 
+3.2 Seeding Aircraft and Tracking Systems ............................................................................. 6 
+3.3 Operations Center ........................................................................................................... 10 
+3.4 Weather Forecasts and Meteorological Data Acquisition .............................................. 10 
+3.5 Suspension Criteria ......................................................................................................... 10 
+3.6 Personnel ........................................................................................................................ 10 
+4.0 WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS ................................................... 11 
+5.0 OPERATIONS .................................................................................................................................. 19 
+5.1 Operational Procedures .................................................................................................. 19 
+5.2 Storm Events of the 2023-2024 Winter Season .............................................................. 20 
+November 2023 ............................................................................................................... 21 
+December 2023 ............................................................................................................... 28 
+January 2024 ................................................................................................................... 30 
+February 2024 ................................................................................................................. 40 
+March 2024 ..................................................................................................................... 45 
+April 2024 ........................................................................................................................ 57 
+6.0 SUMMARY AND RECOMMENDATIONS .......................................................................................... 60 
+Appendix A    SUSPENSION CRITERIA .......................................................................................................... 62 
+Appendix B    GLOSSARY OF METEOROLOGICAL TERMS ............................................................................ 67 
+ 
+i 
+ 
+EXECUTIVE SUMMARY 
+The Northern Utah Aerial Program (NUAP) had its inaugural season during the winter of 2023-24, 
+beginning in early November 2023, and continuing through April 15, 2024. A Cessna Chancellor C414 twin-
+engine plane was dedicated to the program, equipped with both wing -fixed Burn-In-Place (BIP) flares 
+along with a belly rack for which ejectable flares could also be used. The plane was based at the Logan -
+Cache Airport in northern Utah and was responsi ble for aerial -based cloud seeding to complement the 
+various ground-based seeding programs in northern Utah. 
+The 2023-24 season was active, with twenty -nine (29) storm events occurring in northern Utah 
+during the five-month season. Of these, fourteen (14) flights occurred over ten storm events during the 
+winter. Storms were distributed relatively evenly across th e season, with one significant “dry period” 
+during December. A total of 127 silver iodide (AgI) BIP flares were used for seeding, totaling 2540 g of AgI; 
+additionally, 65 AgI ejectable flares were used for seeding, totaling 195g of AgI. Many storm events during 
+the season contained one or more severe hazards (severe turbulence, moderate to severe icing, lightning) 
+that prompted “no-fly” or “temporary no-fly” decisions, which hindered seeding operations. In contrast 
+to the Southern Utah Aerial Program, there were no pre-established flight tracks for the NUAP program, 
+but instead they were developed on a storm-by-storm basis taking various atmospheric parameters into 
+account (e.g., wind flow, moisture availability). 
+As this was the first year of aerial seeding operations, no statistical or numerical analysis was 
+completed due to lack of data; it is believed that after several years of aerial seeding are completed, initial 
+statistical analysis relating to a target/cont rol comparison and/or streamflow analysis could be 
+undertaken and evaluated to ascertain the prospect of the pilot program becoming operational. Analysis 
+is also complicated by the fact that most of these areas are already included in ground -based seeding 
+programs.  
+With the conclusion of the season, a look back at all aspects of the program and how well they 
+did or did not work will take place. Recommendations for the program going forward are presented at the 
+end of the report. 
+ 
+ 
+ 
+  
+ii 
+ 
+WEATHER MODIFICATION 
+The Science Behind Cloud Seeding 
+The Science 
+The cloud -seeding process aids precipitation formation by 
+enhancing ice crystal production in clouds. When the ice 
+crystals grow sufficiently, they become snowflakes and fall to 
+the ground.  
+Silver iodide has been selected for its environmental safety and 
+superior efficiency in producing ice in clouds. Silver iodide adds 
+microscopic particles with a structural similarity to natural ice 
+crystals. Ground-based and aircraft-borne technologies can be 
+used to add the particles to the clouds. 
+Safety 
+Research has clearly documented that cloud seeding with 
+silver-iodide aerosols shows no environmentally harmful effect. 
+Iodine is a component of many necessary amino acids. Silver is 
+both quite inert and naturally occurring, the amounts released 
+are far less than background silver already present in unseeded 
+areas. 
+Effectiveness 
+Numerous studies performed by universities, professional 
+research organizations, private utility companies and weather 
+modification providers have conclusively demonstrated the 
+ability for Silver Iodide to augment precipitation under the 
+proper atmospheric conditions.  
+ 
+ 
+ 
+ 
+  
+iii 
+ 
+STATE OF THE CLIMATE 
+Every ten years, the National Oceanic and Atmospheric Association (NOAA) releases a summary 
+of various U.S. weather conditions for the past three decades to determines average values for a variety 
+of conditions, including, temperature and precipitation.  This is known as the U.S Climate normal, with a 
+30-year average, representing the “new normal” for our climate.  These 30 -year normal values can help 
+to determine a departure from historic norms and identify current weather trends.   
+The current 30-year average ranges from 1990 – 2020.  Images in Figures 1 and 2 show how each 
+30-year average for the past 120 years compares to the composite 20th century average for temperature 
+and precipitation.  For the western U.S., the 1990 -2020 average show much warmer than average 
+temperatures, in comparison to the 100-year 20th century average.  When comparing precipitation for the 
+past 30 years to both the previous 30-year average and the 1901-2000 average, the American Southwest 
+(including portions of Utah,  Arizona, California and Nevada) has seen as much as a 10% decrease in 
+average annual precipitation. Figure 3 shows the m ean annual precipitation for the state of Utah based 
+on 30-year period from 1991-2020. 
+ 
+ 
+Figure 1. U.S. Annual Temperature compared to 20th-Century Average 
+ 
+
+iv 
+ 
+ 
+Figure 2. U.S. Annual Precipitation compared to 20th-Century Average 
+ 
+Figure 3.  Mean annual precipitation for the state of Utah based on 30-year period from 1991-2020.
+
+1 
+ 
+1.0 INTRODUCTION 
+Cloud seeding in Utah has a long history, having been conducted in the state since the 1950s. 
+North American Weather Consultants (NAWC) has been running programs to augment snowpack in Utah 
+since the 1970s, primarily through the use of ground generators that disperse silver iodide particles and, 
+utilizing upslope flow along the foothills and higher elevations, are carried into clouds that will ultimately 
+produce ice crystals and snow. This method has worked reasonably well, with estimations of a 5 -15% 
+increase in snowpack and precipitation for the various programs in the state. 
+In 2022 NAWC entered discussions with the State of Utah’s Division of Water Resources (Utah 
+DWR) regarding the potential for aerial cloud seeding to be conducted in the state to complement the 
+ground-based seeding efforts. NAWC has conducted aerial programs outside of Utah, in Idaho with the 
+goal of increasing snowpack and snowfall, and in California to promot e additional snowfall in the Sierra 
+Nevada range as well as to promote additional rainfall for some coastal regions, primarily in Santa Barbara 
+County. In developing a plan for aerial seeding in Utah, several locations were looked at and their 
+prevailing winter weather conditions were taken into consideration. From this, it was determined that a 
+base in the southern part of the state, which is climatolo gically warmer than other parts of Utah, would 
+be favorable. St. George was viewed as a good candidate for basing aircraft as snow and ice in this area is 
+uncommon, a decent-sized airport exists there, and it would provide relatively quick access to the target 
+areas already in place for ground-based seeding operations.  
+After the inaugural season of the Southern Utah Aerial Program, discussions ensued once again 
+with Utah DWR regarding an expansion of the aerial seeding effort, and from this a second program was 
+developed mimicking most of the design of the Southern Utah Aerial Program, with efforts to be focused 
+across several of the northern Utah mountain ranges where ground -based seeding programs are also in 
+place. Flight tracks were suggested, although given some differences between northern and southern 
+Utah, it was determined that flight tracks would not be fixed but rather determined with each storm event 
+that could be successfully and safely seeded. 
+Through an agreement with Utah DWR wherein cost sharing was enabled, a pilot program was 
+proposed. The 2023-2024 winter season was the first year of this program, beginning in early November 
+2023, and continuing through April 15, 2024. The pilot and aircra ft were based in Logan. This report will 
+discuss the design, implementation and operation of the Northern Utah Aerial Program (NUAP) for the 
+2023-2024 season.  
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+2.0 PROJECT DESIGN 
+The Northern Utah Aerial Program is conducted to affect various mountain ranges in northern 
+Utah, among them the Wasatch, Bear River Range and Uintas. The target area along with sample flight 
+tracks is depicted in Figure 2.1. It is important to note that, unlike the Southern Utah Aerial Program, there 
+are no set standard tracks for the Northern Utah Aerial Program, but instead tracks are determined on a 
+storm-by-storm basis. Airborne seeding capabilities were used, with the aircraft operated from the Logan-
+Cache Airport (LGU) in Logan. The program objective was to seed all suitable storm systems affecting the 
+target area during the period of November 15, 2023, through April 15, 2024, except if precluded on a 
+storm-by-storm basis by established suspension criteria. This section provides an overview of the project 
+design; more information regarding the various project components is provided in Section 3 of this report. 
+ 
+ 
+ 
+Figure 2.1. Northern Utah Aerial Program target areas, with potential/sample aerial seeding tracks in red . 
+
+3 
+ 
+2.1  Project Design Considerations 
+Both research and operational programs in weather modification have been conducted in the 
+United States and a number of other countries dating back to the 1950's. This field has experienced its 
+fair share of controversy. The scientific community is still s omewhat divided regarding the efficacy of 
+precipitation augmentation because precise quantification of the effects (at least at strict laboratory 
+experimentation levels) is difficult, given that the typical effects are relatively small compared to the 
+natural variability of precipitation. The types of precipitation augmentation programs that find the 
+greatest acceptance are winter orographic (mountainous) programs. NAWC has and continues to operate 
+several of these programs, with a long history of cloud see ding for precipitation augmentation and 
+evaluations of seeding effectiveness.  
+Several professional societies have adopted capability or position statements regarding weather 
+modification programs. The principal societies or associations that have existing weather modification 
+statements include: 
+• The Weather Modification Association (WMA) 
+• The American Meteorological Society (AMS) 
+• The World Meteorological Organization (WMO) 
+• The American Society of Civil Engineers (ASCE) 
+ 
+From the organizational statements, the following key points regarding the status of winter 
+orographic seeding emerge: 
+• Of the primary categories of cloud seeding for precipitation increase, seeding of winter 
+orographic storm systems seems to offer the best prospects for increasing precipitation in 
+an economically viable manner. 
+• Strong (albeit largely non -randomized) statistical evidence exists for (winter) seasonal 
+increases of the order of 5% to 15%. 
+• A growing body of evidence from focused physical studies is confirming some key steps in 
+the weather modification process, in support of the statistical evidence. 
+• Additional research is recommended/encouraged. It is recognized that additional applied 
+research can shed much valuable light on the physical processes involved, leading to 
+improved opportunity recognition and intervention, resulting in more optimum 
+augmentation operations, especially given technological advancements in observational 
+systems and computer modeling. 
+• Accurately quantifying the effects of cloud seeding programs remains a challenge. 
+ 
+ NAWC’s philosophy is that the design of our operational programs should be based upon prior 
+research programs that provided positive indications of increases in precipitation, to the extent that the 
+research results are considered to be representative of the operational programs’ conditions. We have 
+done so for the Northern Utah Aerial Program. Knowledge gained from other research programs in the 
+West regarding the structure of winter storms and characteristics that are amenable to precipitation 
+4 
+ 
+enhancement via cloud seeding, has been incorporated into the Northern Utah Aerial Program design. 
+NAWC’s extensive previous experience with other seeding project design and operations has also been 
+brought into play. 
+2.2 Northern Utah Aerial Seeding Project Design 
+ We believe that the best project design for a winter cloud seeding program for the Northern 
+Utah Mountains to be one that incorporates, as much as possible, the core elements of the knowledge 
+gained in earlier research in the mountainous west, plus insight s from previous successful operational 
+programs. The combination of ground -based (separate program) and airborne seeding modes should 
+constitute the optimized method for capitalizing on the seeding potential for the area. NAWC operations 
+focus on “selecti ve seeding,” i.e., they are focused on the specific storm periods that exhibit the 
+characteristics that present the best potential for precipitation augmentation via cloud seeding. This 
+approach provides the potential for the greatest precipitation augment ation effect at the most 
+reasonable cost, thus constituting an excellent value to the project sponsors. Airborne seeding provides 
+the ability to seed in some situations not favorable for ground -based releases, with guidelines shown 
+below.  
+ 
+Winter Aerial Seeding Criteria 
+ 
+• Storm precipitation of ≥ 0.25 inches (SWE) is anticipated in the Northern Utah Mountains. 
+• Cloud bases should be below the mountain barrier summit heights of 9-11 kft. 
+• In stratiform cloud conditions, the -5°C level ideally should be below, but no more than 1 -2 
+kft higher than, the mean barrier height of ~ 9-11 kft.  
+• Ideally, the cloud top temperature (CTT) of the stratiform clouds producing precipitation 
+should not be significantly colder than -15°C. Higher layered clouds not involved in the 
+precipitation process can be colder. As a rule of thumb, a distance ≥ 2000 feet between cloud 
+layers should provide adequate separation in that determination. 
+• The aircraft can be flown at ~ -5°C, so that nucleation can be prompt. Flights can be conducted 
+at colder temperatures to maintain safe altitudes and FAA minimum allowable altitudes if the 
+-5°C level is exceedingly low. If heavy airframe icing is experienced, the flight altitude can be 
+lowered to warmer temperatures, but with careful consideration of the underlying terrain 
+and only with ATC approval. 
+• Use the estimated winds in the layer from the seeding level to the -25°C level as guidance 
+regarding which track or portion of track to use. In stable/stratiform conditions, the goal is to 
+seed about 45 -60 minutes upwind of the mountain target areas. In mo re convective -like 
+situations, the goal is to seed about 40 minutes upwind of the mountains. 
+ 
+The project design, used by NAWC, has aircraft seeding of storms as they approach the Northern 
+Utah mountains, with aircraft flights at the 0°C to -5°C temperature level in-cloud, allowing the seeding 
+material to activate at the warmest possible temperatures and mix and disperse in -cloud. Aerial seeding 
+5 
+ 
+targets the pool of supercooled liquid water (SLW) that develops in-cloud during stormy periods over the 
+windward slopes of mountain barriers. The SLW is the critical constituent that is converted (by the seeding 
+material) to ice particles that can take on additional moisture and grow to sufficiently large sizes for fallout 
+into the various watersheds. The responsibility of the project meteorologist is to identify the seeding 
+opportunities and then to place the seeding material into the proper cloud regions to achieve the desired 
+augmentation of the precipitation process, all within a variety of evolving temperature, moisture and wind 
+situations during winter storms. This seeding decision -making is dynamic, since cloud, wind, and 
+temperature conditions continually change during the passage of a winter storm over the target area. 
+The core operational project period will be early to mid-November through mid-April, with the 
+possibility of extension periods at either end of the core period as may be appropriate due to water supply 
+conditions.  
+  
+6 
+ 
+3.0 EQUIPMENT, PROCEDURES AND PERSONNEL 
+Seeding operations during the 2023 -24 winter season were conducted using a seeding aircraft 
+during the period from early November 2023 through April 15, 2024. The following sections describe the 
+equipment, procedures and personnel used in the operation of the cloud seeding project. 
+  3.1 Weather Radar 
+NAWC utilized the National Weather Service (NWS) NEXRAD radar sites at Salt Lake City (KMTX), 
+Pocatello, ID (KSFX) and Grand Junction, CO (KGJX) for the operation of the aerial cloud seeding program 
+as all provide good coverage of the target area. The rada rs provide valuable information regarding the 
+structure, intensity, movement, and evolution of precipitating cloud systems in addition to wind speed 
+and direction within the precipitating echoes. The radar’s dual-polarization capabilities allow the radar to 
+measure targets using both horizontal and vertical waves, providing additional information about 
+hydrometeors and non-weather targets. Real-time radar data are key in operational decision-making for 
+seeding modes and tracks (to help optimize the seeding releases). The NWS is responsible for all the 
+necessary support for the radar:  operation, calibration, spare parts, and maintenance. 
+3.2 Seeding Aircraft and Tracking Systems  
+ NAWC provided a dedicated Cessna Chancellor C414 twin-engine plane as the seeding aircraft for 
+the project. The aircraft was equipped with wing -mounted flare racks to hold burn -in-place flares, and 
+also a belly rack which holds ejectable flares. The plane was housed in a hangar at the Logan-Cache Airport 
+(LGU) at Logan in far northern Utah. Figure 3.1 shows the seeding aircraft used for the program.  
+7 
+ 
+ 
+ 
+Figure 3.1. NAWC Cessna Chancellor C414 cloud seeding aircraft that was stationed at Logan-Cache Airport 
+in northern Utah. 
+ 
+For the 2023-24 season, NAWC obtained real-time flight track information from FlightAware, an 
+internet-based aircraft -tracking website for IFR flights; in earlier years, FlightAware had significant 
+problems with occasional long delays in providing information.  Over the past couple of years, FlightAware 
+has made substantial improvements to its web service, with position updates occurring every 10 -30 
+seconds.  FlightAware also shows a vertical cross -section of the flight path , allowing for a view of the 
+altitude changes during the flight, which are important in times where the plane had to descend to shed 
+ice in times of heavy icing. An example of this type of image is shown in Figure 3.2. During operations, 
+radar and aircraft location data were acquired and archived. The radar-aircraft position-display systems 
+provided useful and reliable information for the conduct of seeding operations. A ForeFlight Sentry Plus 
+ADS-B Receiver was purchased at the start of the season to provide crucial information for the pilot – via 
+an iPad – including current and live weather data such as radar, winds aloft, icing, turbulence and other 
+data transmitted by the NWS and FAA along with GPS and flight data recorder.  
+
+8 
+ 
+ 
+ 
+Figure 3.2. Cumulative flight track from FlightAware.com from a seeding flight over northeastern Utah on 
+March 30, 2024. Bottom quarter of image shows altitude (green line) and speed (yellow line) 
+during the flight. 
+ 
+NAWC established set flight tracks for use on the Southern Utah Aerial Program, but with the 
+design for the Northern Utah Aerial Program, a different approach was taken as there are more 
+restrictions in place across northern Utah given the high concentrati on of the population along the 
+Wasatch Front along with some military airspace restrictions. Suggested flight tracks were developed from 
+looking at past storm events wherein different flow regimes would dictate the location of possible flights; 
+these are shown in Figure 3.3. However, unlike with the design of the Southern Utah Aerial Program, the 
+flight tracks were left as an “open -ended” entity and would be determined on a storm -by-storm basis, 
+with modifications to the suggested tracks allowed as long as safety was not compromised. 
+ 
+
+9 
+ 
+ 
+  
+Figure 3.3. Sample/suggested seeding flight tracks for the Northern Utah Aerial Program. Purple areas 
+indicate the intended target area, covering portions of the Wasatch, Bear River and Uintas 
+mountain ranges. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10 
+ 
+3.3 Operations Center 
+The project meteorologist, working remotely from their residence in St. George utilized a personal 
+computer and internet access to conduct all facets of program operation. Operational support was 
+available from the main office in Sandy. Text messaging and phone calls were the main form of 
+communication between pilot and meteorologist, although unlike with the Southern Utah Aerial Program, 
+texting did not work during flights for the NUAP. 
+3.4 Weather Forecasts and Meteorological Data Acquisition 
+ Weather forecasting and direction of cloud seeding operations were conducted by the project 
+meteorologist. Project forecast information was communicated to the pilot and other project staff via 
+telephone or e-mail and updated as necessary. Relevant meteorological data/images were captured and 
+archived as needed, for documentation of storm episodes. 
+3.5 Suspension Criteria 
+ Cloud seeding suspension criteria were implemented by NAWC to serve as safeguards to protect 
+against claims of negligence, and the loss of property and/or life due to the cloud seeding program. 
+Snowpack, streamflow and reservoir conditions are assessed as part of the suspension considerations. 
+Statements issued by the National Weather Service (NWS) can also play an important role in the 
+suspension criteria. NWS public safety notices are issued in the form of advisories or watches, neither of 
+which necessarily restricts program operations. However, any type of NWS "warning" issued for the near 
+region, outside of Winter Storm Warnings, results in temporary suspension of seeding operations for the 
+period during which the warning is in effect. The project meteorologist also had the authority to suspend 
+operations in the case of development of weather conditions that were considered dangerous to project 
+personnel or the public, even if an official NWS warning had not yet been issued. Appendix A gives more 
+in-depth information regarding suspension criteria for the program. 
+3.6 Personnel      
+ The following personnel were involved in the management and conduct of the 2023-24 Northern 
+Utah Aerial Program:  
+ 
+North American Weather Consultants 
+Mr. Garrett Cammans, President, Project Director 
+Mr. Todd Flanagan, Project Manager/Meteorologist 
+Mr. Cole Osborne, Meteorologist 
+Mr. David Yorty, Meteorologist 
+ 
+Seeding Operations and Atmospheric Research 
+Mr. Gary Walker, President 
+Mr. Adam Olsen, On-site Seeding Pilot 
+11 
+ 
+4.0   WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS 
+Meteorological information is acquired online from a wide variety of sources, including some 
+subscriber services.  This information includes weather forecast model data, surface observations, 
+rawinsonde (weather balloon) upper -air observations, satellite i mages, radar information and weather 
+cameras. NAWC’s meteorologists have access to all meteorological products from their homes, allowing 
+continued monitoring and conduct of seeding operations outside of regular business hours. This wide 
+variety of available products and information helps NAWC meteorologists to determine when conditions 
+are appropriate for cloud seeding.   
+Figures 4.1 – 4.6 show examples of some of the available weather information that was used in 
+this decision-making process during the 2023 -24 winter season.  These include weather radar images, 
+satellite images, upper air wind and temperature maps, rawinso nde/weather balloon soundings and 
+aviation hazards. Global and regional forecast models are a cornerstone of modern weather forecasting, 
+and an important tool for operational meteorologists.  These models forecast a variety of parameters at 
+different levels of the atmosphere, including winds, temperatures, moisture, and surface parameters such 
+as accumulated precipitation.  An example of a display is shown from the Global Forecast System (GFS) 
+model (Figure 4.7). Other models used on a daily basis during the program include but are not limited to 
+the European Center for Medium -Range Weather Forecast (ECMWF) model, High -Resolution Rapid 
+Refresh (HRRR) model, and North American Model (NAM).  
+ 
+12 
+ 
+ 
+Figure 4.1. Weather radar image during a storm event/seeding flight over northern Utah on March 28, 
+2024. 
+ 
+
+13 
+ 
+ 
+Figure 4.2. Visible spectrum satellite image on March 28, 2024 at 1631 MDT (2231 UTC).  
+
+14 
+ 
+ 
+ 
+Figure 4.3. 700 mb (approximately 10,000 feet MSL) map valid for 0600 MDT (1200 UTC) on March 28, 2024. 
+Among the more notable map features, contours indicate heights (in decameters) of 700 mb 
+pressure level, red numbers are temperature (°C), green numbers  are dewpoints (°C), blue lines 
+with barbs/flags represent wind speed and direction.  
+
+15 
+ 
+ 
+ 
+Figure 4.4. Weather balloon/rawinsonde sounding from Salt Lake City, valid at 12Z/0600 MDT on March 28, 
+2024 showing temperature (red line), dewpoint (green line) and wind speed/direction (right side 
+barbs) from the surface to 100 mb (approximately 52,000 feet MSL).  
+ 
+ 
+
+16 
+ 
+ 
+ 
+Figure 4.5. Significant Meteorological (SIGMET) information detailing severe turbulence hazard in the area 
+outlined above on February 26, 2023. Information on SIGMET issuances is available from 
+aviationweather.gov. 
+ 
+ 
+
+17 
+ 
+ 
+ 
+Figure 4.6. Map showing recent lightning strikes across western United States on March 28, 2024 at 1620 
+MDT (2220 UTC). Legend shows age of lightning strike via color -coded dots. Courtesy of 
+WeatherTap website, https://www.weathertap.com/ . Lightning is a hazard needi ng attention 
+with regards to aerial seeding operations. 
+ 
+
+18 
+ 
+ 
+Figure 4.7. GFS (Global Forecast Systems) forecast data plot for an approaching storm event on February 
+5, 2024. 
+ 
+ 
+ 
+ 
+ 
+
+19 
+ 
+5.0 OPERATIONS 
+The 2023 -24 winter season was fairly busy  in terms of the frequency of storm systems that 
+impacted Utah. Near normal to above normal precipitation was recorded statewide.   Precipitation in 
+much of the southwestern U.S. was near to above average during the November 2023 – April 2024 period, 
+as shown in Figure 5.1.  
+ 
+ 
+Figure 5.1. November 2023 – April 2024 percent of normal precipitation. 
+ 
+5.1 Operational Procedures 
+In operational practice, approaching storms were monitored by NAWC utilizing online weather 
+information. If the storm met the seedability criteria presented in Section 2.2, and if no seeding 
+curtailments or suspensions were in effect, a flight was dispatch ed to fly along a track determined from 
+the prevailing wind flow in place. Seeding continued as long as conditions were favorable and seedable 
+clouds remained over the flight track zones and adjacent target area, albeit with time limits as far as how 
+many flights/total flight hours were allowed per day. Given the orientation and placement of the northern 
+Utah mountain ranges, southwest through northwest wind directions provided the best opportunities to 
+impact larger portions of the target areas.  
+  
+
+20 
+ 
+5.2 Storm Events of the 2023-2024 Winter Season   
+This section describes the storm events that affected Northern Utah that provided opportunities 
+for aerial seeding operations during the 2023-2024 operational season. Table 5-1 summarizes the flights 
+conducted during the season. A general discussion of the meteorology accompanying each event is given, 
+followed by a description of the seeding operations (if any). Wind directions, when provided, are always 
+reported in the direction from which the wind is blowing (e.g., a southerly wind means the wind is blowing 
+from the south toward the north). Wind speeds are usually reported in nautical miles per hour (knots), 
+with 1 knot equal to 1.15 miles per hour. Figures shown in the storm summaries may include the following:  
+• Satellite images, including infrared (IR), water vapor (WV), or visible. Infrared images provide 
+information during both the day and night which primarily consists of cloud top temperatures. 
+Water vapor can be useful when determin ing where mid and upper level dry or moist air exists, 
+and visible satellite images can be helpful for observing cloud structure. 
+• National Weather Service NEXRAD radar images, showing reflectivity values associated with 
+precipitation near the times when seeding occurred. These images give an indication of the type, 
+intensity, and extent of precipitation during seeding periods. Wind direction and velocity are also 
+observed by the radar through the Doppler feature, which is part of the NEXRAD design. Plots of 
+winds with height in  1000-foot increments are available with a 6 -minute time resolution from 
+NEXRAD radars. These displays are called Velocity Azimuth Displays (VAD). Full barbs indicate 10 
+kt of speed, and half-barbs are 5 kt. A flag indicates 50 kt wind speeds. 
+• Skew-T upper-air soundings from several locations, including Salt Lake City, UT, Las Vegas, NV and 
+Grand Junction, CO . The skew -T sounding is a plot of temperature, dew point, and winds vs. 
+height, observed by a radiosonde (balloon borne weather instrument). This sounding information 
+is useful for analyzing various parameters of the atmosphere, providing temperature and 
+moisture profiles and convection potential. Soundings are available twice daily at 0500 and 1700 
+MST. The 700 mb (approximately 10,000 feet ) temperatures are frequently reported in the 
+following storm summaries. NAWC typically prefers to see these temperatures at -5°C or colder 
+during seeded periods since silver iodide becomes effective as a seeding agent between -4°C and 
+-5°C.  
+  
+21 
+ 
+Table 5-1 
+Summary of Seeding Flights for 2023-2024 
+ 
+Flight Number  Date  Flares (BIP/Ejec)  Flight Hours 
+1 November 6 3 / 0 0.80 
+2 November 19 13 / 0 1.75 
+3 November 19 8 / 25 1.30 
+4 January 5 9 / 0 1.23 
+5 January 6-7 10 / 0 1.25 
+6 January 13 6 / 0 0.92 
+7 January 17 15 / 0 2.25 
+8 February 1 10 / 0 2.57 
+9 February 5 0 / 0 0.50 
+10 March 23 10 / 0 1.20 
+11 March 28 8 / 0 0.98 
+12 March 28 17 / 15 1.78 
+13 March 30 18 / 0 1.98 
+14 March 30 0 / 25 2.02 
+Totals  127 / 65 20.53 
+ 
+ 
+November 2023 
+The 2023-24 season for the Northern Utah Aerial Program began in early November. Four storm 
+systems impacted the area during the latter half of the month, two of which saw seeding operations take 
+place with three flights occurring. Figure 5.2 shows precipitation for November expressed as a percentage 
+of normal (based on 1991-2020 normals) for portions of the Four Corners states, including Utah. Most of 
+the state saw below average precipitation, with four exceptions: the central Wasatch Mountains, portions 
+of the Uinta Basin, the Tushar Mountains and the far eastern edge of Zion National Park; these areas saw 
+above normal precipitation.  
+22 
+ 
+ 
+Figure 5.2. November 2023 precipitation as a percent of average during the month.  
+
+23 
+ 
+November 6, 2023 
+An upper level trough of low pressure, with axis oriented from the southern Canadian Prairies 
+southwestward to the central California coast, was approaching from the west during the day. A surface 
+cold front was located from southern Idaho through central Nevada late in the afternoon and was 
+expected to move into northern Utah during the nighttime hours, with frontogenesis expected to increase 
+precip along the front mainly north of Salt Lake City. Warm mid-level temperatures were expected to cool 
+sufficiently behind the front to around -4°C/-5°C, with west to southwest flow 20-35 kt at 700 mb. As the 
+front and associated moisture spread into northern Utah during the evening, a flight plan was developed 
+with a north-south track west of the northern Wasatch Mountains and Bear River Range. Figure 5.3 shows 
+radar imagery across northern Utah at 2205 MST. The plane departed LGU at 2200 MST and arrived at the 
+filed flight altitude of 13,000 feet a short time later. The flight ended up being a short one with a lot o f 
+light to moderate turbulence and only pockets of moisture; the pilot reported being in -cloud only a 
+fraction of the time. The plane landed back at LGU at 2249 MST, having flown 0.80 hours and burning 3 
+burn-in-place (BIP) flares. Figure 5.4 shows the flight data from this event. 
+ 
+ 
+Figure 5.3. Radar imagery from KMTX (Salt Lake City) valid at 2205 MST on November 6, 2023.  
+
+24 
+ 
+ 
+Figure 5.4. Flight track from seeding mission on November 6, 2023. Lower  graph indicates altitude of plane 
+(green) and speed of plane (yellow) during flight. Green and blue shading in background is radar 
+image at time of image capture. Courtesy of FlightAware.com website.  
+ 
+ 
+November 19, 2023 
+ A trough of low pressure was approaching Utah from the west and was absorbing energy from a 
+second trough diving southeastward across western Canada. Diffluent flow aloft (e.g., at 500 mb) ahead 
+of the trough was spreading across west -central and southwest Utah, enhancing large-scale lift in those 
+areas. Thunderstorms were occurring in some of these areas but were expected to remain across central 
+and southern Utah. Moisture was spreading across the state with widespread precipitation across the 
+western 2/3 of Utah by early morning. Upper air analysis showed that 700 mb temperatures were around 
+-2°C/-3°C which is a bit warmer than ideal, but mixing within the cloud layer was expected to transport 
+seeding nuclei to colder temperatures. A flight plan was devi sed, using a track from about the center of 
+the Great Salt Lake northward to the Idaho border, with the northern Wasatch Mountains and possibly 
+Bear River Range as the target area of interest within westerly flow. The plane took off from LGU at 0616 
+MST an d reached altitude a short time later. Radar imagery continued to show plenty of moisture 
+streaming across the area, as shown in Figure 5.5. The pilot flew a couple passes along the flight track 
+before landing back at LGU at 0801 MST, having flown 1.75 hou rs and burning 13 BIP flares. Figure 5.6 
+shows the flight track from the first flight. As moisture continued across the area and conditions still 
+appeared favorable for seeding, the plane was refueled, and a second flight was launched using the same 
+
+25 
+ 
+track from the first flight. The plane departed LGU at 0958 MST and reached altitude a short time later. 
+Winds aloft at this point had become northwesterly, as shown in the VAD display from the Salt Lake City 
+radar in Figure 5.7. Seeding occurred along the flight track with a few passes being made, before the plane 
+returned to LGU at 1117 MST. A total of 8 BIP flares and 25 ejectables were used for the second flight. The 
+flight track from the second flight is shown in Figure 5.8. 
+ 
+ 
+Figure 5.5. Radar image from KMTX radar valid at 0632 MST on November 19, 2023.  
+ 
+
+26 
+ 
+ 
+Figure 5.6. Flight track from first flight on November 19, 2023. 
+ 
+
+27 
+ 
+ 
+Figure 5.7. Velocity-Azimuth Display (VAD) from MTX radar showing winds aloft from 7 kft MSL through 50 
+kft MSL above the radar. Note wind flow below 16 kft is from the NW at 20 -30 knots. 
+ 
+
+28 
+ 
+ 
+Figure 5.8. Flight track from second flight on November 19, 2023. 
+ 
+ 
+November 2023 Suspensions/Missed Flying Opportunities 
+ During the latter half of November, two days saw suspension/no -fly decisions being made with 
+respect to operations. On November 16, thunderstorms resulted in a suspension of operations, and on 
+November 23, weak winds aloft (i.e., 10 knots or less) and war m flight -level temperatures of -1°C 
+precluded seeding operations from taking place. 
+ 
+December 2023 
+December turned out to be a rather quiet month in terms of storm systems impacting the state. 
+Storm systems affected central and southern Utah on December 1 -3 and again December 8. After that 
+time the storm track was removed from Utah for most of the remainder of December, with another storm 
+event affecting mainly northern Utah on December 23. No flights occurred during the month, with the 
+reasoning given in the suspension/missed opportunities section for December. Fi gure 5.9 shows the 
+monthly precipitation across Utah for December as a percent of normal, averaged by basin. 
+
+29 
+ 
+ 
+Figure 5.9. December 2023 precipitation as a percent of average for the month.  
+ 
+
+30 
+ 
+December 2023 Suspensions/Missed Flying Opportunities  
+On December 3, severe turbulence and associated mountain wave activity due to strong winds 
+aloft was occurring across northern and central Utah, preventing any flights from taking place. On 
+December 8, a flight was filed for a middle -of-the-night departure; the plane, which had been parked 
+outside so a quick departure could take place without a call-out (where airport crew come out during off-
+hours to tow the plane out of the hangar) ended up getting coated in ice and could not take off. 
+ 
+January 2024 
+After a quiet December in terms of the frequency of storm events that impacted the state, the 
+pattern in January shifted to one that saw more storms moving across Utah. Nine storm events affected 
+Utah during the month. Four seeding flights occurred during four of these events. Figure 5.10 shows the 
+percent-of-average precipitation for January 2024; most locations within the Northern Utah Aerial 
+Program’s area of responsibility saw above average precipitation, with below average amounts over the 
+eastern Uinta Mountains and Book Cliffs area.  
+31 
+ 
+ 
+Figure 5.10. January 2024 precipitation as a percent of average for the month. 
+ 
+ 
+
+32 
+ 
+January 5, 2024 
+ A shortwave trough was located over southern Idaho/northern Nevada early in the morning hours 
+and was expected to shift southeast into northern Utah later in the morning and across the remainder of 
+the state during the afternoon and evening. Moisture assoc iated with the trough was pushing into 
+northern Utah ahead of the trough axis and within a weak warm advection regime; still, 700 mb 
+temperatures were around -12°C as measured on the morning Salt Lake City sounding. Winds were 
+northwesterly ahead of the trough, with a veering to a northerly flow pattern expected behind the trough 
+axis. An initial surge of moisture and associated precipitation moved across portions of northern Utah 
+southwest of the Wasatch Range during the mid-morning hours. Prior to the noon hour, a second slug of 
+moisture tied to the cold front began to push into northern Utah, and this is what the seeding flight was 
+going to target. A flight plan was filed with a northeast -southwest track running from the Idaho border 
+south of Malad to the  north-central part of the Great Salt Lake; this track would target the moist, 
+northwest flow as it moved into the northern Wasatch Mountains. The plane departed LGU at 1105 MST 
+and, upon reaching the target altitude of 12 kft, seeding began. Figure 5.11 shows satellite imagery right 
+before the plane took off. Area PIREPs ( PIlot REPorts) indicated light rime icing in the area. The plane 
+returned to LGU at 1219 MST, having flown for 1.23 hours and burning nine BIP flares. Low ceilings and 
+visibilities at LGU prevented a second flight. Figure 5.12 shows the flight track from the mission. 
+33 
+ 
+ 
+Figure 5.11. Visible satellite image taken at 1101 MST on January 5, 2024. 
+
+34 
+ 
+ 
+Figure 5.12. Flight track data from seeding flight on January 5, 2024. 
+ 
+January 6-7, 2024 
+ A strengthening trough was digging southeast across California and Nevada during the evening of 
+January 6, aided by a jet streak diving southeastward on the backside of the trough. Deep southwest flow 
+was in place across Utah. The upper jet axis was expect ed to shift to a position across Arizona and the 
+Four Corners area by early morning of January 7 around the same time a cold front associated with the 
+trough was expected to cross northern Utah, with winds veering to northwesterly behind the front. 700 
+mb temperatures were around -8°C on the Jan 7/00Z sounding and were expected to drop into the -12°C 
+to -15°C range later in the morning on January 7. Although moisture appeared to be of low quality via 
+soundings, satellite analysis and model output, a PIREP o n the evening of January 6 indicated moderate 
+rime icing at 13 kft over Ogden. A flight plan was filed using a track from the Idaho border south to the 
+center of the Great Salt Lake, with the Wasatch Mountains the primary target. The plane departed LGU at 
+2350 MST on January 6 and made a couple of passes along the track, burning 10 BIP flares during the 
+flight. The pilot reported only brief pockets of moisture during the flight, landing back at LGU at 0105 MST 
+
+35 
+ 
+on January 7, having flown for 1.25 hours. An infrared satellite image from during the flight is shown in 
+Figure 5.13, and flight track data is shown in Figure 5.14. 
+ 
+ 
+Figure 5.13. Infrared satellite image from 0011 MST on January 7, 2024. Note the extensive cloud cover across 
+Utah, with yellow and orange colors indicating colder cloud tops with green indicating warmer 
+cloud tops. 
+
+36 
+ 
+ 
+Figure 5.14. Flight track data from January 6-7, 2024 seeding flight. 
+ 
+January 13, 2024 
+ A broad trough of low pressure covered much of the United States, with the axis aligned roughly 
+across the central portion of the country, while a highly amplified ridge of high pressure was located off 
+the West Coast; this pattern setup put Utah under gen eral northwest flow aloft. Embedded within the 
+trough were several shortwave disturbances, one of which was located near the Pacific Northwest during 
+the early evening of January 13. The flow ahead of this shortwave disturbance had induced a backing of 
+the winds aloft over Utah to a more westerly direction. Moisture availability was marginal with PWAT 
+values in the 0.35 -0.50” range across northern Utah, but sufficient for precipitation across the area. A 
+flight plan was filed using a track from the central Great Salt Lake to the Idaho border, with the Wasatch 
+Mountains the target of seeding operations within westerly flow of 20-30 kt. After some delays related to 
+ceilings and needing to get a helicopter out of the way, the plane departed LGU at 1805 MST. 
+Temperatures at flight level (12 kft) were -9°C. The pilot reported only “sporadic” moisture pockets, 
+enough to burn six BIP flares before having to cut the flight short and return to LGU at 1900 MST as 
+northern Utah airports were all falling below minimums for flights with greater moisture arriving from the 
+south. Radar imagery during the flight is shown in Figure 5.15, while Figure 5.16 shows the flight 
+data/track. 
+
+37 
+ 
+ 
+Figure 5.15. Radar imagery from 1830 MST on January 13 showing moisture across the western half of Utah.  
+
+38 
+ 
+ 
+Figure 5.16. Flight track from seeding flight on January 13, 2024. 
+ 
+January 17, 2024 
+ Earlier in the day, a shortwave disturbance moved across northern and central Utah bringing a 
+round of light to moderate snow to the area. Although low levels were stable, moisture was certainly 
+present. However with all area airports in northern Utah below  visibility minimums, a flight could not 
+launch. Later in the day, a second impulse of energy over southern Idaho approached northern Utah 
+accompanied by lift and a wave of precipitation. 700 mb temperatures were around -8°C and model data 
+indicated some supercooled liquid water (SLW) present. Figure 5.17 shows the sounding from Salt Lake 
+City at 00Z on January 18 (1700 MST on January 17). With westerly flow in place that was expected to veer 
+to northwesterly, a flight plan was filed with, once again, a north -south track from the Idaho border 
+southward to the central Great Salt Lake targeting the northern Wasatch Mountains and Bear River Range. 
+The plane departed LGU at 2118 MST and, upon reaching altitude, began seeding operations. During the 
+flight, a couple of PIREPs were received indicating light to moderate icing occurring in the 12-14 kft layer. 
+As the pilot was wrapping up the mission a nd beginning his return to LGU, the airport manager 
+inexplicably closed the airport, and the pilot was left trying to work with the FAA on why that occurred 
+and where to land. After some effort, the pilot was able to land at Brigham City Airport (BMC) at 2 333 
+MST, having burned 15 BIP flares. Figure 5.18 shows the flight track data. 
+
+39 
+ 
+ 
+Figure 5.17. Sounding from Salt Lake City, valid at 0000 UTC January 18 (1700 MST January 17). Note the west 
+to northwest flow in place at and above 700 mb, with a dry pocket around 3 km above ground 
+level (approximately 14 kft MSL). 
+
+40 
+ 
+ 
+Figure 5.18. Flight track from seeding flight on January 17, 2024. 
+ 
+January 2024 Suspensions/Missed Flying Opportunities 
+ On January 9, the threat (and eventual presence of) scattered thunderstorms prevented any 
+flights from taking place. On January 10-12, during periods of precipitation, pockets of severe turbulence 
+arising from strong winds and resultant mountain waves deemed the area unsafe for flying/seeding. Also, 
+on January 12 into early on January 13, very cold temperatures aloft ( -17°C at flight altitude) precluded 
+any seeding operations. On January 25, early in the storm event Logan Airport (LGU) was socked in with 
+low clouds and low visibilities, and then by the time it began to mix out, moisture levels have decreased 
+across northern Utah, and also upper level winds were very weak (< 10 kt). 
+ 
+February 2024 
+The active weather pattern that was observed in Utah in January continued into February with a 
+number of storm events affecting Utah. Eight storm events impacted the state during the month, yet in 
+spite of the active pattern, only two flights were able to launch early in the month. Further discussion will 
+describe the issues that affected flying during the month in the next sub -section. Figure 5.19 shows the 
+monthly precipitation for February as a percentage of average precipitation for the month. All areas saw 
+above normal precipitation. 
+
+41 
+ 
+ 
+Figure 5.19 February 2024 precipitation as a percent of average for the month. 
+ 
+
+42 
+ 
+February 1, 2024   
+A trough of low pressure pushing into the west coast states was in the process of splitting, with 
+the southern piece of energy expected to move across southern Nevada/northern Arizona/southern Utah 
+during the nighttime hours. Ahead of this system, moist southerly flow and warm advection was pushing 
+into the state from the west. Over northern Utah, a dry sub-cloud layer was in place for much of the day, 
+but as the warm, moist advection ramped up, the sub-cloud layer did moisten up to where precipitation 
+was able to reach the surface. Figure 5.20 shows the 700 mb map valid at 1700 MST. Given the broad 
+southerly flow in place, a seeding flight targeting the Uinta Mountains was planned, with a flight track on 
+the south side of the Uinta Range at 13 -14 kft. The p lane departed LGU at 1957 MST and headed 
+southeast, reaching the western end of the flight track about an hour later upon which seeding 
+commenced once moisture was observed. The plane flew down the length of the Uinta Range and back, 
+then returning to LGU, landing at 2231 MST. Ten BIP flares were used for seeding, with the pilot reporting 
+only marginal amounts of moisture. Flight track data is shown in Figure 5.21.  
+ 
+ 
+Figure 5.20. 700 mb map valid at 1700 MST on February 1, 2024. Note the trough located over the west coast 
+states with southerly flow across Utah bringing in higher moisture content (green isopleths).  
+ 
+ 
+
+43 
+ 
+ 
+Figure 5.21. Flight track data from seeding flight on February 1, 2024. 
+ 
+February 5, 2024 
+ A large trough, with axis oriented northeast to southwest, was located off the West Coast. An 
+Atmospheric River (AR) extended from east of Hawaii up into the trough and across southern California, 
+Nevada and into Utah; moisture concentration was lower across Utah compared to California, as is typical 
+since much of it gets depleted by major mountain ranges. The trough was forecast to dig southward and 
+elongate near the West Coast which was expected to pivot the moisture band further to the west by 
+nighttime. Rain and snow were falling across northern Utah within this weakened AR, and area PIREPs 
+were mentioning light to occasionally moderate rime icing. With strong southwest winds 35 -65 kt 
+between 700 and 500 mb and WAT values of 0.45”, the potential for at least an exploratory  flight was 
+there, and a flight plan was crafted with a northwest -southeast orientation extending from near 
+Tremonton to Ogden targeting the northern Wasatch Mountains and Bear River Range. The pilot departed 
+LGU at 1445 MST and, while climbing to flight altitude, encountered a pocket of heavy icing that was not 
+able to be fully shed with the de -icing boots, thus the plane had to abort the mission and make a quick 
+return to LGU, landing at 1515 MST. No seeding was done. Figure 5.22 shows the flight track. No additional 
+flights took place. 
+
+44 
+ 
+ 
+Figure 5.22. Flight track data from flight on February 5, 2024. 
+ 
+February 2024 Suspensions/Missed Flying Opportunities  
+During the storm event on February 6 -8, strong winds aloft (> 50 knots) and the threat of 
+thunderstorms precluded flights from taking place. With the storm on February 15, the FAA debriefer 
+alerted the pilot to the presence of extensive (yet mainly light to occasionally moderate) icing, particularly 
+concentrated near the frontal boundary expected to affect the area and mentioned the difficulty that may 
+be encountered with the de-icing equipment due to icing rates in that area; because of this, the flight was 
+aborted. Temperatures on February 16 were too cold aloft for effective seeding operations (i.e., below -
+15°C). On February 19, PIREPs indicated light to moderate mixing icing (clear and rime) occurring across 
+northern Utah. With considerations to the difficulty in shedding clear icing compared to rime icing, and 
+with an extended period of this expected to occur, a scheduled flight was aborted. The final storm of the 
+month on February 26-27 brought a myriad of flying conditions, including moderate to occasionally severe 
+icing, strong winds aloft and a thunderstorm threat.  
+  
+
+45 
+ 
+March 2024 
+The active weather pattern that began in January across much of the western U.S. continued 
+through March, with nine storm events affecting the state, distributed uniformly over the month. The 
+Northern Utah Aerial Program flew five flights over three storm events during the latter part of March. 
+Earlier storms contained hazards that were difficult for flying, which are p resented in the Suspensions 
+sub-section. Precipitation for the month was above normal across northern Utah, as were SWE values. 
+Figure 5.23 shows the precipitation for the month across the western U.S. as a percentage of average 
+precipitation for March. 
+46 
+ 
+ 
+Figure 5.23. March 2024 precipitation as a percent of average for the month. 
+ 
+
+47 
+ 
+March 23, 2024  
+ An upper low was located over Oregon with the associated trough extending southward to west 
+of southern California/northern Baja. On the forward/east side of the trough, a strong cold front was 
+located across southern Idaho and eastern Nevada and was forecast to move across Utah during the late 
+afternoon/evening with rain, snow and isolated thunderstorms. Southwest flow was in place ahead of the 
+front with 700 mb winds of 20-40 kt. After some evaluation of the weather and a discussion with the pilot, 
+a flight plan was developed with a north -northwest to south -southeast track from near Tremonton to 
+near Ogden, targeting the northern Wasatch Mountains and Bear River Range. The plane departed LGU 
+at 1444 MDT, reaching the flight altitude of 12 kft a short time  later. With moisture being observed, 
+seeding commenced. The plane continued to fly along the track before returning to LGU, landing at 1556 
+MDT. Ten BIP flares were used for seeding, with the pilot indicating some moisture/ice sticking to the 
+plane during the mission. A second flight was planned for early evening, but lightning concerns and a 
+convective SIGMET for the area resulted in a no-fly decision for the second flight. Figure 5.24 shows a map 
+of lightning strikes during the late afternoon/early eveni ng hours valid at 1810 MDT. Severe turbulence 
+was reported during the evening between Salt Lake City and Provo. Figure 5.25 shows the flight track data 
+from the mission.  
+ 
+ 
+Figure 5.24.  Lightning strike map valid at 1810 MDT on March 23, 2024. Color of dots indicate age, shown in 
+legend. Courtesy of WeatherTap.com .  
+
+48 
+ 
+ 
+Figure 5.25. Flight track data from seeding flight on March 23, 2024. 
+ 
+March 28, 2024  
+ An upper low was centered near Vancouver Island with a trough extending southward from the 
+low into the Pacific Northwest and northern California. To the southeast of the trough, diffluent flow aloft 
+was spreading across Nevada and northern Utah which was enhancing large-scale lift and precipitation 
+development. A shortwave disturbance embedded within the trough’s flow pattern was expected to move 
+across northern and central Utah during the day with its accompanying cold front expected to move in 
+during the afternoon before stalling across central Utah during the night. Area soundings showed PWAT 
+values around 0.30 -0.40” along with 700 mb temperatures around -4°C. The front was expected to 
+undergo frontogenesis (i.e., strengthening) as it moved into norther n Utah, with increasing potential for 
+thunderstorms. A flight plan was developed for a flight ahead of the front, with a track similar to the one 
+flown on March 23, extending from near Tremonton to Ogden and targeting mainly the northern Wasatch 
+Mountains. The plane departed at 1126 MDT and reached a cruising altitude of 12 kft a short time later. 
+Seeding soon commenced within the band of moisture, but the band was quickly lifting north and after a 
+short flight, the plane returned to LGU at 1225 having burned 8 BIP flares. Figure 5.26 shows a visible 
+
+49 
+ 
+satellite image taken during the flight. Figure 5.27 shows the flight track data from the first flight. With 
+another round of precipitation approaching northern Utah, a second flight was planned, this time 
+targeting the western Uinta Mountains. A flight plan was developed, with a track over the Wasatch Back 
+from near Coalville to Heber City. The plane took off a second time from LGU at 1503 and reached the 
+flight track zone a short time later. During the second flight, a cluster of thunderstorms producing 
+abundant lightning strikes passed just south of Heber City. Figure 5.28 shows radar imagery during the 
+second flight, noting the lightning strikes near HCR (Heber City). The plane returned to LGU at 1650 MDT, 
+having burned 17 BIP flares along with 15 ejectables; the pilot reported plenty of moisture present during 
+the mission. Figure 5.29 shows the flight track data from the second mission. 
+ 
+ 
+Figure 5.26. Visible satellite image taken at 1201 MDT on March 28, 2024.  
+ 
+
+50 
+ 
+ 
+Figure 5.27. Flight track data from first seeding flight on March 28, 2024. 
+ 
+
+51 
+ 
+ 
+Figure 5.28.  Radar image with lightning strikes superimposed from 1555 MDT on March 28, 2024. Note 
+cluster of strikes south of Heber City (KHCR). 
+ 
+
+52 
+ 
+ 
+Figure 5.29. Flight track data from second flight on March 28, 2024. 
+ 
+March 30, 2024  
+ A cold closed upper low was located off the northern California coast west of San Francisco and 
+was slowly pushing southward. The associated trough axis, oriented in a northeast -southwest fashion, 
+extended from the central Canadian Prairies through the Great Bas in (west of UT) and off the California 
+coast. On the forward side of the trough, diffluent flow aloft was spreading across Utah within a south to 
+southwesterly flow regime. A frontal boundary that had been stretched across central Utah was moving 
+back northward as a warm front. The south/southwesterly flow was expected to increase during the day, 
+with the diffluent pattern aiding in increasing large -scale lift and subsequent development of rain and 
+snow across central and northern Utah. PWAT values w ere around 0.45” as measured on the morning 
+sounding from Salt Lake City, and a fairly moist atmospheric profile existed up to around 300 mb 
+(approximately 34 kft MSL). 700 mb temperatures were ideal, around -5°C.  For this day, seeding for the 
+Uinta Mountains appeared to be the best targeted effort at seeding, and a flight plan was developed with 
+a flight track south of the Uinta range, from roughly Tabiona to Whiterocks. The plane left LGU at 1004 
+
+53 
+ 
+MDT and initially ascended to 12 kft, but after about an hour the pilot was re-positioned up to 16 kft prior 
+to getting to the flight track zone. The pilot began firing flares upon reaching the south side of the Uintas 
+and seeding continued for about an ho ur before the plane turned to head back to LGU, landing at 1203 
+MDT, having burned 18 BIP flares with the pilot reporting that there were pockets of “good moisture”. 
+Figure 5.30 shows visible satellite imagery from 1121 MDT, during the flight, and Figure 5 .31 shows the 
+flight data from this first flight. As conditions continued to be favorable for seeding, the plane refueled 
+and launched at 1240 MDT, once again heading down to the same flight track zone, only this time the 
+plane’s cruising altitude was 14 k ft. Seeding commenced and continued for over an hour with what the 
+pilot again described as “pockets of decent moisture” before the plane headed back to LGU, landing at 
+1441 MDT and having burned 25 ejectable flares. Figure 5.32 shows a radar image during the second flight, 
+and Figure 5.33 shows the flight data from the second flight. 
+54 
+ 
+ 
+Figure 5.30. Visible satellite image from 1121 MDT on March 30, 2024. 
+
+55 
+ 
+ 
+Figure 5.31. Flight track data from first seeding flight on March 30, 2024. 
+ 
+
+56 
+ 
+ 
+Figure 5.32.  Radar image from 1335 MDT on March 30, 2024 during second flight.  
+ 
+
+57 
+ 
+ 
+Figure 5.33. Flight track data from second flight on March 30, 2024. 
+ 
+March 2024 Suspensions/Missed Flying Opportunities  
+For the storm events in the first half of the month, a combination of scattered thunderstorms 
+(March 2-3, 7, 12), strong winds aloft (March 2-3) and very cold temperatures outside of the desired -5°C 
+to -15°C range (March 2 -3) resulted in flying suspensions in place. Thunderstorms during the se eding 
+mission on March 28 occurred after the plane was airborne, but the activity remained just outside of the 
+flight track zone. 
+ 
+ 
+April 2024 
+The busy weather pattern that had been in place for much of the winter began to settle down a 
+bit in April, however there were still two storm events that impacted Utah during the first half of the 
+month. Due to the nature of the storms themselves, no seeding flights took place during the month, with 
+explanations given in the following sub-section. Figure 5.34 shows the precipitation across Utah for April. 
+In spite of the two storm systems that affected Utah, precipitation for the month was well below normal. 
+
+58 
+ 
+ 
+Figure 5.34. April 2024 precipitation as a percent of average for the month. 
+ 
+ 
+
+59 
+ 
+April 2024 Suspensions/Missed Flying Opportunities 
+With the storm on April 5 -6, strong southerly winds up to 60 knots were observed from the Salt 
+Lake City radar; this was not an ideal setup for aerial seeding in terms of targeting the north -south 
+mountain ranges and the speed with which the wind was blowi ng. On April 15, an upper low moving 
+across the state resulted in a wind regime across northern Utah that did not allow for proper targeting of 
+the mountain ranges until most of the precipitation had ended. 
+ 
+  
+60 
+ 
+6.0 SUMMARY AND RECOMMENDATIONS 
+The 2023-24 winter season marked the inaugural year of operation for the Northern Utah Aerial 
+Program (NUAP) which followed a design similar to the sister project, the Southern Utah Aerial Program 
+(SUAP). An active weather pattern for much of the winter re sulted in an above normal snowpack and 
+above normal precipitation for the northern half of Utah. Despite the active weather pattern in place, only 
+14 flights over 10 storm events were able to launch to conduct seeding operations. Reasons for this are 
+presented below. 
+In many instances, weather conditions were the reason for suspensions or missed opportunities: 
+lightning, severe turbulence and icing, temperatures too cold or too warm for effective seeding (i.e., 
+outside of the -5°C to -15°C range), ceilings and visibilities below minimums and strong winds at or above 
+60 kt. These sorts of issues are expected on a seasonal basis and were not entirely surprising, although 
+the frequency with which conditions resulted in “no-fly” decisions were surprising. In one case, a decision 
+that was made in an attempt to expedite an overnight flight turned out to contribute directly to the 
+cancellation of the flight; ahead of one storm event in December, where it was believed that having the 
+plane parked outside for an overnight flight would make for a fast turn -around as it avoided having to 
+make a ”call-out”, the decision ended up costing a flight as the plane became coated in ice and could not 
+be flown until the ice had melted, a problem that would not have occurred if the plane had r emained in 
+the hangar. Furthermore, the Logan -Cache Airport (LGU) sits in the Cache Valley, which frequently is 
+subject to strong inversions and periods of fog/low clouds and low visibility in the December -February 
+period, which can make seeding flights di fficult if ceilings and visibilities are below minimum thresholds 
+for taking off/landing.  
+Unlike with SUAP, no pre -determined fixed tracks were set for NUAP, but instead tracks were 
+chosen on a storm -by-storm case, fitting in with the given atmospheric conditions accompanying each 
+storm. Most of the seeding flights this first season focused on the northern Wasatch Mountains and Bear 
+River Range, with the Uinta Mountains seeing the remainder of the seeding efforts. It is important when 
+discussing the seeding targeting with this program to keep in mind that some areas are/were off -limits 
+for the a ircraft tracks , particularly the area west of the central Wasatch Mountains due to the 
+concentration of the population from roughly Ogden southward to Provo. This area also experiences the 
+most amount of air traffic in the state with Salt Lake City International Airport located here. Military 
+airspace is also located nearby, in Tooele County and this area is also off-limits. 
+With regards to communication with the pilot while airborne, for the 2023-24 season, there was 
+no satellite phone in the plane, and texting did not work with the plane and meteorologist at opposite 
+ends of the state. Although this did not negatively impact seeding operations, going forward, it is strongly 
+advised that there should be a method of communication available to the pilot and meteorologist during 
+flights. A satellite phone or similar device that would, at least allow for texting between pilot and 
+meteorologist should be utilized. 
+NAWC considers the primary season for NUAP to be more of a learning experience versus a 
+success considering the amount of “no -fly” decisions that were made, particularly given the active 
+61 
+ 
+weather pattern that was in place for a majority of the season. Decisions regarding the use of a slightly 
+different approach to seeding could be (and could have been) made for certain situations, such as flying 
+near the top of cloud decks given ample moist ure and ideal temperatures if in -cloud seeding becomes 
+susceptible to excessive icing, for example. The approach to aerial cloud seeding for NUAP was done in a 
+manner more similar to operations with the Kings Program in central California, which was almost  
+exclusively in-cloud seeding, accounting for excess ice accumulation by descending to a lower, warmer 
+altitude to shed ice before returning to altitude. One stark difference is that most times in Utah in the 
+winter, descending to a lower altitude to shed ice would not be possible given the usual cold airmasses in 
+place, with freezing temperatures all the way to the surface. In these cases, the “on-top” seeding method 
+may have to be used more often. 
+NAWC believes, for future seasons, that the best approach for aerial seeding in Utah, would be to 
+station a seeding aircraft at St. George in the far southwest part of the state and focus aerial seeding 
+efforts on the central and southern parts of Utah. Ground-based seeding sites in that portion of the state 
+are also less concentrated compared to the network of ground seeding sites across northern Utah. While 
+central and southern Utah would be the main focus for seeding efforts from the air, in the event th at an 
+incoming storm might only impact northern Utah, a decision could be made to temporarily position the 
+aircraft in or nearby northern Utah locations and conduct seeding operations as long as safe flying and 
+ideal seeding conditions allow.  Perhaps seeding for the NUAP could also be focused on only some portions 
+of the season (e.g. November, plus March – April) with the aircraft stationed elsewhere such as in southern 
+Utah during the December – February period. If it is desired that NUAP continues as is for a second season, 
+it is suggested that a different airport be chosen for stationing the plane, one that does not suffer from 
+inversions in the manner that is seen at LGU. The airport should also have hangar space to house the plane 
+from icing conditions, and ideally might have fuel access 24/7. 
+  
+62 
+ 
+APPENDIX A 
+SUSPENSION CRITERIA 
+  
+63 
+ 
+Certain situations require temporary or longer -term suspension of cloud seeding activities, with 
+reference to well -considered criteria for consideration of possible suspensions, to minimize either an 
+actual or apparent contribution of seeding to a potentia lly hazardous situation. The ability to forecast 
+(anticipate) and judiciously avoid hazardous conditions is very important in limiting any potential liability 
+associated with weather modification and to maintain a positive public image.  
+There are three primary hazardous situations around which suspension criteria have been 
+developed. These are:  
+• Excess snowpack accumulation  
+• Rain-induced winter flooding 
+• Severe weather 
+Excess Snowpack Accumulation  
+ Snowpack begins to accumulate in the mountainous areas of Utah in November and continues 
+through April.  The heaviest average accumulations normally occur from January through  March.  
+Excessive snowpack water content becomes a potential hazard during the resultant snowmelt.  The 
+Natural Resources Conservation Service (NRCS) maintains a network of high elevation snowpack 
+measurement sites in the State of Utah, known as the SNOTEL network.  SNOTEL automated observations 
+are now readily available, updated as often as hourly.  The following set of criteria, based upon 
+observations from these SNOTEL site observations, has been developed as a guide  for potential 
+suspension of operations. 
+64 
+ 
+
+65 
+ 
+Snowpack-related suspension considerations will be assessed on a geographical division or sub -
+division basis. The NRCS has divided the State of Utah into 13 such divisions as follows: Bear River, Weber-
+Ogden Rivers, Provo River -Utah Lake-Jordan River, Tooe le Valley-Vernon Creek, Green River, Duchesne 
+River, Price-San Rafael, Dirty Devil, Southeastern Utah, Sevier River, Beaver River, Escalante River, and 
+Virgin River.  Since SNOTEL observations are available on a daily basis, suspensions (and cancellation o f 
+suspensions) can be made on a daily basis using linear interpolation of the first of month criteria.   There 
+are a number of SNOTEL stations in the various basins of central and southern Utah on which these criteria 
+are based.  These include Castle Valle y, Harris Flat, and Farnsworth Lake in the Sevier Basin; Midway 
+Valley, Kolob, Harris Flat, Webster Flat, and Long Flat in southwestern Utah; and Rocky Basin Settlement 
+and Mining Fork in eastern Tooele County.   
+Streamflow forecasts, reservoir storage levels, soil moisture content and amounts of precipitation 
+in prior seasons are other factors which need to be considered when the potential for suspending seeding 
+operations due to excess snowpack water content exists.  
+Rain-induced Winter Floods  
+ The potential for wintertime flooding from rainfall on low elevation snowpack is fairly high in 
+some (especially the more southern) target areas during the late winter/early spring period.  Every 
+precaution must be taken to insure accurate forecasting and timely suspension of operations during these 
+potential flood-producing situations.  The objective of suspension under these conditions is to eliminate 
+both the real and/or perceived impact of weather modification when any increase in precipitation has the 
+potential of creating a flood hazard. 
+Severe Weather  
+ During periods of hazardous weather associated with both winter orographic and convective 
+precipitation systems it is sometimes necessary or advisable for the National Weather Service (NWS) to 
+issue special weather bulletins advising the public of the weather phenomena and the attendant hazards.  
+Each phenomenon is described in terms of criteria used by the NWS in issuing special weather bulletins.  
+Those which may be relevant in the conduct of winter cloud seeding programs include the following: 
+ 
+▪ Winter Storm Warning - This is issued by the NWS when it expects heavy snow warning 
+criteria to be met, along with strong winds/wind chill or freezing precipitation.  
+▪ Flash Flood Warning  - This is issued by the NWS when flash flooding is imminent or in 
+progress.  In the Intermountain West, these warnings are generally issued relative to, but 
+are not limited to, fall or spring convective systems. 
+▪ Severe Thunderstorm Warning  – This is issued by the NWS when thunderstorms 
+producing winds of 58 mph or higher and/or 1” or larger hail. 
+▪ SIGMETs – SIGnificant METeorological Information regarding the presence of convection 
+(thunderstorms), significant icing or turbulence that could be hazardous to aircraft 
+ 
+Seeding operations may be suspended whenever the NWS issues a weather warning for or 
+adjacent to any target area.  Since the objective of the cloud seeding program is to increase winter 
+66 
+ 
+snowfall in the mountainous areas of the state, operations will typically not be suspended when Winter 
+Storm Warnings are issued, unless there are special considerations (e.g., a heavy storm that impacts 
+Christmas Eve travel).   
+Flash Flood and Severe Thunderstorm Warnings are usually issued when intense convective 
+activity causing heavy rainfall/strong winds/hail is expected or is occurring.  Although the probability of 
+this situation occurring during our core operational seeding  periods is low, the potential does exist, 
+especially over southern sections  of the state during late March and April.  The type of storm that may 
+cause problems is one that has the potential of producing 1 -2 inches (or greater) of rainfall in 
+approximately a 24 -hour period, combined with high freezing levels (e.g., > 8,000 feet MSL).  Seeding 
+operations will be suspended for the duration of the warning period in the affected areas. 
+SIGMETs are crucial to airborne seeding operations, as their issuances relate to the presence of 
+hazardous conditions that may result in temporary suspensions. Convective SIGMETs are issued when 
+thunderstorms are expected to impact a given area, and generally last up to two hours at a time but may 
+be re -issued if the threat continues. Non -convective SIGMETs are issued for hazards such as 
+severe/extreme turbulence or severe icing, and last up to four hours at a time, again, with the potential 
+for extensions if these conditions continue to exist. 
+NAWC’s project meteorologists have the authority to temporarily suspend localized seeding 
+operations due to development of hazardous severe weather conditions even if the NWS has not issued 
+a warning.  This would be a rare event, but it is important for the operator to have this latitude. 
+ 
+ 
+ 
+  
+67 
+ 
+APPENDIX B 
+ 
+GLOSSARY OF METEOROLOGICAL TERMS 
+  
+68 
+ 
+Advection: Movement of an air mass.   Cold advection describes a colder air mass moving into the area, 
+and warm advection is used to describe an incoming warmer air mass.  Dry and moist advection can be 
+used similarly. 
+ 
+Air Mass /airmass: A term used to describe a region of the atmosphere with certain defining 
+characteristics.  For example, a cold or warm air mass, or a wet or dry air mass.  It is a fairly subjective 
+term but is usually used in reference to large (synoptic scale) regions of  the atmosphere, both near the 
+surface and/or at mid and upper levels of the atmosphere. 
+ 
+Atmospheric River/AR: A long, narrow and transient corridor of strong horizontal water vapor transport 
+that is typically associated with a low level jet stream ahead of the cold front of a low pressure system. 
+The water vapor in ARs is supplied by tropical and subtropical moisture sources and frequently produces 
+heavy precipitation where they are forced upward, e.g., by mountains or dynamic lifting. 
+ 
+Balloon Sounding: see Sounding. 
+ 
+Cell: in radar usage, a local maximum in radar reflectivity that undergoes a life cycle of growth and decay, 
+having both an updraft and a downdraft region. 
+ 
+Cold-core low: A typical mid-latitude type of low pressure system, where the core of the system is colder 
+than its surroundings.  This type of system is also defined by the cyclonic circulation being strongest in the 
+upper levels of the atmosphere.  The opposite is a warm-core low, which typically occurs in the tropics. 
+ 
+Cold Pool: An air mass that is cold relative to its surroundings and may be confined to a particular basin. 
+ 
+Condensation: Phase change of water vapor into liquid form.   This can occur on the surface of objects 
+(such as dew on the grass) or in mid -air (leading to the formation of clouds).  Clouds are technically 
+composed of water in liquid form, not water vapor.  
+ 
+Confluent: Wind vectors coming closer together in a two -dimensional frame of reference (opposite of 
+diffluent).  The term convergence is also used similarly. 
+ 
+Convective (or convection):  Pertains to the development of precipitation areas due to the rising of 
+warmer, moist air through the surrounding air mass.  The warmth and moisture contained in a given air 
+mass makes it lighter than colder, dryer air.  Convection often leads to small-scale, locally heavy showers 
+or thundershowers.   The opposite precipitation type is known as stratiform precipitation. 
+ 
+Convergence: Refers to the converging of wind vectors at a given level of the atmosphere.  Low -level 
+convergence (along with upper -level divergence), for instance, is associated with lifting of the air mass 
+which usually leads to development of clouds and precipitation .  Low-level divergence (and upper -level 
+convergence) is associated with atmospheric subsidence, which leads to drying and warming. 
+ 
+Cyclonic Flow: Counter-clockwise motion, primarily around low pressure (cyclone). 
+ 
+Deposition: A phase change where water vapor turns directly to solid form (ice).  The opposite process is 
+called sublimation. 
+ 
+69 
+ 
+Dew point:  The temperature at which condensation occurs (or would occur) with a given amount of 
+moisture in the air. 
+ 
+Diffluent: Wind vectors spreading further apart in a two -dimensional frame of reference; opposite of 
+confluent. 
+ 
+Disturbance: see Low pressure, shortwave. 
+ 
+Dry slot: A zone of dry (and usually cloud-free) air that wraps into the southern and eastern parts of a low 
+pressure system; easily viewed on satellite imagery. 
+ 
+Entrain: Usually used in reference to the process of a given air mass being ingested into a storm system. 
+ 
+Evaporation: Phase change of liquid water into water vapor.  Water vapor is usually invisible to the eye. 
+ 
+El Ni ño: A reference to a particular phase of oceanic and atmospheric temperature and circulation 
+patterns in the tropical Pacific, where the prevailing easterly trade winds weaken or dissipate.  Often has 
+an effect on mid-latitude patterns as well, such as increased precipitation in southern portions of the U.S. 
+and decreased precipitation further north.  The opposite phase is called La Nina. 
+ 
+Front (or frontal zone): Reference to a temperature boundary with either incoming colder air (cold front) 
+or incoming warmer air ( warm front ); can sometimes be a reference to a stationary temperature 
+boundary line (stationary front) or a more complex type known as an occluded front (where the 
+temperature change across a boundary can vary in type at different elevations).     
+ 
+Frontal band: A band of clouds/precipitation along a cold or warm front. 
+ 
+Glaciogenic: Ice-forming (aiding the process of nucleation); usually used in reference to cloud seeding 
+nuclei. 
+ 
+GMT (or UTC, or Z) time:  Greenwich Mean Time, universal time zone corresponding to the time at 
+Greenwich, England.   Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7 
+hours. 
+ 
+Graupel: A precipitation type that can be described as “soft hail”, that develops due to riming (nucleation 
+around a central core).  It is composed of opaque (white) ice, not clear hard ice such as that contained in 
+hailstones.  It usually indicated the presence of  convective clouds and can be associated with electrical 
+charge separation and occasionally lightning activity. 
+ 
+High Pressure (or Ridge):  Region of the atmosphere usually accompanied by dry and stable weather.  
+Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic (clockwise) 
+circulation pattern. 
+ 
+Infrared (satellite): imagery sensed in the 3 -13 μm wavelength region of the electromagnetic spectrum, 
+usually referring to the thermal infrared region. 
+ 
+70 
+ 
+Inside Slider: A trough or area of low pressure that moves south-southeast along or parallel to the Sierra 
+Nevada mountains before swinging east into the Great Basin or Desert Southwest. These systems typically 
+do not have much moisture with them but can have cold to v ery cold air accompanying them. The track 
+of these systems typically brings Santa Ana winds as they increase the northeast -southwest pressure 
+gradient. 
+ 
+Inversion: Refers to a layer of the atmosphere in which the temperature increases with elevation, usually 
+associated with stability. 
+ 
+Jet Stream or Upper -Level Jet (sometimes referred to more generally as the storm track):  A region of 
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track 
+in the mid-latitudes.  This is the area that also typically corresponds to the greatest amount of mid-latitude 
+synoptic-scale storm development. 
+ 
+La Niña: The opposite phase of that known as El Nino in the tropical Pacific.  During La Nina the easterly 
+tropical trade winds strengthen and can lead in turn to a strong mid -latitude storm track, which often 
+brings wetter weather to northern portions of the U.S.   
+ 
+Longwave (or longwave pattern): The longer wavelengths, typically on the order of 1,000 – 2,000+ miles 
+of the typical ridge/trough pattern around the northern (or southern) Hemisphere, typically most 
+pronounced in the mid-latitudes. 
+ 
+Low-Level Jet: A zone of maximum wind speed in the lower atmosphere.  Can be caused by geographical 
+features or various weather patterns and can influence storm behavior and dispersion of cloud seeding 
+materials. 
+ 
+Low pressure (or low or trough): Region of the atmosphere usually associated with stormy weather.  
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic 
+(counterclockwise) circulation pattern in the Northern Hemisphere.   
+ 
+Mesoscale: Sub-synoptic scale, about 100 miles or less; this is the size scale of more localized weather 
+features (such as thunderstorms or mountain-induced weather processes). 
+ 
+Microphysics: Used in reference to composition and particle types in a cloud. 
+ 
+Mid-level: the layer of the atmosphere from 10-20 kft. 
+ 
+Millibar (mb): a unit of pressure equal to 100 newtons per square meter (N/m2). 
+ 
+MSL (Mean Sea Level): Elevation height reference in comparison to sea level. 
+ 
+Negative (ly) tilted trough: A low-pressure trough where a portion is undercut, such that a frontal zone 
+can be in a northwest to southeast orientation. 
+ 
+Nucleation: The process of supercooled water droplets in a cloud turning to ice.  This is the process that 
+is aided by cloud seeding.  For purposes of cloud seeding, there are three possible types of cloud 
+71 
+ 
+composition:  Liquid (temperature above the freezing point), supercooled (below freezing but still in liquid 
+form), and ice crystals.   
+ 
+Nuclei: Small particles that aid water droplet or ice particle formation in a cloud. 
+ 
+Orographic: Terrain-induced weather processes, such as cloud or precipitation development on the 
+upwind side of a mountain range.  Orographic lift refers to the lifting of an air mass as it encounters a 
+mountain range. 
+ 
+Precipitable Water, or PWAT: The total atmospheric water vapor contained in a vertical column of unit 
+cross-sectional area extending between the surface and top of the atmosphere, expressed in terms of the 
+depth to which that water substance would be if completely condensed and colle cted in a vessel of the 
+same unit cross-section. 
+ 
+Pressure Heights (e.g., 700 millibars, or mb): Corresponds to approximately 10,000 feet above sea level 
+(MSL); 850 mb corresponds to about 5,000 feet MSL; and 500 mb corresponds to about 18,000 feet MSL.  
+These are standard height levels that are occasionally referenced, with the 700 mb level most important 
+regarding cloud-seeding potential in most of the western U.S. 
+ 
+Positive (ly) tilted trough: A normal U-shaped trough configuration, where an incoming cold front would 
+generally be in a northeast– southwest orientation. 
+ 
+Reflectivity: The density of returned signal from a radar beam, which is typically bounced back due to 
+interaction with precipitation particles (either frozen or liquid) in the atmosphere.  The reflectivity 
+depends on the size, number, and type of particles that the radar beam encounters. 
+ 
+Ridge (or High Pressure System):  Region of the atmosphere usually accompanied by dry and stable 
+weather.  Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic 
+(clockwise) circulation pattern. 
+ 
+Ridge axis: The longitude band corresponding to the high point of a ridge. 
+ 
+Rime (or rime ice): Ice buildup on an object (often on an existing precipitation particle) due to the freezing 
+of supercooled water droplets. 
+ 
+Shortwave (or shortwave disturbance): Smaller-scale wave features of the weather pattern typically seen 
+at mid -latitudes, usually on the order of a few to several hundred miles; these often correspond to 
+individual frontal systems. 
+ 
+Silver iodide: A compound commonly used in cloud seeding because of the similarity of its molecular 
+structure to that of an ice crystal.  This structure helps in the process of nucleation, where supercooled 
+cloud water changes to ice crystal form. 
+ 
+Sounding: A measurement of the vertical distribution of physical properties of the atmospheric column 
+such as temperature, dewpoint, pressure, wind speed and direction. Soundings are typically conducted 
+by releasing a balloon filled with hydrogen or helium with in strumentation attached that measures 
+different properties as the balloon rises from the surface until it pops at very high altitudes (80-100 kft). 
+72 
+ 
+Stable layer: A layer of given thickness in the atmosphere where temperatures are constant with height 
+or rise with height; this results in little to no vertical movement of the air and little to no 
+turbulence/mixing. 
+ 
+Storm Track  (sometimes reference d as the Jet Stream):  A zone of maximum storm propagation and 
+development, usually concentrated in the mid-latitudes. 
+ 
+Stratiform: Usually used in reference to precipitation, this implies a large area of precipitation that has a 
+fairly uniform intensity except where influenced by terrain, etc.   It is the result of larger -scale (synoptic 
+scale) weather processes, as opposed to convective processes. 
+ 
+Sublimation: The phase change in which water in solid form (ice) turns directly into water vapor.  The 
+opposite process is deposition. 
+ 
+Subsidence: The process of a given air mass moving downward in elevation, such as often occurs on the 
+downwind side of a mountain range. 
+ 
+Subtropical/subtropics: Referring to the region of the Earth bordering on the tropics, from the Tropic of 
+Cancer/Capricorn (23.5°N/S) to about 35°N/S. Subtropical moisture  would refer to moisture whose 
+source region is the subtropics. Subtropical Jet Stream would refer to a jet stream within the subtropics. 
+ 
+Supercooled: Liquid water (such as tiny cloud droplets) occurring at temperatures below the freezing 
+point (32°F or 0°C). 
+ 
+Synoptic Scale: A scale of hundreds to perhaps 1,000+ miles, the size scale at which high and low pressure 
+systems develop. 
+ 
+Trough (or low pressure system):  Region of the atmosphere usually associated with stormy weather.  
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic 
+(counterclockwise) circulation pattern in the Northern Hemisphere.  
+ 
+Trough axis: The longitude band corresponding to the low point of a trough. 
+ 
+Unstable air mass: an air mass wherein a perturbation (wave) increases in magnitude over time. A parcel 
+of air displaced upward in an unstable airmass will continue to rise until it reaches equilibrium. Regions 
+where, if moisture is sufficient, convection can develop if a mechanism (e.g., heating, frontal boundary) is 
+present to initiate lift. 
+ 
+Upper level: The region of the atmosphere above 20 kft and below the tropopause (approx. 60-80 kft). 
+ 
+Upper-Level Jet or Jet Stream  (sometimes referred to more generally as the storm track):  A region of 
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track 
+in the mid-latitudes.  This is the area that also typically corresponds to the greatest amount of mid-latitude 
+synoptic-scale storm development. 
+ 
+Upper level low/trough/disturbance: an area of low pressure located at higher altitudes, e.g., at 700 mb 
+/ 10,000 feet MSL or 500 mb / 18,000 feet MSL. 
+73 
+ 
+UTC (or GMT, or Z) time:  Greenwich Mean Time, universal time zone corresponding to the time at 
+Greenwich, England.   Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 7 
+hours. 
+ 
+Vector: Term used to represent wind velocity (speed + direction) at a given point. 
+ 
+Velocity: Describes speed of an object, often used in the description of wind intensities. 
+ 
+Vertical Wind Profiler:  Ground-based system that measures wind velocity at various levels above the 
+radar site. 
+ 
+Wave clouds: Clouds that form on the rising branches of mountain waves created within a stable airmass 
+in strong flow downwind of mountains. On satellite imagery, they appear as spaced bands of clouds 
+parallel to and downwind of the mountain barrier. 
+ 

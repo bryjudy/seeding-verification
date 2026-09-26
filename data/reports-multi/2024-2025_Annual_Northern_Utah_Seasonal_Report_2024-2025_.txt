@@ -1,0 +1,1636 @@
+ 
+Annual Cloud Seeding Report 
+Northern Utah Program 
+2024-2025 Winter Season 
+ 
+Prepared For: 
+Bear River Water Conservancy District 
+Box Elder County 
+Cache County 
+State of Utah, Division of Water Resources 
+ 
+Prepared By: 
+Cole Osborne 
+ 
+ 
+North American Weather Consultants, Inc. 
+8180 S. Highland Dr., Suite B-2 
+Sandy, Utah 84093 
+ 
+ 
+ 
+June 2025 
+ 
+
+1 
+ 
+TABLE OF CONTENTS 
+EXECUTIVE SUMMARY .................................................................................................................................. 6 
+1.0 INTRODUCTION ....................................................................................................................................... 8 
+2.0 PROJECT DESIGN ..................................................................................................................................... 9 
+3.0   WEATHER DATA AND MODELS USED IN SEEDING OPERATIONS ........................................................ 12 
+4.0 OPERATIONS ......................................................................................................................................... 19 
+5.0 ASSESSMENT OF SEEDING EFFECTS ...................................................................................................... 50 
+APPENDIX C:  Glossary of Relevant Meteorological Terms ......................................................................... 58 
+  
+2 
+ 
+WEATHER MODIFICATION 
+The Science Behind Cloud Seeding 
+The Science 
+The cloud -seeding process aids precipitation formation by 
+enhancing ice crystal production in clouds. When the ice 
+crystals grow sufficiently, they become snowflakes and fall to 
+the ground.  
+Silver iodide has been selected for its environmental safety and 
+superior efficiency in producing ice in clouds. Silver iodide adds 
+microscopic particles with a structural similarity to natural ice 
+crystals. Ground-based and aircraft-borne technologies can be 
+used to add the particles to the clouds. 
+Safety 
+Research has clearly documented that cloud seeding with 
+silver-iodide aerosols shows no environmentally harmful effect. 
+Iodine is a component of many necessary amino acids. Silver is 
+both quite inert and naturally occurring, the amounts released 
+are far less than background silver already present in unseeded 
+areas. 
+Effectiveness 
+Numerous studies performed by universities, professional 
+research organizations, private utility companies and weather 
+modification providers have conclusively demonstrated the 
+ability for Silver Iodide to augment precipitation under the 
+proper atmospheric conditions.  
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+CLIMATE TRENDS 
+Every ten years, the National Oceanic and Atmospheric Association (NOAA) releases a summary of various 
+U.S. weather conditions for the past three decades to determine average values for a variety of conditions, 
+including, temperature and precipitation.  This is known as the U.S Climate normal, with a 30-year average, 
+representing the “new normal” for our climate.  These 30 -year normal values can help to determine a 
+departure from historic norms and identify current weather trends.   
+The current 30-year average is based on the period of 1990 – 2020.  Images in Figure 1 and 2 show how 
+each 30 -year average for the past 120 years compares to the composite 20 th century average for 
+temperature and precipitation.  For the western U.S., the 1990 -2020 average show much warmer than 
+average temperatures, in comparison to the 100 -year 20 th century average.  When comparing 
+precipitation for the past 30 years to both the previous 30-year average and the 1901-2000 average, the 
+American Southwest (including portions of Utah, Arizona, California and Nevada) has seen as much as a 
+10% decrease in average annual precipitation.  
+ 
+Figure 1 U.S. Annual Temperature compared to 20th-Century Average 
+
+4 
+ 
+ 
+Figure 2 U.S. Annual Precipitation compared to 20th-Century Average 
+ 
+The 202 4-2025 water year was near average to slightly above in terms of precipitation and 
+snowpack, although to a lesser degree than the previous season. The south arm of the Great Salt 
+Lake (as of early-May 2025) is at roughly 4,19 3 feet. Figure 3 is a long term graph of lake levels 
+for both the north and south arms of the lake. The current levels have improved to roughly pre -
+2021 values but are still below optimal for many ecosystems and industries (Figure 4).   
+ 
+ 
+Figure 3   Great Salt Lake levels since 2007  (graph from the greatsaltlake.utah.gov website)  
+ 
+ 
+ 
+
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+EXECUTIVE SUMMARY 
+Program History 
+Since 1989, cloud seeding operations have been conducted during the winter months in parts of northern 
+Utah. The primary objective of the program is to enhance snowfall and increase precipitation within 
+targeted watersheds. Funding for the program is suppo rted in part by the Utah Division of Water 
+Resources. 
+The 2024–2025 cloud seeding season began on November 1, 2024, and continued through April 30, 2025. 
+Thanks to additional funding from Utah’s Division of Natural Resources (DNR), the program was able to 
+start earlier than in previous years and remain active through the entire month of April. This support not 
+only extended the operational period but also enabled significant modernization of the program, which 
+had been using the same technology and ground-based generators for the past 36 years. Modernization 
+efforts included upgrading most manually operated ground -based generators to remotely operated 
+systems, adding new remotely operated generators, and introducing a new seeding technique using an 
+unmanned aircraft system (UAS). A separate report detailing the  UAS operations will be provided to the 
+DNR and local water sponsors. 
+In total, eight manually operated and three remotely operated cloud seeding generators were installed in 
+the Box Elder portion of the target area. An additional eight manually operated and 21 remotely operated 
+generators were deployed across the eastern Box Elder and Cache Valley regions. Over the course of the 
+season, 34 storm events were seeded: seven in November, eight in December, three in January, seven in 
+February, eight in March, and one in April. Manually operated generators accounted for 1,985.5 hours of 
+seeding operations, while remotely operated generators contributed an additional 1,715 hours. Of those, 
+664 hours were cost-shared between the DNR and local water sponsors, with the remainder funded solely 
+by the DNR. 
+The 2024 –2025 winter season began with slightly below -average precipitation and snowfall across 
+northern Utah but shifted to near -average to slightly above -average levels as the season progressed. A 
+continuing La Niña pattern helped steer a favorable storm track into northern Utah throughout the winter. 
+By April 1, 2025, SNOTEL sites in the northwestern Box Elder and Cache County target areas reported 
+snowpack water equivalent (SWE) values ranging from approximately 62% to 125% of the median across 
+the Bear River Basin and from roughly 99% to 110% of the median across the Raft River Basin. 
+ 
+Results 
+6 
+ 
+Historically, NAWC employed a commonly used evaluation technique known as target and control analysis 
+to assess the effects of cloud seeding. This method relied on NRCS Snowpack Telemetry (SNOTEL) data for 
+precipitation and snow water equivalent (SWE). However, the approach was discontinued after the 2023-
+2024 season after expanded seeding operations across Utah began influencing several key control sites, 
+limiting the effectiveness of the Northern Utah program’s evaluations. Historical results from 1989 to  
+2022 suggest that cloud seeding produced an average increase of approximately 7% in precipitation 
+and/or snowpack, equating to an estimated additional 1.4 to 2.5 inches of SWE in the target area during 
+an average season. NAWC, in collaboration with its ne w parent company Rainmaker Technologies, is 
+currently exploring alternative evaluation methods. These include advanced high-resolution modeling and 
+Quantitative Precipitation Estimation (QPE) techniques. While these new methods are being developed, 
+NAWC will continue to use the historical target -control results as a means of evaluating the programs 
+efficiency, along with the newly developed regression equations (created in 2024) that link streamflow 
+data from Blacksmith Fork (in Cache Valley near Hyrum) and  Dunn Creek (in Box Elder County near Park 
+Valley) to SNOTEL precipitation and SWE data. Further discussion of these historical and streamflow-based 
+results is provided in Section 5.2 of the report. 
+ 
+  
+7 
+ 
+1.0 INTRODUCTION 
+For many years, Cache and Box Elder Counties have sponsored a winter cloud seeding program targeting 
+the high-elevation watersheds within each county. This long-standing effort continued during the 2024–
+2025 winter season with the goal of augmenting natural precipitation in mountainous regions. Historical 
+statistical analyses of the program's effectiveness have generally indicated estimated increases of 5–15% 
+in winter precipitation and snowpack within the target areas. 
+For the 2024 –2025 season, Box Elder and Cache Counties again contracted North American Weather 
+Consultants, Inc. (NAWC) to carry out operational cloud seeding services for their mountain watersheds. 
+NAWC, active in weather modification since 1950 and conducting operations in Utah since the mid-1970s, 
+is the world’s longest -standing private weather modification company. The State of Utah, through its 
+Division of Water Resources (UDWR), regulates cloud seeding activities and provides cost -sharing funds 
+to local project sponsors. 
+The target area for the program includes mountainous regions of Cache and Box Elder Counties located 
+above approximately 6,000 feet mean sea level (MSL). These high -elevation zones are critical for 
+snowpack accumulation and play a substantial role in spring and summer streamflow contributions. Figure 
+1.1 displays average annual precipitation across Utah and highlights these higher-yield areas. 
+In accordance with Utah law, cloud seeding operations require both a license and a project-specific permit 
+issued to the operating entity. Public notification of the intended project must also be made prior to the 
+start of operations. NAWC fulfilled all le gal and regulatory requirements in carrying out the 2024 –2025 
+program. 
+This report summarizes the operational cloud seeding conducted during the 2024 –2025 winter season 
+over the designated project watersheds. Section 2 provides a brief overview of cloud seeding technology 
+and the design of the current program. Section 3 outlines the real-time and forecast meteorological data 
+used to guide operational decisions. Section 4 offers a summary of seeding operations conducted 
+throughout the season. Section 5 reviews historical evaluations of the program’s impact, including 
+regression-based estimates of streamflow increases associated with observed snowpack and precipitation 
+enhancements. 
+ 
+8 
+ 
+ 
+Figure 1.1 Average annual precipitation for Utah, 1991 -2020 (produced by PRISM Climate Group, Oregon 
+Stat University)  
+
+9 
+ 
+2.0 PROJECT DESIGN 
+ 2.1 Background 
+The operational procedures used in this cloud seeding project have been found to be effective during 
+many years of wintertime cloud seeding in the mountainous regions of Utah.  The results from this 
+particular operational seeding program in northern Utah h ave consistently indicated increases in 
+wintertime precipitation and snowpack water content during the periods in which cloud seeding was 
+conducted.   
+ 2.2 Seeding Criteria 
+It is necessary that the silver iodide crystals become active upwind of the crest of a mountain barrier (i.e., 
+the crest within the target area or defining its downwind boundary) so that the available supercooled 
+liquid water (SLW) in the precipitation for mation zone can be effectively converted to ice crystals, with 
+enough time for the crystals to grow to snowflake size and precipitate within the intended target area.  If 
+the AgI crystals take too long to become active, or if the temperature upwind of the crest is too warm, the 
+silver iodide crystals will pass from the generator through the precipitation formation zone and over the 
+mountain crest without freezing additional water cloud droplets.  Thus, an important task for the project 
+meteorologists is to identify the seedable portions of the cloud systems which traverse the project area. 
+Operations have utilized a selective seeding approach, which has proven to be the most efficient and cost-
+effective method, providing the most beneficial results.  Selective seeding means that seeding is 
+conducted only during specific time periods, and in specific locations, where it is likely to be effective.  
+This decision is based on several criteria which determine the seedability of the storms affecting the 
+region.  These criteria deal with the nature of the atmosphere (temperature, stability, wind flo w, and 
+moisture content) both in and below the clouds, and are summarized in the following list. 
+Winter Orographic Ground Based Seeding Criteria 
+● Cloud bases are near or below the mountain barrier crest. 
+● Low-level wind directions and speeds would favor the movement of the silver iodide 
+particles from their release points into the intended target area. 
+● No low -level atmospheric inversions or stable layers that would restrict the upward 
+vertical transport of the silver iodide particles from the surface to at least the -5°C (23°F) 
+level or colder. 
+● Temperature at mountain barrier crest height expected to be -5°C (23°F) or colder. 
+● Temperature at the 700mb level (approximately 10,000 feet) is expected to be warmer 
+than -15°C (5°F). 
+   Use of this focused seeding methodology has yielded consistently favorable results at very 
+attractive benefit/cost ratios. 
+  
+10 
+ 
+ 2.3 Equipment and Project Set-Up 
+NAWC installed 40 ground -based cloud seeding generators (16 manually operated and 24 remotely 
+operated)  throughout the season at locations which are typically upwind (generally on the west sides) of 
+the mountain ranges in Cache County, and in easternmost and northwestern Box Elder County. These 
+mountain ranges generally have crest elevations between 7,000 and 8,000 feet, although some peaks 
+exceed 9,000 feet.  The intended target area of the cloud seeding program includes the areas that exceed 
+6,000 feet i n elevation. The locations of the manually operated and remotely operated cloud nuclei 
+generator sites are also shown in Figure 2.1. Pertinent site information is listed in Table 2-1.   
+ 
+Figure 2.1 CNG sites and seeding target areas for the 2024 -2025 Northern Utah Program; blue pins are 
+manually operated sites and  yellow pins are remotely operated sites  
+Most winter storms that affect the northern Utah mountains are associated with synoptic weather 
+systems which move into Utah from the southwest, west, or northwest.  They often consist of a frontal 
+system and/or an upper trough, with south or southwesterly  winds ahead of these features. In 
+meteorology, wind directions are reported as the direction the wind is blowing from, in advance of the 
+system.  As the front and/or trough moves through the area, the wind flow typically becomes more 
+northwesterly as time passes.  Clouds and precipitation may precede, as well as follow, the front/trough 
+passage, and thus seeding sites are situated to enable seeding operations in southwesterly, westerly, or 
+northwesterly flow situations. 
+
+11 
+ 
+Table 2-1 
+ Northern Utah cloud seeding sites 
+ID Site Name Elevation (ft) Lat (N) Long (W) 
+BE-1 Trout Creek 5070 41° 57.00' 114° 04.00' 
+BE-2 Oakley 4570 42° 14.04' 113° 53.55' 
+BE-3 Grouse Greek 5334 41° 42.54' 113° 52.94' 
+BE-4 Grouse Creek N 5484 41° 45.08' 113° 51.07' 
+BE-5 Lynn 5930 41° 52.00' 113° 44.00' 
+BE-6 Almo 5340 42.10.00’ 113.35.20’ 
+BE-7 Yost 5986 41° 57.40' 113° 33.01' 
+BE-8 Rosette 5640 41° 49.29' 113° 27.49' 
+BE-9 Standrod 5811 41° 59.61' 113° 24.34' 
+Remote Grouse Creek North 7002  41° 58.93' 113° 51.85’ 
+Remote Raft River East 6029  41° 50.82’ 113° 19.90’ 
+Remote Raft River West 5941  41° 48.86’ 113° 35.48’ 
+CV-1 Malad South 4450 42° 02.00’ 112° 12.00’ 
+CV-2 Portage 4500 41° 58.71' 112° 14.68' 
+CV-3 Plymouth 4417 41° 51.45' 112° 10.09' 
+CV-5 Remote Newton 4662 41° 51.78' 111° 58.12' 
+CV-6 Remote Cove 4577 41° 59.65' 111° 48.81' 
+CV-7 Remote Richmond 4600 41° 54.96' 111° 48.84' 
+CV-11 Remote Tremonton 4295 41° 40.69' 112° 10.75' 
+CV-12 Remote Bear River City 4265 41° 37.49' 112° 09.96' 
+CV-13 Remote Perry 4404 41° 27.21' 112° 02.67' 
+CV-14  Brigham City 4690 41° 29.54' 111° 59.77' 
+CV-15 Mantua 5200 41° 30.89' 111° 56.34' 
+CV-16 Remote Wellsville 4884 41° 35.72' 111° 55.80' 
+CV-17 Remote Hyrum 4816 41° 37.58' 111° 49.92' 
+CV-18 Remote Paradise 4875 41° 34.19' 111° 50.62' 
+CV-19 Remote Avon 5059 41° 31.45' 111° 49.39' 
+CV-20 Remote Avon South 5079 41° 30.47' 111° 48.70' 
+CV-21 Liberty 5107 41° 19.31' 111° 51.70' 
+CV-22 Huntsville 5066 41° 15.37' 111° 43.21' 
+CV-23 Red Rock Ranch 5473 41° 17.86' 111° 37.17' 
+Remote Richmond WMA 5274 41° 55.93’ 111° 46.6’ 
+Remote Hardware WMA 5565 41°36.09’ 111°34.02’ 
+Remote Schultz GSL 5920 41° 30.70’ 112° 31.41’ 
+Remote Ant Flat Road 7370 41° 28.69’ 111° 39.25’ 
+Remote Huntsville East 8179 41° 13.62’ 111° 36.74’ 
+Remote Temple Peak 9010  41° 49.68’ 111° 32.06’ 
+Remote Bear Lake West 7990  41° 53.81’ 111° 28.67’ 
+Remote  Bear Lake East 6539  41° 55.31’ 111° 11.62’ 
+Remote Willard Canyon 4586  41° 24.64’ 112° 1.52’ 
+Remote  Willard 1 4622  41° 22.32’ 112° 1.16’ 
+Remote Willard 2 4616  41° 21.53’ 112° 1.29’ 
+ 
+12 
+ 
+ 2.4 Suspension Criteria 
+NAWC conducts its projects within guidelines adopted to ensure public safety.  Accordingly, NAWC has a 
+standing policy and project-specific procedures for the suspension of cloud seeding operations in certain 
+situations.  Those criteria can be found in Appendix A and are an integral part of the seeding program.   
+ 
+3.0   WEATHER DATA AND MODELS USED IN SEEDING 
+OPERATIONS 
+NAWC maintains a fully equipped operations center at its North Salt Lake, Utah headquarters.  
+Meteorological information is acquired online from a wide variety of sources, including some subscriber 
+services.  This information includes weather forecast mode l data, surface observations, rawinsonde 
+(weather balloon) upper -air observations, satellite images, radar information and weather cameras. 
+NAWC’s meteorologists have access to all meteorological products from their homes, allowing continued 
+monitoring and conduct of seeding operations outside of regular business hours. This wide variety of 
+available products and information helps NAWC meteorologists to determine when conditions are 
+appropriate for cloud seeding.   
+Figures 3.1 – 3.4 show examples of some of the available weather information that was used in this 
+decision-making process during the 2024-2025 winter season.  These include global and regional forecast 
+model data, weather radar images, satellite images, and surface wind and temperature maps.   
+Figure 3.5 illustrates the predictions of ground-based seeding plume dispersion using the National Oceanic 
+and Atmospheric Administration’s HYSPLIT (Hybrid Single -Particle Lagrangian Integrated Trajectory) 
+model.  This model provides forecasts of the horiz ontal and vertical spread of a plume from potential 
+ground-based seeding sites in real-time, based on wind fields contained in the weather forecast models.  
+Figure 3.6 shows an example of a cross -section plot during a seeded event from this past winter season 
+using the National Oceanic and Atmospheric Administrations 3 -km HRRR (High Resolution and Rapid 
+Refresh Model). The user can specify a cross section over any location in the continental U.S. or Canada. 
+This model data was used during cloud seeding operations as a guidance. In these cross sections, liquid 
+water is plotted as a function of distance and height, with temperatures (red dashed lines), wind directions 
+and speed (wind barbs) and potential temperatures (solid black lines) also being displayed.  
+During the summer of 2024, Utah’s Division of Natural Resource purchased a Radiometer from 
+Radiometrics. A radiometer is a passive instrument that continuously provides air temperature, humidity 
+and liquid profile products from the surface to 10km above the ground. Figure 3.7 shows a picture of the 
+Radiometer that was deployed in Logan in the fall of 2024 and Figure 3.8 shows an example of the 
+products output by the radiometer during a storm event. The radiometer will continue to be utilized in 
+future winter seasons and possibly lead to further verification techniques.   
+13 
+ 
+  
+Figure 3.1 Weather radar image during a seeded storm event over northern Utah on December 29, 2024  
+ 
+Figure 3.2 Satellite imagery during a seeded storm event on December 29, 2024  
+
+14 
+ 
+ 
+Figure 3.3 Mesowest surface data map on December 29, 2024.  Surface observations are important for 
+diagnosing low-level wind patterns and mixing. 
+ 
+Figure 3.4 GFS (Global Forecast Systems) forecast data plot for a storm event on December 29, 2024.  
+ 
+ 
+
+15 
+ 
+ 
+Figure 3.5 Example of an old HYSPLIT plot of forecast plume dispersion from generator sites  
+ 
+Figure 3.6 HRRR modeled Cross Section of Liquid Water on February 7, 2024 – Valid at 1100 MST  
+
+16 
+ 
+ 
+Figure 3.7 Picture of the Radiometer that was deployed in Logan in the Fall of 2024    
+
+17 
+ 
+ 
+Figure 3.8 Radiometer data output from January 17, 2025 showing temperature, RH, Liquid Water and 
+Water Vapor   
+ 
+ 
+ 
+ 
+ 
+
+18 
+ 
+4.0 OPERATIONS 
+The 2024 -2025 seeding program in Box Elder and Cache Counties began on November 1, 2024 and 
+contractually ended on April 30, 2025.  During the 2024-2025 season, there were 34 seeded storm periods 
+conducted on portions of 52 days. Seven seeded events occurred in November, eight in December, three 
+in January, seven in February, eight in March, and one in April. A total of 1985.5 cumulative hours of 
+seeding generator operations were conducted specifically for the Northern Utah program from manually 
+operated si tes during the season, plus an additional 1715 hours from all remotely operated sites 
+combined. 664 of the remotely operated hours are cost shared between the DNR and local water sponsors 
+with the rest being covered solely by the DNR.  Table 4-1 shows the dates and manual seeding generator 
+usage for the storm events. Historically, a table containing all operations times for each of the CNG sites 
+would be included in Appendix B. Due to the space that this takes up in this report, it has been omitted 
+from this year’s report. If there is interest in seeing this information, please contact NAWC.   
+Table 4-1 
+Storm Dates & Number of Manual Generators Used During 2024-2025 Season 
+Storm Number Date(s) 
+No. of Manual 
+Generators 
+Used 
+No. of 
+Manual 
+Hours 
+No. of 
+Remote 
+Generators 
+Used 
+No. of 
+Remote 
+Hours 
+1 November 2-3 2 20.5 3 23.75 
+2 November 4-5 11 104.5 5 46.75 
+3 November 11-12 14 117.75 1 9 
+4 November 15-16 5 68.5 5 51 
+5 November 18 11 63.75 1 4 
+6 November 23-24 4 44.25 4 35 
+7 November 26-27 10 111.5 5 59.75 
+8 December 13 4 25 4 23.25 
+9 December 14-15 11 165.75 7 105.75 
+10 December 16-17 5 42.75 6 26 
+11 December 23 0 0 1 0.25 
+12 December 25 0 0 2 9.5 
+13 December 26 9 70.75 4 22.5 
+14 December 27 5 24.75 4 19.5 
+15 December 29-30 12 172.75 5 59.25 
+16 January 4 9 69 3 27 
+17 January 11 9 99 0 0 
+18 January 17 3 12.75 1 4.75 
+19 February 1 10 95.25 1 11.75 
+19 
+ 
+20 February 5 6 18.75 4 10 
+21 February 7 11 75.75 5 28.75 
+22 February 8 0 0 6 18 
+23 February 13-15 14 260.5 7 148.75 
+24 February 16-17 7 84.25 4 58.5 
+25 February 20 8 59 0 0 
+26 March 3-4 4 30.95 0 0 
+27 March 6-7 15 203 2 28.75 
+28 March 13 12 81.75 4 39 
+29 March 15 8 88 4 47 
+30 March 17-18 8 86.5 4 52.25 
+31 March 22 7 61.75 0 0 
+32 March 29 9 52.25 3 17.25 
+33 March 31 – April 1 9 153.25 4 35.75 
+34 April 17-18 2 22.5 10 90.25 
+Season Total --- --- 1985.5 — 1715 
+ 
+Precipitation and snowfall began slightly below average across northern Utah for the start of the 2024 -
+2025 winter season and trended near average to slightly above through the remainder of the season as a 
+La Niña pattern continued to bring a favorable storm track to the northern half of Utah. On April 1, 2025 
+SNOTEL sites in northwestern Box Elder County and Cache County target areas reported snowpack water 
+equivalent values ranging from roughly 62% to 125% of the average (median) across the Bear River Basin 
+and from roughly 99% to 110% of the average (median) across the Raft River Basin.  Figures 4.1 to 4.3 
+show snow water content and precipitation this season, compared to various historical measures, at the 
+Tony Grove Lake, Bug Lake, and Monte Cristo SNOTEL sites. 
+20 
+ 
+ 
+   
+Figure 4.1 SNOTEL snow and precipitation plot for October 2024 through May 9, 2025 for Tony Grove Lake, 
+UT.   Black line is the current water year, and green represents the median values. Purple and 
+red lines represent maximum and minimum historical values, respectively.  
+ 
+Figure 4.2 SNOTEL snow and precipitation plot for October 2024 through May 9, 2025 for Bug Lake Lake, 
+UT.  Black line is the current water year, and green represents the median values. Purple and red 
+lines represent maximum and minimum historical values, respectivel y. 
+
+21 
+ 
+ 
+Figure 4.3 SNOTEL snow and precipitation plot for October 2024 through May 9, 2025 for Monte Cristo, UT.     
+Black line is the current water year, and green represents the median values. Purple and red 
+lines represent maximum and minimum historical values, respectiv ely.
+
+22 
+ 
+4.1 Operational Procedures 
+During the operational period, the project meteorologist monitored each approaching storm with the aid 
+of continually updated online weather information.  If the storm parameters met the seedability criteria 
+presented in Section 2 and if no seeding curtailments or suspensions were in effect, an appropriate array 
+of seeding generators were ignited and then adjusted as evolving conditions required.  Seeding continued 
+as long as conditions were favorable and precipitating clouds remained over the target area.  The 
+operation of the seeding sites is not a simple “all -or-nothing” situation. Individual seeding sites are 
+selected and run based on their location, and targeting considerations based on storm attributes. 
+4.2 Operational Summary   
+A synopsis of the atmospheric conditions during operational seeding periods is provided below.  All times 
+reported are local, either in MST or MDT.  This synopsis describes seeded storm periods, as well as some 
+significant storm periods that were not seeded. 
+November 2024 
+The program officially became active on November 1, 2024 thanks to extra funding from Utah’s Division 
+of Natural Resources. Precipitation across most of northern Utah was generally below average through 
+the month of November with the storm track tending to favor the central portion of the state. There were 
+seven seeded storm events through the month, all of which are summarized below.  
+The first event of the season began on November 2 with a baroclinic zone apparent on radar by 1600 MST, 
+marked by light radar returns and rain/snow reaching the ground in some areas. Surface temperatures 
+ranged from the mid -40s at lower elevations to the m id-20s at 9000–10,000 feet. Winds were light and 
+variable from west to southwest at 5–15 mph, and 700 mb temperatures were around –3 to –4°C. Due to 
+a lack of supercooled liquid water (SLW), cloud seeding was deferred until better moisture and dynamics 
+arrived later in the evening. By 2100 MST, a stronger shortwave trough began digging south through the 
+Great Basin, reinvigorating the baroclinic zone and initiating a convective line of showers over the Great 
+Salt Lake (GSL). As the front advanced eastward, winds shifted to northwesterly and increased to 15 –30 
+mph, and 700 mb temperatures cooled to –6 to –7°C. Radar began detecting SLW, prompting the 
+activation of multiple manual and remote seeding sites, particularly in northwest -flow-favored terrain 
+where overnight orographic snowfall was expected under cold, unstable conditions. By the morning of 
+November 3 (0600 MST), precipitation had tapered off as the baroclinic zone pushed into 
+southern/central Utah, leaving behind subsidence over northern Utah. 700 mb temperatures fell further 
+to –8 to –9°C, with continued northwesterly flow. All seeding operations were halted, though monitoring 
+continued for the potential development of residual orographic showers in favorable locations. This storm 
+brought between 0.2-0.5 inches of snow-water content to the entire program area. 
+A cold front approached northern Utah on the evening of November 4th. By 2230 MST, light snow showers 
+began developing over the higher terrain near the Idaho border, while convective squalls were forming 
+farther north near Pocatello, driven by strong frontal lift. Winds in northern Utah remained southwesterly, 
+and 700 mb temperatures cooled to –5 to –6°C. HRRR guidance indicated significant supercooled liquid 
+23 
+ 
+water (SLW) overnight, prompting the activation of seeding sites optimized for southwest flow. By early 
+morning on November 5 (0630 MST), showers had continued overnight, but the main activity shifted south 
+into Davis County, with some lingering showers ov er Cache Valley. Winds had shifted to northwest, and 
+700 mb temps dropped further to –9 to –10°C. Aircraft observations confirmed light to moderate SLW, 
+and additional remotes were activated to target residual activity in a well -mixed, post -frontal 
+environment. At 0800 MST, most showers were now concentrated in Davis and Salt Lake counties, with 
+only scattered activity north of Ogden. Sites in Cache Valley were turned off, but a few remotes were kept 
+running. Flow remained northwesterly, with even colder 700 mb temperatures near –12°C. Re-activation 
+of sites was considered if convective activity redeveloped later. By 1800 MST, scattered snow showers 
+persisted through the afternoon, with some evolving into convective squalls. Several of these showers 
+naturally glaciated, but widespread graupel indicated the presence of strong SLW and updrafts. As 
+daytime heating diminished, shower activity waned and all seeding operations were concluded. 0.1 -0.3 
+inches of accumulated precipitation occurred during this event. 
+A fast-moving cold front slid into Northern Utah during the late overnight hours of November 11. At 2100 
+MST, manual cloud seeding sites in Box Elder County were preemptively activated to target the expected 
+frontal passage overnight, though no seeding hours were counted initially due to dry conditions ahead of 
+the front. By 0300 MST on November 12, the frontal boundary had reached the UT/NV border, marked by 
+a band of moderate to heavy precipitation and a wind shift to gusty northwest flow. 700 mb temperatures 
+were around –5 to –6°C, dropping to –8 to –9°C behind the front. Seeding hours began for active Box Elder 
+sites at this time. By 0600 MST, the front had progressed into the Wasatch Front, with precipitation 
+intensifying along the I-15 corridor and winds shifting from southwest to northwest. 700 mb temperatures 
+continued to fall toward –9°C, and gusty NW winds (25 –35 mph, locally 45 –65 mph) were reported. All 
+northwest-flow-optimized seeding sites were activated. At 0900 MST, the frontal snow band exten ded 
+from the Idaho border south to Cedar City, bringing moderate to heavy snow. Behind the front, subsidence 
+reduced activity in Box Elder County, prompting site shutdowns there, while sites in Cache Valley 
+remained active. Winds became more north/northwes terly, and icing between 6000 –18000 feet was 
+reported. 700 mb temps hovered around –8°C. By 1200 MST, skies began to clear west of the Great Salt 
+Lake, though showers persisted east of I-15, with continued moderate icing and elevated radar VIL values. 
+Winds remained north -northwesterly at 15–30 mph, and the HRRR model indicated SLW would persist 
+into the afternoon, so seeding operations continued east of I -15. Finally, by 1500 MST, precipitation 
+tapered off from north to south, and low -level stratus decks along favored terrain in NW flow began to 
+erode. All seeding operations were concluded at this time. This storm system generated 0.15-0.35 inches 
+of precipitation over the northern Utah target areas. 
+From the evening of November 15 through the morning of November 16, a shortwave trough and 
+associated cold front moved across northern Utah, bringing a period of light snow showers and favorable 
+conditions for cloud seeding. Early in the evening on Novembe r 15, scattered showers developed across 
+the region, though much of the initial precipitation evaporated due to a dry subcloud layer. However, by 
+1830 MST, the atmosphere had begun to moisten, and instability was increasing —confirmed by the 00Z 
+SLC sounding, which showed around 200 J/kg of CAPE. Moisture continued to deepen over the following 
+24 
+ 
+hours, with nighttime satellite imagery showing increasing low -level cloud cover over the terrain. 
+Radiometer measurements indicated supercooled liquid water (SLW) values in the lowest 1000 meters 
+ranging from 0.1 to 0.4 g/m³, with some pockets as high as 0.7 g/m³. With 700 mb temperatures near –
+7°C and light west to southwesterly flow above 5500 feet, remote seeding generators were activated in 
+areas favored by the developing upslope conditions.Overnight, the frontal passage and continued cold 
+advection helped maintain scattered light snow showers, particularly over the mountainous terrain east 
+of I -15 that typically performs well in northwest flow. By the morning of November 16, 700 mb 
+temperatures had cooled to around –10°C, and while radiometer data cont inued to show modest SLW 
+concentrations, shower activity had largely diminished. As a result, all active sites were shut down as 
+conditions became less favorable for seeding. The event was characterized by marginal but sufficient 
+instability, terrain-enhanced lift, and shallow SLW layers that supported a brief overnight seeding window. 
+This event brought between 0.1-0.3 inches of liquid equivalent precipitation.  
+On November 18, a fast-moving cold front swept across northern Utah, initiating a short-lived but dynamic 
+seeding opportunity. By 0500 MST, the front was racing eastward through Box Elder County, accompanied 
+by strong northwesterly winds gusting between 25 and 40 mph and a well-defined band of moderate to 
+heavy precipitation along its leading edge. Despite the HRRR model indicating good concentrations of 
+supercooled liquid water (SLW) within this band, the speed of the frontal passage led to a decision not to 
+activate seeding sites in Box Elder, as conditions would not persist long enough for effective targeting. By 
+0730 MST, the front had moved into Cache Valley, with surface wind shifts and radar confirming the arrival 
+of precipitation into Logan. Several sites were activated in Cache Valley to take advantage of the incoming 
+frontal lift. At that time, 700 mb temperatures were approximately –5°C in Cache Valley and around –8 to 
+–9°C behind the front in Box Elder. By 0900 MST, the front had reached the Wasat ch Front, and 
+precipitation had become widespread across the region. Flow had fully shifted to northwest, and 700 mb 
+temperatures had cooled to –8 to –9°C. Radiometer data showed SLW values ranging from 0.1 to 0.4 g/m³, 
+with some localized areas reaching 0 .5 to 0.6 g/m³. The best moisture remained concentrated in the 
+lowest 2000 meters of the atmosphere, which had become well mixed. Additionally, pilot reports (PIREP) 
+indicated moderate icing around 11,000 to 12,000 feet, reinforcing the presence of SLW.See ding 
+continued through the morning, but by 1400 MST, the environment had begun to rapidly dry out as colder 
+and drier air filtered in behind the front. HRRR guidance showed a sharp drop in SLW as 700 mb 
+temperatures fell to –13 to –14°C by mid-afternoon. As a result, all seeding operations were shut down at 
+that time. While some showers were expected to redevelop later in the evening downwind of the Great 
+Salt Lake, these were forecast to remain south of the program area and contain minimal SLW, bringing 
+the seeding window to a close. This event brought between 0.1 -0.3 inches of liquid equivalent 
+precipitation.  
+On November 23, a mild southwesterly flow dominated Utah in the morning, downstream from an upper-
+level trough and a remnant atmospheric river (AR) making landfall along the California coast. This led to 
+increased moisture in the mid-levels over northern Utah, resulting in light precipitation. However, a strong 
+dry layer extending from the surface to around 500 mb prevented most precipitation from reaching the 
+ground. Dewpoints were low, ranging from 0°F to 10°F at the surface. While an inverted layer initially held 
+25 
+ 
+in Cache Valley, strong southwest winds helped to mix it out, causing temperatures to rise from the low 
+30s to the mid 50s at Logan Airport. Radiometer data indicated high values of supercooled liquid water 
+(SLW) in ongoing showers, but these concentration s were located above 10,000 feet. PIREP reports 
+confirmed light to moderate icing between 13,000 and 25,000 feet. Due to the dry lower levels and 700 
+mb temperatures around 0°C, no seeding occurred. By 1800 MST, a surface cold front pushed south 
+through the Wasatch Front, accompanied by a wind shift from southwest to northwest. The front had 
+already moved through Cache Valley, which saw temperatures in the upper 30s. Moisture increased 
+behind the front, with relative humidity rising to around 80%. Precipitation was lagging behind the surface 
+front, primarily focused along the 700 mb baroclinic zone over the far northwest corner of Box Elder 
+County. At that time, 700 mb temperatures were around –5/-6°C in Box Elder and –2/-3°C in Cache Valley. 
+As the frontal boundary pushed south later in the evening, precipitation was expected to spread across 
+Cache Valley due to frontogenesis and a jet stream overhead. Given that moisture was increasing, but the 
+lower levels remained dry, seeding was delayed until the front moved farther eastward. Models showed 
+that winds along I -15 and in lower Cache Valley would be calm overnight, so the focus for seeding was 
+likely to be higher elevations. By 2215 MST, the 700 mb front had strengthened and was pushing east 
+through northern Utah. Precipitation became widespread across the region, and 700 mb temperatures 
+cooled to near –5/-6°C. The flow had shifted to north -northwesterly at 5 -15 mph, and the radiometer 
+continued to show decent SLW concentrations (0.2-0.6 g/m³). Several sites were turned on to target the 
+north to northwesterly flow, with emphasis on higher-elevation sites due to stability in the lower valleys 
+overnight. On November 24, by 0700 MST, the 700 mb baroclinic zone continued to shift southeast across 
+Utah. An upstream shortwave trough induced frontogenesis, which led to the development of moderate 
+to heavy precipitation along the boundary earlier in the morning. The boundary moved into central Utah, 
+with precipitation drying out quickly north of Ogden. High-resolution models indicated that Cache Valley 
+would likely remain dry for the remainder of the morning and into the afternoon as precipitation remained 
+confined to the boundary, and post-frontal orographic precipitation was limited due to weak winds aloft 
+and at the surface. The 700 mb temperatures had dropped to near –9°C, and skies became partly cloudy. 
+Between 0.2-0.5 inches of liquid equivalent precipitation was observed across the program area.  
+On November 26,  widespread snow developed across Utah's mountains, especially concentrated in 
+central Utah. The 700mb flow was from the west -southwest, with temperatures around –5/-6°C. An 
+isothermal layer persisted between the surface and 780 mb, but the layer above it was well-mixed. Winds 
+at the surface were variable in Cache Valley, but aloft, they gusted at 25-40 mph. The radiometer showed 
+good values of supercooled liquid water (SLW) in all directions, so sites above the isothermal layer were 
+activated to disperse material efficiently into the cloud deck. By 1400 MST, heavy valley rain and mountain 
+snow continued across northern Utah. 700mb temperatures dropped slightly to near –7°C, and winds 
+shifted to a northwesterly direction. More manual and remote sites were activated in favorable areas to 
+target the developing conditions. At 1700 MST, the flow had completely shifted northwest as the cold 
+front tracked south through the Wasatch Front. Conditions began to mix out behind the front, with heavy 
+rain and mountain snow continuing. Precipitation was expected to change to snow down to the valley 
+floors as 700mb temperatures lowered to near –8°C. By 2130 MST, the cold front had moved into southern 
+Utah, with northern Utah now experiencing a cold post-frontal environment. Winds were northwesterly, 
+26 
+ 
+and 700mb temperatures had dropped to –9°C. Precipitation briefly tapered off across the area, but as 
+cold advection set in, scattered convective snow showers began developing in Idaho, which would spread 
+south into northern Utah overnight. High-resolution models predicted a few snow squalls to develop, with 
+the cold air mass remaining unstable. By 0000 MST on November 27, snow squalls had developed across 
+northern Utah, with lake enhancement for areas southeast of the Great Salt Lake. 700mb temperatures 
+had dropped to –10°C, and the flow remained northwesterly. By 0500 MST on November 27, drier air and 
+subsidence began moving south as a ridge upstream built into the Great Basin, causing precipitation to 
+diminish and skies to clear. Sites were gradually turn ed off as conditions subsided. The last few manual 
+sites were deactivated by 0700 MST, with skies partly cloudy and 700mb temperatures dropping to –12°C. 
+This marked the conclusion of the seeding event. This storm brought between 0.3 -1.1 inches of snow -
+water content to the program area. 
+Figure 4.4 shows November precipitation across the area as a percentage of normal (median) values.  The 
+northwestern portions of the target area received above normal precipitation amounts for the month of 
+November while the eastern portions observed anywhere from about 50-90% of normal precipitation.  
+ 
+27 
+ 
+ 
+Figure 4.4 November 2024 precipitation, percent of normal 
+ 
+
+28 
+ 
+December 2024 
+Precipitation and snowpack started below normal at the beginning of December but trended up to near 
+normal by December 31 st as several wet systems moved across northern Utah around mid -month and 
+again during the last week of the month. There were eight seeded storm events in December 2024, which 
+are summarized below.  
+On December 13, snow began to fill in across the Wasatch Front as the remnants of a frontal boundary 
+moved through the region, with the core of a weakening trough positioned overhead. Aloft, winds shifted 
+to a westerly direction, and 700mb temperatures dropped to around –9/-10°C. The radiometer indicated 
+there were decent amounts of supercooled liquid water (SLW) available for seeding, and a marginally 
+stable layer was present below 5500 feet. Given the favorable conditions in Cache Valley, sites were 
+activated to target this area, while the moisture in Box Elder County was insufficient for seeding. By 0915 
+MST, widespread light snow continued along the Wasatch Front, with SLW values ranging between 0.2 -
+0.5 g/m3. Winds above 6000 feet were westerly at 15 -25 mph, while surface winds remained light and 
+variable. However, satellite imagery showed thinning clouds and the development of icy conditions west 
+of the I-15 corridor, while low-level liquid clouds remained along the Wasatch spine and to the east. By 
+1130 MST, radar returns had significantly decreased, and the radiometer no longer detected SLW, 
+indicating that conditions were drying out. As a result, sites were turned off, and the region continued to 
+trend drier throughout the afternoon, bringing an end to  seeding operations for the day. This storm 
+brought between 0.1-0.3 inches of snow-water content in the eastern portions of the program area. 
+On December 14, the first wave of moisture associated with warm air advection and an atmospheric river 
+moved across northern Utah. Precipitation spread over the mountains and valleys favored by southwest 
+flow, with 700mb temperatures ranging from –4/-5°C and cloud bases around 7000-8000 feet. Although 
+there was some supercooled liquid water (SLW) between 750 -2000 meters, the environment was 
+relatively stable due to the warming air mass, so no seeding took place. This first wave quickly moved 
+northeast, followed by brief subsidence before the main trough axis approached later in the evening, 
+promising more favorable conditions. By 1930 MST, precipitation redeveloped near the Raft River 
+mountains, as the trough axis neared the Utah/Idaho border. With 700mb temperatures around –5°C and 
+the flow from the southwest, some instability began to increase, and sites in the area were activated as 
+SLW values were high. Later in the evening, at 2030 MST, heavy precipitation began to impact the Wasatch 
+Front, with 700mb te mperatures dropping to near –4/-5°C. Winds were gusting 25 -45 mph from the 
+south, and the radiometer showed good SLW in the lower 2000 meters, prompting the activation of 
+several remote sites targeting the southwesterly flow. By 2300 MST, 700mb temperature s in Box Elder 
+County had fallen to around –7°C, and widespread precipitation occurred, particularly north of Bountiful. 
+The HRRR model showed high SLW values within the lowest 2000 meters, and though winds were still 
+southwesterly, they were expected to s hift to westerly after 0500 MST. Seeding continued at favorable 
+sites through the night. The trough axis reached Utah by 0500 MST on December 15, shifting the flow to 
+westerly and northwesterly. 700mb temperatures dropped to –8/-9°C, and precipitation beca me 
+orographically enhanced, signaling the onset of a cold and unstable environment. With surface winds 
+29 
+ 
+gusting 15-30 mph, more sites were turned on to target the favorable conditions. However, by 1100 MST, 
+conditions rapidly dried out, and all sites were turned off as dry weather set in for the remainder of the 
+day and evening. Precipitation totals for the Northern Utah target area ranged from 0.1 to 0.3 inches of 
+water content in some locations. 
+On December 16,  a band of precipitation developed over the Raft River Mountains as warm air and 
+increasing mid-level moisture combined. By 1450 MST, 700mb temperatures rose to around –2/-3°C, with 
+southwesterly winds gusting 25-35+ mph at higher elevations and temperatures in the mid to upper 30s. 
+At lower elevations, winds were calm, and temperatures struggled to reach 40°F, indicating a stable 
+environment with an isothermal layer in place. As the afternoon progressed, precipitation spread 
+eastward toward Cache Valley, though the stable layer remained in place, with some mixing above 6000-
+6500 feet. By 1800 MST, widespread precipitation had developed across northern Utah, with heavy snow 
+over the Raft River Mountains. However, precipitation struggled to reach the ground further east due to 
+a dry layer between 850-700mb. Despite this, conditions were favorable for seeding at higher elevations 
+above the isothermal layer. 700mb temperatures ranged from –4°C near the Nevada border to –2/-3°C 
+east of I -15. Sites  in the Raft River Range were activated as the HRRR indicated good values of SLW, 
+although precipitation was mainly developing at higher altitudes. On December 17, the weather pattern 
+shifted. By 0500 MST, winds turned northwesterly over the Raft River Mountains, and the sites there were 
+turned off. At 0545 MST, cold advection began to affect the Wasatch Front, with scattered light snow 
+showers becoming widespread along the I -15 corridor and eastward. Convective cells were developing, 
+and the radiometer detected around 0.1-0.4 g/m3 of SLW. 700mb temperatures dropped to –6/-7°C. The 
+isothermal layer, which had persisted overnight, began to erode as cold advection strengthened. 
+Precipitation also became orographically enhanced across favored terrain in the nor thwest flow. As a 
+result, numerous sites were activated for seeding. By 1000 MST, conditions began to dry out, though light 
+snow showers continued over the mountains east of I -15 through the early afternoon due to cold 
+advection and orographic lift. 700mb temperatures had dropped to –8°C, and winds shifted to west -
+northwest at 15-20 mph. The radiometer showed little LW remaining in the lingering showers, prompting 
+the shutdown of several seeding sites. SNOTEL observations showed that between 0.3-1.2 inches of snow 
+water equivalent had fallen across the program.  
+On December 23, northern Utah was under the influence of a persistent inversion, which trapped haze in 
+the lower valleys and limited the vertical mixing of the atmosphere. Light precipitation was occurring 
+across both the valleys and mountains of far north ern Utah, particularly in areas along and east of the I -
+15 corridor. Above the inversion layer, which reached up to about 6000 feet, the atmosphere appeared 
+to be neutrally stable up to the 700mb level, as shown by both surface observations and radiometer 
+soundings. The radiometer readings indicated high levels of liquid water (LW) ranging from 0.3 to 0.7 
+g/m3, suggesting that the atmosphere had some moisture content that could potentially support seeding 
+efforts. Despite this, the conditions were not favor able for seeding. Temperatures aloft between 9000 
+and 9500 feet were around –2/-3°C, and a warm tongue near 700mb with temperatures at around +1 to 
++2°C indicated a stable environment. Winds were light, ranging from 5 -15 mph, further contributing to 
+the lack of atmospheric instability. Given the unfavorable combination of weak winds, lack of cold air at 
+30 
+ 
+higher altitudes, and the stable conditions, the decision was made to turn off the remotes. Although there 
+was some moisture in the air, the stable atmospheric conditions prevented any effective seeding from 
+occurring, and the lack of colder temperatures at the appropriate levels further diminished the potential 
+for successful cloud seeding operations.This storm system generated 0.1-0.3 inches of precipitation over 
+the northern Utah target areas. 
+A closed low tracked southeastward across central and southern Utah on Christmas Day, bringing with it 
+the back side of a trough and a weak cold front that had crossed the I-15 corridor. By 0700 MST, the flow 
+had shifted to northwesterly at 5 -15 mph, with 700mb temperatures dropping to around –7/-8°C. The 
+radiometer indicated stable lower levels below 700mb, which was also evident in surface observations 
+showing very weak to calm winds in the Cache Valley and along the I-15 corridor. However, the radiometer 
+did show significant liquid water (SLW) values between 500 -1500 meters, suggesting some moisture 
+embedded in the ongoing showers. Given the favorable SLW values above the stable lower levels, the 
+decision was made to turn on higher elevation remotes, which had a better chance of dispersing material 
+into the cloud deck. By 1015 MST, precipitation had largely tapered off as the trough axis continued to 
+push east. A thick stratus deck persisted across the Wasatch Front, and light snow or flurries lingered over 
+the peaks east of I -15. However, conditions were expected to dry out throughout the day. By noon, the 
+conditions had sufficiently dried out, prompting the decision to turn off all remotes, as precipitation was 
+no longer occurring and the atmosphere was b ecoming more stable. Around 0.1 -0.2” of SWE was 
+observed across both program areas.  
+From December 26 to 27, northern Utah experienced a two -day storm event characterized by warm air 
+advection, significant precipitation, and the passage of a cold front. On December 26, the event began 
+with stable atmospheric conditions, with high -altitude precipitation that mostly evaporated before 
+reaching the surface. As the atmosphere became more mixed, the radiometer showed high values of 
+supercooled liquid water (SLW), which prompted seeding efforts in areas with favorable conditions. A cold 
+front approached during the day, causing temperatures to lower and increasing instability. By the evening, 
+widespread precipitation developed as convective cells formed, but conditions started to dry out as the 
+front moved eastward, signaling the end of the seeding operations for the night. On December 27, the 
+storm continued with warm advection and deep moisture, maintaining widespread precipitation across 
+northern Utah. Initially, conditions were stable, making seeding efforts less effective. However, as the cold 
+front moved in, the atmosphere destabilized, and the wind shifted from southeasterly to northwesterly. 
+Seeding operations resumed, particularly in areas where conditions were mixed, and convective showers 
+began to develop. The front continued to progress southward, shifting precipitation into central Utah. By 
+late afternoon, the storm system began to dissipate, with subsidence drying out the region. Seeding sites 
+were gradually turned off as conditions became less favorable. Overall, the event featured multiple phases 
+of precipitation, from stable to unstable conditions, allowing for targeted seeding during periods of higher 
+instability. The storm tapered off by the evening of December 27 as subsidence took over, and conditions 
+dried out across the state. Between 0.6-0.8” of SWE was observed across both program areas.  
+31 
+ 
+On December 29, a moisture -rich jet streak at 700mb and divergent flow aloft brought widespread 
+precipitation across northern Utah. As a cold front approached, the flow strengthened, with 700mb 
+temperatures initially near –2/-3°C but rapidly dropping as co ld advection took hold. Seeding efforts 
+began in Box Elder County and other locations where favorable conditions for targeting existed. As the 
+front advanced, surface winds shifted northwest, gusting up to 45 mph. Precipitation was heavy at times, 
+especially along the I -15 corridor, and as 700mb temperatures fell to –7°C, the system continued to 
+generate favorable conditions for seeding. By 2100 MST, showers began to scatter, but additional 
+moisture moved in with the trailing cold front, leading to renewed instability and colder air aloft. Seeding 
+sites were kept running through the night to take advantage of the mixed atmosphere and favorable 
+orographic conditions. Cold advection fueled good conditions for continued snow showers, particularly in 
+the mountainous terrain. On December 30, snow showers persisted through the night, reaching their peak 
+coverage after 2100 MST. By 0800 MST, 700mb temperatures had dropped to –13°C, with strong 
+northwest winds continuing. However, strong subsidence began to take over , quickly drying the 
+atmosphere from northwest to southeast. As the system moved out, seeding sites were gradually turned 
+off as conditions dried out and precipitation tapered off. SWE values were generally in the range of 0.2 -
+1.1”. 
+Figure 4.5 shows December precipitation across the area as a percentage of normal (median) values.  The 
+northwestern portions of the target area received well below normal precipitation amounts for the month 
+of December while the eastern portions observed anywhere from about 70 – 130% of normal 
+precipitation.  
+ 
+32 
+ 
+ 
+Figure 4.5 December 2024 precipitation, percent of normal 
+ 
+January 2025 
+The weather pattern throughout most of the month featured a fairly dry and cold northerly flow 
+with most passing storm systems having very little moisture. As a result, precipitation and 
+
+33 
+ 
+snowpack trended from above normal at the beginning of January to below normal by the end 
+of the month. There were three storm systems that brought suitable conditions for seeding 
+operations however, and those are summarized below.   
+The first seeding event of the new year came on January 4th as an upper -level trough moved across 
+northern Utah, with its axis centered near the Utah/Nevada border. The associated cold front had already 
+passed through the Wasatch Front by 0430 MST, causing  a shift in winds from southwesterly to 
+northwesterly, gusting between 25-40 mph. Temperatures quickly dropped as strong cold advection set 
+in. At 700mb, temperatures started at around –3/-4°C and were expected to drop to –11/-12°C by late 
+morning. Precipitation lagged behind the front but began intensifying along the I-15 corridor by 0600 MST, 
+with heavy snow filling in across the Wasatch Front and adjacent areas. By 0600 MST, snow became heavy, 
+and the radiometer showed high values of supercooled liquid w ater (SLW). Light to moderate icing was 
+reported at altitudes between 10 -18k feet. Multiple manual and remote sites were turned on to target 
+the ongoing showers, as snow continued under strong northwesterly winds and 700mb temperatures 
+dropped to –8°C. By 1040 MST, the heavy snow in the valleys of the northern Wasatch Front began to 
+wind down as the frontal band moved eastward. However, snow persisted over the terrain east of I -15 
+due to orographic forcing, and seeding operations continued throughout the morning and potentially into 
+the afternoon. The radiometer indicated ample SLW was present, with 700mb temperatures remaining 
+around –10/-11°C. By 1500 MST, showers began to taper off, and sites were turned off as the precipitation 
+significantly diminished. Between 0.2-0.7” of SWE was observed across the program.  
+On January 17, light snow developed across northern Utah, particularly in Cache Valley east of I -15, by 
+1500 MST. The airmass mixed out, with surface temperatures rising into the 30s°F and winds gusting 
+between 15 -25 mph. The Logan radiometer showed a full y mixed -out sounding profile, while Logan 
+airport observed cloud bases around 3000 feet and high values of supercooled liquid water (SLW) in the 
+ongoing snow showers. Sites were activated in Cache Valley to target these conditions where better 
+moisture and winds were present. By 2000 MST, the light snow had largely ended across northern Utah, 
+except for some lake effect showers downwind of the Great Salt Lake and Bear Lake. Scattered showers 
+persisted south and east of these lakes, while other locations rem ained dry. With 700mb temperatures 
+dropping to –15°C and the flow turning northwesterly, models indicated that all supercooled liquid water 
+(LW) had been depleted, and clouds were now primarily composed of ice. The radiometer confirmed this, 
+no longer detecting LW. As a result, all sites were turned off at this point. Between 0.2-0.6” of SWE was 
+observed across the program.  
+A positively tilted shortwave trough was moving through the Intermountain West on January 11, with its 
+associated low-level baroclinic zone passing through northern Utah overnight and continuing to advance 
+into central Utah during the morning. This system brought a band of light to moderate snow, which 
+produced accumulating snow across southern Utah in the morning. As the cold air aloft spread into 
+northern Utah, it created a favorable window for orographic snow and seeding operations along the 
+Wasatch Range, though moisture was limited. This window for orographic forcing and seeding was brief, 
+34 
+ 
+as the flow aloft shifted to a more northerly component throughout the afternoon and evening and the 
+lower levels trended significantly drier.  Between 0.1-0.3” of SWE was observed across the program. 
+Figure 4.6 shows January precipitation as a percentage of the median.  Most of northern Utah received 
+from 30% to over 70% of the median values for January.   
+ 
+ 
+35 
+ 
+ 
+Figure 4.6    January 2025 precipitation, percent of normal 
+ 
+ 
+
+36 
+ 
+February 2025 
+February was a fairly wet month across northern Utah, with a couple major storm periods in particular 
+(February 13-15 and February 16-17) bringing substantial snowfall to the area watersheds. In total, there 
+were seven seeded storm periods during the month, all of which are summarized below.  
+On the evening of January 31, heavy precipitation spread across northern Utah under saturated, moist -
+adiabatic conditions. Despite abundant supercooled liquid water (SLW), stable layers and poor mixing 
+below 7000 ft limited the potential for seeding materi al to reach cloud levels, so operations were 
+postponed. By the morning of February 1, improved mixing and cooling aloft to –6 to –7°C enabled 
+effective seeding. Strong westerly flow enhanced orographic lift, particularly along west-facing slopes, and 
+several sites above 5500 ft were activated based on HYSPLIT modeling. Conditions remained favorable 
+throughout the day with widespread precipitation and high SLW, especially above 10,000 ft. However, by 
+2000 MST, warming temperatures at 700mb (up to –4°C) and a shift to more southwesterly flow prompted 
+the shutdown of all sites. Up to around 3.0” of SWE was observed across the target area.  
+On February 5, scattered shallow convective showers developed across northern Utah, mainly along the 
+terrain east of I -15, in response to a narrow stream of moisture under warm advection. Initial 700mb 
+temperatures were around –2 to –3°C, and although liquid water (LW) was present, seeding was delayed 
+due to marginal temperatures aloft. By late morning, 700mb temperatures cooled to –4 to –5°C and cloud 
+bases lowered to around 2500 ft AGL. With the approaching cold front and deepening cloud layers, a few 
+generators were activated under favorable southwesterly to westerly flow. As the front moved through 
+Cache Valley and cloud base temperatures dropped to –6 to –7°C, seeding continued, focusing on terrain 
+east of I-15. By 1400 MST, the front had moved southward and was weakening, with only scattered light 
+showers lingering. A shallow stratus deck persisted but began clearing by mid -afternoon. Remote 
+generators were shut down, and manual generators were turned off by 1500 MST as cloud cover 
+dissipated and conditions dried out. Storm totals SWE values range from around 0.2-0.3”.  
+On February 7, precipitation increased across northern Utah during the morning hours due to a strong jet 
+streak aloft and a southward -sagging cold front from Idaho. By 1000 MST, 700mb temperatures had 
+cooled to –4°C with southwesterly surface winds gusting 25–45 mph. As the front progressed south, winds 
+shifted to W-NW across Box Elder County and Idaho, prompting the activation of multiple generators to 
+target both the frontal band and post-frontal moisture. By 1100 MST, a convective frontal band producing 
+heavy rain and snow was moving across Weber and Davis counties. 700mb temps dropped further to –4 
+to –5°C. Radiometer and radar data indicated abundant supercooled liquid water (SLW), with graupel 
+formation supporting strong vertical lift. Seeding continue d across the region as cold advection 
+progressed. At 1330 MST, the front had cleared the area with post-frontal west to northwest flow in place 
+and continued cooling aloft. 700mb temperatures dropped to –6 to –7°C, and widespread SLW remained 
+present in the low levels. Cloud bases averaged around 2300 ft AGL, supporting continued seeding under 
+orographic enhancement. By 1600 MST, drying became evident across northern Utah, particularly north 
+of Brigham City, with surface dewpoints falling into the 20s °F and cloud bases lifting to 5000–6000 ft AGL. 
+Ground generators west of I-15 and in the northern portions of the domain were shut off. At 1700 MST, 
+37 
+ 
+radiometer data confirmed that the low levels had dried out substantially, with no detectable SLW 
+remaining, concluding seeding operations for the day. Total snow water equivalent (SWE) for this event 
+ranged from 0.3-0.9”.  
+On February 8, isolated high -based showers began developing over northern Utah around 1000 MST, 
+initially with little to no supercooled liquid water (SLW). As daytime heating increased instability, 
+widespread scattered showers developed across the region. By 1500 MST, radar and radiometer data in 
+Logan indicated marginal SLW presence, corroborated by graupel observed at the surface. Cloud bases 
+had lowered to approximately 1100 ft AGL, with W -NW winds at 10 –15 kts and very cold 700mb 
+temperatures around –15°C. Several remote generators were activated to target the short -lived 
+convective showers. By 1815 MST, instability rapidly decreased with the loss of daytime heating, leading 
+to the quick dissipation of snow showers. All seeding operations were terminated  at this time. Local 
+observations show that the area picked up around 0.1” of SWE from this storm event.  
+A prolonged winter storm impacted northern Utah from February 13 –15, delivering widespread valley 
+and mountain precipitation through a combination of synoptic-scale moisture advection, warm air aloft, 
+and eventual cold frontal passage. On the morning of Fe bruary 13, a plume of moisture arrived over 
+northern Utah, producing widespread snow with strong diffluent flow aloft providing lift. Despite surface 
+inversions, south-southwesterly winds gusting 15 –25 mph indicated some mixing, but surface cold air 
+remained entrenched. At 1350 MST, seeding began selectively where wind trajectories were favorable. 
+700mb temperatures ranged from –8°C early to –6°C by evening, with reports of light to moderate icing 
+aloft. By 1900 MST, valley inversions persisted —especially in Cache Valley —and surface temperatures 
+varied widely. Precipitation continued but SLW was marginal (0.1 –0.3 g/m³), and an isothermal profile 
+limited vertical mixing. A second wave of heavy precipitation arrived by 2100 MST with increased SLW 
+values (0.6–1.0 g/m³), especially between 1000 –2000 m AGL. Showers diminished early on teh morning 
+of the 14th, with a lull expected through midday. Cache Valley remained under a cold pool with near-calm 
+winds, while I-15 corridor valleys finally mixed out. High SLW values persisted (0.5–1.0 g/m³). Generators 
+were turned off temporarily. By 0900 MST, precipitation resumed and lower valleys were better mixed; 
+additional sites were activated. Scattered convective showers developed by 1400 MST with CAPE around 
+250 J/kg and lapse rates near 9.5°C/km. Showers continued into the evening ahead of an approaching cold 
+front. By 1800 MST, the front arrived, bringing widespread precipitation, cold advection, and improved 
+mixing. 700mb temps fell to –8°C and would drop further overnight. Widespread orographically enhanced 
+precipitation persisted overnight into the morning of the 15th with strong reflectivity observed across the 
+Wasatch Front on radar. 700mb temperatures dropped to –11°C by morning. The back edge of the 
+moisture moved through by 0600 MST, and drying conditions were observed upstream. All generators 
+were shut down, with only lingering terrain-driven showers expected through midday. SNOTEL sites in the 
+region reported that the target area received between 1/4-2.4” of SWE.  
+From February 16 –18, northern Utah experienced a dynamic storm characterized by a combination of 
+stratiform precipitation, convective showers, and intermittent periods of seeding opportunities. The 
+storm was influenced by warm advection, a passing trough, and orographic lift, with varying wind patterns 
+38 
+ 
+and moisture levels. On February 16, stratiform precipitation began in the morning as moisture from a 
+southwesterly flow funneled into the northern part of the state. Temperatures at 700mb ranged from –
+6°C to –7°C, and surface winds were calm while winds aloft gusted to 35–50 mph above 7000 ft. Initially, 
+conditions were stable, with little to no supercooled liquid water (SLW), so no seeding was initiated. By 
+1430 MST, precipitation turned more showery, and by 1700 MST, widespread scattered showers 
+developed with neutral instability. Seeding operations began along the Wasatch Front and in Cache Valley, 
+where wind conditions were favorable. On February 17, scattered showers tapered off by 0530 MST, and 
+by 0800 MST, remaining sites were turned off as showers b ecame confined to higher terrain. By 1500 
+MST, instability increased ahead of a trough and cold front, which triggered convective showers with 
+developing SLW. As cloud bases lowered and visibility decreased, seeding resumed in Box Elder and along 
+the I-15 corridor. By 1930 MST, snow showers intensified with convective elements, aided by steep lapse 
+rates and a shortwave trough. 700mb temperatures dropped to near –9°C, and cloud bases were reported 
+as low as 1400 ft in some areas. By 2300 MST, precipitation tapered off as moisture shifted south and 
+east, and seeding sites were turned off. By February 18, remaining generators were turned off by 0800 
+MST as moisture gradually diminished, and winds were light. 700mb temperatures had dropped to near 
+–11°C, and al though some orographic lift remained, conditions were drying out. Overall, this storm 
+brought widespread precipitation to northern Utah, with several windows for seeding as the moisture and 
+instability fluctuated throughout the event. The system included a  mix of stratiform and convective 
+elements, and seeding efforts were focused where wind and moisture conditions were most favorable. 
+Observations revealed that the program received between 0.6-1.8” of liquid water content.  
+From February 19 to 20, northern Utah experienced significant weather changes due to the passage of a 
+trough and cold front. On February 19, light precipitation started to show on radar by 1415 MST, with a 
+high cloud deck and cloud bases around 11,000 feet . The atmosphere remained relatively dry at lower 
+levels, and no seeding operations were initiated due to the absence of supercooled liquid water (SLW). By 
+evening, precipitation intensified along the Wasatch Front, but heavy rain was expected to remove an y 
+SLW from the clouds, delaying seeding until the following morning. On February 20, a mid-level circulation 
+developed over the southwest Great Salt Lake by 0500 MST, bringing heavy precipitation to the Wasatch 
+Front and lighter, showery precipitation to C ache Valley. As the system progressed, the wind shifted to 
+the northwest, increasing instability and orographic lift. By 0930 MST, visibility dropped to 1 mile in Utah 
+County, and seeding operations were initiated due to increased SLW and mixed conditions in the 
+atmosphere. By 1345 MST, snow continued lightly across northern Utah, but SLW became more 
+intermittent. Seeding operations continued, though equipment was turned off in areas where conditions 
+dried out. By 1600 MST, the atmosphere rapidly dried from  north to south, leading to the cessation of 
+seeding efforts. In summary, the storm brought widespread precipitation to northern Utah, with seeding 
+operations primarily focused on times of instability and available moisture. Operations were adjusted as 
+the storm weakened and conditions dried out. Between 0.5 -1.0” of SWE was observed across the 
+program.  
+39 
+ 
+Figure 4.7 shows precipitation for February of 2025 as a percentage of the median. Most of northern Utah 
+received well above normal precipitation while the southern and central portions of the state received 
+well below normal.    
+ 
+Figure 4.7    February 2025 precipitation, percent of normal 
+
+40 
+ 
+ 
+ 
+March 2025 
+March was an active weather month with seven seeded storm periods, summarized below. Although 
+some of these events were very minor and/or brief in duration, there were also a few larger seeded events 
+and other precipitation periods not favorable to seeding due to various meteorological parameters. 
+On March 3, the weather across northern Utah shifted to a northwesterly flow, with increasing instability 
+as 700mb temperatures dropped to around -8°C. Surface winds were stronger than expected, with gusts 
+of 20 -25 mph observed, and scattered convective sh owers began to develop. These showers were 
+indicative of good atmospheric mixing and instability, though they were expected to taper off after sunset, 
+with light showers lingering until around midnight. A few seeding sites were activated for a few hours to  
+assess conditions. By 2000 MST, cold advection, steep lapse rates, moisture, and orographic lift led to a 
+cloud deck filling in across Cache Valley, with light snow beginning to fall. Cloud bases were around 3000-
+3300 feet, and visibility remained greater than 8 miles. The 700mb temperatures dropped to around -9/-
+10°C, and winds calmed to 5 -10 mph. The radiometer showed a well -mixed airmass with low levels of 
+supercooled liquid water (SLW), between 0.1-0.3g/m3. By 0000 MST on March 4, operations were ended 
+as model data suggested drier conditions would prevail through the early morning. Despite cold and 
+unstable conditions with moisture still in place, it was anticipated that additional shower activity would 
+be minimal. As of the last observation, 700mb tem peratures were around -10°C, with cloud bases near 
+2000 feet. The flow aloft remained northwest at 10 -20 mph. Total snow water equivalent (SWE) for this 
+event ranged from 0.2-0.6”.  
+On March 6, the weather system began with cold advection across western Utah, with 700mb 
+temperatures dropping to around -6°C. Winds from the north -northwest were observed at 10 -15 mph, 
+and seeding operations were focused on targeting the Raft Rivers in th e northwest flow. As instability 
+increased with the movement of the cold core of an upper-level low, convective showers began to develop 
+over the Great Salt Lake. By late morning, the first shortwave trough had moved northeast, leading to the 
+development of additional convective showers across northern Utah under a southwesterly flow. With 
+700mb temperatures lowering further to -6/-7°C, the airmass became well-mixed with steep lapse rates 
+in place. Seeding sites were activated along and east of I -15, antici pating continued instability and 
+increasing instability throughout the day. By mid -afternoon, widespread convective showers had 
+developed as the core of the upper-level circulation moved over the Great Salt Lake, causing showers with 
+large hail, brief downpours, lightning, and gusty winds. 700mb temperatures had further cooled to near -
+7°C, with CAPE reaching 100-200 J/kg. Several sites were kept running due to the heightened instability. 
+As the evening approached, the flow shifted northwest, and the upper -level low moved southeastward 
+towards southern California and Arizona. Showers transitioned into orographically enhanced snow, and 
+precipitation tapered off over the Raft Rivers. By 2300 MST, cold and moist northwest flow was well -
+established over northern  Utah, with light snow showers and high values of supercooled liquid water 
+(SLW) detected at altitudes between 300 -1000m. 700mb temperatures were down to -10/-11°C, with 
+41 
+ 
+cloud bases near 500ft agl. By the morning of March 7, drying had begun as the flow shifted to a more 
+northerly direction. The radiometer no longer detected SLW, and all sites were turned off as moisture 
+levels decreased with the incoming dry air from the ridge of high pressure. All in all, the seeding area 
+picked up between 0.8-2.2” of snow water equivalent.  
+On March 13, showers increased across northern Utah under a moist and mild southwesterly flow. At 
+1105 MST, 700mb temperatures were around -4°C, with southwest winds gusting between 25 -45 mph, 
+and some mountain tops experiencing gusts exceeding 55 -65 mph. The radiometer indicated abundant 
+supercooled liquid water (SLW) between 500 -1000m agl, and cloud bases varied from 3200 -4000 feet. 
+The 0°C line was near 7000 -7500 feet. The forecast indicated a need for higher elevation seeding once 
+temperatures cooled fu rther. By 1235 MST, widespread showers continued, some with convective 
+elements. With 700mb temperatures around -5°C, southwest winds gusting 20-45 mph, and the 0°C level 
+lowering to 6500 feet, the atmosphere became more favorable for SLW. Seeding sites were activated over 
+the Raft Rivers to target the northwesterly flow, and additional sites were turned on in higher elevations. 
+At 1430 MST, a cold front moved across northern Utah, rapidly shifting winds to northwest at 40-50 mph 
+and causing temperatures to drop from near 50°F to around 30°F. Snow showers intensified with visibility 
+briefly reduced to ½ mile. Cloud bases lowered from 4400 feet to 500 feet. Sites were turned on to seed 
+the front and post -frontal showers. By 1700 MST, moderate to heavy snow sh owers continued across 
+northern Utah. With 700mb temperatures dropping to -7°C and cloud bases at 1000 feet agl, sites 
+continued seeding. By 2100 MST, snow showers began to diminish, and 700mb temperatures dropped to 
+-10/-11°C, leading to the decision to have manual operators shut off sites. By midnight, snow showers had 
+ended across the region, and all sites were turned off as the radiometer no longer detected any SLW. 
+Upwards of 0.9” of SWE was observed across the program target area.  
+On March 15, scattered light snow showers began across northern Utah at 0445 MDT, as a subtle 
+shortwave trough moved through weak northwesterly flow, tapping into mid -level moisture. Some 
+heavier convective showers developed, with lapse rates around 8°C/km . Cloud bases at Logan were 
+around 1200 feet, and visibility fluctuated between 1 mile and 6+ miles during heavier showers. The 
+radiometer indicated good values of supercooled liquid water (SLW) between 600 -1000m agl, ranging 
+from 0.2-0.4 g/m³. Remote sites were turned on east of I-15, near the terrain base or at higher elevations. 
+By 0800 MDT, the showers increased in coverage, becoming widespread due to strong orographic lift, 
+with heavy snow along the western Wasatch Range. The radiometer showed significant SLW in the cloud 
+deck (0.7-0.9 g/m³), and cloud bases lifted to 2800 -3200 feet agl, though winds remained calm. At 1200 
+MDT, showers began to scatter with breaks in sunshine. Surface winds picked up to 10-15 mph out of the 
+northwest, and visibility increased to 10 miles, except under passing showers where it dropped to 3 miles. 
+Cloud bases lifted to 3400 feet agl, and more showers were expected as a shortwave trough moved 
+through around 1300 MDT. At 1300 MDT, shower activity intensified dramatically as the shortwave trough 
+passed overhead, with reports of heavy graupel. The seeding sites continued running. By 1900 MDT, the 
+trough axis moved eastward, and shower activity diminished as daytime heating decreased. As the 
+showers dwindled, all generators were turned off for the evening. Total snow water equivalent (SWE) for 
+this event ranged from 0.1-0.9”.  
+42 
+ 
+A powerful storm system made its way across northern Utah on March 17, bringing significant weather 
+changes and challenges to the region. As the surface front reached the I-15 corridor north of Brigham City, 
+gusty southwest winds of 35 -45 mph transitioned quickly to northwest winds, gusting up to 50 mph in 
+some spots. Ahead of the front, temperatures soared to near 60°F, but they plummeted into the mid-30s 
+once the front passed through. Heavy rain quickly turned into snow, particularly along the frontal 
+boundary, and intense snowfall rates of 1 -2 inches per hour were expected overnight as strong jet 
+dynamics combined with thermal gradient lift. Despite the heavy snow developing along the front, the 
+decision was made to hold off on seeding operations. Tempera tures remained mild, and with snow 
+already falling heavily, it was believed the storm could be self -sufficient in terms of seeding. Snow 
+continued through the night, gradually pushing southward across northern Utah, particularly affecting the 
+Wasatch Front and areas east of I-15. By the early hours of March 18, conditions had shifted. The storm's 
+colder and more unstable phase set in, with 700mb temperatures dropping to -10/-11°C and snow 
+continuing heavily in the wake of the front. Winds calmed in most areas, though gusty conditions persisted 
+near the Raft Rivers. At this point, seeding operations were initiated as strong orographic lifting began in 
+the cooler, more unstable atmosphere. Snowfall rates began to taper off by mid -morning, with snow 
+showers becoming more localized over the terrain east of I-15. Visibility increased to 10 miles, and cloud 
+bases lifted to around 3500 feet agl. The radiometer confirmed the presence of supercooled liquid water 
+(SLW) with values ranging from 0.1-0.5 g/m³, indicating continued seeding potential. However, as the day 
+wore on, snow showers picked up again, fueled by daytime heating and the cold core of the upper -level 
+trough. This resulted in intensified orographic enhancement and intense convective showers. Graupel was 
+reported under some of these showers, signaling significant SLW content, and the radiometer recorded 
+LW values between 0.2-0.8 g/m³. By the evening of March 18, the storm began to wind down as the upper-
+level trough moved eastward, taking the heavier snow showers with it. However, the impact of the storm 
+would be felt for some time, with the potential for lingering effects in the higher elevations. Snow had 
+tapered off by the evening, marking the end of a particularly dynamic and challenging weather event 
+across northern Utah. This storm system produced a quick 0. 7-1.3” of liquid water content across the 
+program.  
+On March 21, a swath of high -based valley rain and mountain snow moved across northern Utah, with 
+the heaviest precipitation focused south of Bountiful. The atmosphere was quite dry at lower levels, as 
+indicated by the 00Z sounding and surface dew point de pressions ranging from 20 -30 degrees. Warm 
+advection at higher altitudes, with a west -to-southwesterly flow and 700mb temperatures near -6/-7°C, 
+allowed for high-based showers to develop. Cloud bases were situated between 4000 and 7500 feet agl. 
+While supercooled liquid water (SLW) was expected to be abundant, the high altitude of this moisture 
+prevented effective targeting for seeding operations, so no seeding was conducted that evening. 
+By the morning of March 22, high-based showers continued as radar indicated the precipitation originated 
+from around 25,000 feet. A brief period of convective showers developed between 0200 and 0500 MDT 
+due to a 110kt jet streak passing overhead, but these  tapered off as the showers became more 
+orographically forced. With an incoming shortwave lowering 700mb temperatures to -8°C, instability 
+increased, creating favorable conditions for orographic showers through the early afternoon. Based on 
+43 
+ 
+this, seeding operations were initiated at select sites, and the radiometer confirmed good SLW values in 
+the lower atmosphere, suggesting effective targeting potential. By 1030 MDT, orographically forced 
+showers were intensifying, especially over the terrain along and east of I-15, with SLW values ranging from 
+0.1-0.8g/m³ between 300 -1000m agl. As the day progressed, a few convective snow squalls were 
+anticipated as instability peaked, driven by cooling aloft combined with daytime heating. By 1600 MDT, 
+showers began to dissipate as drier air from the northwest filtered into the region. While a few isolated 
+showers may have persisted for another hour or two, conditions dried out rapidly after 1700 MDT, 
+prompting the cessation of seeding operations. The storm ended with a brief period of showers before 
+transitioning to dry conditions. Between 0.1 -0.5” of SWE was observed across the program with this 
+shower activity.  
+On the morning of March 29, a shortwave trough was making its way into western Utah, with a cold front 
+located along the Utah/Nevada border. Scattered showers and weak thunderstorms developed along the 
+frontal boundary, progressing slowly eastward. Ahead o f the front, northern Utah experienced mostly 
+clear skies with light winds and 700mb temperatures around -4°C to -5°C. At this point, the focus was on 
+monitoring the storm's progression to determine whether it would become suitable for seeding later in 
+the day. By 1300 MDT, the cold front had moved eastward, reaching far northwest and western Utah. A 
+broken band of weak convective showers accompanied the front, particularly over the Raft Rivers. Further 
+east, cumulus clouds began to develop over the terrain  adjacent to Cache Valley. 700mb temperatures 
+ranged from -5°C in northwest Utah to -4/-5°C further east. Winds remained calm, generally less than 10 
+knots, with directions varying from W-NW in western Utah to S-SW east of I-15. Seeding operations were 
+initiated in the Raft Rivers and at higher elevation sites in Cache Valley, such as Temple Peak. By 1445 
+MDT, widespread convective showers had developed across northern Utah. Winds were W-NW at 10-15 
+knots, and 700mb temperatures remained around -5°C. At thi s point, numerous seeding sites were 
+activated to target the ongoing convective activity. However, by 2100 MDT, the convective showers began 
+to rapidly dissipate as the 700mb temperatures dropped to -7°C to -8°C. With the storm weakening and 
+conditions dry ing out, all seeding operations were concluded, and generators were turned off. 
+Precipitation totals were in the 0.1-0.4” range.  
+On March 31, widespread thunderstorms developed across northern Utah by 1445 MDT, as a 120 -knot 
+jet streak moved overhead, feeding off daytime heating instability. 700mb temperatures were near -4°C 
+to -5°C across far northwest Utah and -3°C to -4°C east of I-15, with southwest winds gusting 35-50 mph. 
+Seeding operations were initiated in the Raft Rivers to target the convective showers. By 1645 MDT, a 
+cold front pushed into northern Utah, bringing heavy rain, snow, thunder, and graupel along the frontal 
+band. Winds shifted to W-NW, and temperatures began to drop. Numerous sites were turned on to seed 
+the front. At 1945 MDT, the cold front had moved south into Utah County, with the northern Wasatch 
+Front now in the post-frontal airmass. Winds were gusting 15-30 mph, and 700mb temperatures dropped 
+to -7°C to -8°C. Precipitation transitioned mostly to snow, with surface temperatures falling into the mid-
+30s. Cloud bases were around 2800 feet AGL, and the radiometer in Logan reported SLW values of 0.3 -
+0.8g/m3, with some reaching up to 1.2g/m3. By 2100 MDT, widespread snow continued across northern 
+Utah, with visibility around 7-8 miles and cloud bases near 1200-1500 feet AGL. 700mb temperatures fell 
+44 
+ 
+further to -8°C to -9°C, and winds dropped to 10 -15 mph. Seeding operations continued. On April 1, by 
+0400 MDT, numerous snow showers were ongoing under a cold and moist N -NW flow pattern, with 
+700mb temperatures near -10°C. The radiometer in Logan reporte d LW values of 0.3 -0.6g/m3, with the 
+highest concentrations between 600-1000m AGL. Generators continued running to seed the showers. By 
+1300 MDT, widespread convective showers had tapered off, but with daytime heating maximized, 
+additional activity was expected to develop later in the afternoon. However, as the boundary layer heated 
+up, cloud bases rose to near 7000 feet AGL, and seeding material would have difficulty reaching the high-
+based showers. Seeding operations were therefore concluded for the day, as drier air moved in and dry 
+conditions were expected by sunset. Between 0.6-0.9” of SWE was observed across the program with this 
+last seeded storm of March. 
+Figure 4.8 shows March 2025 precipitation as a percentage of the historical median values, with nearly all 
+of northern Utah being over 110% of the March median.   
+45 
+ 
+ 
+Figure 4.8     March 2025 precipitation, percent of normal 
+
+46 
+ 
+ 
+April 2025 
+Most of April was dominated by dry weather and above normal temperatures with upper -level ridging 
+situated across the Great Basin region. There were several stormy periods that developed at the beginning 
+of the month, around mid-month and again during the last week of the month but only one storm event 
+provided favorable weather conditions for seeding. 
+On the morning of April 17, a cold front began its march into northern Utah. The sky darkened as 
+widespread showers and isolated thunderstorms blossomed along its leading edge. But the warmth and 
+dryness of the lower atmosphere kept most of the precipitati on suspended aloft—700mb temperatures 
+hovered around –3°C, and rain struggled to reach the ground. Surface winds started shifting to the 
+northwest, gusting up to 40 mph behind the front. It was a waiting game for now; temperatures simply 
+weren’t cold enough for seeding to begin. By late morning (11:00 MDT), conditions had shifted. Colder air 
+pushed in, and 700mb temperatures dropped to –5 to –6°C. Snow began falling in earnest, and cloud 
+bases dipped low —only about 1000 feet above ground level. Radiometer r eadings showed abundant 
+liquid water. It was the signal to act: several seeding generators were turned on as the snow intensified. 
+In the early afternoon, the system transitioned into a more showery phase. Temperatures aloft continued 
+to fall, reaching –8°C, and a subtle low -level circulation appeared over northern Utah. The sun broke 
+through briefly, heating the surface and boosting instability. The decision was made to keep seeding sites 
+running, anticipating more convective showers. But by 14:00 MDT, the  atmosphere began to settle. 
+Subsidence behind the front cleared skies over the Wasatch Front. With limited cloud cover, generators 
+were shut down—temporarily. It wasn’t long before the atmosphere rallied. By 16:00 MDT, cold air aloft 
+and renewed surface h eating sparked a fresh round of convective showers. The 700mb temperature 
+dropped further to –8 to –9°C, and a west-northwest flow prevailed aloft. With new storm cells firing up, 
+more generators were reactivated to target this renewed opportunity. By 23:0 0 MDT, the showers had 
+largely dissipated. With the storm winding down, all seeding operations were paused for the night. April 
+18 dawned with a change in the upper -level pattern. The trough had closed off over southern Utah and 
+northern Arizona, shifting the winds to an easterly component. Early morning temperatures aloft were 
+frigid—down to –11 to –12°C. A deformation axis triggered a new band of showers, and the easterly 
+upslope flow provided an ideal setup for seeding in select areas. A few well -placed sites were brought 
+online to take advantage. By mid -morning (10:30 MDT), however, the storm's grip had weakened. 
+Showers tapered off, clouds thinned, and seeding was concluded for the event. Between 0.6-1.2” of SWE 
+was observed across the program with this last seeded storm of the season 
+Figure 4.8 shows April 2025 precipitation as a percentage of the historical median values, with nearly all 
+of northern Utah observing well below normal precipitation for the month. 
+47 
+ 
+ 
+Figure 4.8     April 2025 precipitation, percent of normal 
+ 
+  
+
+48 
+ 
+5.0 ASSESSMENT OF SEEDING EFFECTS  
+5.1 Historical Target/Control Evaluations 
+Determining the effectiveness of cloud seeding has long been a challenging and important task 
+due to the significant natural variability in precipitation. Historically, one of the most commonly employed 
+evaluation techniques in weather modification has bee n the Target and Control (T/C) method, which 
+compares precipitation or snowpack data from seeded (target) and unseeded (control) areas using 
+historical regression relationships. 
+This approach relies on long -term, unseeded data records from both areas to build a statistical 
+model that estimates what precipitation in the target area should have been without seeding, based on 
+observed control area values. Any excess observed during the seeding period is then attributed —
+cautiously—to cloud seeding. 
+While this method provided valuable insights in the past, especially when correlations between 
+control and target sites were strong (≥0.85), it has become increasingly difficult to implement. The 
+expansion of cloud seeding programs across Utah and surround ing regions has significantly reduced the 
+availability of unaffected (i.e., truly unseeded) control areas. Additionally, the potential for seeding effects 
+to extend 50–100 miles downwind further complicates the identification of reliable control sites. 
+As a result, the T/C method has become less reliable and was officially discontinued for Utah 
+ground-based programs following the 2023 –2024 winter season. Going forward, NAWC and its parent 
+company Rainmaker Technologies will continue to develop alternativ e and more modern evaluation 
+techniques that are more suited to the current landscape of widespread seeding activity. These modern 
+approaches may incorporate a combination of radar, radiometric data, and physically-based modeling to 
+assess the potential impacts of cloud seeding more robustly and in near real-time.  
+Traditionally, sections describing how the historical target/control evaluations were developed 
+and implemented would follow. Due to the space that this takes up in this report and to the fact this 
+method has been discontinued, it has been omitted from thi s year’s report. If there is interest in seeing 
+this information, please refer to the previous seasons reports or contact NAWC.   
+5.2 Historical Evaluation Results for Precipitation and Snowpack 
+The long-term results for 33 seeded seasons in the Eastern Box Elder/Cache County portion of the target 
+indicate 6-13% increases in April 1 snowpack (an average of 1.4 -2.5 inches of additional water) and a 5 -
+6% increase in December through March precipitation (a little under 1.0 inch of additional water).  Long-
+term results of these evaluations are summarized in Table 5-1. These cumulative results likely constitute 
+reasonable estimates of the true seeding effects for this program, although the reasons for a  difference 
+in results between precipitation and snowpack is not really known.   The natural seasonal variability which 
+49 
+ 
+occurs in weather patterns and precipitation between target and control areas is expected to cause much 
+more variation in the results of the single season mathematical target/control evaluation results, than for 
+the actual effects of the seeding from one season to another which should be relatively consistent.  
+Table 5-1     
+Comparison of Results of Linear and Multiple Linear Analyses, for the Combination of all 
+Seeded Seasons.  
+Area Ratio 
+Observed/Predicted 
+Excess Water 
+(inches) 
+ Linear Multiple Linear Linear Multiple Linear 
+Cache/E. Box Elder Dec-
+Mar Precipitation  
+(33 years) 
+1.05 1.06 +0.9 +1.0 
+Cache/E. Box Elder April 
+1 Snowpack  
+(33 years) 
+1.06 1.13 +1.4 +2.5 
+NW Box Elder April 1 
+Snowpack  
+(29 years) 
+1.13 1.09 +1.9 +1.4 
+   
+For the larger (eastern) portion of the program, results in Table 5-1 suggests a long-term average increase 
+of perhaps 7.5% to snowpack/seasonal precipitation.  The 13% increase  for the multiple linear snowpack 
+evaluation is a bit of an outlier among thes e results, so more conservatively a 7% increase to 
+precipitation/snow might be assumed.  For the northwestern portion of the program area in Box Elder 
+County, a long -term average of April 1 snowpack suggests perhaps an increase by as much as 11%. 
+However, the 13% increase in the linear data is likely a large outlier similar to the multiple linear data for 
+the eastern portions. As such, a more conservative 7% increase to April 1 snowpack could also be assumed. 
+5.3 Determining the Impact of Cloud Seeding on Streamflow 
+Following the discontinuation of target/control analysis after the 2023 –2024 season, NAWC began 
+incorporating streamflow data evaluations into the seasonal report as an interim method for visualizing 
+potential impacts of cloud seeding operations. By developing updated regressions between snowpack or 
+precipitation and seasonal streamflow at well -correlated, natural (unregulated) gauge sites, NAWC can 
+estimate potential increases in runoff. These estimates are based on previously calculated seeding-related 
+increases in precipitation and snowpack within the target areas and provide an additional line of evidence 
+while more modern evaluation techniques are under development.  
+5.4 Results - Impact of Cloud Seeding on Runoff 
+For the streamflow analyses, gauges on the Logan River near Logan and Blacksmith Fork near Hyrum were 
+correlated to SNOTEL data in these respective watersheds.  For streamflow, a seasonal period of March – 
+July has been used in order to capture the bulk of  the seasonal runoff without additional input from 
+50 
+ 
+precipitation outside the winter season.  This was found to be well correlated to April 1 snow and seasonal 
+(November – April) precipitation. The streamflow versus snowpack and precipitation relationships are 
+essentially independent of seeding effects, so both seeded and non-seeded years can be included in these 
+regression.    
+For the Logan River gauge, correlation to the April 1 snowpack to Tony Grove (the best correlated SNOTEL 
+site) produced an R value of 0.85 (R 2 = 0.73).  Results suggest that a 7% increase in seasonal snowpack 
+(due to seeding) would produce a roughly 9% increase in runoff in the Logan River for an average season.  
+This higher percentage increase to runoff (compared to the seeding increase to snow pack) may seem 
+counterintuitive, but is actually an expected result of these analyses when dealing with percentages.  This 
+is due to the negative offset term in the equations, a consequence of the fact that there is some 
+inefficiency in converting snowpack to streamflow and a certain amount of water will evaporate or be lost 
+to other processes such as uptake by the so il and vegetation. Thus, increasing the total snowpack or 
+seasonal precipitation by a given percentage will increase the actual runoff by a higher percentage, given 
+that the runoff represents the excess after these other processes have occurred.  Given an average base 
+flow in the Logan River of over 108,000 acre -feet (AF) during the seasonal period of March – July, this 
+estimated seeding increase would amount to over 10,400 AF in an average season.  A similar result was 
+obtained for the Logan River gauge when correlated to seasonal precipitation (again from the Tony Grove 
+SNOTEL during the March-July period), suggesting about a 9% increase in streamflow or roughly a 10,100 
+AF increase.   
+For the Blacksmith Fork near Hyrum, an 7% increase in April 1 snowpack (at the Bug Lake SNOTEL, the 
+best correlated for this gauge) results in roughly a 11% increase in streamflow.  Applied to an average 
+season, with a base seasonal flow of roughly 50,500 AF, this would amount to an additional 5600 AF at 
+this gauge site.  A similar analysis for Bug Lake precipitation versus streamflow in Blacksmith Fork 
+suggested a 7% increase in November – April precipitation yielding over a 13% increase in March – July 
+streamflow, amounting to over 6,600 additional AF of runoff.   
+A streamgage in far northwestern Utah (Dunn Creek near Park Valley) was correlated to April 1 snowpack 
+data from the George Creek snowcourse, within the Northwest Box Elder portion of the seeding target 
+area.  The results suggest that an 7% increase in sno wpack there would yield nearly a 12% increase in 
+runoff during an average year.  Given the average seasonal runoff of close to 3,000 AF at that gauge, this 
+would amount to perhaps 375 additional AF due to seeding.   
+These streamflow data represent only a fraction of the runoff from the seeding target areas, of course. 
+The suggested increases in seasonal (March – July) streamflow of roughly 9 -12% could be scaled to the 
+total runoff for the seeding target areas as a who le.  In any case, a higher percentage increase to 
+streamflow (than the seasonal percentage increase to precipitation/snowpack) is an expected result, as 
+seen in these evaluation results that resulted in an estimated 9 -12% streamflow increase from a 
+(conservative) 7% long-term average seasonal precipitation and snowpack increase due to seeding.  
+ 
+51 
+ 
+ 
+52 
+ 
+APPENDIX A:  SUSPENSION CRITERIA 
+Certain situations require temporary or longer -term suspension of cloud seeding activities, with 
+reference to well -considered criteria for consideration of possible suspensions, to minimize either an 
+actual or apparent contribution of seeding to a potentia lly hazardous situation. The ability to forecast 
+(anticipate) and judiciously avoid hazardous conditions is very important in limiting any potential liability 
+associated with weather modification and to maintain a positive public image.  
+ There are three primary hazardous situations around which suspension criteria have been 
+developed. These are:  
+ 1. Excess snowpack accumulation  
+ 2. Rain-induced winter flooding  
+ 3. Severe weather  
+Excess Snowpack Accumulation  
+ Snowpack begins to accumulate in the mountainous areas of Utah in November and continues 
+through April.  The heaviest average accumulations normally occur from January through  March.  
+Excessive snowpack water content becomes a potential hazard during the resultant snowmelt.  The 
+Natural Resources Conservation Service (NRCS) maintains a network of high elevation snowpack 
+measurement sites in the State of Utah, known as the SNOTEL  network.  SNOTEL automated 
+observations are now readily available, updated as often as hourly.  The following set of criteria, 
+based upon observations from these SNOTEL site observations, has been developed as a guide for 
+potential suspension of operations.
+53 
+ 
+  
+  
+ Snowpack-related suspension considerations will be assessed on a geographical division or 
+sub-division basis. The NRCS has divided the State of Utah into 13 such divisions as follows: Bear 
+River, Weber-Ogden Rivers, Provo River-Utah Lake-Jordan River, Tooele Valley-Vernon Creek, Green 
+River, Duchesne River, Price-San Rafael, Dirty Devil, South Eastern Utah, Sevier River, Beaver River, 
+Escalante River, and Virgin River.  Since SNOTEL observations are available on a daily basis, 
+suspensions (and cancellation of suspensions) can be made on a daily basis using linear interpolation 
+of the first of month criteria.   There are a number of SNOTEL stations in the various basins of central 
+and southern Utah on which these criteria are based.  These include Castle Vall ey, Harris Flat, and 
+Farnsworth Lake in the Sevier Basin; Midway Valley, Kolob, Harris Flat, Webster Flat, and Long Flat 
+in southwestern Utah; and Rocky Basin Settlement and Mining Fork in eastern Tooele County.   
+ 
+ Streamflow forecasts, reservoir storage levels, soil moisture content and amounts of 
+precipitation in prior seasons are other factors which need to be considered when the potential for 
+suspending seeding operations due to excess snowpack water content exists.  
+
+54 
+ 
+Rain-induced Winter Floods  
+ The potential for wintertime flooding from rainfall on low elevation snowpack is fairly high 
+in some (especially the more southern) target areas during the late winter/early spring period.  Every 
+precaution must be taken to insure accurate forecasting and timely suspension of operations during 
+these potential flood-producing situations.  The objective of suspension under these conditions is to 
+eliminate both the real and/or perceived impact of weather modification when any increase in 
+precipitation has the potential of creating a flood hazard. 
+ 
+Severe Weather  
+ During periods of hazardous weather associated with both winter orographic and convective 
+precipitation systems it is sometimes necessary or advisable for the National Weather Service (NWS) 
+to issue special weather bulletins advising the public of the wea ther phenomena and the attendant 
+hazards.  Each phenomenon is described in terms of criteria used by the NWS in issuing special 
+weather bulletins.  Those which may be relevant in the conduct of winter cloud seeding programs 
+include the following: 
+▪ Winter Storm Warning - This is issued by the NWS when it expects heavy snow 
+warning criteria to be met, along with strong winds/wind chill or freezing 
+precipitation.  
+ 
+▪ Flash Flood Warning - This is issued by the NWS when flash flooding is imminent 
+or in progress.  In the Intermountain West, these warnings are generally issued 
+relative to, but are not limited to, fall or spring convective systems. 
+ 
+ Seeding operations may be suspended whenever the NWS issues a weather warning for or 
+adjacent to any target area.  Since the objective of the cloud seeding program is to increase winter 
+snowfall in the mountainous areas of the state, operations will typic ally not be suspended when 
+Winter Storm Warnings are issued, unless there are special considerations (e.g., a heavy storm that 
+impacts Christmas Eve travel).   
+ 
+ Flash Flood Warnings are usually issued when intense convective activity causing heavy 
+rainfall is expected or is occurring.  Although the probability of this situation occurring during our 
+core operational seeding periods is low, the potential does exist, especially over southern sections of 
+the state during late March and early April, which can include the project spring extension period.  
+The type of storm that may cause problems is one that has the potential of producing 1-2 inches (or 
+greater) of rain fall in approximately a 24 -hour period, combined with high freezing levels (e.g., > 
+8,000 feet MSL).  Seeding operations will be suspended for the duration of the warning period in the 
+affected areas. 
+ 
+ NAWC’s project meteorologists have the authority to temporarily suspend localized seeding 
+operations due to development of hazardous severe weather conditions even if the NWS has not 
+issued a warning.  This would be a rare event, but it is important for the operator to have this latitude. 
+55 
+ 
+ 
+ 
+ 
+ 
+  
+56 
+ 
+ 
+APPENDIX C:  GLOSSARY OF RELEVANT METEOROLOGICAL TERMS 
+Advection:  Movement of an air mass.   Cold advection describes a colder air mass moving into the area, 
+and warm advection is used to describe an incoming warmer air mass.  Dry and moist advection can be 
+used similarly. 
+ 
+Air Mass:   A term used to describe a region of the atmosphere with certain defining characteristics.  For 
+example, a cold or warm air mass, or a wet or dry air mass.  It is a fairly subjective term but is usually 
+used in reference to large (synoptic scale) regions of the atmosphere, both near the surface and/or at 
+mid and upper levels of the atmosphere. 
+ 
+Cold-core low:  A typical mid-latitude type of low-pressure system, where the core of the system is 
+colder than its surroundings.  This type of system is also defined by the cyclonic circulation being 
+strongest in the upper levels of the atmosphere.  The opposite is a warm-core low, which typically 
+occurs in the tropics. 
+ 
+Cold Pool:   An air mass that is cold relative to its surroundings, and may be confined to a particular 
+basin 
+ 
+Condensation:  Phase change of water vapor into liquid form.   This can occur on the surface of objects 
+(such as dew on the grass) or in mid-air (leading to the formation of clouds).  Clouds are technically 
+composed of water in liquid form, not water vapor.  
+ 
+Confluent:  Wind vectors coming closer together in a two-dimensional frame of reference (opposite of 
+diffluent).  The term convergence is also used similarly. 
+ 
+Convective (or convection):  Pertains to the development of precipitation areas due to the rising of 
+warmer, moist air through the surrounding air mass.  The warmth and moisture contained in a given air 
+mass makes it lighter than colder, dryer air.  Convection often leads to small-scale, locally heavy showers 
+or thundershowers.   The opposite precipitation type is known as stratiform precipitation. 
+ 
+Convergence:  Refers to the converging of wind vectors at a given level of the atmosphere.  Low-level 
+convergence (along with upper-level divergence), for instance, is associated with lifting of the air mass 
+which usually leads to development of clouds and precipitation.  Low-level divergence (and upper-level 
+convergence) is associated with atmospheric subsidence, which leads to drying and warming. 
+ 
+Deposition:  A phase change where water vapor turns directly to solid form (ice).  The opposite process 
+is called sublimation. 
+ 
+57 
+ 
+Dew point:  The temperature at which condensation occurs (or would occur) with a given amount of 
+moisture in the air. 
+ 
+Diffluent:  Wind vectors spreading further apart in a two-dimensional frame of reference; opposite of 
+confluent 
+ 
+Entrain:  Usually used in reference to the process of a given air mass being ingested into a storm system 
+ 
+Evaporation:  Phase change of liquid water into water vapor.  Water vapor is usually invisible to the eye. 
+ 
+El Nino:  A reference to a particular phase of oceanic and atmospheric temperature and circulation 
+patterns in the tropical Pacific, where the prevailing easterly trade winds weaken or dissipate.  Often has 
+an effect on mid-latitude patterns as well, such as increased precipitation in southern portions of the 
+U.S. and decreased precipitation further north.  The opposite phase is called La Nina. 
+ 
+Front (or frontal zone):  Reference to a temperature boundary with either incoming colder air (cold 
+front) or incoming warmer air (warm front); can sometimes be a reference to a stationary temperature 
+boundary line (stationary front) or a more complex type known as an occluded front (where the 
+temperature change across a boundary can vary in type at different elevations).     
+ 
+Glaciogenic:  Ice-forming (aiding the process of nucleation); usually used in reference to cloud seeding 
+nuclei 
+ 
+GMT (or UTC, or Z) time:  Greenwich Mean Time, universal time zone corresponding to the time at 
+Greenwich, England.   Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 
+7 hours. 
+ 
+Graupel:  A precipitation type that can be described as “soft hail”, that develops due to riming 
+(nucleation around a central core).  It is composed of opaque (white) ice, not clear hard ice such as that 
+contained in hailstones.  It usually indicated the presence of convective clouds and can be associated 
+with electrical charge separation and occasionally lightning activity. 
+ 
+High Pressure (or Ridge): Region of the atmosphere usually accompanied by dry and stable weather.  
+Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic 
+(clockwise) circulation pattern. 
+ 
+Inversion:   Refers to a layer of the atmosphere in which the temperature increase with elevation 
+ 
+Jet Stream or Upper-Level Jet (sometimes referred to more generally as the storm track):  A region of 
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track 
+58 
+ 
+in the mid-latitudes.  This is the area that also typically corresponds to the greatest amount of mid-
+latitude synoptic-scale storm development. 
+ 
+La Nina:  The opposite phase of that known as El Nino in the tropical Pacific.  During La Nina the easterly 
+tropical trade winds strengthen and can lead in turn to a strong mid-latitude storm track, which often 
+brings wetter weather to northern portions of the U.S.   
+ 
+Longwave (or longwave pattern):   The longer wavelengths, typically on the order of 1,000 – 2,000+ 
+miles of the typical ridge/trough pattern around the northern (or southern) Hemisphere, typically most 
+pronounced in the mid-latitudes. 
+ 
+Low-Level Jet:  A zone of maximum wind speed in the lower atmosphere.  Can be caused by 
+geographical features or various weather patterns, and can influence storm behavior and dispersion of 
+cloud seeding materials 
+ 
+Low-pressure (or trough):    Region of the atmosphere usually associated with stormy weather.  
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic (counter-
+clockwise) circulation pattern in the Northern Hemisphere. 
+ 
+Mesoscale:  Sub - synoptic scale, about 100 miles or less; this is the size scale of more localized weather 
+features (such as thunderstorms or mountain-induced weather processes). 
+ 
+Microphysics:  Used in reference to composition and particle types in a cloud 
+ 
+MSL (Mean Sea Level):   Elevation height reference in comparison to sea level 
+ 
+Negative (ly) tilted trough:  A low-pressure trough where a portion is undercut, such that a frontal zone 
+can be in a northwest to southeast orientation. 
+ 
+Nucleation:  The process of supercooled water droplets in a cloud turning to ice.  This is the process that 
+is aided by cloud seeding.  For purposes of cloud seeding, there are three possible types of cloud 
+composition:  Liquid (temperature above the freezing point), supercooled (below freezing but still in 
+liquid form), and ice crystals.   
+ 
+Nuclei:  Small particles that aid water droplet or ice particle formation in a cloud  
+ 
+Orographic:  Terrain-induced weather processes, such as cloud or precipitation development on the 
+upwind side of a mountain range.  Orographic lift refers to the lifting of an air mass as it encounters a 
+mountain range. 
+ 
+Pressure Heights:  
+59 
+ 
+(700 millibars, or mb):  Corresponds to approximately 10,000 feet above sea level (MSL); 850 mb 
+corresponds to about 5,000 feet MSL; and 500 mb corresponds to about 18,000 feet MSL.  These are 
+standard height levels that are occasionally referenced, with the 700-mb level most important regarding 
+cloud-seeding potential in most of the western U.S. 
+ 
+Positive (ly) tilted trough:  A normal U-shaped trough configuration, where an incoming cold front 
+would generally be in a northeast– southwest orientation. 
+ 
+Reflectivity:  The density of returned signal from a radar beam, which is typically bounced back due to 
+interaction with precipitation particles (either frozen or liquid) in the atmosphere.  The reflectivity 
+depends on the size, number, and type of particles that the radar beam encounters 
+ 
+Ridge (or High-Pressure System): Region of the atmosphere usually accompanied by dry and stable 
+weather.  Corresponds to a northward bulge of the jet stream on a weather map, and to an anti-cyclonic 
+(clockwise) circulation pattern. 
+ 
+Ridge axis:  The longitude band corresponding to the high point of a ridge 
+ 
+Rime (or rime ice):  Ice buildup on an object (often on an existing precipitation particle) due to the 
+freezing of supercooled water droplets. 
+ 
+Shortwave (or shortwave pattern):  Smaller-scale wave features of the weather pattern typically seen at 
+mid-latitudes, usually on the order of a few to several hundred miles; these often correspond to 
+individual frontal systems 
+ 
+Silver iodide:  A compound commonly used in cloud seeding because of the similarity of its molecular 
+structure to that of an ice crystal.  This structure helps in the process of nucleation, where supercooled 
+cloud water changes to ice crystal form. 
+ 
+Storm Track (sometimes reference as the Jet Stream):   A zone of maximum storm propagation and 
+development, usually concentrated in the mid-latitudes. 
+ 
+Stratiform:  Usually used in reference to precipitation, this implies a large area of precipitation that has 
+a fairly uniform intensity except where influenced by terrain, etc.   It is the result of larger-scale 
+(synoptic scale) weather processes, as opposed to convective processes. 
+ 
+Sublimation:  The phase change in which water in solid form (ice) turns directly into water vapor.  The 
+opposite process is deposition. 
+ 
+Subsidence:  The process of a given air mass moving downward in elevation, such as often occurs on the 
+downwind side of a mountain range 
+60 
+ 
+ 
+Supercooled:  Liquid water (such as tiny cloud droplets) occurring at temperatures below the freezing 
+point (32 F or 0 C). 
+ 
+Synoptic Scale:  A scale of hundreds to perhaps 1,000+ miles, the size scale at which high and low-
+pressure systems develop 
+ 
+Trough (or low-pressure system):   Region of the atmosphere usually associated with stormy weather.  
+Corresponds to a southward dip to the jet stream on a weather map as well as a cyclonic (counter-
+clockwise) circulation pattern in the Northern Hemisphere. 
+ 
+Trough axis:  The longitude band corresponding to the low point of a trough 
+ 
+Upper-Level Jet or Jet Stream (sometimes referred to more generally as the storm track):  A region of 
+maximum wind speed, usually in the upper atmosphere that usually coincides with the main storm track 
+in the mid-latitudes.  This is the area that also typically corresponds to the greatest amount of mid-
+latitude synoptic-scale storm development. 
+ 
+UTC (or GMT, or Z) time:  Greenwich Mean Time, universal time zone corresponding to the time at 
+Greenwich, England.   Pacific Standard Time (PST) = GMT – 8 hours; Pacific Daylight Time (PDT) = GMT – 
+7 hours. 
+ 
+Vector:  Term used to represent wind velocity (speed + direction) at a given point 
+ 
+Velocity:  Describes speed of an object, often used in the description of wind intensities 
+ 
+Vertical Wind Profiler:  Ground-based system that measures wind velocity at various levels above the 
+site 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
